@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="24">
+  <LawNum>平成二十四年厚生労働省・経済産業省・環境省令第二号</LawNum>
+  <LawBody>
+    <LawTitle>ＰＦＯＳ又はその塩の製造設備に関する技術上の基準を定める省令</LawTitle>
+    <EnactStatement>化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第二十条第二号の規定に基づき、ＰＦＯＳ又はその塩の製造設備に関する技術上の基準を定める省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>ＰＦＯＳ又はその塩（以下「ＰＦＯＳ等」という。）の製造設備に関する化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第二十条第二号の厚生労働省令、経済産業省令、環境省令で定める技術上の基準は、次の各号に掲げるものとする。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence>製造設備は、常用の圧力又は常用の温度において発生する最大の応力に対し、形状、寸法又は常用の圧力若しくは常用の温度における材料の許容応力に応じ、十分な強度を有するものであること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence>反応槽その他稼働するとＰＦＯＳ等が通る箇所は、腐食しにくい材料を用いるか、又は有効な腐食防止のための措置を講じており、かつ、ＰＦＯＳ等が漏れるおそれがないものであること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Sentence>蒸留装置、凝縮器その他稼働すると気化したＰＦＯＳ等が通る箇所は、気密性を有するものであること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="4">
+          <ItemTitle>四</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1">ＰＦＯＳ等の移替えを行う装置その他稼働するとＰＦＯＳ等が飛散又は流出する可能性のある箇所には、受皿を設ける措置、局所排気装置を設置する措置その他ＰＦＯＳ等の飛散又は流出を防止するための措置を講ずること。</Sentence>
+            <Sentence Num="2">また、局所排気装置から排出される排気中に含まれるＰＦＯＳ等を除去するため、集じん装置、スクラバーその他これらと同等の機能を有する装置を設置すること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="5">
+          <ItemTitle>五</ItemTitle>
+          <ItemSentence>
+            <Sentence Function="main" Num="1">製造設備は、ＰＦＯＳ等のみを製造する設備であること。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、洗浄、掃除等により設備中のＰＦＯＳ等を除去することができる構造となっている場合は、この限りではない。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="6">
+          <ItemTitle>六</ItemTitle>
+          <ItemSentence>
+            <Sentence>製造設備の見やすい箇所に、当該製造設備がＰＦＯＳ等を製造するものである旨を表示すること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="7">
+          <ItemTitle>七</ItemTitle>
+          <ItemSentence>
+            <Sentence>製造設備は、施設内部を負圧状態に維持し得る構造、廃水を回収する構造その他ＰＦＯＳ等が施設の外へ排出されることを防止するための構造を有した施設内に設置すること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="8">
+          <ItemTitle>八</ItemTitle>
+          <ItemSentence>
+            <Sentence>製造設備は、ＰＦＯＳ等の地下浸透を防止するため、コンクリートとする措置又は合成樹脂等により被覆する措置を講じた床面に設置すること。</Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

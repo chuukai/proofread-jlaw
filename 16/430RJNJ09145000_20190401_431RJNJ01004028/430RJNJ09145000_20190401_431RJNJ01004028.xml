@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="" AmendmentNum="" Era="Heisei" Lang="ja" LawType="Rule" Num="" Year="30">
+  <LawNum>平成三十年人事院規則九―一四五</LawNum>
+  <LawBody>
+    <LawTitle>人事院規則九―一四五（平成三十年改正法附則第二条の規定による最高の号俸を超える俸給月額を受ける特定任期付職員の俸給月額の切替え）</LawTitle>
+    <EnactStatement>人事院は、一般職の職員の給与に関する法律等の一部を改正する法律（平成三十年法律第八十二号）に基づき、同法附則第二条の規定による最高の号俸を超える俸給月額を受ける特定任期付職員の俸給月額の切替えに関し次の人事院規則を制定する。</EnactStatement>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">平成三十年四月一日（以下「切替日」という。）の前日において任期付職員法第七条第三項の規定による俸給月額を受けていた職員の切替日における俸給月額は、その者の切替日の前日における俸給月額に対応する次の表の新俸給月額欄に定める俸給月額とする。</Sentence>
+        </ParagraphSentence>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle">
+                <Sentence WritingMode="vertical">切替日の前日における俸給月額</Sentence>
+              </TableColumn>
+              <TableColumn Align="center" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle">
+                <Sentence WritingMode="vertical">新俸給月額</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle">
+                <Sentence WritingMode="vertical">円</Sentence>
+              </TableColumn>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle">
+                <Sentence WritingMode="vertical">円</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">９４９，０００</Sentence>
+              </TableColumn>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">９５０，０００</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">１，０６９，０００</Sentence>
+              </TableColumn>
+              <TableColumn Align="right" BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">１，０７０，０００</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">１，１７５，０００</Sentence>
+              </TableColumn>
+              <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" Valign="middle">
+                <Sentence WritingMode="vertical">１，１７５，０００</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
