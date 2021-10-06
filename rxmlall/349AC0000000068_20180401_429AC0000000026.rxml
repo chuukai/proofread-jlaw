@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="68" Year="49">
+  <LawNum>昭和四十九年法律第六十八号</LawNum>
+  <LawBody>
+    <LawTitle>生産緑地法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、生産緑地地区に関する都市計画に関し必要な事項を定めることにより、農林漁業との<span>調整{'物件': 1}</span>を図りつつ、<span>良好{'物件': 1}</span>な<span>都市環境{'形成': 1}</span>の<span>形成{'物件': 1}</span>に資することを<span>目的{'物件': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>において次の各号に掲げる<span>用語{'物件': 1}</span>の<span>意義{'物件': 1}</span>は、<span>それぞれ{'物件': 1}</span><span>当該{'構成': 1}</span>各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>農地{'物件': 1}</span>等</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">現に農業の用に供されている農地若しくは<span>採草放牧地{'物件': 1}</span>、現に林業の用に供されている森林又は現に漁業の用に供されている<span>池沼{'使用': 1}</span>（これらに隣接し、かつ、これらと一体となつて農林<span>漁業{'浸水': 1}</span>の<span>用{'物件': 1}</span>に<span>供{'存': 1}</span>されている<span>農業{'物件': 1}</span>用<span>道路{'形成': 1}</span>その他の土地を含む。）を<span>いう{'示す': 1}</span>。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>公共施設{'物件': 1}</span>等</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公園{'物件': 1}</span>、<span>緑地{'物件': 1}</span>その他の政令で定める公共の用に供する施設及び学校、病院その他の<span>公益性{'物件': 1}</span>が高いと認められる施設で政令で定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">生産緑地</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">第三条第一項の規定により定められた生産緑地地区の区域内の土地又は森林をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">地方公共団体等</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">地方公共団体及び土地開発公社その他の政令で定める法人をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2_2">
+        <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+        <ArticleTitle>第二条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国及び地方公共団体は、公園、<span>緑地{'形成': 1}</span>その他の公共空地の<span>整備{'物件': 1}</span>の現況及び<span>将来{'物件': 1}</span>の<span>見通し{'物件': 1}</span>を勘案して、<span>都市{'物件': 1}</span>における<span>農地{'形成': 1}</span>等の<span>適正{'物件': 1}</span>な<span>保全{'部分': 1}</span>を図ることにより良好な<span>都市環境{'形成': 1}</span>の<span>形成{'物件': 1}</span>に資するよう<span>努め{'示す': 1}</span>なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（生産緑地地区に関する都市計画）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市街化区域（<span>都市計画法{'存': 1}</span>（昭和四十三年法律第百号）第七条第一項の規定による市街化区域をいう。）内にある農地等で、次に<span>掲げる{'示す': 1}</span>条件に該当する一団のものの区域については、都市計画に生産緑地地区を定めることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">公害又は災害の防止、農林漁業と<span>調和{'物件': 1}</span>した都市環境の<span>保全{'物件': 1}</span>等<span>良好{'構成': 1}</span>な生活<span>環境{'物件': 1}</span>の<span>確保{'物件': 1}</span>に<span>相当{'物件': 1}</span>の<span>効用{'物件': 1}</span>があり、かつ、<span>公共施設{'存': 1}</span>等の<span>敷地{'物件': 1}</span>の用に供する土地として<span>適し{'示す': 1}</span>ているものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">五百平方メートル以上の規模の区域であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">用排水その他の状況を<span>勘案{'物件': 1}</span>して農林<span>漁業{'物件': 1}</span>の<span>継続{'物件': 1}</span>が<span>可能{'物件': 1}</span>な<span>条件{'概要': 1}</span>を<span>備え{'示す': 1}</span>ていると認められるものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村{'存': 1}</span>は、公園、<span>緑地{'物件': 1}</span>その他の公共空地の<span>整備{'物件': 1}</span>の状況及び<span>土地利用{'物件': 1}</span>の<span>状況{'使用': 1}</span>を<span>勘案{'物件': 1}</span>して<span>必要{'物件': 1}</span>があると認めるときは、前項第二号の規定にかかわらず、政令で定める<span>基準{'存': 1}</span>に従い、<span>条例{'存': 1}</span>で、<span>区域{'物件': 1}</span>の規模に関する条件を別に定めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地地区に関する都市計画の案については、大都市地域における住宅及び住宅地の供給の促進に関する特別措置法（昭和五十年法律第六十七号）第百六条第三項又は農住組合法（昭和五十五年法律第八十六号）第八十八条第二項の規定による要請があつた土地の区域に係るものを除き、当該<span>生産緑地地区{'物件': 1}</span>内における<span>農地{'存': 1}</span>等<span>利害関係{'物件': 1}</span>人の同意を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の「<span>農地{'物件': 1}</span>等利害関係人」とは、農地等（<span>土地区画整理法{'文化財保護法': 1}</span>（昭和二十九年<span>法律{'物件': 1}</span>第百十九号）第九十八条第一項（<span>大都市地域における住宅及び住宅地の供給の促進に関する特別措置法{'物件': 1}</span>第八十三条において<span>準用{'経過': 1}</span>する<span>場合{'存': 1}</span>を含む。）の<span>規定{'物件': 1}</span>により仮<span>換地{'形成': 1}</span>として<span>指定{'物件': 1}</span>された<span>農地{'公告': 1}</span>等に<span>あつ{'示す': 1}</span>ては、当該農地等に<span>対応{'存': 1}</span>する従前の土地。以下この項において同じ。）について所有権、<span>対抗要件{'使用': 1}</span>を備えた地上権若しくは賃借権又は登記した永小作権、先取特権、質権若しくは抵当権を有する者及びこれらの権利に関する仮登記若しくは差押えの登記又は農地等に関する買戻しの特約の登記の登記名義人をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>生産緑地地区{'提起': 1}</span>に関する都市計画を定めるに当たつては、当該生産緑地地区に係る農地等及びその周辺の地域における幹線街路、下水道等の主要な都市施設の整備に支障を及ぼさないようにし、かつ、当該都市計画区域内における土地利用の動向、人口及び産業の将来の見通し等を勘案して、合理的な土地利用に支障を及ぼさないようにしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地地区に関する都市計画は、都市緑地法（昭和四十八年法律第七十二号）第四条第一項に規定する基本計画（同条第二項第五号に掲げる事項が<span>定め{'示す': 1}</span>られているものに限る。）が定められている<span>場合{'物件': 1}</span>においては、<span>当該{'容易': 1}</span>基本計画に<span>即し{'つき': 1}</span>て定めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（標識の設置等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村は、生産緑地地区に関する都市計画が定められたときは、その地区内における標識の設置その他の適切な方法により、その地区が生産緑地地区である旨を明示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">当該生産緑地の所有者又は占有者は、正当な理由がない限り、前項の<span>標識{'物件': 1}</span>の<span>設置{'物件': 1}</span>を拒み、又は<span>妨げ{'つき': 1}</span>てはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>何人{'存': 1}</span>も、第一項の<span>規定{'物件': 1}</span>により設けられた<span>標識{'物件': 1}</span>を<span>設置{'物件': 1}</span>者の<span>承諾{'物件': 1}</span>を<span>得{'設ける': 1}</span>ないで<span>移転{'占有者': 1}</span>し、若しくは<span>除{'した': 1}</span><span>却{'物件': 1}</span>し、又は<span>汚損{'部分': 1}</span>し、若しくは損壊してはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村は、第一項の規定による行為（<span>生産緑地地区{'物件': 1}</span>内における標識の設置に係るものに限る。）により損失を受けた者がある場合においては、その損失を<span>受け{'命じよ': 1}</span>た者に対して、通常<span>生ず{'つき': 1}</span>べき損失を<span>補償{'勧告': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の<span>規定{'台帳': 1}</span>による<span>損失{'物件': 1}</span>の補償については、市町村長と<span>損失{'理由': 1}</span>を受けた者が協議しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定による協議が成立しない場合においては、<span>市町村長{'都道府県知事': 1}</span>又は<span>損失{'勧告': 1}</span>を受けた者は、政令で定めるところにより、収用委員会に土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（生産緑地の管理）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地について使用又は収益をする権利を有する者は、当該<span>生産緑地{'措置': 1}</span>を農地等として管理しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地について使用又は収益をする権利を有する者は、市町村長に対し、当該生産緑地を農地等として管理するため必要な助言、土地の交換のあつせんその他の援助を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（生産緑地地区内における行為の制限）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">生産緑地地区内においては、次に掲げる行為は、市町村長の許可を受けなければ、してはならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公共施設等の<span>設置{'物件': 1}</span>若しくは管理に係る行為、当該<span>生産緑地地区{'措置': 1}</span>に関する都市計画が定められた際既に着手していた行為又は<span>非常災害{'物件': 1}</span>のため<span>必要{'物件': 1}</span>な<span>応急{'物件': 1}</span>措置として行う<span>行為{'旨': 1}</span>については、この限りでない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">建築物その他の<span>工作物{'概要': 1}</span>の<span>新築{'存': 1}</span>、<span>改築{'物件': 1}</span>又は<span>増築{'盛土': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>宅地{'物件': 1}</span>の<span>造成{'使用': 1}</span>、<span>土石{'物件': 1}</span>の<span>採取{'物件': 1}</span>その他の<span>土地{'使用': 1}</span>の<span>形質{'使用': 1}</span>の<span>変更{'物件': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">水面の<span>埋立{'物件': 1}</span>て又は<span>干拓{'物件': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'物件': 1}</span>は、前項各号に<span>掲げる{'示す': 1}</span>行為のうち、次に掲げる<span>施設{'物件': 1}</span>の<span>設置{'物件': 1}</span>又は<span>管理{'物件': 1}</span>に係る行為で良好な<span>生活{'物件': 1}</span><span>環境{'物件': 1}</span>の<span>確保{'物件': 1}</span>を図る上で支障がないと認めるものに限り、同項の許可をすることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次に掲げる施設で、当該生産緑地において農林漁業を営むために必要となるもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">農産物、林産物又は水産物（以下この項において「農産物等」という。）の<span>生産{'物件': 1}</span>又は集荷の用に供する施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">農林漁業の生産資材の貯蔵又は保管の用に供する施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>農産物{'事由': 1}</span>等の処理又は貯蔵に必要な共同利用施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">農林漁業に従事する者の休憩施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次に掲げる施設で、当該生産緑地の保全に著しい支障を及ぼすおそれがなく、かつ、当該生産緑地における農林漁業の安定的な継続に資するものとして国土交通省令で定める基準に適合するもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該生産緑地地区及びその周辺の地域内において生産された<span>農産物{'物件': 1}</span>等を主たる原材料として使用する製造又は加工の用に供する<span>施設{'物件': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">イの農産物等又はこれを主たる原材料として製造され、若しくは加工された物品の販売の用に供する施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">イの農産物等を主たる材料とする料理の提供の用に供する施設</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前二号に<span>掲げる{'示す': 1}</span>ものの<span>ほか{'物件': 1}</span>、政令で定める施設</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'事由': 1}</span>は、第一項の許可の申請があつた場合において、当該生産緑地の保全のため必要があると認めるときは、許可に期限その他必要な条件を付けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地地区内において公共施設等の設置又は管理に係る行為で第一項各号に掲げるものをしようとする者は、あらかじめ、市町村長にその旨を通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地地区に関する都市計画が定められた際当該生産緑地地区内において既に第一項各号に掲げる行為に着手している者は、その都市計画が定められた日から起算して三十日以内に、市町村長にその旨を届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地地区内において非常災害のため必要な応急措置として第一項各号に掲げる<span>行為{'物件': 1}</span>をした者は、その行為をした日から起算して十四日以内に、市町村長にその旨を届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7" OldStyle="false">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'した': 1}</span>は、第四項の規定による<span>通知{'物件': 1}</span>又は第五項若しくは<span>前項{'した': 1}</span>の規定による届出があつた場合において、当該生産緑地の保全のため必要があると認めるときは、通知又は<span>届出{'物件': 1}</span>をした者に対して、<span>必要{'した': 1}</span>な<span>助言{'勧告': 1}</span>又は<span>勧告{'した': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="8" OldStyle="false">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>国{'存': 1}</span>の機関又は地方公共団体が行う第二項各号に掲げる<span>施設{'公募': 1}</span>の設置又は管理に係る第一項各号に掲げる行為については、同項の許可を受けることを要<span>しない{'該当': 1}</span>。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'概要': 1}</span>において、当該国の<span>機関{'物件': 1}</span>又は<span>地方公共団体{'該当': 1}</span>は、その<span>行為{'概要': 1}</span>をしようとするときは、あらかじめ、市町村長に<span>協議{'物件': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="9" OldStyle="false">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">通常の管理<span>行為{'物件': 1}</span>、軽易な行為その他の行為で政令で定めるものについては、第一項から第七項まで及び前項後段の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="10" OldStyle="false">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">都市計画法第八条第一項第一号の田園住居地域内の<span>生産緑地地区{'浸水': 1}</span>の区域（現に農業の用に供されている<span>農地{'使用': 1}</span>の<span>区域{'物件': 1}</span>に限る。）内において行う第二項各号に掲げる<span>施設{'該当': 1}</span>の設置又は<span>管理{'物件': 1}</span>に係る行為について第一項の<span>許可{'場合': 1}</span>があつたときは、当該<span>行為{'金額': 1}</span>のうち同法第五十二条第一項の許可を要する行為に該当するものについて、同<span>項{'存': 1}</span>の許可があつたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（原状回復命令等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'部分': 1}</span>は、前条第一項の規定に違反した者又は同<span>条{'した': 1}</span>第三項の<span>規定{'違反': 1}</span>により<span>許可{'違反': 1}</span>に<span>付け{'付さ': 1}</span>られた条件に<span>違反{'理由': 1}</span>した者が<span>ある{'命じよ': 1}</span>場合においては、これらの者又はこれらの者から<span>当該{'物件': 1}</span>土地若しくは<span>建築物{'物件': 1}</span>その他の<span>工作物{'概要': 1}</span>についての<span>権利{'使用': 1}</span>を<span>承継{'権利': 1}</span>した者に対して、相当の期限を定めて、当該<span>生産緑地{'存': 1}</span>の保全に対する障害を排除するため必要な限度において、その<span>原状回復{'措置': 1}</span>を命じ、又は<span>原状回復{'物件': 1}</span>が著しく<span>困難{'経過': 1}</span>である場合に、これに代わるべき必要な措置を<span>採る{'でき': 1}</span>べき旨を命ずることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により原状回復又はこれに代わるべき<span>必要{'経過': 1}</span>な<span>措置{'物件': 1}</span>（以下この条において「<span>原状回復{'勧告': 1}</span>等」と<span>いう{'でき': 1}</span>。）を<span>命じよ{'含ま': 1}</span>うとする<span>場合{'物件': 1}</span>において、<span>過失{'物件': 1}</span>がなくて当該<span>原状回復{'措置': 1}</span>等を<span>命ず{'示す': 1}</span>べき者を<span>確{'物件': 1}</span><span>知{'物件': 1}</span>することが<span>でき{'求める': 1}</span>ないときは、<span>市町村長{'物件': 1}</span>は、その者の<span>負担{'各階平面図': 1}</span>において、当該<span>原状回復{'措置': 1}</span>等を<span>自ら{'した': 1}</span>行い、又はその命じた者若しくは<span>委任{'物件': 1}</span><span>した{'違反': 1}</span>者にこれを行わせることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'した': 1}</span>においては、<span>相当{'した': 1}</span>の<span>期限{'概要': 1}</span>を定めて、<span>当該{'旨': 1}</span><span>原状回復{'措置': 1}</span>等を<span>行う{'命じよ': 1}</span>べき<span>旨{'物件': 1}</span>及びその期限までに<span>当該{'した': 1}</span><span>原状回復{'措置': 1}</span>等を行わないときは、<span>市町村長{'した': 1}</span>又はその命じた者若しくは<span>委任{'価額': 1}</span>した者が<span>当該{'した': 1}</span><span>原状回復{'措置': 1}</span>等を<span>行う{'設ける': 1}</span>旨をあらかじめ<span>公告{'概要': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定により<span>原状回復{'物件': 1}</span>等を<span>行お{'示す': 1}</span>うとする者は、その<span>身分{'物件': 1}</span>を<span>示す{'でき': 1}</span><span>証明{'物件': 1}</span>書を<span>携帯{'物件': 1}</span>し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（生産緑地の買取りの申出）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">生産緑地（生産緑地のうち土地区画整理法第九十八条第一項（大都市地域における住宅及び住宅地の供給の促進に関する特別措置法第八十三条において準用する場合を含む。）の規定により仮<span>換地{'形成': 1}</span>として<span>指定{'物件': 1}</span>された<span>土地{'公告': 1}</span>にあつては、<span>当該{'権利': 1}</span>土地に<span>対応{'物件': 1}</span>する<span>従前{'物件': 1}</span>の土地。この項後段において同じ。）の所有者（以下「生産緑地所有者」という。）は、当該生産緑地に係る生産緑地地区に関する都市計画についての都市計画法第二十条第一項（同法第二十一条第二項において準用する場合を含む。）の<span>規定{'起算': 1}</span>による<span>告示{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して三十年を<span>経過{'存': 1}</span>する日（以下「申出<span>基準{'物件': 1}</span>日」という。）以後において、<span>市町村長{'物件': 1}</span>に対し、国土交通省令で定める様式の書面をもつて、<span>当該{'物件': 1}</span><span>生産緑地{'物件': 1}</span>を時価で買い取るべき旨を申し出ることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該生産緑地が他人の権利の目的となつているときは、第十二条第一項又は第二項の規定による買い取る旨の通知書の発送を条件として当該権利を消滅させる旨の当該権利を有する者の書面を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">生産緑地所有者は、前項前段の場合のほか、同項の告示の日以後において、当該生産緑地に係る農林漁業の主たる従事者（当該生産緑地に係る農林漁業の業務に、当該業務につき国土交通省令で定めるところにより算定した割合以上従事している者を含む。）が死亡し、又は農林漁業に従事することを不可能にさせる故障として国土交通省令で定めるものを有するに至つたときは、市町村長に対し、国土交通省令で定める様式の書面をもつて、当該生産緑地を時価で買い取るべき旨を申し出ることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、同項後段の<span>規定{'存': 1}</span>を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10_2">
+        <ArticleCaption>（特定生産緑地の指定）</ArticleCaption>
+        <ArticleTitle>第十条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、申出基準日が近く到来することとなる生産緑地のうち、その周辺の地域における公園、緑地その他の公共空地の<span>整備{'浸水': 1}</span>の状況及び<span>土地利用{'物件': 1}</span>の<span>状況{'使用': 1}</span>を<span>勘案{'物件': 1}</span>して、当該申出<span>基準{'物件': 1}</span>日以後においてもその<span>保全{'水位': 1}</span>を<span>確実{'物件': 1}</span>に行うことが<span>良好{'物件': 1}</span>な<span>都市環境{'物件': 1}</span>の<span>形成{'物件': 1}</span>を図る上で特に有効であると認められるものを、特定生産緑地として指定することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定による指定（以下単に「<span>指定{'台帳': 1}</span>」という。）は、申出<span>基準{'物件': 1}</span>日までに行うものとし、その<span>指定{'物件': 1}</span>の<span>期限{'事由': 1}</span>は、<span>当該{'物件': 1}</span><span>申出{'物件': 1}</span><span>基準{'した': 1}</span>日から<span>起算{'水位': 1}</span>して十年を<span>経過{'存': 1}</span>する日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'物件': 1}</span>は、指定をしようとするときは、あらかじめ、当該<span>生産緑地{'物件': 1}</span>に係る農地等<span>利害関係{'事由': 1}</span>人（第三条第四項に規定する農地等利害関係人をいう。以下同じ。）の<span>同意{'使用': 1}</span>を<span>得る{'立ち入ろ': 1}</span>とともに、<span>市町村{'構成': 1}</span>都市計画審議会（当該市町村に<span>市町村{'構成': 1}</span><span>都市計画審議会{'負担': 1}</span>が<span>置か{'示す': 1}</span>れていないときは、当該市町村の<span>存する{'求める': 1}</span>都道府県の<span>都道府県{'存': 1}</span><span>都市計画審議会{'教育委員': 1}</span>。第十条の四第三項において同じ。）の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'物件': 1}</span>は、指定をしたときは、国土交通省令で定めるところにより、当該特定生産緑地を公示するとともに、その旨を当該特定生産緑地に係る農地等利害関係人に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10_3">
+        <ArticleCaption>（特定生産緑地の指定の期限の延長）</ArticleCaption>
+        <ArticleTitle>第十条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、申出基準日から起算して十年を経過する日が近く到来することとなる特定生産緑地について当該日以後においても指定を継続する<span>必要{'物件': 1}</span>があると認めるときは、その指定の期限を<span>延長{'物件': 1}</span>することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">当該特定生産緑地について当該<span>延長{'旨': 1}</span>に係る期限が経過する日以後においても更に指定を継続する必要があると認めるときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定による期限の延長は、申出基準日から起算して十年を経過する日（同項の規定により指定の期限を延長したときは、その延長後の期限が経過する日。以下この項において「指定期限日」という。）までに行うものとし、その延長後の期限は、当該指定期限日から起算して十年を経過する日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前条{'負担': 1}</span>第三項及び第四項の規定は、第一項の規定による期限の延長について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10_4">
+        <ArticleCaption>（特定生産緑地の指定の提案）</ArticleCaption>
+        <ArticleTitle>第十条の四</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>生産緑地{'建造': 1}</span>所有者は、当該生産緑地が第十条の二第一項に規定する生産緑地に該当すると思料するときは、国土交通省令で定めるところにより、市町村長に対し、当該生産緑地を特定生産緑地として指定することを提案することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該生産緑地に当該提案に係る所有者以外の農地等利害関係人がいるときは、あらかじめ、その<span>全員{'提案': 1}</span>の<span>合意{'事由': 1}</span>を<span>得{'示す': 1}</span>なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'物件': 1}</span>は、前項の<span>規定{'物件': 1}</span>による<span>提案{'物件': 1}</span>が行われた場合において、当該提案に係る<span>生産緑地{'形成': 1}</span>について指定をしないこととしたときは、遅滞なく、その旨及びその理由を、<span>当該{'理由': 1}</span>提案を<span>した{'物件': 1}</span>者に<span>通知{'事由': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>市町村長{'負担': 1}</span>は、前項の<span>規定{'物件': 1}</span>による<span>通知{'公告': 1}</span>を<span>しよう{'負担': 1}</span>とするときは、あらかじめ、市町村都市計画審議会の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10_5">
+        <ArticleCaption>（特定生産緑地の買取りの申出）</ArticleCaption>
+        <ArticleTitle>第十条の五</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">特定生産緑地についての第十条の規定の適用については、同条第一項中「当該生産緑地に係る生産緑地地区に関する都市計画についての都市計画法第二十条第一項（同法第二十一条第二項において準用する場合を含む。）の<span>規定{'起算': 1}</span>による<span>告示{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して三十年を経過する日（以下「申出<span>基準{'存': 1}</span>日」という。）」とあるのは「第十条の三第二項に<span>規定{'概要': 1}</span>する<span>指定{'物件': 1}</span><span>期限{'事由': 1}</span>日」と、同条第二項中「同項の」とあるのは「当該生産緑地に係る生産緑地地区に関する都市計画についての都市計画法第二十条第一項（同法第二十一条第二項において準用する場合を含む。）の規定による」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10_6">
+        <ArticleCaption>（指定の解除）</ArticleCaption>
+        <ArticleTitle>第十条の六</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、特定生産緑地について、当該特定生産緑地の周辺の地域における公園、緑地その他の公共空地の<span>整備{'物件': 1}</span>の<span>状況{'物件': 1}</span>の<span>変化{'物件': 1}</span>その他の<span>事由{'物件': 1}</span>によりその<span>指定{'使用': 1}</span>の<span>理由{'物件': 1}</span>が<span>消滅{'事由': 1}</span>したときは、<span>遅滞{'物件': 1}</span>なく、その指定を<span>解除{'前項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十条の二第四項の規定は、前項の規定による特定<span>生産緑地{'物件': 1}</span>の指定の解除について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（生産緑地の買取り等）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、第十条の規定による申出があつたときは、次項の規定により買取りの相手方が定められた場合を除き、特別の事情がない限り、当該生産緑地を時価で買い取るものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、第十条の規定による申出があつたときは、当該生産緑地の買取りを希望する地方公共団体等のうちから当該生産緑地の買取りの相手方を定めることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該生産緑地の周辺の地域における公園、緑地その他の公共空地の<span>整備{'浸水': 1}</span>の状況及び<span>土地利用{'物件': 1}</span>の<span>状況{'使用': 1}</span>を<span>勘案{'物件': 1}</span>して<span>必要{'公募': 1}</span>があると認めるときは、公園、<span>緑地{'形成': 1}</span>その他の公共空地の<span>敷地{'物件': 1}</span>の用に供することを目的として買取りを希望する者を他の者に優先して定めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（生産緑地の買取りの通知等）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、前条第二項の規定により買取りの相手方が定められた場合を除き、第十条の規定による<span>申出{'公告': 1}</span>があつた日から起算して一月以内に、当該生産緑地を時価で買い取る旨又は買い取らない旨を書面で当該生産緑地の所有者に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前条第二項の規定により買取りの相手方として定められた者は、前項に規定する期間内に、当該生産緑地を時価で買い取る旨を書面で当該生産緑地の所有者及び市町村長に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二項の規定により買い取る旨の通知がされた場合における当該生産緑地の時価については、買い取る旨の通知をした者と生産緑地の所有者とが協議して定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第六条第六項の規定は、前項の場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（生産緑地の取得のあつせん）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、生産緑地について、前条第一項の規定により買い取らない旨の通知をしたときは、当該生産緑地において農林漁業に従事することを希望する者がこれを取得できるようにあつせんすることに努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（生産緑地地区内における行為の制限の解除）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十条の規定による申出があつた場合において、その申出の日から起算して三月以内に当該生産緑地の所有権の移転（相続その他の一般承継による移転を除く。）が行われなかつたときは、当該生産緑地については、第七条から第九条までの規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（生産緑地の買取り希望の申出）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">生産緑地の所有者は、第十条の規定による申出ができない場合であつても、疾病等により農林漁業に従事することが困難である等の特別の事情があるときは、市町村長に対し、国土交通省令で定めるところにより、当該生産緑地の買取りを申し出ることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、前項の規定による申出がやむを得ないものであると認めるときは、当該生産緑地を自ら買い取ること又は地方公共団体等若しくは当該生産緑地において農林漁業に従事することを希望する者がこれを取得できるようにあつせんすることに努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="16">
+        <ArticleCaption>（買い取つた生産緑地の管理）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十一条第一項若しくは前条第二項の規定により、又は第十二条第二項の規定により生産緑地を買い取つた市町村長又は地方公共団体等は、当該生産緑地をこの法律の目的に従つて適切に管理しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17">
+        <ArticleCaption>（報告及び立入検査等）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、生産緑地の保全のため必要があると認めるときは、その必要な限度において、第八条第一項の<span>許可{'損失': 1}</span>を受けた者又はその者から当該土地若しくは<span>建築物{'物件': 1}</span>その他の<span>工作物{'概要': 1}</span>についての<span>権利{'使用': 1}</span>を<span>承継{'権利': 1}</span>した者に対して、当該行為の<span>実施{'した': 1}</span>状況その他<span>必要{'場所': 1}</span>な事項について報告を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、第八条第一項若しくは第三項又は<span>第九条{'した': 1}</span>第一項の<span>規定{'理由': 1}</span>による<span>処分{'物件': 1}</span>をするため<span>必要{'物件': 1}</span>があると認めるときは、その必要な限度において、その職員に、生産緑地若しくは生産緑地地区内の建物に立ち入り、その状況を調査させ、又は第八条第一項各号に掲げる行為の実施状況を検査させ、若しくはこれらの行為が当該生産緑地の保全に及ぼす影響を調査させることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項に<span>規定{'物件': 1}</span>する<span>職員{'物件': 1}</span>は、その<span>身分{'該当': 1}</span>を示す<span>証明{'物件': 1}</span>書を<span>携帯{'物件': 1}</span>し、<span>関係{'物件': 1}</span>人の<span>請求{'物件': 1}</span>が<span>あつ{'でき': 1}</span>たときは、これを提示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二項の<span>規定{'物件': 1}</span>による<span>権限{'物件': 1}</span>は、<span>犯罪{'物件': 1}</span>捜査のために認められたものと解してはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17_2">
+        <ArticleCaption>（農業委員会の協力）</ArticleCaption>
+        <ArticleTitle>第十七条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長は、生産緑地（農地又は採草放牧地に限る。以下この条において同じ。）について使用又は収益をする<span>権利{'浸水': 1}</span>を有する者からの求めに応じて当該<span>生産緑地{'物件': 1}</span>を農地等として管理するため必要な助言、土地の交換のあつせんその他の援助を行う場合及び農業に従事することを希望する者が生産緑地を取得できるようにあつせんを行う場合には、農業委員会に協力を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17_3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の規定に基づき<span>政令{'物件': 1}</span>又は<span>国土交通省令{'物件': 1}</span>を制定し、又は<span>改廃{'物件': 1}</span>する<span>場合{'した': 1}</span>においては、<span>それぞれ{'物件': 1}</span>、<span>政令{'した': 1}</span>又は<span>国土交通省令{'物件': 1}</span>で、その制定又は<span>改廃{'物件': 1}</span>に伴い<span>合理的{'物件': 1}</span>に<span>必要{'物件': 1}</span>と<span>判断{'物件': 1}</span>される<span>範囲{'物件': 1}</span>内において、所要の<span>経過{'物件': 1}</span><span>措置{'三月': 1}</span>（<span>罰則{'物件': 1}</span>に関する<span>経過{'物件': 1}</span><span>措置{'物件': 1}</span>を<span>含む{'でき': 1}</span>。）を<span>定める{'でき': 1}</span>ことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="18">
+        <ArticleCaption>（罰則）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第九条第一項の<span>規定{'物件': 1}</span>による命令に<span>違反{'物件': 1}</span>した者は、一年以下の懲役又は五十万円以下の<span>罰金{'物件': 1}</span>に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="19">
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>次{'した': 1}</span>の各号の一に<span>該当{'違反': 1}</span>する者は、<span>六月{'法人': 1}</span>以下の<span>懲役{'した': 1}</span>又は三十万円以下の<span>罰金{'違反': 1}</span>に処する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第八条第一項の<span>規定{'該当': 1}</span>に<span>違反{'勧告': 1}</span>した者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第八条第三項の<span>規定{'違反': 1}</span>により<span>許可{'違反': 1}</span>に<span>付け{'付さ': 1}</span>られた<span>条件{'該当': 1}</span>に違反した者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20">
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">次の各号の一に<span>該当{'物件': 1}</span>する者は、二十万円以下の<span>罰金{'該当': 1}</span>に処する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第<span>六条{'した': 1}</span>第三項の<span>規定{'概要': 1}</span>に<span>違反{'公募': 1}</span><span>した{'物件': 1}</span>者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十七条第一項の<span>規定{'した': 1}</span>により<span>報告{'違反': 1}</span>を<span>求め{'した': 1}</span>られて、これに<span>従わ{'命じよ': 1}</span>ず、又は<span>虚偽{'物件': 1}</span>の<span>報告{'物件': 1}</span>をした者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十七条第二項の<span>規定{'した': 1}</span>による<span>立入{'違反': 1}</span><span>調査{'した': 1}</span>又は<span>立入検査{'浸水': 1}</span>を拒み、<span>妨げ{'処する': 1}</span>、又は<span>忌避{'経過': 1}</span><span>した{'該当': 1}</span>者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="21">
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法人{'した': 1}</span>の<span>代表者{'した': 1}</span>又は<span>法人{'物件': 1}</span>若しくは<span>人{'した': 1}</span>の<span>代理人{'物件': 1}</span>、<span>使用人{'物件': 1}</span>その他の<span>従業者{'した': 1}</span>が、その<span>法人{'した': 1}</span>又は<span>人{'物件': 1}</span>の<span>業務{'物件': 1}</span>又は<span>財産{'物件': 1}</span>に関して<span>前{'概要': 1}</span>三条の<span>違反行為{'概要': 1}</span>をしたときは、<span>行為{'物件': 1}</span>者を<span>罰する{'つき': 1}</span><span>ほか{'物件': 1}</span>、その<span>法人{'物件': 1}</span>又は<span>人{'物件': 1}</span>に対しても、各<span>本条{'物件': 1}</span>の<span>罰金刑{'刑': 1, '物件': 1}</span>を科する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>は、<span>公布{'物件': 1}</span>の日から起算して<span>三月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="350067" AmendLawNum="昭和五〇年七月一六日法律第六七号" Extract="true" Id="703a445a-47dd-11e5-9525-9b83e2f66dcf">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>公布{'物件': 1}</span>の日から起算して<span>一年{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="355035" AmendLawNum="昭和五五年五月一日法律第三五号" Extract="true" Id="83ec7ada-1892-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、<span>公布{'物件': 1}</span>の日から起算して<span>一年{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="402062" AmendLawNum="平成二年六月二九日法律第六二号" Extract="true" Id="b277d3c4-1886-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、<span>公布{'物件': 1}</span>の日から起算して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="403039" AmendLawNum="平成三年四月二六日法律第三九号" Extract="true" Id="cd1b6708-189b-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>公布{'物件': 1}</span>の日から起算して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（生産緑地に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前の<span>生産緑地法{'物件': 1}</span>（以下「旧生産緑地法」という。）第三条第一項の規定により定められている第一種生産緑地地区（以下「旧第一種生産緑地地区」という。）及び旧生産緑地法第四条第一項の規定により定められている第二種生産緑地地区（以下「旧第二種生産緑地地区」という。）の区域内の土地又は森林（以下「旧<span>生産緑地{'存': 1}</span>」という。）は、この法律による改正後の生産緑地法（以下「新生産緑地法」という。）第三条第一項の規定により定められた<span>生産緑地地区{'浸水': 1}</span>の区域内の土地又は森林（以下「新生産緑地」という。）とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定により新生産緑地とみなされた旧生産緑地（旧生産緑地のうち土地区画整理法（昭和二十九年法律第百十九号）第九十八条第一項（大都市地域における住宅及び住宅地の供給の促進に関する特別措置法（昭和五十年法律第六十七号）第八十三条において準用する場合を<span>含む{'除き': 1}</span>。次項において同じ。）の<span>規定{'物件': 1}</span>により仮<span>換地{'形成': 1}</span>として<span>指定{'物件': 1}</span>された<span>土地{'公告': 1}</span>にあっては、<span>当該{'権利': 1}</span><span>土地{'物件': 1}</span>に<span>対応{'物件': 1}</span>する<span>従前{'形成': 1}</span>の<span>土地{'物件': 1}</span>）の<span>所有者{'使用': 1}</span>に対する新生産緑地法第十条の<span>規定{'存': 1}</span>の適用については、同条中「三十年」とあるのは、旧第一種生産緑地地区に係る場合にあっては「十年」と、旧第二種生産緑地地区に係る場合にあっては「五年」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の規定により新生産緑地とみなされた旧第二種生産緑地地区に係る旧生産緑地（旧生産緑地のうち土地区画整理法第九十八条第一項の規定により仮換地として指定された<span>土地{'公告': 1}</span>にあっては、<span>当該{'権利': 1}</span><span>土地{'物件': 1}</span>に<span>対応{'物件': 1}</span>する<span>従前{'形成': 1}</span>の<span>土地{'物件': 1}</span>）の<span>所有者{'使用': 1}</span>に対する新生産緑地法第十四条の<span>規定{'事由': 1}</span>の<span>適用{'物件': 1}</span>については、同<span>条{'物件': 1}</span>中「<span>三月{'物件': 1}</span>」とあるのは、「一月」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>は、行政手続法（平成五年<span>法律{'物件': 1}</span>第八十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（諮問等がされた不利益処分に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は<span>弁明{'物件': 1}</span>の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の<span>施行{'経過': 1}</span><span>前{'経過': 1}</span>にした<span>行為{'経過': 1}</span>に対する罰則の適用については、なお<span>従前{'提起': 1}</span>の<span>例{'提起': 1}</span>による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（聴聞に関する規定の整理に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の<span>関係{'事由': 1}</span><span>法律{'経過': 1}</span>の相当<span>規定{'物件': 1}</span>により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この<span>法律{'存': 1}</span>の<span>施行{'物件': 1}</span>に関して必要な<span>経過{'物件': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'物件': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る<span>部分{'物件': 1}</span>に<span>限る{'つき': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の<span>規定{'物件': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="cb96a4b0-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'起算': 1}</span>は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="81">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる<span>規定{'物件': 1}</span>にあっては、当該<span>規定{'物件': 1}</span>。以下この条において同じ。）の施行前にした<span>行為{'経過': 1}</span>及びこの附則の規定によりなお従前の<span>例{'物件': 1}</span>によることとされる場合におけるこの法律の施行後にした<span>行為{'経過': 1}</span>に対する<span>罰則{'提起': 1}</span>の<span>適用{'提起': 1}</span>については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="82">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'物件': 1}</span>に<span>規定{'経過': 1}</span>するものの<span>ほか{'物件': 1}</span>、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に関し<span>必要{'経過': 1}</span>な経過<span>措置{'経過': 1}</span>（<span>罰則{'物件': 1}</span>に関する<span>経過{'物件': 1}</span><span>措置{'経過': 1}</span>を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="429026" AmendLawNum="平成二九年五月一二日法律第二六号" Id="f3b8bd78-36cb-11e7-b0b6-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'物件': 1}</span>は、<span>公布{'物件': 1}</span>の日から起算して<span>二月{'物件': 1}</span>を超えない範囲内において政令で定める日から<span>施行{'物件': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、<span>当該{'物件': 1}</span>各号に定める日から<span>施行{'物件': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">附則第二十五条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'物件': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中都市緑地法第四条、第三十四条、第三十五条及び第三十七条の改正規定、第二条中<span>都市公園法{'物件': 1}</span><span>第三条{'物件': 1}</span>第二項の<span>改正{'物件': 1}</span>規定及び同条の次に<span>一条{'物件': 1}</span>を加える改正<span>規定{'事由': 1}</span>、第四条中生産緑地法<span>第三条{'物件': 1}</span>に一項を加える改正規定、同法第八条に一項を加える改正規定、<span>同法{'物件': 1}</span>第十条の改正規定、同条の次に<span>五条{'物件': 1}</span>を加える改正<span>規定{'事由': 1}</span>及び<span>同法{'物件': 1}</span>第十一条の<span>改正{'物件': 1}</span>規定<span>並び{'物件': 1}</span>に第五条及び第六条の<span>規定{'物件': 1}</span>並びに<span>次{'物件': 1}</span>条第一項及び第二項並びに附則第三条第二項、第六条、第七条、第十条、第十<span>三条{'物件': 1}</span>、第十<span>四条{'物件': 1}</span>、第十<span>八条{'物件': 1}</span>（地域における歴史的風致の維持及び向上に関する法律（平成二十年<span>法律{'物件': 1}</span>第四十号）第三十一条第五項<span>第一{'物件': 1}</span>号の改正規定に限る。）、第十<span>九条{'物件': 1}</span>、第二十条、第二十二条及び第二十三条（国家戦略特別区域法（平成二十五年<span>法律{'物件': 1}</span>第百七号）第十五条の改正規定に限る。）の<span>規定{'物件': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して<span>一年{'物件': 1}</span>を超えない範囲内において<span>政令{'経過': 1}</span>で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（生産緑地法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日<span>前{'経過': 1}</span>に行われた第四条の<span>規定{'物件': 1}</span>による改正<span>前{'物件': 1}</span>の生産緑地法第八条第一項の許可の申請は、第四条の<span>規定{'物件': 1}</span>による<span>改正{'物件': 1}</span>後の生産緑地法（次項において「新生産緑地法」という。）第八条第一項の<span>許可{'物件': 1}</span>の申請とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新生産緑地法第十条から第十条の六までの規定は、<span>附則{'物件': 1}</span>第一条第二号に掲げる規定の施行の際現に都市計画に定められている生産緑地地区に係る生産緑地についても、<span>適用{'提起': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>後五年を経過した<span>場合{'物件': 1}</span>において、第<span>一条{'経過': 1}</span>、第二条及び第四条から第<span>六条{'物件': 1}</span>までの<span>規定{'物件': 1}</span>による改正後の規定の<span>施行{'物件': 1}</span>の<span>状況{'経過': 1}</span>について<span>検討{'物件': 1}</span>を<span>加え{'とる': 1}</span>、必要があると認めるときは、その<span>結果{'勧告': 1}</span>に基づいて<span>必要{'勧告': 1}</span>な<span>措置{'経過': 1}</span>を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="25">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'勧告': 1}</span>に定めるものの<span>ほか{'水位': 1}</span>、この法律の<span>施行{'物件': 1}</span>に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

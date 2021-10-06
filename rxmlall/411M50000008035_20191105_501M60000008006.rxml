@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="35" Year="11">
+  <LawNum>平成十一年自治省令第三十五号</LawNum>
+  <LawBody>
+    <LawTitle>住民基本台帳法施行規則</LawTitle>
+    <EnactStatement>住民基本台帳法（昭和四十二年法律第八十一号）第三十条の十八第一項、第三十条の二十一及び第三十条の二十八の規定に基づき、並びに同法を実施するため、住民基本台帳法施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（住民票コード）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">住民基本台帳法（昭和四十二年法律第八十一号。以下「法」という。）第七条第十三号に規定する住民票コードは、次に掲げる数字をその順序により組み合わせて定めるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">無作為に作成された十けたの数字</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">一けたの検査数字（住民票コードを電子計算機に入力するときの誤りを検出することを目的として、総務大臣が定める算式により算出される数字をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（転入通知の方法）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第九条第三項の規定による通知は、電子計算機（<span>入出力{'規定': 1}</span>装置を含む。以下同じ。）（電子計算機による<span>方法{'手続': 1}</span>に準ずる方法により<span>一定{'手続': 1}</span>の<span>事項{'規定': 1}</span>を<span>確実{'手続': 1}</span>に<span>記録{'規定': 1}</span>しておくことができる機器を含む。以下同じ。）の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第九条第三項に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で定める場合は、電気通信回線の故障その他の事由により電気通信回線を<span>通じ{'ある': 1}</span>た送信ができない場合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（住民票を消除する場合の通知の方法）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">住民基本台帳法施行令（昭和四十二年<span>政令{'規定': 1}</span>第二百九十二号。以下「<span>令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）第十三条第四項の<span>規定{'手続': 1}</span>による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（本人等の請求に係る住民票の写しの交付の特例の請求手続）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十二条の四第一項の規定に<span>基づき{'ある': 1}</span><span>住民票{'書面': 1, '規定': 1}</span>の<span>写し{'規定': 1}</span>の<span>交付{'規定': 1}</span>の<span>請求{'規定': 1}</span>をする者は、同<span>項{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>住民票{'規定': 1}</span>の<span>写し{'規定': 1}</span>の<span>交付{'規定': 1}</span>の<span>請求{'規定': 1}</span>である旨並びに<span>次項{'前項': 1, '手続': 1}</span>に規定する書類を<span>提示{'準用': 1}</span>した場合には、その者の<span>住民票コード{'規定': 1}</span>又は出生の年月日及び男女の別を明らかにしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十二条の四第一項に規定する総務省令で定める書類は、旅券、運転免許証その他官公署が発行した免許証、許可証又は資格証明書等（本人の写真が貼付されたものに限る。）であって当該<span>請求{'規定': 1}</span>者が<span>本人{'規定': 1}</span>であることを<span>確認{'手続': 1}</span>するため<span>市町村長{'手続': 1}</span>（<span>特別区{'届出': 1}</span>に<span>あつ{'取り消さ': 1}</span>ては<span>区長{'手続': 1}</span>、<span>地方自治法{'規定': 1}</span>（昭和二十二年<span>法律{'手続': 1}</span>第六十七号）第二百五十二条の十九第一項の<span>指定都市{'規定': 1}</span>に<span>あっ{'ある': 1}</span>ては<span>区長{'手続': 1}</span>又は<span>総合{'規定': 1}</span><span>区長{'規定': 1}</span>。第六条及び<span>第九条{'規定': 1}</span>において同じ。）が<span>適当{'規定': 1}</span>と<span>認める{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（本人等の請求に係る住民票の写しの交付の特例の際の通知の方法）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第十二条の四第五項の<span>規定{'手続': 1}</span>による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5_2">
+        <ArticleCaption>（戸籍の附票の記載の修正のための通知の方法）</ArticleCaption>
+        <ArticleTitle>第五条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十九条第四項の規定による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'令': 1}</span>第十九条第四項に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で定める場合は、電気通信回線の故障その他の事由により電気通信回線を<span>通じ{'ある': 1}</span>た送信ができない場合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（最初の転入届の手続）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第二十四条の二第一項に規定する最初の<span>転入{'規定': 1}</span>届をしようとする者は、市町村長に対し、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号<span>利用{'規定': 1}</span>法」と<span>いう{'ある': 1}</span>。）第<span>二条{'手続': 1}</span>第七項に<span>規定{'手続': 1}</span>する<span>個人番号カード{'規定': 1}</span>（以下「<span>個人番号カード{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）の<span>交付{'規定': 1}</span>を<span>受け{'ある': 1}</span>ている旨を<span>明らか{'規定': 1}</span>にしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（個人番号カードの交付を受けている者等に関する届出の特例の際の通知の方法）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第二十四条の二第五項の<span>規定{'手続': 1}</span>による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7_2">
+        <ArticleCaption>（転出地市町村長から転入地市町村長への通知事項）</ArticleCaption>
+        <ArticleTitle>第七条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第二十四条の三第七号に規定する総務省令で定めるものは、当該個人番号カードが真正なものであることを確認するために転入地市町村長が用いる符号その他個人番号カードの管理のために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（現に届出の任に当たっている者を特定する方法）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第二十七条第二項の<span>規定{'手続': 1}</span>による<span>提示{'手続': 1}</span>若しくは<span>提出{'規定': 1}</span>又は<span>説明{'規定': 1}</span>は、<span>次{'手続': 1}</span>のいずれかの<span>方法{'規定': 1}</span>によるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>個人番号カード{'手続': 1}</span>又は旅券、運転免許証その他官公署が発行した免許証、許可証<span>若しくは{'又は': 1}</span>資格証明書等（本人の写真が貼付されたものに限る。）であって現に届出の任に当たっている者が本人であることを確認するため市町村長が適当と認める<span>書類{'規定': 1}</span>を<span>提示{'手続': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>前{'手続': 1}</span>号の<span>書類{'規定': 1}</span>を<span>やむを得ない{'なく': 1}</span><span>理由{'規定': 1}</span>により<span>提示{'規定': 1}</span>することができない場合には、現に届出の任に当たっている者が本人であることを確認するため市町村長が適当と認める<span>書類{'規定': 1}</span>を<span>提示{'規定': 1}</span>し、<span>若しくは{'ただし': 1}</span>提出する方法又は同一の世帯の住民基本台帳の記載事項について説明させる方法その他の市町村長が<span>前{'規定': 1}</span>号に<span>準ずる{'ある': 1}</span>もの<span>として{'とともに': 1}</span><span>適当{'法務省令': 1}</span>と認める方法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8_2">
+        <ArticleCaption>（届出において明らかにする事項）</ArticleCaption>
+        <ArticleTitle>第八条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第二十七条第二項に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で定める事項は、氏名及び住所その他の<span>市町村長{'規定': 1}</span>が<span>適当{'手続': 1}</span>と<span>認める{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8_3">
+        <ArticleCaption>（届出をする者の代理人等の権限を明らかにする方法）</ArticleCaption>
+        <ArticleTitle>第八条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>法{'手続': 1}</span>第二十七条第三項の<span>規定{'手続': 1}</span>による<span>提示{'手続': 1}</span>若しくは<span>提出{'規定': 1}</span>又は<span>説明{'規定': 1}</span>は、<span>次{'手続': 1}</span>のいずれかの<span>方法{'規定': 1}</span>によるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'手続': 1}</span>において、<span>市町村長{'規定': 1}</span>が<span>必要{'規定': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>届出{'手続': 1}</span>をする者が<span>本人{'手続': 1}</span>であるか<span>どう{'相当': 1}</span>かの<span>確認{'手続': 1}</span>をするため、<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>を<span>示す{'ある': 1}</span><span>書類{'規定': 1}</span>の<span>提示{'手続': 1}</span><span>若しくは{'ただし': 1}</span><span>提出{'手続': 1}</span>又はこれらの<span>事項{'規定': 1}</span>についての説明を求めるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">現に届出の任に当たっている者が法定代理人の場合には、戸籍謄本その他その資格を証明する<span>書類{'規定': 1}</span>を<span>提示{'届出': 1}</span>し、<span>又は{'ただし': 1}</span>提出する方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">現に届出の任に当たっている者が法定代理人以外の者である場合には、委任状を提出する方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前二号の書類をやむを得ない<span>理由{'規定': 1}</span>により<span>提示{'規定': 1}</span>し、又は提出することができない場合には、届出をする者の<span>依頼{'手続': 1}</span>により又は法令の規定により当該届出の任に当たるものであることを説明する書類を提示し、又は提出させる<span>方法{'規定': 1}</span>その他の<span>市町村長{'手続': 1}</span>が前二号に<span>準ずる{'ある': 1}</span>もの<span>として{'とともに': 1}</span>適当と認める方法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（住民票コードの指定等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の二第一項の規定による住民票コードの指定は、地方公共団体情報システム機構（以下「機構」という。）が市町村の人口等を勘案し、無作為に抽出することにより行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">市町村長（特別区の区長を含む。）は、住民票に記載することのできる住民票コードが不足すると見込まれるときは、機構に対し、当該不足すると見込まれる数の住民票コードについて法第三十条の二第一項の規定による指定及び通知を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9_2">
+        <ArticleCaption>（住民票コードの記載の変更請求書の提出の際に提示する書類）</ArticleCaption>
+        <ArticleTitle>第九条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の三に規定する<span>総務省令{'手続': 1}</span>で<span>定める{'掲げる': 1}</span>書類は、次に掲げるいずれかの<span>書類{'場合': 1}</span>であって、請求者の氏名が記載されているものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>運転免許証{'書類': 1}</span>、健康保険の被保険者証その他法律又はこれに基づく命令の規定により<span>交付{'規定': 1}</span>された<span>書類{'受け': 1, '規定': 1}</span>であって<span>当該{'規定': 1}</span><span>請求{'規定': 1}</span>者が<span>本人{'規定': 1}</span>であることを<span>確認{'手続': 1}</span>するため<span>市町村長{'手続': 1}</span>が<span>適当{'手続': 1}</span>と<span>認める{'ある': 1}</span>もの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>前{'手続': 1}</span>号に<span>掲げる{'ある': 1}</span><span>書類{'規定': 1}</span>を<span>やむを得ない{'なく': 1}</span><span>理由{'規定': 1}</span>により<span>提示{'規定': 1}</span>することが<span>でき{'ある': 1}</span>ない<span>場合{'規定': 1}</span>には、<span>当該{'規定': 1}</span><span>請求{'規定': 1}</span>者が<span>本人{'規定': 1}</span>であることを<span>確認{'手続': 1}</span>するため市町村長が適当と認める書類</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（住民票コードの記載の変更請求書の記載事項）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四第二項の<span>総務省令{'法務省令': 1}</span>で定める<span>事項{'申請': 1}</span>は、住民票コードの記載の変更を請求しようとする者の氏名、住所及び住民票コードとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（都道府県知事に通知する住民票の記載等に関する事項）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の五第一号に規定する総務省令で定める記載の事由は、次に掲げる<span>場合{'規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第二十二条の<span>規定{'手続': 1}</span>による<span>届出{'規定': 1}</span>（<span>次号{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>届出{'規定': 1}</span>を<span>除く{'取り消さ': 1}</span>。）に<span>基づき{'ある': 1}</span>住民票の記載を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">国内転入</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第二十二条の規定による<span>届出{'規定': 1}</span>（国外から転入をする旨の届出に限る。）並びに第三十条の四十六及び第三十条の四十七の規定による届出に<span>基づき{'ある': 1}</span>住民票の記載を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">国外転入等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">出生の届出（戸籍法（昭和二十二年法律第二百二十四号）第四十九条に規定する出生の届出をいう。以下この号において同じ。）の<span>受理{'規定': 1}</span>に伴い<span>住民票{'事項': 1}</span>の<span>記載{'除': 1}</span>を行った場合又は<span>法{'規定': 1}</span><span>第九条{'規定': 1}</span>第二項の規定による通知（出生の届出の<span>受理{'手続': 1}</span>に係るものに限る。）に基づき住民票の<span>記載{'除': 1}</span>を行った<span>場合{'手続': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>出生{'手続': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">令第八条の二第一項の<span>規定{'手続': 1}</span>により<span>住民票{'規定': 1}</span>の<span>記載{'規定': 1}</span>を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権記載等（<span>帰化{'手続': 1}</span>等）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">令第八条の二第二項の規定により住民票の記載を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権記載等（<span>国籍喪失{'手続': 1}</span>）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前各号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権記載等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の五第二号に規定する総務省令で定める消除の事由は、次に掲げる場合の区分に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第二十四条の<span>規定{'手続': 1}</span>による<span>届出{'規定': 1}</span>（<span>次号{'手続': 1}</span>に<span>掲げる{'ある': 1}</span>届出を除く。）に基づき住民票の消<span>除{'記載': 1}</span>を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">国内転出</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第二十四条の規定による届出（国外に転出をする旨の届出に限る。）に基づき住民票の消除を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">国外転出</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">死亡の届出（戸籍法第八十六条に規定する死亡の届出をいう。以下この号において同じ。）の受理に伴い住民票の消除を行った場合又は法第九条第二項の規定による通知（<span>死亡{'出生': 1}</span>の届出の受理に係るものに限る。）に基づき住民票の消除を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">死亡</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">令第八条の二第一項の規定により住民票の消除を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権消除等（帰化等）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">令第八条の二第二項の規定により住民票の消除を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権消除等（国籍喪失）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前各号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権消除等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の五第三号に規定する総務省令で定める記載の修正の事由は、次に掲げる場合の区分に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第二十三条の<span>規定{'手続': 1}</span>による届出に基づき住民票の記載の修正を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">転居</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">次に掲げる氏名又は住所に係る記載の修正を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">軽微な修正</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">常用平易な文字（戸籍法第五十条第一項に規定する常用平易な文字をいう。以下同じ。）以外の文字の常用平易な文字への変更に伴う氏名又は住所に係る記載の修正</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">文字の同定に伴う氏名又は住所に係る記載の修正（イに該当するものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">行政区画、郡、区、市町村内の町若しくは<span>字{'手続': 1}</span>又はこれらの<span>名称{'手続': 1}</span>の変更に伴う住所に係る記載の<span>修正{'規定': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">地番の変更に伴う住所に係る記載の修正</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">住居表示に関する法律（昭和三十七年法律第百十九号）第三条第一項及び第二項又は第四条の規定による<span>住居表示{'規定': 1}</span>の実施又は変更に伴う住所に係る記載の<span>修正{'規定': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">共同住宅、寄宿舎、下宿、病院、診療所、児童福祉施設、ホテル、旅館その他これらに類する用途に供する建築物の名称又は建物の賃貸人の変更に伴う<span>住所{'手続': 1}</span>に係る記載の修正</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">イからヘまでに掲げるもののほか、総務大臣が<span>適当{'規定': 1}</span>と<span>認める{'ある': 1}</span>ものに<span>伴う{'ある': 1}</span>氏名<span>又は{'及び': 1}</span><span>住所{'名称': 1}</span>に係る記載の<span>修正{'手続': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前二号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">職権修正等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の五第四号に規定する総務省令で定める記載の修正の事由は、次に掲げる場合の区分に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>事項とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">番号利用法第七条第二項の規定による個人番号の指定の請求に基づき個人番号の記載の修正を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">個人番号の変更請求</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">番号利用法第七条第二項の規定により職権で個人番号の記載の修正を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">個人番号の職権修正</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前二号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">個人番号の職権記載等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の五第五号に規定する総務省令で定める記載の修正の事由は、次に掲げる場合の区分に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>法{'前項': 1, '手続': 1}</span>第三十条の四第一項の規定による変更請求に基づき<span>住民票コード{'規定': 1}</span>の記載の修正を行った場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">住民票コードの変更請求</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">住民票コードの職権記載等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（都道府県知事への通知の方法）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の六第二項の規定による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（都道府県における本人確認情報の記録及び保存の方法）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の六第三項の規定による<span>本人確認{'規定': 1}</span>情報の記録及び保存は、電子計算機の<span>操作{'手続': 1}</span>によるものとし、<span>磁気ディスク{'規定': 1}</span>への記録及びその保存の方法に関する<span>技術的{'法': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（機構への通知の方法）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の七第二項の規定による通知は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（機構における本人確認情報の記録及び保存の方法）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の七第三項の規定による<span>本人確認{'規定': 1}</span>情報の記録及び保存は、電子計算機の<span>操作{'手続': 1}</span>によるものとし、<span>磁気ディスク{'規定': 1}</span>への記録及びその保存の方法に関する<span>技術的{'手続': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="16">
+        <ArticleCaption>（国の機関等への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の八第一号及び第二号の規定による特定機構保存本人確認情報（同条に<span>規定{'筆界': 1}</span>する特定<span>機構{'都道府県知事': 1}</span>保存本人確認情報をいう。以下同じ。）の提供は、電子計算機の操作によるものとし、電気通信回線を<span>通じ{'ある': 1}</span>た送信又は磁気ディスクの送付の方法に関する<span>技術的{'手続': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17">
+        <ArticleCaption>（通知都道府県の区域内の市町村の執行機関への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の九第一号及び第二号の規定による特定機構保存本人確認情報の提供は、電子計算機の操作によるものとし、電気通信回線を<span>通じ{'ある': 1}</span>た送信又は磁気ディスクの送付の方法に関する<span>技術的{'手続': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="18">
+        <ArticleCaption>（通知都道府県以外の都道府県の執行機関への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十第一号及び第二号の規定による特定機構保存本人確認情報の提供は、電子計算機の操作によるものとし、電気通信回線を<span>通じ{'ある': 1}</span>た送信又は磁気ディスクの送付の方法に関する<span>技術的{'手続': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="19">
+        <ArticleCaption>（通知都道府県以外の都道府県の区域内の市町村の執行機関への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十一第一号及び第二号の規定による特定機構保存本人確認情報の提供は、電子計算機の操作によるものとし、電気通信回線を<span>通じ{'ある': 1}</span>た送信又は磁気ディスクの送付の方法に関する<span>技術的{'手続': 1}</span>基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20">
+        <ArticleCaption>（通知都道府県の区域内の市町村の市町村長への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十第二項の規定による機構保存<span>本人確認{'作成': 1}</span>情報（法第三十条の九に規定する機構保存<span>本人確認{'作成': 1}</span>情報をいう。以下同じ。）の提供は、電子計算機の操作によるものとし、電気通信回線を<span>通じ{'ある': 1}</span>た送信の方法に関する<span>技術的{'手続': 1}</span>基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20_2">
+        <ArticleCaption>（通知都道府県以外の都道府県の都道府県知事への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第二十条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十一第二項の規定による機構保存本人確認情報の提供は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20_3">
+        <ArticleCaption>（通知都道府県以外の都道府県の区域内の市町村の市町村長への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第二十条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十二第二項の規定による機構保存本人確認情報の提供は、電子計算機の操作によるものとし、電気通信回線を通じた送信の方法に関する技術的基準については、<span>総務大臣{'法務省令': 1}</span>が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="21">
+        <ArticleCaption>（都道府県知事以外の当該都道府県の執行機関への本人確認情報の提供方法）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十二の規定による特定都道府県知事保存本人確認情報（同条に規定する特定都道府県知事保存本人確認情報をいう。）の提供は、電子計算機の操作によるものとし、電気通信回線を通じた送信又は磁気ディスクの送付の方法に関する技術的基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="21_2">
+        <ArticleCaption>（本人確認情報を利用することができる事務）</ArticleCaption>
+        <ArticleTitle>第二十一条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'令': 1}</span>第三十条の十五第四項に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で定める事務は、次に掲げるとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">番号<span>利用{'規定': 1}</span>法第八条第二項に規定する事務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律の規定による通知カード及び個人番号カード並びに情報提供ネットワークシステムによる特定個人情報の提供等に関する省令（平成二十六年総務省令第八十五号）第三十五条第一項第四号、第五号及び第七号に規定する事務</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="22">
+        <ArticleCaption>（機構における本人確認情報及び住民票コードの提供状況についての報告書の作成及び公表）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十六の規定による<span>報告書{'手続': 1}</span>の作成及び公表は、次の各号に掲げる事項につき<span>報告書{'手続': 1}</span>を作成し、官報に公告し、かつ、機構の事務所に備えて置き、五年間、一般の閲覧に供するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">機構保存本人確認情報の提供先、機構保存本人確認情報の提供を行った年月、提供した機構保存本人確認情報の件数及び機構保存本人確認情報の提供の方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">住民票コードの提供を行った年月、提供した住民票コードの件数</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="23">
+        <ArticleCaption>（本人確認情報管理規程の記載事項）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十七第一項の総務省令で定める事項は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第三十条の七第一項の規定による通知に係る本人確認情報（以下「本人確認情報」という。）の適正な管理に関する職員の<span>意識{'規定': 1}</span>の啓発及び教育に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第三十条の十七第一項に定める事務（以下「<span>本人確認{'規定': 1}</span>情報処理事務」という。）の実施に係る事務を統括管理する者に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>本人確認{'手続': 1}</span>情報の消去を適切に実施するための必要な措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>本人確認{'手続': 1}</span>情報の漏えい、滅失及び毀損を防止するための措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>本人確認{'手続': 1}</span>情報処理事務に関する帳簿、書類、資料及び磁気ディスクの保存に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">本人確認情報処理事務に関して知り得た秘密の保持に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">本人確認情報の処理に係る電子計算機及び端末装置を設置する場所の入出場の管理その他これらの施設への不正なアクセスを予防するための措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">本人確認情報の処理に係る電子計算機及び端末装置が不正に操作された疑いがある<span>場合{'手続': 1}</span>における<span>調査{'規定': 1}</span>その他<span>不正{'規定': 1}</span>な操作に対する必要な措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">本人確認情報処理事務の実施に係る監査に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げるもののほか、本人確認情報の適切な管理を図るための必要な措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>機構{'手続': 1}</span>は、法第三十条の十七第一項<span>前段{'一条': 1}</span>の規定による認可を<span>受けよ{'ある': 1}</span>うとするときは、その旨を記載した申請書に本人確認情報管理規程を添えて総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">機構は、法第三十条の十七第一項後段の規定による変更の認可を受けようとするときは、<span>次に{'ただし': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>申請書{'規定': 1}</span>を<span>総務大臣{'法務大臣': 1, '行政庁': 1, '規定': 1}</span>に<span>提出{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>変更{'手続': 1}</span>しようとする<span>事項{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更の<span>理由{'届出': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="24">
+        <ArticleCaption>（帳簿の記載）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の十八の<span>総務省令{'法務省令': 1}</span>で<span>定める{'掲げる': 1}</span>事項は、機構保存本人確認情報の提供先、機構保存本人確認情報の提供を行った年月日、提供した機構保存本人確認情報の件数及び機構保存本人確認情報の提供の方法とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="25">
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="26">
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="27">
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="27_2">
+        <ArticleTitle>第二十七条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="27_3">
+        <ArticleTitle>第二十七条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="28">
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="29">
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="30">
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="31">
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="32">
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="33">
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="34">
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="35">
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="36">
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="37">
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="38">
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="39">
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="40">
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="41">
+        <ArticleTitle>第四十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="42">
+        <ArticleCaption>（旧氏の記載、変更及び削除に係る請求書の記載事項）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十四第一項、第三項及び第四項に規定する<span>総務省令{'法務省令': 1}</span>で定める事項は、氏名、住所並びに<span>住民票コード{'手続': 1}</span>又は出生の年月日及び男女の別とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="43">
+        <ArticleCaption>（旧氏の記載及び変更に係る請求書の提出の際に添付する書類）</ArticleCaption>
+        <ArticleTitle>第四十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十四第一項及び第三項に規定する総務省令で定める書面は、戸籍法第十二条の二に規定する除籍謄本等とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="44">
+        <ArticleCaption>（旧氏記載者に関する読替え）</ArticleCaption>
+        <ArticleTitle>第四十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十四第一項に規定する旧氏記載者に係る第十一条の規定の適用については、同条第三項第二号中「<span>次に{'及び': 1}</span><span>掲げる{'ある': 1}</span><span>氏名{'規定': 1}</span>」と<span>ある{'除く': 1}</span>のは「<span>次に{'ただし': 1}</span><span>掲げる{'ある': 1}</span><span>氏名{'事項': 1}</span>及び令第三十条の十三に規定する旧<span>氏{'規定': 1}</span>（以下この号において「旧氏」という。）」と、同号ロ及びト中「氏名」とあるのは「氏名及び旧氏」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="45">
+        <ArticleCaption>（通称の記載及び削除に係る申出書の記載事項）</ArticleCaption>
+        <ArticleTitle>第四十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十六第一項に規定する<span>総務省令{'法務省令': 1}</span>で定める事項は、氏名、住所並びに<span>住民票コード{'手続': 1}</span>又は出生の年月日及び男女の別並びに令第三十条の十六第一項に規定する通称（以下「通称」という。）として記載を求める呼称が国内における社会生活上通用していることその他の居住関係の公証のために住民票に記載されることが必要であると認められる事由の説明とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十六第四項に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で<span>定める{'掲げる': 1}</span>事項は、氏名、住所並びに<span>住民票コード{'手続': 1}</span>又は出生の年月日及び男女の別とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="46">
+        <ArticleCaption>（外国人住民に係る住民票に通称が記載されている場合の読替え）</ArticleCaption>
+        <ArticleTitle>第四十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四十五に規定する外国人住民（以下「外国人住民」という。）に係る住民票に通称が記載されている場合における第十一条の規定の適用については、同<span>条{'規定': 1}</span>第三項第二号中「<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>氏名{'規定': 1}</span>」と<span>ある{'除く': 1}</span>のは「<span>次に{'ただし': 1}</span><span>掲げる{'ある': 1}</span>氏名及び令第三十条の十六第一項に規定する通称（以下この号において「通称」という。）」と、同号ロ及びト中「氏名」とあるのは「氏名及び通称」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="47">
+        <ArticleCaption>（在留カードに代わる書類等）</ArticleCaption>
+        <ArticleTitle>第四十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四十五に規定する総務省令で定める場合は、出入国管理及び難民認定法及び日本国との平和条約に<span>基づき{'ある': 1}</span><span>日本{'規定': 1}</span>の<span>国籍{'手続': 1}</span>を<span>離脱{'手続': 1}</span><span>した{'手続': 1}</span>者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号。次項において「入管法等改正法」という。）附則第七条第一項に規定する出入国在留管理庁長官が中長期在留者（出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下この項において「入管法」という。）第十九条の三に規定する中長期在留者をいう。）に対し、出入国港において在留カード（入管法第十九条の三に規定する在留カードをいう。次項において同じ。）を交付することができない場合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四十五に規定する<span>総務省令{'法務省令': 1, '手続': 1}</span>で定める書類は、入管法等改正法附則第七条第一項の規定により、後日在留カードを交付する旨の記載がされた旅券とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="48">
+        <ArticleCaption>（中長期在留者等が住所を定めた場合の転入届の特例）</ArticleCaption>
+        <ArticleTitle>第四十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四十六に規定する総務省令で定める場合は、次に掲げる場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第三十条の四十六に規定する中長期在留者等で、住民基本台帳に記録されていないものが新たに市町村の区域内に住所を<span>定め{'ある': 1}</span>た<span>場合{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>日本{'規定': 1}</span>の<span>国籍{'規定': 1}</span>を<span>有{'規定': 1}</span><span>しない{'規定': 1}</span>者（<span>法{'手続': 1}</span>第三十条の四十五の表の上欄に掲げる者を除く。）で、住民基本台帳に記録されていないものが法第三十条の四十六に規定する中長期在留者等となった後に転入をした場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="49">
+        <ArticleCaption>（外国語で作成した文書への訳文の添付）</ArticleCaption>
+        <ArticleTitle>第四十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三十条の四十八又は第三十条の四十九に規定する世帯主との続柄を証する文書で外国語によって作成されたものについては、<span>翻訳者{'規定': 1}</span>を明らかにした訳文を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="50">
+        <ArticleCaption>（外国人住民の世帯主との続柄を証する文書の提出を要しない場合）</ArticleCaption>
+        <ArticleTitle>第五十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十条の十九第四号の<span>総務省令{'規定': 1}</span>で定める場合は、次に掲げる場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">世帯主でない外国人住民が法第二十五条の規定による届出をする場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">令第八条、第八条の二、第十条又は第十二条第三項の規定により消除された住民票、戸籍に関する届書、申請書その他の書類又は法第九条第二項の規定による通知に係る書面その他の世帯主でない外国人住民とその世帯主との親族関係を明らかにすることができる書類を住所地市町村長が保存している場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="51">
+        <ArticleCaption>（市町村における本人確認情報の記録及び保存の方法）</ArticleCaption>
+        <ArticleTitle>第五十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三十四条第二項の規定による<span>本人確認{'規定': 1}</span>情報の記録及び保存は、電子計算機の<span>操作{'手続': 1}</span>によるものとし、<span>磁気ディスク{'規定': 1}</span>への記録及びその保存の方法に関する<span>技術的{'手続': 1}</span>基準については、総務大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年一月二八日自治省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条から<span>第三条{'不動産登記規則': 1}</span>までとして三条を<span>加える{'ある': 1}</span>改正規定（第一条に係る部分に限る。）は、<span>住民基本台帳法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span>（平成十一年<span>法律{'規定': 1}</span>第百三十三号）<span>附則{'規定': 1}</span>第<span>一条{'規定': 2}</span><span>本文{'規定': 1}</span>の政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、内閣法の一部を改正する法律（平成十一年<span>法律{'規定': 1}</span>第八十八号）の<span>施行{'規定': 1}</span>の日（平成十三年一月六日）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年一〇月一〇日総務省令第一三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>住民基本台帳法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span>の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月一二日総務省令第八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、<span>住民基本台帳法{'金融商品取引法': 1}</span>の一部を改正する法律<span>附則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第三号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>の<span>施行{'規定': 1}</span>の日（平成十五年八月二十五日）から<span>施行{'手続': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>第三条{'一条': 1}</span>の次に五条を<span>加える{'ある': 1}</span>改正規定（第四条に係る部分に限る。）は、公布の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年九月二九日総務省令第一二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>は、法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年三月二日総務省令第三三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十六年<span>三月八日{'公布': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年九月二五日総務省令第一〇八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成二十年八月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年三月二八日総務省令第三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、住民基本台帳法の一部を改正する<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日（平成二十年<span>五月一日{'規定': 1}</span>）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年三月二五日総務省令第二六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、平成二十一年四月二十日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>による<span>改正{'規定': 1}</span>後の<span>住民基本台帳法{'規定': 1}</span>施行規則の規定は、この省令の施行の日以後に発行される<span>住民基本台帳カード{'手続': 1}</span>について<span>適用{'施行': 1}</span>し、この省令の施行の日前に発行された住民基本台帳カードについては、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令による改正後の別記様式第１中「<span>図形{'規定': 1}</span>１」の部分及び備考４並びに別記様式第２中「<span>図形{'規定': 1}</span>１」の部分及び備考４については、前項の規定にかかわらず、当該<span>住民基本台帳カード{'規定': 1}</span>を発行する市町村長（特別区の区長を含む。）が<span>特に{'相当': 1}</span><span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span><span>場合{'手続': 1}</span>は、<span>当分{'手続': 1}</span>の<span>間{'規定': 2}</span>は、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年一二月二七日総務省令第一一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>住民基本台帳法{'会社法': 1, '規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span>（以下「<span>改正{'規定': 1}</span>法」と<span>いう{'ある': 1}</span>。）の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第五条の次に一条を<span>加える{'ある': 1}</span>改正規定、第十<span>一条{'同法': 2}</span>の改正規定及び第四十四条の次に六条を<span>加える{'ある': 1}</span>改正規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">出入国管理及び難民認定法及び日本国との平和条約に<span>基づき{'ある': 1}</span><span>日本{'規定': 1}</span>の<span>国籍{'手続': 1}</span>を<span>離脱{'手続': 1}</span><span>した{'手続': 1}</span>者等の出入国管理に関する特例法の一部を改正する<span>等{'法律': 1, '規定': 1}</span>の法律（平成二十一年法律第七十九号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>附則{'一条': 1}</span>第二条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（外国人住民に係る住民票に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">改正法附則第五条第一項に規定する<span>総務省令{'手続': 1}</span>で定めるものは、改正法附則第三条第五項に規定する<span>通知{'規定': 1}</span>を<span>受け{'ある': 1}</span>た後、同<span>条{'手続': 1}</span>第一項に<span>規定{'手続': 1}</span>する仮<span>住民票{'規定': 1}</span>（以下この<span>条{'規定': 1}</span>において「仮<span>住民票{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>のうち<span>改正{'手続': 1}</span>法による<span>改正{'規定': 2}</span>後の<span>住民基本台帳法{'規定': 2}</span>第二十二条第一項第二号又は第五号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>に<span>変更{'定め': 1, '手続': 1}</span>の<span>あっ{'生じ': 1, 'ある': 1}</span>た<span>場合{'手続': 1}</span>において、<span>住民基本台帳法{'手続': 1}</span><span>施行{'規定': 1}</span>令の<span>一部{'手続': 1}</span>を<span>改正{'規定': 1}</span>する<span>政令{'規定': 1}</span>（平成二十二年<span>政令{'規定': 1}</span>第二百五十三号）<span>附則{'規定': 1}</span>第五条の規定により当該仮住民票の記載の修正が行われていないもの以外のものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年一月二〇日総務省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一月三〇日総務省令第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十七年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条から第<span>八条{'規定': 1}</span>までの<span>規定{'手続': 1}</span>は、<span>地方自治法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日（平成二十八年<span>四月一日{'規定': 1}</span>）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日総務省令第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>行政手続における特定の個人を識別するための番号の利用等に関する法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月一六日総務省令第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>行政手続における特定の個人を識別するための番号の利用等に関する法律{'規定': 1}</span>（以下この<span>条{'附則': 1, '規定': 1}</span>及び<span>次{'規定': 1}</span>条第一項において「<span>番号{'規定': 1}</span><span>利用{'規定': 1}</span>法」と<span>いう{'ある': 1}</span>。）<span>附則{'規定': 1}</span>第一条第四号に掲げる規定の施行の日（平成二十八年<span>一月一日{'四月一日': 1, '手続': 1}</span>）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九条中<span>電子署名に係る地方公共団体の認証業務に関する法律{'規定': 1}</span>施行規則第三十条の二を第三十七条とし、同条の次に三節及び章名を加える改正規定（第六十五条及び第六十七条から第六十九条までに係る部分に限る。）並びに第十三条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の<span>日{'改正': 1, '規定': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">番号利用法附則第一条第五号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>の<span>施行{'規定': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>行政手続における特定の個人を識別するための番号の利用等に関する法律{'施行': 1, '手続': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴う{'取り消さ': 1}</span><span>関係{'規定': 1}</span><span>法律{'規定': 1}</span>の<span>整備{'規定': 1}</span>等に関する法律（以下この条において「<span>番号{'改正': 1}</span>利用法<span>整備法{'規定': 1}</span>」という。）第十九条の規定による改正前の住民基本台帳法（昭和四十二年<span>法律{'規定': 1}</span>第八十一号。以下この<span>条{'規定': 1}</span>において「旧<span>住民基本台帳法{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）第三十条の四十四第三項の<span>規定{'手続': 1}</span>により交付された同条第一項に規定する住民基本台帳カード（次項において「住民基本台帳カード」という。）は、番号利用法整備法第二十条第一項の規定によりなお従前の例によることとされた旧住民基本台帳法第三十条の四十四第九項の規定によりその<span>効力{'規定': 1}</span>を<span>失う{'ある': 1}</span>時までの<span>間{'規定': 1}</span>は、<span>番号{'規定': 1}</span><span>利用{'規定': 1}</span>法第<span>二条{'手続': 1}</span>第七項に<span>規定{'手続': 1}</span>する<span>個人番号カード{'手続': 1}</span>（<span>次項{'規定': 1}</span>において「<span>個人番号カード{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）と<span>みなし{'ある': 1}</span>て、第五条及び第六条の<span>規定{'手続': 1}</span>による<span>改正{'規定': 1}</span>後の<span>住民基本台帳法{'規定': 1}</span><span>施行規則{'手続': 1}</span>の<span>規定{'手続': 1}</span>を<span>適用{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>次に{'相当': 1}</span>掲げる省令の規定の適用については、<span>住民基本台帳カード{'手続': 1}</span>（第五条の規定による改正前の住民基本台帳法施行規則<span>別記{'規定': 1}</span><span>様式{'手続': 1}</span>第二の様式によるものに限る。）は、番号利用法<span>整備法{'施行': 1, '手続': 1}</span>第二十条第一項の<span>規定{'手続': 1}</span>によりなお従前の例によることとされた旧住民基本台帳法第三十条の四十四第九項の規定によりその<span>効力{'規定': 1}</span>を<span>失う{'ある': 1}</span>時までの<span>間{'規定': 1}</span>は、<span>個人番号カード{'規定': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第三条の規定による改正後の<span>住民基本台帳{'規定': 1}</span>の一部の写しの閲覧及び住民票の写し等の交付に関する省令第二条第三項<span>第一{'規定': 2}</span>号、第五条第一号、<span>第九条{'規定': 1}</span>第二号<span>及び{'ただし': 1}</span>第十<span>一条{'規定': 1}</span><span>第一{'規定': 1}</span>号イ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第九条の規定による改正後の電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律施行規則（次条において「新公的個人認証法施行規則」という。）第五条第一項第一号（同条第三項及び第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）<span>及び{'ただし': 1}</span>第二項<span>第一{'規定': 1}</span>号（同<span>条{'規定': 1}</span>第三項及び第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）、第四十<span>一条{'規定': 1}</span><span>第一{'規定': 1}</span>項第一号（同<span>条{'規定': 1}</span>第三項及び第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）<span>及び{'ただし': 1}</span>第二項<span>第一{'規定': 1}</span>号（同<span>条{'規定': 1}</span>第三項及び第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）、第七十五条第二項<span>第一{'規定': 1}</span>号及び第三項<span>第一{'規定': 1}</span>号<span>並び{'規定': 1}</span>に第七十六条第二項<span>第一{'一条': 1, '規定': 1}</span>号及び第三項第一号</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十一条の規定による改正後の武力攻撃事態等における安否情報の収集及び報告の方法並びに安否情報の照会及び回答の手続その他の必要な事項を定める省令第三条第二項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十一条の規定による改正後の統計法施行規則（以下この号において「新統計法施行規則」という。）第十一条第二項第一号（新統計法施行規則第十六条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十二条の規定による改正後の携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則（以下この号において「新携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則」という。）第五条第一項第一号イ（新携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則第十一条第六項、第十二条第一項及び第二項、第十三条第三項、第十四条第三項並びに第二十四条において準用する場合を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月二九日総務省令第四〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二八日総務省令第二八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、平成三十一年<span>四月一日{'規定': 1}</span>から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月一五日総務省令第六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、<span>住民基本台帳法{'規定': 1}</span><span>施行令{'規定': 1}</span>等の<span>一部{'手続': 1}</span>を<span>改正{'規定': 1}</span>する<span>政令{'法律': 1, '規定': 1}</span>（平成三十一年<span>政令{'規定': 1}</span>第百五十二号）の<span>施行{'規定': 1}</span>の日（令和元年十一月五日）から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一二日総務省令第一四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、<span>情報通信{'規定': 1}</span><span>技術{'規定': 1}</span>の<span>活用{'規定': 1}</span>による<span>行政{'手続': 1}</span><span>手続{'規定': 1}</span>等に係る<span>関係者{'手続': 1}</span>の<span>利便性{'手続': 1}</span>の<span>向上{'手続': 1}</span>並びに<span>行政{'規定': 1}</span><span>運営{'規定': 1}</span>の<span>簡素化{'手続': 1}</span>及び<span>効率化{'規定': 1}</span>を<span>図る{'ある': 1}</span>ための<span>行政{'規定': 1}</span><span>手続{'規定': 1}</span>等における<span>情報通信{'手続': 1}</span>の<span>技術{'規定': 1}</span>の<span>利用{'手続': 1}</span>に関する<span>法律{'規定': 1}</span>等の<span>一部{'規定': 1}</span>を<span>改正{'規定': 1}</span>する<span>法律{'規定': 1}</span>（令和元年<span>法律{'規定': 1}</span>第十六号）<span>附則{'規定': 1}</span>第一条第二号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第１</AppdxStyleTitle>
+      <RelatedArticleNum>（第３７条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第２</AppdxStyleTitle>
+      <RelatedArticleNum>（第３７条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxFig>
+      <AppdxFigTitle WritingMode="vertical">別紙図形</AppdxFigTitle>
+      <RelatedArticleNum>（別記様式第１及び別記様式第２関係）</RelatedArticleNum>
+      <FigStruct>
+        <Fig src=""/>
+      </FigStruct>
+    </AppdxFig>
+  </LawBody>
+</Law>

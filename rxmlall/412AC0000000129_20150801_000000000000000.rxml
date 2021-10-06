@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="129" Year="12">
+  <LawNum>平成十二年法律第百二十九号</LawNum>
+  <LawBody>
+    <LawTitle>外国倒産処理手続の承認援助に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　外国倒産処理手続の承認</ChapterTitle>
+        <ArticleRange>（第十七条―第二十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　外国倒産処理手続に対する援助の処分</ChapterTitle>
+        <ArticleRange>（第二十五条―第五十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　外国倒産処理手続の承認の取消し</ChapterTitle>
+        <ArticleRange>（第五十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　他の倒産処理手続がある場合の取扱い</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　国内倒産処理手続がある場合の取扱い</SectionTitle>
+          <ArticleRange>（第五十七条―第六十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　他の外国倒産処理手続の承認援助手続がある場合の取扱い</SectionTitle>
+          <ArticleRange>（第六十二条―第六十四条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第六十五条―第七十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、国際的な経済活動を行う債務者について開始された外国倒産処理手続に対する承認援助手続を定めることにより、当該外国倒産処理手続の効力を日本国内において適切に実現し、もって当該債務者について国際的に整合のとれた財産の清算又は経済的再生を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義等）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において、次の各号に<span>掲げる{'ある': 1}</span><span>用語{'規定': 1}</span>の<span>意義{'規定': 1}</span>は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国倒産処理手続</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">外国で申し立てられた手続で、破産手続、再生手続、更生手続又は特別清算手続に相当するものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国主手続</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">債務者が<span>営業{'規定': 1}</span>者である場合に<span>あっ{'ある': 1}</span>てはその主たる営業所がある国で申し立てられた外国倒産処理手続、営業者でない場合又は営業所を有しない場合にあっては、<span>当該{'規定': 1}</span><span>債務者{'手続': 1}</span>が個人であるときは住所がある国で申し立てられた外国倒産処理手続、法人その他の社団又は財団であるときは主たる事務所がある国で申し立てられた外国倒産処理手続をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国従手続</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">外国主手続でない外国倒産処理手続をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">国内倒産処理手続</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">日本国内で申し立てられた破産手続、再生手続、更生手続又は特別清算手続をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国倒産処理手続の<span>承認{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">外国倒産処理手続について、これを日本国内において第三章の規定による援助の処分をすることができる基礎として承認することを<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>承認{'規定': 1}</span>援助手続</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次章以下に定めるところにより、<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てについての裁判並びに債務者の<span>日本国内{'規定': 1}</span>における業務及び財産に関し当該外国倒産処理手続を援助するための処分をする手続をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国<span>管財人{'裁判所': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">外国倒産処理手続において債務者の財産の管理及び処分をする<span>権利{'規定': 1}</span>を有する者であって、債務者以外のものを<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">外国管財人等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">外国倒産処理手続において外国管財人がある場合には外国<span>管財人{'当該': 1}</span>、<span>外国{'当該': 1}</span>管財人がない場合には債務者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">承認<span>管財人{'前項': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第三十二条第一項の規定により債務者の日本国内における業務及び財産に関し管理を命じられた者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>民事訴訟法{'規定': 1}</span>（平成八年<span>法律{'手続': 1}</span>第百九号）の規定により裁判上の請求をすることができる債権は、<span>日本国内{'手続': 1}</span>にあるものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（外国人の地位）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国人又は外国法人は、承認援助手続に関し、日本人又は日本法人と同一の地位を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（承認援助事件の管轄）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認援助<span>事件{'規定': 1}</span>は、<span>東京地方裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>に<span>専属{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（承認援助事件の移送）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>裁判所{'規定': 1}</span>は、<span>著しい{'なく': 1}</span><span>損害{'規定': 1}</span>又は<span>遅滞{'規定': 1}</span>を<span>避ける{'ある': 1}</span>ため必要があると認めるときは、職権で、<span>外国倒産処理手続{'手続': 1}</span>の<span>承認{'規定': 1, '手続': 1}</span>の決定と同時に又はその決定後、承認<span>援助{'規定': 1}</span><span>事件{'規定': 1}</span>を<span>債務者{'手続': 1}</span>の<span>住所{'規定': 1}</span>、<span>居所{'規定': 1}</span>、<span>営業所{'規定': 1}</span>、<span>事務所{'規定': 1}</span>又は<span>財産{'規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>管轄{'規定': 1}</span>する<span>地方裁判所{'規定': 1}</span>に<span>移送{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（任意的口頭弁論等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>に関する<span>裁判{'規定': 1}</span>は、<span>口頭弁論{'手続': 1}</span>を<span>経{'ある': 1}</span>ないですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>職権{'手続': 1}</span>で、<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>事件{'規定': 1}</span>に関して<span>必要{'規定': 1}</span>な<span>調査{'手続': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（不服申立て）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>に関する<span>裁判{'手続': 1}</span>につき<span>利害関係{'規定': 1}</span>を<span>有する{'ある': 1}</span>者は、この<span>法律{'規定': 1}</span>に<span>特別{'規定': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>に<span>限り{'除き': 1, 'ある': 1}</span>、<span>当該{'即時抗告': 1, '規定': 1}</span><span>裁判{'手続': 1}</span>に対し<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">その<span>期間{'手続': 1}</span>は、<span>裁判{'規定': 1}</span>の<span>公告{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>公告{'規定': 1}</span>が<span>効力{'規定': 1}</span>を<span>生じ{'ある': 1}</span>た日から<span>起算{'規定': 1}</span>して二週間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（公告等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>公告{'規定': 1}</span>は、<span>官報{'規定': 1}</span>に<span>掲載{'規定': 1}</span>してする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>公告{'規定': 1}</span>は、<span>掲載{'場合': 1, '規定': 1}</span>が<span>あっ{'ある': 1}</span>た日の<span>翌日{'規定': 1}</span>に、その<span>効力{'規定': 1}</span>を<span>生ずる{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>送達{'規定': 1}</span>をしなければならない<span>場合{'規定': 1}</span>には、<span>公告{'規定': 1}</span>を<span>もっ{'ある': 1}</span>て、これに<span>代える{'ある': 1}</span>ことができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>公告{'規定': 1}</span>及び<span>送達{'規定': 1}</span>をしなければならない<span>場合{'規定': 1}</span>は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>裁判{'規定': 1}</span>の<span>公告{'規定': 1}</span>がされたときは、<span>一切{'規定': 1}</span>の<span>関係{'規定': 1}</span>人に対して<span>当該{'規定': 1}</span><span>裁判{'規定': 1}</span>の<span>告知{'手続': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなす{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の<span>規定{'手続': 1}</span>は、この<span>法律{'規定': 1}</span>に<span>特別{'別段': 1, '規定': 1}</span>の<span>定め{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'規定': 1}</span>には、<span>適用{'規定': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（法人の承認援助手続に関する登記の嘱託等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>法人{'規定': 1}</span>である<span>債務者{'手続': 1}</span>について、第三十二条第一項<span>又は{'ただし': 1}</span>第五十<span>一条{'規定': 1}</span>第一項（同<span>条{'規定': 1}</span>第三項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>処分{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、<span>裁判所書記官{'規定': 1}</span>は、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span><span>なく{'やすい': 1}</span>、当該処分の登記を債務者の<span>本店{'規定': 1}</span>又は主たる事務所の所在地を管轄する登記所に嘱託しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、債務者が外国法人であるときは、外国会社にあっては<span>日本{'当該': 1}</span>における各代表者（日本に住所を<span>有する{'ある': 1}</span>ものに<span>限る{'ある': 1}</span>。）の住所地（日本に営業所を設けた<span>外国会社{'規定': 1}</span>にあっては、当該各営業所の所在地）、その他の外国法人にあっては各事務所の所在地を管轄する登記所に<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>に規定する処分の登記には、承認管財人又は保全管理人の氏名又は名称及び住所、承認管財人又は保全管理人がそれぞれ<span>単独{'受託': 1}</span>にその職務を行うことについて第三十九条第一項ただし書（第五十五条第一項において準用する場合を<span>含む{'ある': 1}</span>。以下この<span>項{'規定': 2}</span>において同じ。）の許可があったときはその旨並びに承認管財人又は保全管理人が職務を分掌することについて第三十九条第一項ただし書の許可があったときはその旨及び各承認管財人又は各保全管理人が分掌する職務の内容をも登記しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の規定は、同<span>項{'届出': 1}</span>に<span>規定{'手続': 1}</span>する<span>処分{'裁判': 1, '規定': 1}</span>の<span>変更{'規定': 1}</span><span>若しくは{'ただし': 1}</span><span>取消し{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>、<span>当該{'規定': 1}</span><span>処分{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>場合{'規定': 1}</span>（第六十<span>一条{'手続': 1}</span>第二項又は第六十四条の<span>規定{'手続': 1}</span>により<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>が<span>効力{'規定': 1}</span>を<span>失っ{'ある': 1}</span>たことにより<span>当該{'規定': 1}</span><span>処分{'規定': 1}</span>がその<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>場合{'規定': 1}</span>を<span>除く{'ある': 1}</span>。<span>次{'規定': 1}</span>条第二項及び第五項において同じ。）又は<span>前項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>事項{'規定': 1}</span>に<span>変更{'手続': 1}</span>が<span>生じ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所書記官{'規定': 1}</span>は、<span>法人{'規定': 1}</span>である<span>債務者{'手続': 1}</span>について<span>第五{'規定': 1}</span>十七条第二項<span>本文{'規定': 1}</span>、<span>第五{'規定': 1}</span>十八<span>条{'規定': 1}</span>第一項（同条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）、<span>第五{'規定': 1}</span>十九条<span>第一{'規定': 1}</span>項第一号又は第六十条第一項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'受託': 1, '規定': 1}</span>において、<span>当該{'規定': 1}</span><span>債務者{'規定': 1}</span>について<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>登記{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ときは、<span>職権{'場合': 1, '規定': 1}</span>で、<span>遅滞{'手続': 1}</span><span>なく{'やすい': 1}</span>、<span>当該{'規定': 1}</span><span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>の登記を第一項に規定する登記所に嘱託しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>破産法{'規定': 1}</span>（平成十六年<span>法律{'規定': 1}</span>第七十五号）第二百五十七条第一項又は第四項の規定による<span>登記{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">民事再生法（平成十一年法律第二百二十五号）第十一条第一項又は第二項の規定による登記</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会社更生法（平成十四年法律第百五十四号）第二百五十八条第一項若しくは第四項又は金融機関等の更生手続の特例等に関する法律（平成八年法律第九十五号）第百五十九条第一項若しくは第四項若しくは第三百三十二条第一項若しくは第四項の規定による登記</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>会社法{'規定': 1}</span>（平成十七年<span>法律{'規定': 1}</span>第八十六号）第九百三十八条<span>第一{'規定': 1}</span>項第一号（<span>他{'規定': 2}</span>の<span>法律{'規定': 1}</span>において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>登記{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'場合': 1, '手続': 1}</span>は、同<span>項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>中止{'保全': 1, '規定': 1}</span>の<span>命令{'規定': 1}</span>の<span>取消し{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>又は<span>当該{'規定': 1}</span><span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>場合{'手続': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所書記官{'規定': 1}</span>は、<span>法人{'規定': 1}</span>である<span>債務者{'手続': 1}</span>について第五十六条第一項第三号の<span>規定{'手続': 1}</span>による<span>承認{'規定': 1}</span>の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>が<span>確定{'手続': 1}</span>した<span>場合{'手続': 1}</span>において、<span>当該{'規定': 1}</span><span>債務者{'規定': 1}</span>について第四項各号に<span>掲げる{'ある': 1}</span><span>登記{'行為': 1, '規定': 1}</span>又は第六十四条の<span>規定{'手続': 1}</span>によりその<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た他の<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'法律': 1, '規定': 1}</span>において第一項の<span>規定{'手続': 1}</span>によりされた<span>登記{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span>なく、その登記の抹消を嘱託しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">破産手続、再生手続、<span>更生{'手続': 1}</span>手続又は特別清算手続の係属する裁判所の裁判所書記官は、破産手続終結の決定があった場合又は再生<span>計画{'規定': 1}</span>認可の決定、更生計画認可の決定若しくは特別清算終結の決定が確定した場合において、第六十一条第二項の規定によりその<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'法律': 1, '規定': 1}</span>において第一項の<span>規定{'手続': 1}</span>によりされた<span>登記{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span><span>なく{'著しい': 1}</span>、その<span>登記{'規定': 1}</span>の<span>抹消{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（登記のある権利についての登記等の嘱託）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>債務者{'手続': 1}</span>について第三十二条第一項の<span>規定{'手続': 1}</span>による<span>処分{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、<span>債務者{'信託': 1, '規定': 1}</span>の<span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>権利{'規定': 1}</span>で<span>登記{'規定': 1}</span>がされたものが<span>ある{'取り消さ': 1}</span>ことを<span>知っ{'ある': 1}</span>たときは、<span>裁判所書記官{'規定': 1}</span>は、<span>職権{'規定': 1}</span>で、<span>遅滞{'手続': 1}</span><span>なく{'やすい': 1}</span>、<span>当該{'規定': 1}</span><span>処分{'規定': 1}</span>の<span>登記{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>は、同<span>項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>処分{'規定': 1}</span>の<span>取消し{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>又は<span>当該{'保全': 1, '規定': 1}</span><span>処分{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の<span>規定{'手続': 1}</span>は、<span>前条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>により第三十二条第一項の<span>規定{'保全': 1, '手続': 1}</span>による<span>処分{'規定': 1}</span>の<span>登記{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>した<span>場合{'規定': 1}</span>には、<span>適用{'規定': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>債務者{'信託': 1, '規定': 1}</span>の<span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>権利{'規定': 1}</span>で<span>登記{'規定': 1}</span>がされたものに関し第二十六条第一項又は第二項の<span>規定{'手続': 1}</span>による<span>処分{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、<span>裁判所書記官{'規定': 1}</span>は、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span><span>なく{'やすい': 1}</span>、<span>当該{'規定': 1}</span><span>処分{'規定': 1}</span>の<span>登記{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>は、同<span>項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>処分{'規定': 1}</span>の<span>変更{'規定': 1}</span><span>若しくは{'ただし': 1}</span><span>取消し{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>又は<span>当該{'保全': 1, '規定': 1}</span><span>処分{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'生じ': 1, 'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所書記官{'規定': 1}</span>は、第五十六条第一項第三号の<span>規定{'手続': 1}</span>による<span>承認{'規定': 1}</span>の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>が<span>確定{'手続': 1}</span>した<span>場合{'間': 1, '手続': 1}</span>において、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>登記{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ことを<span>知っ{'ある': 1}</span>たときは、<span>職権{'規定': 1}</span>で、<span>遅滞{'手続': 1}</span><span>なく{'著しい': 1}</span>、その<span>登記{'規定': 1}</span>の<span>抹消{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span>の財産に属する権利で登記がされたものについて<span>破産法{'手続': 1}</span>第二百五十八条第一項第二号若しくは第二百五十九条第一項第一号（同条第二項において準用する場合を<span>含む{'ある': 1}</span>。）、<span>民事再生法{'規定': 1}</span>第十<span>二条{'規定': 1}</span>第一項（同条第二項において準用する場合を含む。）、<span>会社更生法{'規定': 1}</span>第二百六十条第一項（同条第二項において準用する場合を含む。）、金融機関等の更生手続の特例等に関する法律第百六十<span>一条{'法律': 1}</span>第一項（同条第二項において準用する場合を含む。）若しくは第三百三十四<span>条{'規定': 2}</span>第一項（同条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）又は<span>会社法{'規定': 1}</span>第九百三十八<span>条{'届出': 1}</span>第三項（同条第四項又は<span>他{'規定': 1}</span>の<span>法律{'規定': 1}</span>において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>によりされた<span>登記{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第六十四条の<span>規定{'手続': 1}</span>によりその<span>効力{'規定': 1}</span>を<span>失っ{'ある': 1}</span>た他の<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span>手続において第一項又は第四項の規定によりされた<span>登記{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">破産手続、再生手続、<span>更生{'手続': 1}</span>手続又は特別清算手続の係属する裁判所の裁判所書記官は、破産手続終結の決定があった場合又は再生<span>計画{'規定': 1}</span>認可の決定、更生計画認可の決定若しくは特別清算終結の決定が確定した場合において、第六十一条第二項の規定によりその<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>において第一項又は第四項の<span>規定{'手続': 1}</span>によりされた<span>登記{'手続': 1}</span>が<span>ある{'取り消さ': 1}</span>ことを<span>知っ{'ある': 1}</span>たときは、<span>職権{'規定': 1}</span>で、<span>遅滞{'手続': 1}</span><span>なく{'著しい': 1}</span>、その<span>登記{'規定': 1}</span>の<span>抹消{'規定': 1}</span>を嘱託しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（非課税）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二条の規定による登記については、登録免許税を課さない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（登録への準用）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二条の規定は、登録のある権利について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（事件に関する文書の閲覧等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>利害関係{'登記': 1, '規定': 1}</span>人は、<span>裁判所書記官{'規定': 1}</span>に対し、この<span>法律{'規定': 1}</span>又は第十五条において<span>準用{'規定': 2}</span>する<span>民事訴訟法{'規定': 1}</span>の<span>規定{'手続': 1}</span>に<span>基づき{'ある': 1}</span>、<span>裁判所{'規定': 1}</span>に<span>提出{'手続': 1}</span>され、又は<span>裁判所{'規定': 1}</span>が<span>作成{'手続': 1}</span>した<span>文書{'規定': 1}</span>その他の<span>物件{'規定': 1}</span>（以下この<span>条{'規定': 1}</span>及び<span>次{'規定': 1}</span>条第一項において「<span>文書{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）の<span>閲覧{'規定': 1}</span>を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">利害関係人は、裁判所書記官に対し、文書等の<span>謄写{'規定': 1}</span>、その正本、謄本若しくは抄本の交付又は<span>事件{'規定': 1}</span>に関する<span>事項{'手続': 1}</span>の<span>証明書{'手続': 1}</span>の<span>交付{'規定': 1}</span>を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、<span>文書{'資料': 1}</span>等のうち録音テープ又はビデオテープ（これらに準ずる方法により一定の事項を記録した物を<span>含む{'ある': 1}</span>。）に関しては、<span>適用{'規定': 1}</span>しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、これらの物について利害関係人の請求があるときは、裁判所書記官は、その複製を許さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項の規定にかかわらず、外国管財人等以外の利害関係人は、第二十五条第二項の規定による中止の命令、第二十六条第二項の規定による<span>処分{'手続': 1}</span>、第二十七条第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>、第五十<span>一条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>処分{'規定': 1}</span>、<span>第五{'規定': 1}</span>十八条第一項若しくは第六十三条第一項の規定による中止の命令又は<span>外国倒産処理手続{'規定': 2}</span>の承認の申立てについての裁判があるまでの間は、前三項の<span>規定{'手続': 1}</span>による<span>請求{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（支障部分の閲覧等の制限）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>文書等について、利害関係人がその閲覧若しくは<span>謄写{'規定': 1}</span>、その正本、謄本若しくは抄本の交付又はその<span>複製{'規定': 1}</span>（以下この条において「閲覧等」という。）を行うことにより、承認<span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>の<span>達成{'手続': 1}</span>に<span>著しい{'なく': 1}</span><span>支障{'規定': 1}</span>を<span>生ずる{'ある': 1}</span>おそれが<span>ある{'取り消さ': 1}</span><span>部分{'規定': 1}</span>（以下この<span>条{'規定': 1}</span>において「<span>支障{'規定': 1}</span><span>部分{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）が<span>ある{'取り消さ': 1}</span>ことにつき<span>疎明{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'手続': 1}</span>には、<span>裁判所{'規定': 1}</span>は、<span>当該{'手続': 1}</span>文書等を提出した債務者、外国管財人、承認管財人（承認管財人代理を含む。以下この項及び次項において同じ。）又は保全管理人（保全管理人代理を含む。以下この項及び次項において同じ。）の<span>申立て{'規定': 1}</span>により、<span>支障{'規定': 1}</span><span>部分{'規定': 1}</span>の<span>閲覧{'手続': 1}</span>等の<span>請求{'規定': 1}</span>をすることができる者を、当該申立てをした者、外国管財人等、承認管財人及び保全管理人に限ることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第三十一条第一項の規定、第三十五条第一項（第五十五条第一項において準用する場合を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>、第四十条第三項（第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）において<span>準用{'規定': 1}</span>する第三十五条第一項の<span>規定{'手続': 1}</span>又は第五十三条第一項<span>ただし書{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>許可{'規定': 1}</span>を<span>得る{'ある': 1}</span>ために<span>裁判所{'規定': 1}</span>に<span>提出{'規定': 1}</span>された<span>文書{'規定': 1}</span>等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第十七条第三項又は第四十六条（第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>報告{'規定': 1}</span>に係る<span>文書{'規定': 1}</span>等</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>申立て{'規定': 1}</span>がされたときは、その<span>申立て{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>確定{'即時抗告': 1, '規定': 1}</span>するまで、<span>利害関係{'規定': 1}</span>人（同項の申立てをした者、外国管財人等、承認管財人及び保全管理人を除く。次項において同じ。）は、支障部分の閲覧等の<span>請求{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>支障{'規定': 1}</span><span>部分{'規定': 1}</span>の<span>閲覧{'規定': 1}</span>等の<span>請求{'規定': 1}</span>を<span>しよう{'規定': 1}</span>とする<span>利害関係{'手続': 1}</span>人は、<span>裁判所{'手続': 1}</span>に対し、第一項に<span>規定{'手続': 1}</span>する<span>要件{'規定': 1}</span>を<span>欠く{'ある': 1}</span>こと又はこれを<span>欠く{'ある': 1}</span>に<span>至っ{'ある': 1}</span>たことを<span>理由{'手続': 1}</span><span>として{'とともに': 1}</span>、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>の<span>取消し{'手続': 1}</span>の<span>申立て{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>申立て{'規定': 1}</span>を<span>却下{'規定': 1}</span>した<span>決定{'手続': 1}</span>及び<span>前項{'規定': 1}</span>の<span>申立て{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>決定{'規定': 1}</span>は、<span>確定{'手続': 1}</span>しなければその<span>効力{'手続': 1}</span>を<span>生じ{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>承認{'破産手続': 1, '規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>に関しては、<span>特別{'規定': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、<span>民事訴訟法{'手続': 1}</span>の<span>規定{'手続': 1}</span>を<span>準用{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>承認{'法律': 1, '規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な事項は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　外国倒産処理手続の承認</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（外国倒産処理手続の承認の申立て）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国管財人等は、外国倒産処理手続が申し立てられている国に債務者の住所、居所、営業所又は<span>事務所{'規定': 1}</span>がある場合には、裁判所に対し、当該<span>外国倒産処理手続{'手続': 1}</span>について、その承認の申立てをすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>申立て{'場合': 1}</span>は、当該外国倒産処理手続について、破産手続開始の決定、再生<span>手続{'破産手続': 1}</span><span>開始{'手続': 1}</span>の決定、更生手続開始の決定又は特別清算開始の命令に相当する判断（第二十二条第一項において「手続開始の判断」という。）がされる前であっても、することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国<span>管財人{'規定': 1}</span>等は、第一項の申立てをした場合には、裁判所の定めるところにより、当該申立てに係る外国倒産処理手続の進行状況その他裁判所の命ずる事項を裁判所に<span>報告{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、承認援助手続の円滑な<span>進行{'規定': 1}</span>を図るために必要があると認めるときは、第一項の申立てをした外国<span>管財人{'規定': 1}</span>等に対し、承認援助手続について弁護士の中から代理人を<span>選任{'手続': 1}</span>することを<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（破産手続開始等の申立義務と外国倒産処理手続の承認の申立て）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>他{'手続': 1}</span>の<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>法人{'規定': 1}</span>の理事又はこれに準ずる者がその法人に対して破産手続開始又は<span>特別清算{'破産手続': 1}</span>開始の申立てをしなければならない場合においても、外国倒産処理手続の承認の申立てをすることを妨げない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleCaption>（疎明）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国倒産処理手続の承認の申立てをするときは、外国倒産処理手続が申し立てられている国に債務者の住所、居所、営業所又は事務所があることを<span>疎明{'場合': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（費用の予納）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国倒産処理手続の承認の申立てをするときは、外国管財人等は、承認援助手続の費用として<span>裁判所{'手続': 1}</span>の<span>定める{'ある': 1}</span><span>金額{'規定': 1}</span>を<span>予納{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>費用{'手続': 1}</span>の<span>予納{'規定': 1}</span>に関する<span>決定{'手続': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（外国倒産処理手続の承認の条件）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する場合には、裁判所は、外国倒産処理手続の承認の申立てを棄却しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認援助手続の費用の予納がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該外国倒産処理手続において、債務者の日本国内にある財産にその効力が及ばないものとされていることが明らかであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該外国倒産処理手続について次章の規定により援助の処分をすることが日本における公の秩序又は善良の風俗に反するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該外国倒産処理手続について次<span>章{'前項': 1}</span>の規定による援助の処分をする必要がないことが明らかであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">外国<span>管財人{'規定': 1}</span>等が第十七条第三項の規定に違反したとき。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その違反の程度が軽微であるときは、この限りでない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">不当な目的で申立てがされたことその他申立てが<span>誠実{'規定': 1}</span>にされたものでないことが<span>明らか{'規定': 1}</span>であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（外国倒産処理手続の承認の決定）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、第十七条第一項に規定する要件を満たす<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てがされた場合において、当該外国倒産処理手続につき手続開始の判断がされたときは、前条、第五十七条第一項又は第六十二条第一項の規定によりこれを棄却する場合を除き、外国倒産処理手続の承認の決定をする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の決定は、その決定の時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleCaption>（外国倒産処理手続の承認の公告等）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、外国倒産処理手続の承認の決定をしたときは、直ちに、当該決定の主文を公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国管財人等には、外国倒産処理手続の承認の決定の主文を記載した書面を<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">第五十<span>一条{'手続': 1}</span>第一項（同<span>条{'規定': 1}</span>第三項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の規定による処分があった場合における保全管理人についても、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">次の各号に掲げる者には、外国倒産処理手続の承認の決定があった旨を通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十五条第九項<span>本文{'規定': 1}</span>（第二十六条第六項、第二十七条第八項、第五十二条第五項及び第五十八条第七項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を含む。）の規定による通知が既にされている者については、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">租税その他の公課を所管する官庁又は公署であって最高裁判所規則で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者の<span>日本国内{'規定': 1}</span>における使用人その他の従業者の過半数で組織する労働組合があるときはその労働組合、債務者の<span>日本国内{'使用人': 1}</span>における使用人その他の従業者の過半数で組織する労働組合がないときは債務者の日本国内における使用人その他の従業者の過半数を代表する者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleCaption>（即時抗告等）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国倒産処理手続の<span>承認{'許可': 1}</span>の申立てについての裁判に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国倒産処理手続の承認の決定をした裁判所は、前項の<span>即時抗告{'申立て': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、<span>当該{'規定': 1}</span><span>決定{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>決定{'規定': 1}</span>が<span>確定{'場合': 1, '手続': 1}</span>したときは、<span>直ちに{'相当': 1}</span>その主文を公告し、かつ、外国<span>管財人{'規定': 1}</span>等にその主文を記載した書面を送達しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国倒産処理手続の承認の決定を取り消す決定が確定したときは、<span>次{'手続': 1}</span>条第一項又は第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>、第二十六条第一項又は第二項の<span>規定{'手続': 1}</span>による<span>処分{'命令': 1, '規定': 1}</span>、第二十七条第一項又は第二項の規定による中止の命令、第二十八条第一項の規定による<span>禁止{'規定': 1}</span>の命令及び第三十二条第一項の規定による<span>処分{'適用': 1}</span>は、その効力を<span>失う{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　外国倒産処理手続に対する援助の処分</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleCaption>（他の手続の中止命令等）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'手続': 1}</span>するために<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定と同時に又はその決定後、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>手続{'規定': 1}</span>の<span>中止{'手続': 1}</span>を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">強制執行、仮差押え又は<span>仮処分{'規定': 1}</span>（以下「強制執行等」という。）の手続で、債務者の財産（<span>日本国内{'規定': 1}</span>にあるものに限る。以下この項において同じ。）に対して既にされているもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者の<span>財産{'規定': 1}</span>に関する<span>訴訟{'規定': 1}</span>手続</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者の財産に関する事件で行政庁に係属しているものの手続</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、外国倒産処理手続の承認の<span>申立て{'受け': 1}</span>がされた場合には、当該申立てについて<span>決定{'変更': 1, '手続': 1}</span>をする<span>前{'手続': 1}</span>であっても、前項の規定による中止の命令をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">外国倒産処理手続の承認の申立てを棄却する決定に対して前条第一項の即時抗告がされたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'六条': 1}</span>の規定による中止の命令は、外国倒産処理手続の承認の申立てを<span>棄却{'却下': 1}</span>する決定又は同項の即時抗告を棄却する決定があったときは、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、第一項又は第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>を<span>変更{'手続': 1}</span>し、<span>又は{'ただし': 1}</span><span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所{'手続': 1}</span>は、<span>承認{'手続': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'規定': 1}</span>するために<span>特に{'相当': 1}</span><span>必要{'定め': 1, '手続': 1}</span>があると認めるときは、債務者（外国<span>管財人{'規定': 1}</span>がない場合に限る。）若しくは承認管財人の申立てにより又は職権で、担保を<span>立て{'ある': 1}</span>させて、又は立てさせないで、第一項又は第二項の<span>規定{'手続': 1}</span>により<span>中止{'規定': 1}</span>した<span>強制執行{'規定': 1}</span>等の<span>手続{'規定': 1}</span>の<span>取消し{'手続': 1}</span>を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により中止した強制執行等の手続の取消しについては、<span>外国倒産処理手続{'手続': 1}</span>の承認の<span>決定{'物件': 1}</span>があった後に限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項又は第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'手続': 1}</span>、第四項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>及び<span>前項{'前条': 1, '規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>取消し{'裁判所': 1, '規定': 1}</span>の<span>命令{'裁判': 1}</span>に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'裁判所': 1, '規定': 1}</span>においては、第八条第三項<span>本文{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、<span>適用{'手続': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第二十三条第三項各号に<span>掲げる{'ある': 1}</span>者には、第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た旨を<span>通知{'規定': 1}</span>しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同<span>条{'規定': 1}</span>第三項<span>ただし書{'第一': 1, '規定': 1}</span>に<span>規定{'手続': 1}</span>する<span>規定{'登記識別情報': 1, '手続': 1}</span>による<span>通知{'規定': 1}</span>が<span>既に{'相当': 1}</span>されている者については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（処分の禁止、弁済の禁止その他の処分）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>承認{'規定': 2}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'手続': 1}</span>するために<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定と同時に又はその決定後、債務者の<span>日本国内{'規定': 1}</span>における業務及び財産に関し、処分の禁止を命ずる処分、弁済の禁止を命ずる処分その他の処分をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、<span>外国倒産処理手続{'相続': 1}</span>の承認の申立てがされた場合には、当該申立てについて<span>決定{'変更': 1, '手続': 1}</span>をする前であっても、前項の<span>規定{'保全': 1}</span>による<span>処分{'ほか': 1}</span>をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">外国倒産処理手続の承認の申立てを<span>棄却{'却下': 2}</span>する決定に対して第二十四条第一項の即時抗告がされたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>規定{'保全': 1}</span>による処分は、外国倒産処理手続の承認の申立てを<span>棄却{'却下': 1}</span>する決定又は同項の即時抗告を棄却する決定があったときは、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、第一項又は第二項の<span>規定{'手続': 1}</span>による<span>処分{'規定': 1}</span>を<span>変更{'規定': 1}</span>し、<span>又は{'ただし': 1}</span><span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所{'規定': 1}</span>が第一項又は第二項の規定により債務者が債権者に対して弁済その他の債務を消滅させる行為をすることの禁止を命ずる処分をした場合には、債権者は、承認<span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の関係においては、当該処分に反してされた<span>弁済{'手続': 1}</span>その他の債務を消滅させる行為の効力を主張することが<span>でき{'ある': 1}</span>ない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>債権者{'規定': 1}</span>が、その<span>行為{'規定': 1}</span>の<span>当時{'手続': 1}</span>、<span>当該{'規定': 1}</span><span>処分{'債権者': 1, '手続': 1}</span>がされたことを<span>知っ{'ある': 1}</span>ていたときに<span>限る{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前条{'規定': 1}</span>第六項から第八項までの<span>規定{'手続': 1}</span>は第一項又は第二項の<span>規定{'手続': 1}</span>による<span>処分{'規定': 1}</span>及び第四項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>について、同<span>条{'即時抗告': 1, '手続': 1}</span>第八項の<span>規定{'手続': 1}</span>はこの<span>項{'規定': 1}</span>において<span>準用{'規定': 1}</span>する同<span>条{'規定': 1}</span>第六項の<span>即時抗告{'規定': 2}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について、同<span>条{'手続': 1}</span>第九項の<span>規定{'手続': 1}</span>は第二項の<span>規定{'保全': 2, '手続': 1}</span>による<span>処分{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（担保権の実行手続等の中止命令）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、債権者の一般の利益に適合し、かつ、競売申立人又は企業担保権の実行手続の申立人に不当な<span>損害{'手続': 1}</span>を<span>及ぼす{'ある': 1}</span>おそれがないと<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定と同時に又はその決定後、<span>相当{'手続': 1}</span>の<span>期間{'規定': 1}</span>を<span>定め{'規定': 1}</span>て、<span>債務者{'規定': 1}</span>の<span>財産{'規定': 1}</span>に対して<span>既に{'相当': 1}</span>されている担保権の実行の手続又は<span>企業{'規定': 1}</span>担保権の実行手続の中止を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の<span>申立て{'受け': 1}</span>がされた場合には、当該申立てについて<span>決定{'変更': 1, '手続': 1}</span>をする<span>前{'手続': 1}</span>であっても、前項の規定による中止の命令をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">外国倒産処理手続の承認の申立てを<span>棄却{'却下': 2}</span>する決定に対して第二十四条第一項の即時抗告がされたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による中止の命令は、外国倒産処理手続の承認の申立てを<span>棄却{'却下': 1}</span>する決定又は同項の即時抗告を棄却する決定があったときは、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、第一項<span>又は{'及び': 1}</span>第二項の<span>規定{'手続': 1}</span>による中止の命令を<span>発する{'あっ': 1}</span>場合には、競売申立人又は企業担保権の実行手続の申立人の意見を<span>聴か{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'届出': 1}</span>は、第一項又は第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>を<span>変更{'規定': 1}</span>し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項又は第二項の<span>規定{'手続': 1}</span>による<span>中止{'手続': 1}</span>の<span>命令{'規定': 1}</span>及び前項の規定による変更の決定に対しては、競売申立人又は企業担保権の実行手続の申立人に限り、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十五条第八項の規定は第一項又は第二項の規定による<span>中止{'規定': 1}</span>の<span>命令{'手続': 1}</span>、第五項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>及び第六項の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について、同<span>条{'手続': 1}</span>第九項の<span>規定{'手続': 1}</span>は第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（強制執行等禁止命令）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>承認{'規定': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'手続': 1}</span>するために<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定と同時に又はその決定後、<span>すべて{'手続': 1}</span>の債権者に対し、債務者の財産に対する強制執行等の禁止を命ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、裁判所は、相当と認めるときは、<span>一定{'規定': 1}</span>の<span>範囲{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>債権{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>強制執行{'手続': 1}</span>等又は<span>一定{'規定': 1}</span>の<span>範囲{'規定': 1}</span>に属する債務者の財産に対する強制執行等を<span>禁止{'手続': 1}</span>の命令の対象から除外することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による禁止の命令（以下「<span>強制執行{'包括的': 1}</span>等<span>禁止命令{'規定': 1}</span>」という。）が発せられた場合には、債務者の財産に対して既にされている強制執行等（当該命令により禁止されることとなるものに限る。）の手続は、中止する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、強制執行等<span>禁止命令{'開始': 1}</span>を変更し、又は取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、承認<span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'規定': 1}</span>するために<span>特に{'相当': 1}</span><span>必要{'定め': 1, '手続': 1}</span>があると認めるときは、債務者（外国管財人がいない場合に限る。）若しくは承認管財人の申立てにより又は職権で、担保を<span>立て{'ある': 1}</span>させて、又は立てさせないで、第二項の<span>規定{'手続': 1}</span>により<span>中止{'規定': 1}</span>した手続の取消しを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">強制執行等<span>禁止命令{'手続': 1}</span>、第三項の規定による決定及び前項の規定による<span>取消し{'裁判所': 1, '規定': 1}</span>の<span>命令{'裁判': 1}</span>に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、執行停止の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>強制執行{'包括的': 1}</span>等禁止命令が発せられたときは、債務者に対する債権（当該命令により強制執行等が<span>禁止{'規定': 1}</span>されているものに限る。）については、当該命令が効力を失った日の翌日から<span>二月{'手続': 1}</span>を経過する日までの間は、時効は、完成しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（強制執行等禁止命令に関する公告及び送達等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>強制執行{'包括的': 1}</span>等<span>禁止命令{'規定': 1}</span>及びこれを変更し、又は取り消す旨の決定が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>主文{'規定': 1}</span>を公告し、かつ、その裁判書を外国管財人等、承認管財人及び申立人に送達しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、外国倒産処理手続の承認の決定と同時に強制執行等禁止命令を発したときは、第二十三条第一項の規定による公告には、強制執行等禁止命令の主文をも掲げなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>においては、前項の規定による公告は、することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の場合において、同<span>項{'規定': 1}</span>の裁判書の送達を受けた外国<span>管財人{'規定': 1}</span>等は、当該裁判書の内容を知れている債権者に<span>周知{'規定': 1}</span>させるため必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">強制執行等<span>禁止命令{'手続': 1}</span>及びこれを変更し、又は取り消す旨の決定は、外国管財人等（承認管財人が選任されている場合にあっては、承認管財人）に対する裁判書の送達がされた時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前条{'法律': 1}</span>第四項の<span>規定{'即時抗告': 1, '手続': 1}</span>による<span>取消し{'手続': 1}</span>の<span>命令{'手続': 1}</span><span>及び{'ただし': 1}</span>同条第五項の即時抗告についての裁判（強制執行等<span>禁止命令{'規定': 1}</span>を変更し、又は取り消す旨の決定を除く。）が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を当事者に送達しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleCaption>（強制執行等禁止命令の解除）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、<span>強制執行{'包括的': 1}</span>等禁止命令を発した場合において、強制執行等の申立人である債権者に不当な<span>損害{'手続': 1}</span>を<span>及ぼす{'ある': 1}</span>おそれが<span>ある{'取り消さ': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>当該{'規定': 1}</span><span>債権者{'規定': 1}</span>の申立てにより、当該債権者に対しては強制執行等<span>禁止命令{'規定': 1}</span>を解除する旨の決定をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合には、当該債権者は、<span>債務者{'信託': 1, '規定': 1}</span>の財産に対する強制執行等をすることができ、強制執行等<span>禁止命令{'規定': 1}</span>が発せられる<span>前{'場合': 1}</span>に当該債権者がした強制執行等の手続は、<span>続行{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>規定{'手続': 1}</span>による<span>解除{'終局': 1}</span>の決定を受けた者に対する第二十八条第七項の規定の<span>適用{'規定': 1}</span>については、同<span>項{'規定': 1}</span>中「<span>当該{'規定': 1}</span><span>命令{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た日」と<span>ある{'でき': 1}</span>のは、「第三十条第一項の<span>規定{'手続': 1}</span>による<span>解除{'規定': 1}</span>の<span>決定{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>生じ{'ある': 1}</span>た日」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>申立て{'規定': 1}</span>についての裁判に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の<span>申立て{'規定': 2}</span>についての裁判及び第三項の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'裁判所': 1, '規定': 1}</span>においては、第八条第三項<span>本文{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、<span>適用{'規定': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（債務者の財産の処分等に対する許可）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>次{'手続': 1}</span>の各号のいずれかに<span>該当{'規定': 1}</span>する<span>場合{'規定': 1}</span>において、必要があると認めるときは、債務者が<span>日本国内{'規定': 1}</span>にある財産の処分又は国外への持出しその他裁判所の指定する行為をするには裁判所の許可を得なければならないものとすることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、承認管財人又は保全管理人がある場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十五条第一項若しくは第二項の規定による中止の<span>命令{'規定': 1}</span>、第二十六条第一項若しくは第二項の<span>規定{'手続': 1}</span>による<span>処分{'命令': 1, '規定': 1}</span>、第二十七条第一項若しくは第二項の規定による中止の命令、強制執行等<span>禁止命令{'規定': 1}</span>又は第五十七条第二項、第五十八条第一項（同条第二項において準用する場合を<span>含む{'ある': 1}</span>。）、<span>第五{'規定': 1}</span>十九条<span>第一{'規定': 1}</span>項第一号、第六十条第一項若しくは第六十三条第一項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が発せられたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第六十二条第二項の規定により中止した外国<span>従{'規定': 1}</span>手続の承認援助手続があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、<span>日本国内{'規定': 1}</span>において債権者の利益が不当に侵害されるおそれがないと認める<span>場合{'手続': 1}</span>に<span>限り{'ある': 1}</span>、前項の許可をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の許可を得ないでした<span>法律行為{'規定': 1}</span>は、無効とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これをもって善意の第三者に対抗することが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（管理命令）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>承認{'手続': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'手続': 1}</span>するために<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定と同時に又はその決定後、債務者の<span>日本国内{'規定': 1}</span>における業務及び財産に関し、承認管財人による管理を命ずる<span>処分{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、前項の<span>処分{'財産': 1}</span>（以下「<span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）をする<span>場合{'規定': 1}</span>には、<span>当該{'保全': 1, '規定': 1}</span><span>管理{'規定': 1}</span>命令において、一人<span>又は{'ただし': 1}</span>数人の承認管財人を選任しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人は、承認管財人となることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、管理命令を変更し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleCaption>（管理命令に関する公告及び送達等）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'保全': 1}</span>は、管理命令を<span>発し{'ある': 1}</span>たときは、次項に規定する場合を除き、次に<span>掲げる{'ある': 1}</span>事項を<span>公告{'社債': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">管理命令を発した旨及び承認管財人の氏名又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者の財産（<span>日本国内{'手続': 1}</span>にあるものに限る。）の所持者及び債務者に対して債務（<span>日本国内{'規定': 1}</span>にある債権に係るものに限る。）を負担する者（第六項において「財産<span>所持{'規定': 1}</span>者等」と<span>いう{'ある': 1}</span>。）は、<span>債務者{'破産者': 1, '固有': 1}</span>にその財産を交付し、又は弁済をしてはならない旨</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、外国倒産処理手続の承認の決定と同時に管理命令を<span>発し{'ある': 1}</span>たときは、第二十三条第一項の規定による公告には、前項に掲げる事項をも<span>掲げ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、管理命令を変更し、又は<span>取り消す{'ある': 1}</span>旨の<span>決定{'規定': 1}</span>をした<span>場合{'手続': 1}</span>には、その旨を<span>公告{'保全': 1, '規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>、<span>前項{'規定': 1}</span>の<span>決定{'規定': 1}</span><span>又は{'ただし': 1}</span><span>前条{'規定': 1}</span>第五項の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'裁判所': 1, '手続': 1}</span><span>命令{'規定': 1}</span>及びこれを<span>変更{'規定': 1}</span>し、又は取り消す旨の決定は、承認<span>管財人{'規定': 1}</span>に対する裁判書の送達がされた時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">管理<span>命令{'規定': 1}</span>が<span>発せ{'受け': 1, 'ある': 1}</span>られた<span>場合{'手続': 1}</span>には第一項に<span>掲げる{'でき': 1}</span><span>事項{'規定': 1}</span>を、第三項の<span>決定{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'手続': 1}</span>又は管理命令が発せられた後に<span>外国倒産処理手続{'規定': 1}</span>の承認の決定を取り消す決定が確定した<span>場合{'規定': 1}</span>にはその旨を、<span>知れ{'ある': 1}</span>ている<span>財産{'規定': 1}</span><span>所持{'規定': 1}</span>者等に<span>通知{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第八条第四項の<span>規定{'手続': 1}</span>は、<span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>に関し<span>公告{'規定': 1}</span>及び<span>送達{'規定': 1}</span>をしなければならない<span>場合{'規定': 1}</span>については、<span>適用{'規定': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（承認管財人の権限）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'規定': 1}</span>命令が発せられた場合には、債務者の<span>日本国内{'規定': 1}</span>における業務の遂行並びに財産の管理及び処分をする権利は、<span>承認{'管財人': 1}</span>管財人に専属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（承認管財人の財産の処分等に対する許可）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人が債務者の<span>日本国内{'規定': 1}</span>にある財産の処分又は国外への持出しその他裁判所の指定する行為をするには、裁判所の許可を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、日本国内において債権者の利益が不当に侵害されるおそれがないと認める<span>場合{'手続': 1}</span>に<span>限り{'ある': 1}</span>、前項の許可をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の許可を得ないでした<span>法律行為{'規定': 1}</span>は、無効とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これをもって<span>善意の第三者{'第三者': 1}</span>に対抗することが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（管理命令が発せられた場合の債務者の財産関係の訴えの取扱い）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'規定': 1}</span>命令が発せられた場合には、債務者の<span>日本国内{'規定': 1}</span>にある財産に関する訴えについては、承認管財人を原告又は被告とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">管理命令が発せられた場合には、債務者の<span>日本国内{'規定': 1}</span>にある財産に関する訴訟<span>手続{'場合': 1}</span>で債務者が<span>当事者{'規定': 1}</span>であるものは、<span>中断{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により中断した訴訟手続は、承認<span>管財人{'規定': 1}</span>においてこれを受け継ぐことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、受継の申立ては、相手方もすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二項の<span>規定{'手続': 1}</span>により<span>中断{'手続': 1}</span>した訴訟手続について前項の規定による<span>受継が{'ある': 1}</span>あるまでに管理命令が効力を失ったときは、債務者は、当該訴訟手続を<span>当然{'相当': 1}</span>に受継する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二項の規定により中断した訴訟手続について第三項の規定による<span>受継が{'ある': 1}</span>された後に管理命令が効力を失ったときは、当該<span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>は、<span>中断{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>場合{'規定': 1}</span>においては、<span>債務者{'手続': 1}</span>において<span>当該{'規定': 1}</span><span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>を<span>受け継が{'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>においては、<span>受継{'規定': 1}</span>の<span>申立て{'規定': 1}</span>は、相手方もすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（行政庁に係属する事件の取扱い）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第二項から第六項までの規定は、債務者の<span>日本国内{'規定': 1}</span>にある財産に関する事件で管理命令が発せられた当時行政庁に係属するものについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleCaption>（承認管財人に対する監督等）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>承認{'規定': 1}</span>管財人は、<span>裁判所{'手続': 1}</span>が監督する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">重要な事由があるときは、裁判所は、<span>利害関係{'手続': 1}</span>人の申立てにより又は職権で、承認管財人を解任することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'決議': 1}</span>においては、その承認管財人を審尋しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="39">
+          <ArticleCaption>（数人の承認管財人の職務執行）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">承認管財人が数人あるときは、共同してその職務を行う。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所の許可を得て、それぞれ<span>単独{'規定': 1}</span>にその職務を行い、又は職務を分掌することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人が数人あるときは、第三者の意思表示は、その一人に対してすれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="40">
+          <ArticleCaption>（承認管財人代理）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人は、必要があるときは、その職務を行わせるため、自己の責任で一人又は数人の承認管財人代理を選任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>承認{'規定': 1}</span>管財人代理の<span>選任{'受益者': 1}</span>については、裁判所の許可を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三十五条の規定は、承認管財人代理について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="41">
+          <ArticleCaption>（承認管財人による調査）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人は、次に掲げる者に対して債務者の日本国内における業務及び財産の状況につき報告を<span>求め{'ある': 1}</span>、<span>債務者{'手続': 1}</span>の<span>帳簿{'規定': 1}</span>、<span>書類{'規定': 1}</span>その他の<span>物件{'規定': 1}</span>を<span>検査{'規定': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span>の<span>代理人{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者が法人である場合のその理事、取締役、執行役、監事、監査役及び清算人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号に<span>掲げる{'ある': 1}</span>者に準ずる者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>債務者{'破産': 1}</span>の従業者（第二号に掲げる者を<span>除く{'ある': 1}</span>。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>は、同<span>項{'規定': 1}</span>各号（<span>第一{'規定': 1}</span>号を除く。）に掲げる者であった者について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認<span>管財人{'規定': 1}</span>は、その職務を行うため必要があるときは、<span>債務者{'破産者': 1}</span>の<span>子会社{'規定': 1}</span>等（次の各号に掲げる区分に応じ、それぞれ<span>当該{'手続': 1}</span>各号に定める法人をいう。次項において同じ。）に対して、その<span>日本国内{'業務': 1, '規定': 1}</span>における業務及び財産の状況につき報告を<span>求め{'ある': 1}</span>、又はその<span>帳簿{'規定': 1}</span>、書類その他の物件を検査することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>債務者{'破産者': 1}</span>が株式会社である場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>債務者{'破産': 1}</span>の子会社（会社法第二条第三号に規定する子会社をいう。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>債務者{'破産者': 1}</span>が株式会社以外のものである場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>債務者{'当該': 1}</span>が株式会社の総株主の議決権（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を<span>含む{'有する': 1}</span>。次項において同じ。）の<span>過半数{'株式': 1}</span>を有する場合における当該株式会社</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>債務者{'破産者': 1}</span>（株式会社以外のものに限る。以下この項において同じ。）の子会社等又は<span>債務者{'破産者': 1}</span>及びその子会社等が<span>他{'当該': 1}</span>の株式会社の総株主の議決権の過半数を有する場合には、前項の規定の適用については、当該他の株式会社を当該債務者の子会社等とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="42">
+          <ArticleCaption>（債務者の業務及び財産の管理）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認<span>管財人{'規定': 1}</span>は、就職の後直ちに債務者の日本国内における業務及び財産の管理に着手しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="43">
+          <ArticleCaption>（郵便物等の管理）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、承認管財人の職務の遂行のため必要があると認めるときは、<span>信書{'規定': 1}</span>の送達の事業を行う者に対し、<span>債務者{'破産者': 1}</span>にあてた郵便物又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第三項に規定する信書便物（次条において「郵便物等」という。）を承認<span>管財人{'規定': 1}</span>に配達すべき旨を嘱託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、<span>債務者{'破産者': 1}</span>の申立てにより又は職権で、承認管財人の意見を聴いて、前項に規定する嘱託を<span>取り消し{'ある': 1}</span>、又は<span>変更{'規定': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>管理{'破産手続': 1, '規定': 1}</span><span>命令{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>たときは、<span>裁判所{'手続': 1}</span>は、第一項に<span>規定{'手続': 1}</span>する<span>嘱託{'規定': 1}</span>を<span>取り消さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項又は第二項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>及び同<span>項{'規定': 1}</span>の申立てを却下する裁判に対しては、外国<span>管財人{'規定': 1}</span>等又は承認管財人は、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の規定による決定に対する前項の即時抗告は、執行停止の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人は、債務者にあてた郵便物等を受け取ったときは、これを開いて見ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">債務者は、承認管財人に対し、承認管財人が受け取った前項の郵便物等の閲覧又は当該郵便物等で債務者の日本国内にある財産に関しないものの交付を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="45">
+          <ArticleCaption>（承認管財人の注意義務）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人は、善良な管理者の注意をもって、その職務を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人が前項の<span>注意{'規定': 1}</span>を怠ったときは、その承認管財人は、利害関係人に対し、連帯して損害を賠償する責めに任ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="46">
+          <ArticleCaption>（承認管財人の報告義務）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人は、<span>裁判所{'規定': 1}</span>の定めるところにより、債務者の日本国内における業務及び財産の管理状況その他裁判所の<span>命ずる{'取り消さ': 1}</span>事項を裁判所に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="47">
+          <ArticleCaption>（承認管財人の行為に対する制限）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認<span>管財人{'規定': 1}</span>は、裁判所の許可を得なければ、債務者の財産を譲り受け、債務者に対し自己の財産を譲り渡し、その他自己又は第三者のために債務者と取引をすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の許可を得ないでした行為は、<span>無効{'手続': 1}</span>とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これを<span>もっ{'ある': 1}</span>て善意の第三者に対抗することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="48">
+          <ArticleCaption>（管理命令後の債務者の行為等）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">承認<span>管財人{'規定': 1}</span>が管理及び処分をする権利を有する<span>債務者{'規定': 1}</span>の<span>財産{'規定': 1}</span>に関して、債務者が管理命令が発せられた後にした<span>法律行為{'規定': 1}</span>は、承認援助手続の関係においては、その効力を<span>主張{'手続': 1}</span>することが<span>でき{'ある': 1}</span>ない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>相手方{'規定': 1}</span>がその<span>行為{'規定': 1}</span>の<span>当時{'規定': 1}</span>管理命令が発せられた事実を知らなかったときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">日本国内にある債権について、管理命令が発せられた後に、その事実を<span>知ら{'知っ': 1}</span>ないで日本国内において債務者にした弁済は、承認援助手続の関係においても、その効力を<span>主張{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>債権{'規定': 2}</span>について、<span>管理{'手続': 1}</span>命令が発せられた後に、その事実を知って日本国内において債務者にした弁済は、承認<span>管財人{'信託': 1}</span>が管理及び処分をする権利を有する<span>財産{'規定': 1}</span>が<span>受け{'ある': 1}</span>た<span>利益{'規定': 1}</span>の<span>限度{'規定': 1}</span>において<span>のみ{'とともに': 1}</span>、<span>承認{'手続': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>関係{'規定': 1}</span>において、その<span>効力{'規定': 1}</span>を<span>主張{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項の規定の適用については、第三十三条第一項の規定による公告（<span>外国倒産処理手続{'規定': 1}</span>の承認の決定と同時に管理命令が<span>発せ{'ある': 1}</span>られた<span>場合{'手続': 1}</span>には、第二十三条第一項の規定による公告）前においてはその事実を知らなかったものと推定し、その<span>公告{'当該': 1}</span>後においてはその事実を知っていたものと推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="49">
+          <ArticleCaption>（承認管財人の報酬等）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">承認管財人及び<span>承認{'規定': 1}</span><span>管財人{'受益者': 1}</span>代理は、費用の前払及び裁判所が<span>定める{'でき': 1}</span>報酬を受けることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、外国管財人である者については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人及び承認管財人代理は、その選任後、債務者に対する債権又は債務者の株式その他の債務者に対する出資による持分を譲り受け、又は譲り渡すには、裁判所の許可を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人及び承認管財人代理は、前項の許可を得ないで同項に<span>規定{'手続': 1}</span>する<span>行為{'規定': 1}</span>をしたときは、<span>費用{'規定': 1}</span>及び<span>報酬{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>受ける{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="50">
+          <ArticleCaption>（任務終了の場合の報告義務等）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認<span>管財人{'規定': 1}</span>の任務が終了した場合には、承認管財人は、遅滞なく、裁判所に計算の報告をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の場合において、承認管財人が欠けたときは、同項の<span>計算{'規定': 1}</span>の報告は、同項の規定にかかわらず、後任の<span>承認{'破産管財人': 1}</span>管財人がしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人の任務が終了した場合において、急迫の事情があるときは、承認管財人又はその承継人は、後任の承認管財人又は債務者が財産を管理することができるに至るまで必要な処分をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="51">
+          <ArticleCaption>（保全管理命令）</ArticleCaption>
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てがされた場合において、承認援助<span>手続{'規定': 1}</span>の<span>目的{'手続': 1}</span>を<span>達成{'規定': 1}</span>するために<span>特に{'相当': 1}</span><span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>利害関係{'規定': 1}</span>人の申立てにより又は職権で、当該<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てにつき決定があるまでの間、債務者の日本国内における業務及び財産に関し、保全管理人による管理を命ずる<span>処分{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、前項の<span>処分{'規定': 1}</span>（以下「<span>保全{'規定': 1}</span><span>管理{'規定': 2}</span><span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）をする<span>場合{'申立て': 1, '規定': 1}</span>には、<span>当該{'規定': 1}</span><span>保全{'規定': 1}</span>管理命令において、一人又は数人の保全管理人を選任しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の規定は、外国倒産処理手続の承認の申立てを<span>棄却{'却下': 1}</span>する決定に対して第二十四条第一項の即時抗告がされた場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、<span>保全{'規定': 1}</span><span>管理{'開始': 1, '規定': 1}</span><span>命令{'規定': 1}</span>を<span>変更{'規定': 1}</span>し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>保全{'規定': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="52">
+          <ArticleCaption>（保全管理命令に関する公告及び送達等）</ArticleCaption>
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、保全<span>管理{'開始': 1}</span>命令を<span>発し{'ある': 1}</span>たときは、その旨を公告しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">保全管理命令を変更し、又は<span>取り消す{'ある': 1}</span>旨の<span>決定{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>も、<span>同様{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>保全{'規定': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>、<span>前条{'処分': 1, '手続': 1}</span>第四項の<span>規定{'手続': 1}</span>による<span>決定{'裁判': 1, '規定': 1}</span>及び同<span>条{'規定': 1}</span>第五項の<span>即時抗告{'規定': 2}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>保全{'裁判所': 1, '手続': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>及びこれを変更し、又は取り消す旨の決定は、<span>保全管理人{'債務者': 1, '手続': 1}</span>に対する裁判書の送達がされた時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第八条第四項の規定は、<span>保全{'規定': 1}</span><span>管理{'処分': 1, '規定': 1}</span><span>命令{'規定': 1}</span>に関し<span>公告{'規定': 1}</span>及び<span>送達{'規定': 1}</span>をしなければならない<span>場合{'規定': 1}</span>については、<span>適用{'手続': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十五条第九項の<span>規定{'手続': 1}</span>は、<span>保全{'規定': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="53">
+          <ArticleCaption>（保全管理人の権限）</ArticleCaption>
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>保全{'裁判所': 1, '規定': 1}</span><span>管理{'規定': 2}</span>命令が発せられた場合には、債務者の<span>日本国内{'規定': 1}</span>における業務の遂行並びに財産の管理及び処分をする権利は、<span>保全管理人{'管財人': 1}</span>に専属する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、保全管理人が債務者の常務に属しない行為をするには、裁判所の許可を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span><span>ただし書{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'でき': 1}</span>ないでした<span>行為{'規定': 1}</span>は、<span>無効{'手続': 1}</span>とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これをもって善意の第三者に対抗することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="54">
+          <ArticleCaption>（保全管理人代理）</ArticleCaption>
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>保全管理人{'規定': 1}</span>は、必要があるときは、その職務を行わせるため、自己の責任で一人又は数人の保全管理人代理を選任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の保全管理人<span>代理{'規定': 1}</span>の<span>選任{'受益者': 1}</span>については、裁判所の許可を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="55">
+          <ArticleCaption>（承認管財人に関する規定の保全管理人等への準用）</ArticleCaption>
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十二条第三項、第三十五条、第三十六条第一項、第三十八条、第三十九条、第四十一条、第四十二条及び第四十四条から第五十条までの規定は保全管理人について、第四十条第三項及び第四十九条の規定は保全管理人代理について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第五十条第二項中「<span>後任{'規定': 1}</span>の承認管財人」とあるのは「後任の保全管理人又は承認管財人」と、同条第三項中「後任の承認管財人」とあるのは「後任の保全管理人、承認管財人」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三十六条第二項から第六項までの規定は、保全管理<span>命令{'処分': 1}</span>が発せられた<span>当時{'場合': 1}</span>係属している債務者の<span>日本国内{'規定': 1}</span>にある財産に関する訴訟及び債務者の<span>日本国内{'規定': 1}</span>にある財産に関する事件で保全管理命令が発せられた当時<span>行政庁{'規定': 1}</span>に係属するものについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　外国倒産処理手続の承認の取消し</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="56">
+          <ArticleTitle>第五十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する<span>場合{'規定': 1}</span>には、<span>裁判所{'規定': 1}</span>は、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の取消しの決定をしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てが第十七条第一項に規定する要件を欠くものであったことが明らかになったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該外国倒産処理手続について第二十一条第二号から第六号までに規定する事由のあることが明らかになったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該外国倒産処理手続が、破産手続終結の決定、再生計画認可の決定、<span>更生{'手続': 1}</span>計画認可の決定又は特別清算終結の決定に相当する判断がされて終了したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該<span>外国倒産処理手続{'施行日': 1, '手続': 1}</span>が前号に規定する事由以外の事由により終了したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次{'手続': 1}</span>の各号のいずれかに<span>該当{'規定': 1}</span>する<span>場合{'規定': 1}</span>には、<span>裁判所{'規定': 1}</span>は、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の取消しの決定をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">債務者が第三十一条第一項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認管財人である外国管財人が第三十五条第一項又は第四十六条の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承認{'場合': 1}</span>管財人でない外国管財人が債務者の日本国内にある財産の処分又は国外への持出しをしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所は、前二項の取消しの決定をしたときは、直ちに、その主文及び<span>理由{'規定': 1}</span>の<span>要旨{'規定': 1}</span>を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項<span>又は{'ただし': 1}</span>第二項の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項又は第二項の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>決定{'場合': 1, '規定': 1}</span>が<span>確定{'手続': 1}</span>したときは、第一項又は第二項の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>をした<span>裁判所{'手続': 1}</span>は、<span>直ちに{'相当': 1}</span>、その旨を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項<span>又は{'ただし': 1}</span>第二項の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>は、<span>確定{'手続': 1}</span>しなければその<span>効力{'手続': 1}</span>を<span>生じ{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十四条第三項の<span>規定{'手続': 1}</span>は、第一項又は第二項の<span>取消し{'規定': 1}</span>の<span>決定{'規定': 1}</span>が確定した場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　他の倒産処理手続がある場合の取扱い</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　国内倒産処理手続がある場合の取扱い</SectionTitle>
+          <Article Delete="false" Hide="false" Num="57">
+            <ArticleCaption>（国内倒産処理手続の開始決定がされた場合の承認の条件等）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所は、<span>外国倒産処理手続{'規定': 1}</span>の承認の申立てについて決定をする前に、同一の債務者につき開始の決定がされた国内倒産処理手続があることが明らかになったときは、次に掲げる要件のすべてを満たす<span>場合{'規定': 1}</span>を<span>除き{'あっ': 1}</span>、当該申立てを棄却しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国倒産処理手続が外国主手続であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国倒産処理手続について第三章の規定により援助の処分をすることが債権者の一般の利益に適合すると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国倒産処理手続について第三章の規定により援助の処分をすることにより、日本国内において債権者の利益が不当に侵害されるおそれがないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の裁判所は、同項に規定する国内倒産処理手続があることが明らかになった場合において、外国倒産処理手続の承認の決定をするときは、当該国内倒産処理手続の中止を命じなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該国内倒産処理手続が次条第一項（同条第二項において準用する場合を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>により<span>中止{'規定': 1}</span>されているときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>中止{'裁判': 1, '規定': 1}</span>の<span>命令{'規定': 1}</span>を<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="58">
+            <ArticleCaption>（外国倒産処理手続の承認決定前の国内倒産処理手続の中止命令）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>承認{'裁判所': 1, '手続': 1}</span>援助手続が係属する裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てについて決定をする前において、必要が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により又は職権で、同一の債務者についての国内倒産処理手続の中止を命ずることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前条第一項各号に掲げる要件のすべてを満たす場合に限る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の規定は、外国倒産処理手続の承認の申立てを棄却する決定に対して第二十四条第一項の即時抗告がされた場合について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所は、第一項（前項において準用する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>及び第六十<span>一条{'規定': 1}</span>第一項において同じ。）の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>を<span>変更{'手続': 1}</span>し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>規定{'前項': 1, '手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十五条第九項の<span>規定{'裁判所': 1, '手続': 1}</span>は、第一項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'当該': 1, '規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="59">
+            <ArticleCaption>（外国倒産処理手続の承認決定と国内倒産処理手続の開始決定とが競合した場合の調整）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>承認{'規定': 1}</span>援助手続が係属する裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定があった後、当該決定の後に同一の債務者につき国内倒産処理手続の開始の決定があったこと又は外国倒産処理手続の承認の決定以前に同一の債務者につき国内倒産処理手続の開始の決定があったことが<span>明らか{'規定': 1}</span>に<span>なっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>事由{'場合': 1, '規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ときには、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>決定{'手続': 1}</span>をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>第五{'手続': 1}</span>十七条第一項各号に掲げる要件のすべてを満たすとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該国内倒産処理手続の中止を命ずる旨の決定</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前{'手続': 1}</span>号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span>に<span>該当{'手続': 1}</span>しないとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>承認{'手続': 1}</span><span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>を<span>中止{'規定': 1}</span>する旨の<span>決定{'規定': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'裁判': 1, '規定': 1}</span>を<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の<span>規定{'申立': 1, '手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第三項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="60">
+            <ArticleCaption>（外国倒産処理手続の承認決定と開始決定前の国内倒産処理手続との調整）</ArticleCaption>
+            <ArticleTitle>第六十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>承認{'裁判所': 1, '手続': 1}</span>援助手続が係属する裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定があった後、同一の債務者につき国内倒産処理手続の開始の申立てがされたことが明らかに<span>なっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>（<span>前条{'手続': 1}</span>第一項に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）において、同<span>項{'規定': 1}</span>第一号に<span>掲げる{'ある': 1}</span><span>事由{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>には、同号に<span>定める{'ある': 1}</span><span>決定{'規定': 1}</span>をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>承認{'手続': 1}</span>援助手続が係属する裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定があった後、同一の債務者につき国内倒産処理手続の開始の申立てがされたことが明らかに<span>なっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>（<span>前条{'手続': 1}</span>第一項に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）において、同<span>項{'規定': 1}</span>第二号に<span>掲げる{'ある': 1}</span><span>事由{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>には、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により又は<span>職権{'規定': 1}</span>で、同号に<span>定める{'ある': 1}</span><span>決定{'規定': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'定款': 1, '規定': 1}</span>を<span>変更{'手続': 1}</span>し、<span>又は{'ただし': 1}</span>前二項の<span>規定{'変更': 1, '手続': 1}</span>による<span>決定{'規定': 1}</span>を<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前三項の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="61">
+            <ArticleCaption>（中止した国内倒産処理手続及び承認援助手続の失効）</ArticleCaption>
+            <ArticleTitle>第六十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>第五{'手続': 1}</span>十七条第二項、<span>第五{'規定': 1}</span>十八条第一項、<span>第五{'規定': 1}</span>十九条第一項第一号又は前条第一項の規定により国内倒産処理手続が中止していた場合において、同一の債務者につき第五十六条第一項第三号の規定による<span>外国倒産処理手続{'規定': 1}</span>の承認の取消しの決定が確定したときは、当該国内倒産処理手続は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第五十九条第一項第二号又は前条第二項の規定により<span>外国倒産処理手続{'手続': 1}</span>の承認援助手続が中止していた場合において、同一の債務者につき破産手続終結の決定があったとき、又は再生計画認可の決定、<span>更生{'手続': 1}</span>計画認可の決定若しくは特別清算<span>終結{'手続': 1}</span>の決定が確定したときは、当該承認援助手続は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　他の外国倒産処理手続の承認援助手続がある場合の取扱い</SectionTitle>
+          <Article Delete="false" Hide="false" Num="62">
+            <ArticleCaption>（他の外国倒産処理手続の承認がされた場合の承認の条件等）</ArticleCaption>
+            <ArticleTitle>第六十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の<span>申立て{'受け': 1}</span>がされた場合において、既に承認の決定がされた同一の債務者についての他の<span>外国倒産処理手続{'規定': 1}</span>の承認援助手続があるときは、次の各号のいずれかに該当する場合にも、当該申立てを棄却しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該他の外国倒産処理手続が外国主手続であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げる場合以外の場合において、当該申立てに係る外国倒産処理手続が外国従手続であり、かつ、当該外国倒産処理手続について第三章の規定により<span>援助{'物件': 1}</span>の処分をすることが債権者の一般の利益に適合すると認められないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">外国倒産処理手続の承認の決定があった場合において、同一の債務者につき外国倒産処理手続の承認の決定がされた他の外国従手続があるときは、<span>当該{'間': 1}</span>外国従手続の承認援助手続は、中止する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'手続': 1}</span>条第一項の<span>規定{'手続': 1}</span>による<span>中止{'手続': 1}</span>の<span>命令{'規定': 1}</span>が<span>発せ{'ある': 1}</span>られているときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="63">
+            <ArticleCaption>（外国倒産処理手続の承認決定前の他の承認援助手続の中止命令）</ArticleCaption>
+            <ArticleTitle>第六十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>承認{'規定': 1}</span>援助手続が係属する裁判所は、<span>外国倒産処理手続{'手続': 1}</span>の承認の申立てについて決定をする前において、必要が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、利害関係人の申立てにより又は職権で、<span>外国倒産処理手続{'手続': 1}</span>の承認の決定がされた同一の債務者についての外国<span>従{'規定': 1}</span>手続の承認援助手続の中止を命ずることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">外国倒産処理手続の承認の申立てを<span>棄却{'却下': 1}</span>する決定に対して第二十四条第一項の即時抗告がされたときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所は、前項の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>を<span>変更{'規定': 1}</span>し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>規定{'前項': 1, '手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第三項に規定する裁判及び同<span>項{'規定': 1}</span>の<span>即時抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、その<span>裁判{'規定': 1}</span>書を<span>当事者{'規定': 1}</span>に送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="64">
+            <ArticleCaption>（中止した承認援助手続の失効）</ArticleCaption>
+            <ArticleTitle>第六十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第六十二条第二項又は前条第一項の規定により<span>外国倒産処理手続{'手続': 1}</span>の承認援助手続が中止していた場合において、同一の債務者につき第五十六条第一項第三号の規定による他の<span>外国倒産処理手続{'規定': 1}</span>の<span>承認{'規定': 1}</span>の取消しの決定が確定したときは、当該承認<span>援助{'規定': 1}</span><span>手続{'規定': 1}</span>は、その<span>効力{'手続': 1}</span>を<span>失う{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="65">
+          <ArticleCaption>（報告及び検査の拒絶等の罪）</ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四十<span>一条{'民法': 1, '手続': 1}</span>第一項各号に<span>掲げる{'ある': 1}</span>者若しくは同<span>項{'手続': 1}</span>第二号から第五号までに<span>掲げる{'ある': 1}</span>者であっ<span>た者{'規定': 1}</span>が、同<span>項{'規定': 1}</span><span>若しくは{'ただし': 1}</span>同<span>条{'規定': 1}</span>第二項において<span>準用{'規定': 1}</span>する同<span>条{'規定': 1}</span>第一項（これらの<span>規定{'手続': 1}</span>を第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>報告{'規定': 1}</span>を<span>拒み{'ある': 1}</span>、又は<span>虚偽{'規定': 1}</span>の<span>報告{'規定': 1}</span>をしたときは、三年以下の懲役若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四十一条第一項第二号から第五号までに掲げる者若しくは当該各号に掲げる者であっ<span>た者{'規定': 1}</span>（以下この<span>項{'規定': 1}</span>において「<span>報告{'規定': 1}</span><span>義務{'規定': 1}</span>者」と<span>いう{'でき': 1}</span>。）の<span>代表者{'規定': 1}</span>、<span>代理人{'手続': 1}</span>、<span>使用人{'手続': 1}</span>その他の<span>従業者{'手続': 1}</span>（第四項において「<span>代表者{'手続': 1}</span>等」と<span>いう{'ある': 1}</span>。）が、その<span>報告{'規定': 1}</span><span>義務{'手続': 1}</span>者の<span>業務{'規定': 1}</span>に関し、同<span>条{'手続': 1}</span>第一項又は同<span>条{'規定': 1}</span>第二項において<span>準用{'規定': 1}</span>する同<span>条{'規定': 1}</span>第一項（これらの<span>規定{'手続': 1}</span>を第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>報告{'規定': 1}</span>を<span>拒み{'ある': 1}</span>、<span>又は{'若しくは': 1}</span><span>虚偽{'規定': 1}</span>の<span>報告{'規定': 1}</span>をしたときも、<span>前項{'手続': 1}</span>と<span>同様{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>債務者{'手続': 1}</span>又はその<span>法定代理人{'規定': 1}</span>が第四十<span>一条{'規定': 1}</span>第一項（第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>検査{'規定': 1}</span>を<span>拒ん{'ある': 1}</span>だときも、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四十一条第三項に規定する債務者の<span>子会社{'規定': 1}</span>等（同条第四項の<span>規定{'手続': 1}</span>により債務者の子会社等とみなされるものを含む。以下この項において同じ。）の代表者等が、その<span>債務者{'破産': 1, '規定': 1}</span>の子会社等の業務に関し、同条第三項（第五十五条第一項において準用する場合を含む。）の規定による<span>報告{'規定': 1}</span>若しくは<span>検査{'資料': 1, '規定': 1}</span>を<span>拒み{'ある': 1}</span>、又は虚偽の報告をしたときも、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="66">
+          <ArticleCaption>（承認管財人等に対する職務妨害の罪）</ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">偽計又は威力を用いて、承認管財人、保全管理人、承認管財人代理又は保全管理人代理の職務を妨害した者は、三年以下の懲役若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="67">
+          <ArticleCaption>（収賄罪）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人、保全管理人、承認管財人代理又は保全管理人代理（次項において「承認管財人等」という。）が、その職務に関し、賄<Ruby>賂<Rt>ろ</Rt></Ruby>を収受し、又はその要求若しくは約束をしたときは、三年以下の懲役<span>若しくは{'又は': 1}</span>三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の場合において、その<span>承認{'破産管財人': 1}</span>管財人等が不正の<span>請託{'規定': 1}</span>を受けたときは、五年以下の懲役若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">承認管財人又は保全管理人が法人である場合において、承認管財人又は保全管理人の職務を行うその役員又は職員が、その承認管財人又は保全管理人の職務に関し、賄賂を収受し、又はその要求若しくは約束をしたときは、三年以下の懲役<span>若しくは{'又は': 1}</span>三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">承認管財人又は保全管理人が法人である場合において、その役員又は職員が、その承認管財人又は保全管理人の職務に関し、承認管財人又は保全管理人に賄賂を収受させ、又はその供与の要求若しくは約束をしたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の場合において、その役員又は職員が不正の請託を受けたときは、五年以下の懲役若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の場合において、犯人又は法人である承認管財人若しくは保全管理人が収受した賄賂は、没収する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">その全部又は一部を没収することが<span>でき{'取り消さ': 1}</span>ないときは、その<span>価額{'規定': 1}</span>を追徴する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="68">
+          <ArticleCaption>（贈賄罪）</ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第一項又は第三項に規定する賄賂を供与し、又はその申込み若しくは約束をした者は、三年以下の懲役<span>若しくは{'又は': 1}</span>三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第二項又は第四項に規定する賄賂を供与し、又はその申込み若しくは約束をした者は、五年以下の懲役<span>若しくは{'又は': 1}</span>五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="69">
+          <ArticleCaption>（財産の無許可処分及び国外への持出しの罪）</ArticleCaption>
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三十<span>一条{'前項': 1}</span>第一項の規定により債務者が日本国内にある財産の処分又は国外への持出しその他裁判所の指定する行為をするには裁判所の許可を<span>得{'ある': 1}</span>なければならないものとされた<span>場合{'規定': 1}</span>において、<span>債務者{'規定': 2}</span>がこれに<span>違反{'規定': 1}</span>する<span>行為{'規定': 1}</span>をしたときは、<span>三年{'規定': 1}</span>以下の<span>懲役{'手続': 1}</span>又は三百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">承認管財人、<span>保全管理人{'相続': 1}</span>、承認管財人代理又は保全管理人代理が第三十五条第一項（第五十五条第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の規定又は第四十条第三項（第五十五条第一項において<span>準用{'規定': 1}</span>する場合を含む。）において準用する第三十五条第一項の<span>規定{'手続': 1}</span>に<span>違反{'規定': 1}</span>したときも、<span>前項{'規定': 1}</span>と<span>同様{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="70">
+          <ArticleCaption>（国外犯）</ArticleCaption>
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第六十六条及び第六十八条の<span>罪{'規定': 1}</span>は、<span>刑法{'規定': 1}</span>（明治四十年<span>法律{'届出': 1}</span>第四十五号）第二条の<span>例{'回復': 1}</span>に<span>従う{'取り消さ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第六十七条の<span>罪{'回復': 1}</span>は、<span>刑法{'手続': 1}</span>第四条の<span>例{'手続': 1}</span>に<span>従う{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="71">
+          <ArticleCaption>（両罰規定）</ArticleCaption>
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人{'手続': 1}</span>の<span>代表者{'回復': 1}</span>又は<span>法人{'規定': 1}</span>若しくは<span>人{'規定': 1}</span>の<span>代理人{'手続': 1}</span>、<span>使用人{'手続': 1}</span>その他の<span>従業者{'手続': 1}</span>が、その<span>法人{'手続': 1}</span>又は<span>人{'規定': 1}</span>の<span>業務{'手続': 1}</span>又は<span>財産{'規定': 1}</span>に関し、第六十五条（第一項を<span>除く{'ある': 1}</span>。）、第六十六条、第六十八条又は第六十九条の<span>違反行為{'規定': 1}</span>をしたときは、<span>行為{'規定': 1}</span>者を<span>罰する{'ある': 1}</span><span>ほか{'規定': 1}</span>、その<span>法人{'手続': 1}</span>又は<span>人{'規定': 1}</span>に対しても、各<span>本条{'手続': 1}</span>の<span>罰金刑{'手続': 1}</span>を<span>科する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'手続': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'一年': 2, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、<span>公社{'規定': 1}</span>法の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる<span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一章第<span>一節{'手続': 1}</span>（<span>別表{'手続': 1}</span><span>第一{'手続': 1}</span>から<span>別表{'規定': 1}</span>第四までを<span>含む{'ある': 1}</span>。）<span>並びに{'ただし': 1}</span><span>附則{'規定': 1}</span>第二十八条第二項、第三十三条第二項及び第三項並びに第三十九条の<span>規定{'手続': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'手続': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>施行日{'施行': 2, '手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>並びにこの<span>法律{'附則': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>及びこの<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる<span>場合{'規定': 1}</span>における<span>施行日{'規定': 1}</span>以後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'規定': 1, '手続': 1}</span>については、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="39">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律に規定するもののほか、<span>公社{'法律': 1, '規定': 1}</span>法及びこの法律の施行に関し必要な経過<span>措置{'規定': 1}</span>（<span>罰則{'規定': 1}</span>に関する<span>経過{'手続': 1}</span><span>措置{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）は、<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第一〇〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>民間事業者による信書の送達に関する法律{'会社法': 1, '規定': 1}</span>（平成十四年<span>法律{'規定': 1}</span>第九十九号）の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前条{'法律': 1, '手続': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'手続': 1}</span>、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>経過{'規定': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>会社更生法{'会社法': 1, '規定': 1}</span>（平成十四年法律第百五十四号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行<span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>及びこの<span>法律{'附則': 1, '規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>従前{'手続': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年八月一日法律第一三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>破産法{'規定': 1}</span>（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新<span>破産法{'規定': 1}</span>」という。）の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（外国倒産処理手続の承認援助に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日<span>前{'附則': 1}</span>にされた第三条の規定による改正前の<span>外国倒産処理手続{'規定': 1}</span>の承認援助に関する法律第十七条第一項の<span>規定{'法律': 1}</span>による外国倒産処理手続の承認の申立てに係る承認援助事件については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（罰則の適用等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>施行日{'手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'手続': 1}</span><span>並びに{'ただし': 1}</span><span>附則{'規定': 1}</span>第<span>二条{'規定': 1}</span>第一項、<span>第三条{'規定': 1}</span>第一項、第四条、第五条第一項、第九項、第十七項、第十九項及び第二十一項並びに第<span>六条{'附則': 1, '規定': 1}</span>第一項及び第三項の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>における<span>施行日{'規定': 1}</span>以後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'規定': 1}</span>第二条から<span>前条{'規定': 1}</span>までに<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>は、<span>会社法{'信託': 1, '一般社団・財団法人法': 1}</span>の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、<span>一般社団・財団法人法{'規定': 1}</span>の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

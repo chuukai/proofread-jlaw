@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="19">
+  <LawNum>平成十九年法務省令第四十一号</LawNum>
+  <LawBody>
+    <LawTitle>信託法施行規則</LawTitle>
+    <EnactStatement>信託法（平成十八年法律第百八号）及び信託法施行令（平成十九年政令第百九十九号）の規定に基づき、信託法施行規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第一条・第二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　自己信託に係る公正証書等の記載事項等</SectionTitle>
+          <ArticleRange>（第三条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　受託者等</ChapterTitle>
+        <ArticleRange>（第四条・第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　受益者集会</ChapterTitle>
+        <ArticleRange>（第六条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　信託の併合及び分割</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　信託の併合</SectionTitle>
+          <ArticleRange>（第十二条・第十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　信託の分割</SectionTitle>
+          <TOCSubsection Num="1">
+            <SubsectionTitle>第一款　吸収信託分割</SubsectionTitle>
+            <ArticleRange>（第十四条・第十五条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2">
+            <SubsectionTitle>第二款　新規信託分割</SubsectionTitle>
+            <ArticleRange>（第十六条・第十七条）</ArticleRange>
+          </TOCSubsection>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　受益証券発行信託の特例</ChapterTitle>
+        <ArticleRange>（第十八条―第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　限定責任信託の特例</ChapterTitle>
+        <ArticleRange>（第二十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　電磁的記録等</ChapterTitle>
+        <ArticleRange>（第二十五条―第三十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　計算</ChapterTitle>
+        <ArticleRange>（第三十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Num="1">
+            <ArticleCaption>（目的）</ArticleCaption>
+            <ArticleTitle>第一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この省令は、信託法（平成十八年法律第百八号。以下「法」という。）の<span>委任{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>事項{'法律': 1, '手続': 1}</span>その他法の<span>施行{'手続': 1}</span>に<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>を<span>定める{'ある': 1}</span>ことを<span>目的{'手続': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="2">
+            <ArticleCaption>（定義）</ArticleCaption>
+            <ArticleTitle>第二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この<span>省令{'規定': 1}</span>において<span>使用{'手続': 1}</span>する<span>用語{'規定': 1}</span>は、<span>法{'規定': 1}</span>において<span>使用{'規定': 1}</span>する<span>用語{'手続': 1}</span>の<span>例{'規定': 1}</span>による<span>ほか{'規定': 1}</span>、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>用語{'規定': 1}</span>の<span>意義{'規定': 1}</span>は、<span>それぞれ{'手続': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>ところに<span>よる{'基づく': 1}</span>。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>自己{'規定': 1}</span><span>信託{'手続': 1}</span></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>法<span>第三条{'手続': 1}</span>第三号に<span>掲げる{'ある': 1}</span><span>方法{'規定': 1}</span>によってされる<span>信託{'手続': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>電磁的記録{'規定': 1}</span></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>法<span>第三条{'規定': 1}</span>第三号に<span>規定{'手続': 1}</span>する<span>電磁的記録{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>電磁{'規定': 1}</span>的<span>方法{'手続': 1}</span></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>法第百八条第三号に<span>規定{'手続': 1}</span>する<span>電磁{'手続': 1}</span>的<span>方法{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>財産{'規定': 1}</span><span>状況{'規定': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次の<span>イ{'手続': 1}</span>又は<span>ロ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>信託{'規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'規定': 1}</span><span>イ{'手続': 1}</span>又はロに定めるものをいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託以外の信託</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>法第三十七条第二項の規定により作成する同<span>項{'信託': 1}</span>の<span>書類{'書面': 1}</span>又は電磁的記録</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>法第二百二十二条第四項の規定により作成する同項の<span>書類{'書面': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span>（<span>法{'規定': 1}</span>第二百五十二条第四項において<span>読み替え{'ある': 1}</span>て<span>適用{'準用': 1, '規定': 1}</span>する<span>法{'規定': 1}</span>第二百二十二条第四項の<span>規定{'手続': 1}</span>の<span>適用{'規定': 1}</span>がある場合にあっては、法第二百五十二条第一項の<span>会計監査{'規定': 2}</span>報告を含む。）</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　自己信託に係る公正証書等の記載事項等</SectionTitle>
+          <Article Num="3">
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法<span>第三条{'法': 1}</span>第三号に規定する<span>法務省令{'政令': 1, '手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'場合': 1, '手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'事項': 2, '規定': 1}</span>の<span>目的{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'手続': 1}</span>をする<span>財産{'規定': 1}</span>を<span>特定{'規定': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>自己{'手続': 1}</span><span>信託{'手続': 1}</span>をする者の<span>氏名{'手続': 1}</span>又は<span>名称{'手続': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>受益者{'規定': 1}</span>の<span>定め{'手続': 1}</span>（<span>受益者{'手続': 1}</span>を<span>定める{'ある': 1}</span><span>方法{'手続': 1}</span>の<span>定め{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'規定': 1}</span><span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>財産{'規定': 1}</span>の<span>管理{'規定': 1}</span><span>又は{'及び': 1}</span><span>処分{'規定': 1}</span>の<span>方法{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>信託行為に条件又は期限を付すときは、条件又は期限に関する<span>定め{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>法第百六十三条第九号の事由（当該事由を定めない<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その旨）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前各号に<span>掲げる{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>信託{'規定': 1}</span>の<span>条項{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　受託者等</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（分別管理の方法）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第三十四条第一項第三号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>財産{'手続': 1}</span>は、<span>法{'規定': 1}</span>第二百六条第一項その他の<span>法令{'規定': 1}</span>の<span>規定{'手続': 1}</span>により、<span>当該{'信託': 1, '規定': 1}</span><span>財産{'規定': 1}</span>が<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span>旨の<span>記載{'手続': 1}</span>又は<span>記録{'規定': 1}</span>をしなければ、<span>当該{'規定': 1}</span><span>財産{'手続': 1}</span>が<span>信託{'規定': 1}</span><span>財産{'手続': 1}</span>に<span>属する{'ある': 1}</span>ことを<span>第三者{'財産': 1, '手続': 1}</span>に<span>対抗{'規定': 1}</span>することが<span>でき{'ある': 1}</span>ないとされているもの（<span>法{'規定': 1}</span>第十四条の<span>信託{'規定': 1}</span>の<span>登記{'規定': 1}</span>又は<span>登録{'規定': 1}</span>をすることができる<span>財産{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第三十四条第一項第三号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ものは、<span>法{'事項': 1, '手続': 1}</span>第二百六条第一項その他の<span>法令{'規定': 1}</span>の<span>規定{'手続': 1}</span>に従い<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span>旨の<span>記載{'規定': 1}</span>又は<span>記録{'規定': 1}</span>をするとともに、その<span>計算{'手続': 1}</span>を<span>明らか{'手続': 1}</span>にする<span>方法{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（前受託者が破産管財人に通知すべき事項）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第五十九条第二項に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>信託{'規定': 1}</span><span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>財産{'手続': 1}</span>の<span>内容{'手続': 1}</span>及び所在</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>信託財産<span>責任{'規定': 1}</span>負担債務の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>知れている<span>受益者{'債権者': 1}</span>及び<span>法{'前項': 1, '規定': 1}</span>第百八十二条第一項第二号に<span>規定{'手続': 1}</span>する<span>帰属{'規定': 1}</span><span>権利{'規定': 1}</span>者の<span>氏名{'規定': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>信託{'規定': 1}</span><span>行為{'手続': 1}</span>の<span>内容{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　受益者集会</ChapterTitle>
+        <Article Num="6">
+          <ArticleCaption>（受益者集会の招集の場合における決定事項）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百八条第四号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>は、<span>次に{'相当': 1}</span>掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>次{'事項': 1}</span>条の規定により受益者集会参考書類（法第百十条第一項に規定する<span>受益者{'債権者': 1}</span>集会参考書類をいう。次条において同じ。）に記載すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>書面による議決権の行使の期限（<span>受益者{'債権者': 1}</span><span>集会{'代理人': 1}</span>の日時以前の時であって、<span>法{'前項': 1}</span>第百九条第一項の規定による通知を発した日から二週間を経過した日以後の時に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>一の<span>受益者{'社債': 1}</span>が<span>同一{'集会': 1}</span>の議案につき法第百十五条第一項（法第百八条第三号に掲げる事項を定めた<span>場合{'規定': 1}</span>にあっては、法第百十五条第一項又は第百十六条第一項）の規定により重複して<span>議決権{'手続': 1}</span>を行使した場合において、当該同一の議案に対する議決権の行使の内容が異なるものであるときにおける当該<span>受益者{'債権者': 1}</span>の議決権の行使の取扱いに関する事項を定めるときは、その事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第八条第一項第一号の欄に記載がない議決権行使書面（<span>法{'規定': 1}</span>第百十条第一項に<span>規定{'手続': 1}</span>する<span>議決権行使{'記載': 1}</span>書面をいう。以下この条及び第八条において同じ。）が<span>招集{'規定': 1}</span>者（法第百八条に規定する招集者を<span>いう{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>及び第八条において同じ。）に<span>提出{'規定': 1}</span>され、又は<span>法{'規定': 1}</span>第百十六条第一項の<span>規定{'手続': 1}</span>により<span>電磁{'手続': 1}</span>的<span>方法{'規定': 1}</span>により<span>招集{'手続': 1}</span>者に<span>提供{'手続': 1}</span>された<span>事項{'届出': 1}</span>のうちに当該欄に記載すべきものがない場合における各議案についての賛成、反対又は棄権のいずれかの意思の表示があったものとする<span>取扱い{'規定': 1}</span>を定めるときは、その取扱いの<span>内容{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百八条第三号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>定め{'手続': 1}</span>たときは、<span>次に{'相当': 1}</span>掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>電磁的方法による議決権の行使の期限（<span>受益者{'債権者': 1, '規定': 1}</span>集会の日時以前の時であって、<span>法{'前項': 1}</span>第百九条第一項の規定による通知を発した日から二週間を経過した日以後の時に限る。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>法第百九条第二項の<span>承諾{'期間内': 1}</span>をした受益者に対しては、当該受益者の第八条第二項の請求があった時に法第百十条第一項の規定による<span>議決権行使{'規定': 1}</span>書面の交付（当該交付に代えて<span>行う{'ある': 1}</span>同<span>条{'手続': 1}</span>第二項の<span>規定{'手続': 1}</span>による<span>電磁{'手続': 1}</span>的<span>方法{'規定': 1}</span>による<span>提供{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）をすることとするときは、その<span>旨{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百十七条第一項の<span>規定{'手続': 1}</span>による<span>通知{'手続': 1}</span>の<span>方法{'法務省令': 2}</span>を定めるときは、その方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（受益者集会参考書類）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>受益者集会参考書類には、議案及び次の各号に掲げる<span>議案{'場合': 1}</span>の区分に応じ、当該各号に定める事項を<span>記載{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>新た{'規定': 1}</span>な受託者（以下この号において「新受託者」という。）の選任に関する<span>議案{'手続': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>新受託者となるべき者の氏名又は<span>名称{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>新受託者となるべき者の略歴又は<span>沿革{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>新受託者となるべき者を受託者に選任すべきものとした理由</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>信託{'規定': 1}</span><span>監督{'目録': 1, '手続': 1}</span>人又は受益者代理人の選任に関する<span>議案{'手続': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>信託監督人又は<span>受益者{'規定': 1}</span><span>代理人{'規定': 1}</span>と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>信託{'規定': 1}</span><span>監督{'管理人': 1, '手続': 1}</span>人又は<span>受益者{'規定': 1}</span>代理人となるべき者の略歴又は<span>沿革{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>信託監督人又は受益者代理人と<span>なる{'ある': 1}</span>べき者が<span>受託{'規定': 1}</span>者と<span>特別{'手続': 1}</span>の<span>利害関係{'手続': 1}</span>が<span>ある{'有する': 1, 'でき': 1}</span>ときは、その<span>事実{'手続': 1}</span>の<span>概要{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>受託{'規定': 1}</span>者、<span>信託{'規定': 1}</span><span>監督{'届出': 1}</span>人又は受益者代理人の解任に関する<span>議案{'手続': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>解任すべき受託者、信託<span>監督{'管理人': 1, '手続': 1}</span>人又は<span>受益者{'規定': 1}</span><span>代理人{'規定': 1}</span>の<span>氏名{'手続': 1}</span><span>又は{'若しくは': 1}</span><span>名称{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>解任の理由</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>信託の変更に関する<span>議案{'規定': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>信託の変更後の信託<span>行為{'規定': 1}</span>の内容</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>信託行為で定められた<span>受益権{'規定': 1}</span>の内容に変更を加え、又は受益権の<span>価値{'手続': 1}</span>に重大な影響を与えるおそれがあるときは、その変更又は<span>影響{'規定': 1}</span>の<span>内容{'規定': 1}</span>及び<span>相当{'規定': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>信託{'定款': 1, '手続': 1}</span>の<span>変更{'規定': 1}</span>がその<span>効力{'規定': 1}</span>を<span>生ずる{'ある': 1}</span>日</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>信託{'手続': 1}</span>の変更をする理由</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>信託の<span>併合{'財産': 1}</span>に関する<span>議案{'手続': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>法第百五十一条第一項各号に掲げる<span>事項{'場合': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>吸収<span>信託{'新設': 1}</span>分割に関する議案</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>法第百五十五条第一項各号に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>新規<span>信託{'新設': 1}</span>分割に関する議案</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>法第百五十九条第一項各号に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>前各号に掲げる議案以外の<span>議案{'場合': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>当該議案を提案した理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>受益者集会参考書類には、<span>前項{'法務省令': 1}</span>各号に<span>定める{'掲げる': 1}</span>もののほか、受益者の議決権の行使について参考となると認める事項を<span>記載{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>同一の受益者集会に関して受益者に対して提供する受益者集会参考書類に記載すべき<span>事項{'規定': 1}</span>のうち、他の書面に記載している<span>事項{'書面': 1}</span>又は<span>電磁{'規定': 1}</span>的<span>方法{'手続': 1}</span>により<span>提供{'手続': 1}</span>している<span>事項{'手続': 1}</span>がある場合には、これらの事項は、受益者集会参考書類に記載することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>同一の受益者集会に関して受益者に対して提供する招集通知（法第百九条第一項又は第二項の規定による通知をいう。以下この<span>条{'次項': 1, '規定': 1}</span>及び次条において同じ。）の内容とすべき事項のうち、受益者集会参考書類に記載している<span>事項{'通知': 1}</span>又は受益者集会参考書類の交付に代えて電磁的方法により<span>提供{'手続': 1}</span>している<span>事項{'手続': 1}</span>がある場合には、当該事項は、<span>招集通知{'手続': 1}</span>の内容とすることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（議決権行使書面）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百十条第一項の規定により交付すべき<span>議決権行使{'規定': 1}</span>書面に記載すべき事項又は法第百十<span>一条{'規定': 1}</span>第一項若しくは第二項の規定により電磁的方法により提供すべき<span>議決権行使{'規定': 1}</span>書面に記載すべき<span>事項{'規定': 1}</span>は、次に掲げる事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>各議案についての賛否（棄権の欄を設ける場合にあっては、棄権を含む。）を記載する欄</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第六条第三号に掲げる事項を<span>定め{'手続': 1}</span>たときは、<span>当該{'手続': 1}</span><span>事項{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第<span>六条{'手続': 1}</span>第四号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>定め{'手続': 1}</span>たときは、同号の取扱いの内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>議決権の行使の<span>期限{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>議決権を行使すべき受益者の氏名又は<span>名称{'規定': 1}</span>及び<span>当該{'住所': 2}</span>受益者が行使することができる議決権の数又は割合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第百八条第三号に掲げる事項を定めた場合において、第<span>六条{'手続': 1}</span><span>第五{'第一': 1, '規定': 1}</span>号<span>ロ{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>定め{'手続': 1}</span>たときは、<span>招集{'規定': 1}</span>者は、<span>法{'規定': 1}</span>第百九条第二項の<span>承諾{'規定': 2}</span>をした<span>受益者{'規定': 1}</span>が<span>請求{'規定': 1}</span>をした時に、当該受益者に対して、法第百十条第一項の規定による<span>議決権行使{'規定': 1}</span>書面の交付（当該交付に代えて<span>行う{'ある': 1}</span>同<span>条{'手続': 1}</span>第二項の<span>規定{'手続': 1}</span>による<span>電磁{'手続': 1}</span>的<span>方法{'規定': 1}</span>による提供を含む。）をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>同一の受益者集会に関して受益者に対して<span>提供{'集会': 1}</span>する議決権行使書面に記載すべき事項（第一項第二号から第四号までに掲げる事項に限る。）のうち、<span>招集通知{'規定': 1}</span>の内容としている事項がある場合には、当該事項は、<span>受益者{'証明': 1}</span>に対して提供する<span>議決権行使{'記載': 1, '手続': 1}</span>書面に記載することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>同一の受益者集会に関して受益者に対して<span>提供{'手続': 1}</span>する招集通知の内容とすべき<span>事項{'書面': 1, '手続': 1}</span>のうち、議決権行使書面に記載している事項又は議決権行使<span>書面{'方法': 1}</span>の交付に代えて電磁的方法により提供している事項が<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>には、当該事項は、受益者に対して提供する<span>招集通知{'規定': 1}</span>の内容とすることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（書面による議決権行使の期限）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百十五条第二項に規定する法務省令で定める時は、第<span>六条{'事項': 1}</span>第二号の行使の<span>期限{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（電磁的方法による議決権行使の期限）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百十六条第一項に規定する法務省令で定める時は、第<span>六条{'事項': 1}</span>第五号イの行使の期限とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（受益者集会の議事録）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百二十条の規定による受益者<span>集会{'手続': 1}</span>の議事録の作成については、この条の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>受益者<span>集会{'手続': 1}</span>の議事録は、書面又は電磁的記録をもって作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>受益者{'債権者': 1}</span>集会の議事録は、次に掲げる事項を内容とするものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益者集会が開催された日時及び場所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>受益者{'債権者': 1}</span>集会の議事の経過の要領及びその結果</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百十八条第一項の規定により受益者集会において述べられた意見があるときは、その意見の内容の概要</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>受益者{'債権者': 1}</span>集会に出席した受託者（法人である<span>受託{'場合': 1}</span>者にあっては、その<span>代表者{'手続': 1}</span>又は<span>代理人{'規定': 1}</span>）又は<span>信託{'規定': 1}</span><span>監督{'規定': 1}</span>人の氏名又は<span>名称{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>受益者{'債権者': 1}</span>集会の議長が存するときは、議長の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>議事録の作成に係る職務を行った者の氏名又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　信託の併合及び分割</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　信託の併合</SectionTitle>
+          <Article Num="12">
+            <ArticleCaption>（信託の併合に当たり明らかにすべき事項）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第百五十<span>一条{'手続': 1}</span>第一項<span>第五{'規定': 1}</span>号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'手続': 1}</span>は、<span>次{'規定': 1}</span>のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'手続': 1}</span>の<span>併合{'財産': 1, '手続': 1}</span>をする他の<span>信託{'手続': 1}</span>についての<span>次{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'場合': 1, '手続': 1}</span>その他の<span>当該{'手続': 1}</span><span>他{'手続': 1}</span>の<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>信託の年月日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称及び事務処理地（<span>法{'規定': 1}</span>第二百十六条第二項第四号に<span>規定{'手続': 1}</span>する<span>事務{'規定': 1}</span><span>処理{'規定': 1}</span>地を<span>いう{'ある': 1}</span>。以下同じ。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'届出': 1}</span>の<span>併合{'規定': 1}</span>をする他の<span>信託{'手続': 1}</span>の<span>信託{'規定': 1}</span><span>行為{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>法第百五十<span>一条{'手続': 1}</span>第一項第三号に<span>規定{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、同号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>定め{'規定': 1}</span>の<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>前{'手続': 1}</span>号に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>には、受益者に対して交付する<span>金銭{'信託': 1}</span>その他の財産の<span>割当て{'手続': 1}</span>に関する事項及び当該事項の定めの<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'手続': 1}</span>の<span>併合{'財産': 2, '手続': 1}</span>をする各<span>信託{'手続': 1}</span>において<span>直前{'手続': 1}</span>に<span>作成{'規定': 1}</span>された<span>財産{'信託': 1, '手続': 1}</span><span>状況{'手続': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等の<span>内容{'規定': 1}</span>（<span>財産{'手続': 1}</span><span>状況{'目録': 1}</span>開示資料等を作成すべき時期が到来していないときは、次のイ又はロに掲げる<span>書類{'書面': 1, '規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'規定': 1}</span><span>イ{'手続': 1}</span>又は<span>ロ{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>事項{'手続': 1}</span>）</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>第<span>二条{'手続': 1}</span>第四号<span>イ{'法務省令': 1, '規定': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>書類{'規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span></Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence><span>当該{'規定': 1}</span>書類又は<span>電磁的記録{'手続': 1}</span>を作成すべき時期が<span>到来{'場合': 1}</span>していない旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>第二条第四号ロに<span>定める{'掲げる': 1}</span>書類又は電磁的記録</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>法第二百二十二条第三項の<span>規定{'手続': 1}</span>により<span>作成{'規定': 1}</span>された<span>貸借対照表{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'届出': 1}</span>の<span>併合{'規定': 1}</span>をする各<span>信託{'手続': 1}</span>について、<span>財産{'手続': 1}</span><span>状況{'規定': 1}</span><span>開示{'手続': 1}</span><span>資料{'規定': 1}</span>等を<span>作成{'信託': 1, '規定': 1}</span>した後（<span>財産{'手続': 1}</span>状況開示資料等を作成すべき時期が到来していない場合にあっては、<span>信託{'当該': 1}</span>がされた後）に、重要な信託<span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>財産{'規定': 1}</span>の処分、重大な信託財産<span>責任{'規定': 1}</span>負担債務の負担その他の信託財産の<span>状況{'規定': 1}</span>に<span>重要{'規定': 1}</span>な<span>影響{'規定': 1}</span>を<span>与える{'ある': 1}</span><span>事象{'効力': 1, '手続': 1}</span>が<span>生じ{'ある': 1}</span>たときは、その<span>内容{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'手続': 1}</span>の<span>併合{'手続': 1}</span>をする<span>理由{'届出': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（債権者の異議に関する公告事項）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第百五十二条第二項第三号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'手続': 1}</span>は、<span>次{'規定': 1}</span>のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>信託{'手続': 1}</span>の<span>併合{'財産': 1, '手続': 1}</span>をする各<span>信託{'手続': 1}</span>についての<span>次{'手続': 1}</span>に<span>掲げる{'取り消さ': 1}</span><span>事項{'場合': 1, '手続': 1}</span>その他の<span>当該{'手続': 1}</span><span>信託{'手続': 1}</span>の<span>併合{'規定': 1}</span>をする各<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>信託の年月日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称及び事務処理地</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>前条{'手続': 1}</span>第五号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>（法第百五十二条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'ある': 1}</span>ための方法）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前条第六号に掲げる事項（法第百五十二条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'取り消さ': 1}</span>ための方法）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>信託の併合が効力を生ずる日以後における信託の併合後の信託の信託財産<span>責任{'規定': 1}</span>負担<span>債務{'信託': 1}</span>（信託の併合をする他の信託の<span>信託{'財産': 1}</span>財産責任負担債務であったものを除く。）の履行の見込みに関する事項（法第百五十二条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'取り消さ': 1}</span>ための方法）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　信託の分割</SectionTitle>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　吸収信託分割</SubsectionTitle>
+            <Article Num="14">
+              <ArticleCaption>（吸収信託分割に当たり明らかにすべき事項）</ArticleCaption>
+              <ArticleTitle>第十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>法第百五十五条第一項第七号に規定する法務省令で定める<span>事項{'手続': 1}</span>は、<span>次{'手続': 1}</span>のとおりとする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'規定': 1}</span><span>信託{'手続': 1}</span><span>分割{'財産': 1, '規定': 1}</span>をする他の<span>信託{'手続': 1}</span>についての<span>次{'手続': 1}</span>に<span>掲げる{'取り消さ': 1}</span><span>事項{'場合': 1, '規定': 1}</span>その他の<span>当該{'手続': 1}</span><span>吸収{'手続': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>をする各<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>信託の年月日</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称<span>及び{'又は': 1}</span>事務処理地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'規定': 1}</span><span>信託{'規定': 1}</span><span>分割{'規定': 1}</span>をする他の<span>信託{'規定': 1}</span>の<span>信託{'規定': 1}</span><span>行為{'規定': 1}</span>の<span>内容{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>法第百五十五条第一項第三号に<span>規定{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、同号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>定め{'規定': 1}</span>の<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前{'手続': 1}</span>号に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>には、<span>分割{'規定': 1}</span><span>信託{'規定': 1}</span>（<span>法{'手続': 1}</span>第百五十五条第一項第六号に<span>規定{'手続': 1}</span>する<span>分割{'規定': 1}</span><span>信託{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>及び次条において同じ。）の<span>受益者{'当該': 1}</span>に対する金銭その他の財産の<span>割当て{'手続': 1}</span>に関する事項及び当該事項の定めの<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'手続': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>に際して、<span>承継{'規定': 1}</span><span>信託{'手続': 1}</span>（<span>法{'規定': 1}</span>第百五十五条第一項第六号に<span>規定{'届出': 1}</span>する<span>承継{'規定': 1}</span><span>信託{'手続': 1}</span>を<span>いう{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>及び<span>次{'規定': 1}</span>条において同じ。）に属する<span>財産{'建物': 1}</span>（承継信託の<span>受益権{'規定': 1}</span>を含む。）を分割信託の信託財産に<span>帰属{'手続': 1}</span>させることとするときは、<span>当該{'信託': 1, '規定': 1}</span><span>財産{'届出': 1}</span>の<span>種類{'手続': 1}</span>及び<span>数{'規定': 1}</span>若しくは<span>額{'規定': 1}</span>又はこれらの<span>算定{'規定': 1}</span><span>方法{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前{'手続': 1}</span>号に<span>規定{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、同号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>定め{'手続': 1}</span>の<span>相当{'手続': 1}</span>性に関する<span>事項{'財産': 1, '手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'手続': 1}</span><span>信託{'分割': 1, '手続': 1}</span><span>分割{'規定': 1}</span>をする各<span>信託{'手続': 1}</span>において<span>直前{'手続': 1}</span>に<span>作成{'規定': 1}</span>された<span>財産{'規定': 1}</span><span>状況{'規定': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等の<span>内容{'規定': 1}</span>（<span>財産{'手続': 1}</span><span>状況{'目録': 1}</span>開示資料等を作成すべき時期が到来していないときは、次のイ又はロに掲げる<span>書類{'書面': 1, '規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'規定': 1}</span><span>イ{'手続': 1}</span>又は<span>ロ{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>事項{'手続': 1}</span>）</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence>第<span>二条{'手続': 1}</span>第四号<span>イ{'法務省令': 1, '規定': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>書類{'規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span></Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence><span>当該{'規定': 1}</span>書類又は<span>電磁的記録{'手続': 1}</span>を作成すべき時期が<span>到来{'場合': 1}</span>していない旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence>第二条第四号ロに<span>定める{'掲げる': 1}</span>書類又は電磁的記録</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>法第二百二十二条第三項の<span>規定{'手続': 1}</span>により<span>作成{'規定': 1}</span>された<span>貸借対照表{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'規定': 1}</span><span>信託{'規定': 1}</span><span>分割{'規定': 1}</span>をする各<span>信託{'規定': 1}</span>について、<span>財産{'手続': 1}</span><span>状況{'規定': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等を<span>作成{'信託': 1, '規定': 1}</span>した後（<span>財産{'手続': 1}</span>状況開示資料等を作成すべき時期が到来していない場合にあっては、<span>信託{'当該': 1}</span>がされた後）に、重要な信託<span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>財産{'規定': 1}</span>の処分、重大な信託財産<span>責任{'規定': 1}</span>負担債務の負担その他の信託財産の<span>状況{'規定': 1}</span>に<span>重要{'規定': 1}</span>な<span>影響{'規定': 1}</span>を<span>与える{'ある': 1}</span><span>事象{'効力': 1, '手続': 1}</span>が<span>生じ{'ある': 1}</span>たときは、その<span>内容{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'規定': 1}</span><span>信託{'規定': 1}</span><span>分割{'規定': 1}</span>をする<span>理由{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="15">
+              <ArticleCaption>（債権者の異議に関する公告事項）</ArticleCaption>
+              <ArticleTitle>第十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>法第百五十六条第二項第三号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>は、<span>次{'手続': 1}</span>のとおりとする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>吸収{'規定': 1}</span><span>信託{'手続': 1}</span><span>分割{'財産': 1, '規定': 1}</span>をする各<span>信託{'手続': 1}</span>についての<span>次{'手続': 1}</span>に<span>掲げる{'取り消さ': 1}</span><span>事項{'場合': 1, '規定': 1}</span>その他の<span>当該{'手続': 1}</span><span>吸収{'手続': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>をする各<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>信託の年月日</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称及び事務処理地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前条{'手続': 1}</span>第七号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>（法第百五十六条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'ある': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>前条第八号に掲げる事項（法第百五十六条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'ある': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該信託が分割信託である<span>場合{'手続': 1}</span>には、<span>吸収{'当該': 1, '規定': 1}</span><span>信託{'分割': 1}</span>分割が<span>効力{'信託': 1}</span>を生ずる<span>日{'規定': 1}</span>以後における分割信託の信託財産<span>責任{'規定': 1}</span>負担債務及び承継信託の信託財産<span>責任{'規定': 1}</span>負担債務（吸収<span>信託{'記載': 1}</span>分割により承継<span>信託{'会社': 1}</span>の信託財産責任負担債務となるものに限る。）の<span>履行{'債権者': 1}</span>の<span>見込み{'規定': 1}</span>に関する事項（法第百五十六条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'取り消さ': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該信託が承継信託である<span>場合{'規定': 1}</span>には、<span>吸収{'当該': 1, '規定': 1}</span><span>信託{'分割': 1}</span>分割が効力を生ずる<span>日{'規定': 1}</span>以後における承継<span>信託{'規定': 1}</span>の信託財産責任負担債務（法第百五十六条第一項の規定により吸収信託<span>分割{'規定': 1}</span>に<span>異議{'規定': 1}</span>を<span>述べる{'ある': 1}</span>ことができる債権者に対して負担するものに限る。）の履行の<span>見込み{'規定': 1}</span>に関する事項（同項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'取り消さ': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　新規信託分割</SubsectionTitle>
+            <Article Num="16">
+              <ArticleCaption>（新規信託分割に当たり明らかにすべき事項）</ArticleCaption>
+              <ArticleTitle>第十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>法第百五十九条第一項第七号に規定する法務省令で定める<span>事項{'方法': 1}</span>は、次のとおりとする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>二以上の信託により<span>新規{'手続': 1}</span>信託分割が行われるときは、当該新規信託分割をする他の信託についての次に掲げる<span>事項{'場合': 1, '規定': 1}</span>その他の<span>当該{'手続': 1}</span><span>他{'手続': 1}</span>の<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>信託の年月日</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称<span>及び{'又は': 1}</span>事務処理地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>前号に規定する場合には、当該<span>新規{'規定': 1}</span>信託分割をする他の信託の信託行為の<span>内容{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>法第百五十九条第一項第三号に<span>規定{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、同号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>定め{'規定': 1}</span>の<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前{'手続': 1}</span>号に規定する場合には、従前の信託（<span>新規{'規定': 1}</span>信託分割をする他の信託が<span>ある{'なる': 1}</span>場合に<span>あっ{'ある': 1}</span>ては、<span>従前{'規定': 1}</span>の<span>信託{'手続': 1}</span>及び<span>当該{'規定': 2}</span><span>他{'規定': 1}</span>の<span>信託{'手続': 1}</span>。以下この<span>条{'手続': 1}</span>及び<span>次{'規定': 1}</span>条第一号において同じ。）の受益者に対する金銭その他の財産の<span>割当て{'手続': 1}</span>に関する事項及び当該事項の定めの相当性に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>新規{'手続': 1}</span>信託分割に際して、新たな信託の<span>受益権{'規定': 1}</span>を従前の信託の信託財産に帰属させることとするときは、当該受益権の内容及び数若しくは額又はこれらの<span>算定{'規定': 1}</span><span>方法{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前{'手続': 1}</span>号に<span>規定{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、同号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>定め{'手続': 1}</span>の<span>相当{'手続': 1}</span>性に関する<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>従前{'手続': 1}</span>の<span>信託{'手続': 1}</span>において<span>直前{'手続': 1}</span>に<span>作成{'規定': 1}</span>された<span>財産{'手続': 1}</span><span>状況{'手続': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等の<span>内容{'規定': 1}</span>（<span>財産{'手続': 1}</span><span>状況{'目録': 1}</span>開示資料等を作成すべき時期が到来していないときは、次のイ又はロに掲げる<span>書類{'書面': 1, '規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'規定': 1}</span><span>イ{'手続': 1}</span>又は<span>ロ{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>事項{'手続': 1}</span>）</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence>第<span>二条{'手続': 1}</span>第四号<span>イ{'法務省令': 1, '規定': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>書類{'規定': 1}</span><span>又は{'ただし': 1}</span><span>電磁的記録{'規定': 1}</span></Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence><span>当該{'規定': 1}</span>書類又は<span>電磁的記録{'手続': 1}</span>を作成すべき時期が<span>到来{'場合': 1}</span>していない旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence>第二条第四号ロに<span>定める{'掲げる': 1}</span>書類又は電磁的記録</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>法第二百二十二条第三項の<span>規定{'手続': 1}</span>により<span>作成{'規定': 1}</span>された<span>貸借対照表{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>従前{'規定': 1}</span>の<span>信託{'債務者': 1, '規定': 1}</span>について、<span>財産{'手続': 1}</span><span>状況{'規定': 1}</span><span>開示{'規定': 1}</span><span>資料{'規定': 1}</span>等を<span>作成{'信託': 1, '規定': 1}</span>した後（<span>財産{'手続': 1}</span>状況開示資料等を作成すべき時期が到来していない場合にあっては、<span>信託{'当該': 1}</span>がされた後）に、重要な信託<span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>財産{'規定': 1}</span>の処分、重大な信託財産<span>責任{'規定': 1}</span>負担債務の負担その他の信託財産の<span>状況{'規定': 1}</span>に<span>重要{'規定': 1}</span>な<span>影響{'規定': 1}</span>を与える<span>事象{'効力': 1}</span>が生じたときは、その内容</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>新規{'規定': 1}</span>信託分割をする理由</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="17">
+              <ArticleCaption>（債権者の異議に関する公告事項）</ArticleCaption>
+              <ArticleTitle>第十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>法第百六十条第二項第三号に規定する法務省令で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>は、<span>次{'手続': 1}</span>のとおりとする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>従前{'規定': 1}</span>の<span>信託{'手続': 1}</span>についての<span>次{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>その他の<span>当該{'手続': 1}</span><span>従前{'手続': 1}</span>の<span>信託{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence><span>委託{'手続': 1}</span>者及び<span>受託{'規定': 1}</span>者の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>信託の年月日</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称及び事務処理地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence><span>前条{'手続': 1}</span>第七号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>（法第百六十条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'ある': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>前条第八号に掲げる事項（法第百六十条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を知るための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>新規信託分割が効力を生ずる日以後における当該従前の信託の信託財産<span>責任{'規定': 1}</span>負担債務及び新たな信託の<span>信託{'財産': 1}</span>財産<span>責任{'規定': 1}</span>負担<span>債務{'信託': 1}</span>（当該従前の信託の信託財産<span>責任{'規定': 1}</span>負担債務のうち、新規<span>信託{'記載': 1}</span><span>分割{'財産': 1}</span>により新たな信託の信託財産責任負担債務となったものに限る。）の<span>履行{'債権者': 1}</span>の<span>見込み{'規定': 1}</span>に関する事項（法第百六十条第一項の債権者が当該事項を<span>知る{'ある': 1}</span>ことができるようにするための適切な措置を受託者が講ずる場合に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>措置{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て当該債権者が当該事項を<span>知る{'取り消さ': 1}</span>ための方法）</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+          </Subsection>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　受益証券発行信託の特例</ChapterTitle>
+        <Article Num="18">
+          <ArticleCaption>（受益権原簿記載事項）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百八十六条第一号に規定する<span>法務省令{'政令': 1}</span>で定める事項は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>各<span>受益権{'規定': 1}</span>に係る受益債権の給付の内容、弁済期（弁済期の定めがないときは、その旨）その他の受益債権の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益権について譲渡の制限があるときは、その旨及びその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該<span>受益{'新株予約権': 1}</span><span>証券{'手続': 1}</span>発行信託において、受益債権の<span>内容{'規定': 1}</span>が同一の二以上の受益権がある場合において、それらの受益権について、受益者として有する権利の行使に関して<span>内容{'定め': 1}</span>の<span>異なる{'ある': 1}</span><span>信託{'規定': 1}</span><span>行為{'規定': 1}</span>の<span>定め{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ときは、<span>当該{'規定': 1}</span><span>定め{'規定': 1}</span>の<span>要旨{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百八十六条<span>第五{'第九': 1, '手続': 1}</span>号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'掲げる': 1, 'ある': 1}</span>事項は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該受益<span>証券{'手続': 1}</span>発行信託の委託者の氏名又は<span>名称{'規定': 1}</span>及び住所（当該<span>受益{'新株予約権': 1}</span><span>証券{'手続': 1}</span>発行信託の委託者が現に<span>存{'場合': 1}</span>しないときは、その旨）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該受益証券発行信託の受託者の氏名又は<span>名称{'手続': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>信託{'規定': 1}</span><span>監督{'手続': 1}</span>人が<span>ある{'でき': 1}</span>ときは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>法第百三十二条第一項<span>ただし書{'規定': 1}</span>又は第二項<span>ただし書{'規定': 1}</span>の<span>定め{'規定': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>当該{'定め': 1, '場合': 1, '規定': 1}</span><span>定め{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>受益者{'手続': 1}</span><span>代理人{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>法第百三十九条第一項<span>ただし書{'規定': 1}</span>又は第三項<span>ただし書{'規定': 1}</span>の<span>定め{'規定': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>当該{'定め': 1, '場合': 1, '規定': 1}</span><span>定め{'規定': 1}</span>の<span>内容{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百八十五条第二項の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、当該定めの内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百八十八条に規定する受益権原簿管理人を<span>定め{'発行': 1}</span>たときは、その氏名又は名称及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>限定<span>責任{'規定': 1}</span>信託であるときは、その名称<span>及び{'又は': 1}</span>事務処理地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号に掲げるもののほか、当該受益<span>証券{'手続': 1}</span>発行信託の<span>信託{'受益権': 1}</span>の条項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（受益証券発行信託の受託者が受益権を取得した場合の特例）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第百九十七条第一項に掲げる場合には、受益<span>証券{'手続': 1}</span>発行信託の受託者は、受益権原簿記載事項として、当該受益権が<span>固有{'信託': 3}</span>財産に属するか、<span>他{'当該': 1}</span>の信託財産に属するか、当該受益証券発行信託の信託財産に属するかの<span>別{'規定': 1}</span>をも<span>記載{'届出': 1}</span>し、又は<span>記録{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（受益権原簿記載事項の記載等の請求）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第百九十八条第二項に規定する法務省令で定める場合は、受益権取得者（受益証券発行信託の受益権を受益証券発行信託の<span>受託{'受益権': 1}</span>者以外の者から取得した者（<span>当該{'規定': 1}</span><span>受託{'規定': 1}</span>者を除く。）をいう。以下この条において同じ。）が受益<span>証券{'手続': 1}</span>を<span>提示{'交付': 1}</span>して請求をした場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の<span>規定{'手続': 1}</span>にかかわらず、受益権取得者が取得した受益権が法第百八十五条第二項の定めのあるものである場合には、法第百九十八条第二項に規定する法務省令で定める<span>場合{'事項': 1}</span>は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益権取得者が、<span>受益者{'対価': 1}</span>として受益権原簿に記載<span>若しくは{'又は': 2}</span>記録がされた者又はその一般承継人に対して当該受益権<span>取得{'規定': 1}</span>者の取得した受益権に係る<span>法{'民法': 1}</span>第百九十八条第一項の規定による請求をすべきことを命ずる確定判決を<span>得{'ある': 1}</span>た<span>場合{'手続': 1}</span>において、<span>当該{'規定': 1}</span><span>確定判決{'規定': 1}</span>の<span>内容{'規定': 1}</span>を<span>証する{'ある': 1}</span>書面その他の資料を提供して請求をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>受益権{'手続': 1}</span>取得者が前号の確定判決と同一の効力を<span>有する{'ある': 1}</span>ものの<span>内容{'規定': 1}</span>を<span>証する{'ある': 1}</span><span>書面{'情報': 1}</span>その他の資料を提供して<span>請求{'手続': 1}</span>をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益権取得者が、一般承継により当該受益権を取得した者である場合において、当該一般承継を証する書面その他の資料を提供して請求をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益権取得者が、当該受益権を競売により取得した者である場合において、当該競売により取得したことを証する書面その他の資料を提供して請求をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（受益証券記載事項）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第二百九条第一項第四号に<span>規定{'手続': 1}</span>する<span>法務省令{'政令': 2}</span>で<span>定める{'掲げる': 1}</span>事項は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>各<span>受益権{'規定': 1}</span>に係る受益債権の給付の内容、弁済期（弁済期の定めがないときは、その旨）その他の受益債権の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>受益権について譲渡の制限があるときは、その旨及びその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該<span>受益{'新株予約権': 1}</span><span>証券{'手続': 1}</span>発行信託において、受益債権の<span>内容{'規定': 1}</span>が同一の二以上の受益権がある場合において、それらの受益権について、受益者として有する権利の行使に関して<span>内容{'定め': 1}</span>の<span>異なる{'ある': 1}</span><span>信託{'規定': 1}</span><span>行為{'規定': 1}</span>の<span>定め{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ときは、<span>当該{'規定': 1}</span><span>定め{'規定': 1}</span>の<span>要旨{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第二百九条第一項<span>第九{'手続': 1}</span>号に<span>規定{'手続': 1}</span>する法務省令で<span>定める{'掲げる': 1}</span>事項は、限定<span>責任{'規定': 1}</span>信託の名称及び事務処理地（当該受益証券発行信託が限定責任信託である場合に限る。）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　限定責任信託の特例</ChapterTitle>
+        <Article Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第二百十六条第二項第六号に規定する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'規定': 1}</span>は、<span>信託{'規定': 1}</span><span>事務{'目録': 1, '規定': 1}</span><span>年度{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　電磁的記録等</ChapterTitle>
+        <Article Num="25">
+          <ArticleCaption>（電磁的記録）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span><span>第三条{'規定': 1}</span>第三号に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ものは、<span>磁気ディスク{'規定': 1}</span>その他これに<span>準ずる{'ある': 1}</span><span>方法{'規定': 1}</span>により<span>一定{'手続': 1}</span>の<span>情報{'規定': 1}</span>を<span>確実{'規定': 1}</span>に<span>記録{'規定': 1}</span>しておくことができる物<span>をもって{'とともに': 1}</span><span>調製{'手続': 1}</span>する<span>ファイル{'手続': 1}</span>に<span>情報{'手続': 1}</span>を<span>記録{'手続': 1}</span>したものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（電磁的記録の作成）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'規定': 1}</span>第三十七条第四項<span>本文{'規定': 1}</span>、第五項若しくは第六項<span>本文{'規定': 1}</span>又は第二百二十二条第六項<span>本文{'規定': 1}</span>、第七項若しくは第八項<span>本文{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>方法は、書面に記載されている事項をスキャナ（これに準ずる画像読取装置を含む。）により読み取る方法とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（電磁的記録に記録された事項の提供の方法）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第三十七条第四項ただし書（同<span>条{'規定': 1}</span>第五項後段において<span>準用{'規定': 2}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）若しくは第六項<span>ただし書{'規定': 2}</span><span>又は{'及び': 1, 'ただし': 1}</span>第二百二十二条第六項<span>ただし書{'規定': 1}</span>（同<span>条{'規定': 1}</span>第七項<span>後段{'規定': 1}</span>において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）<span>若しくは{'及び': 1}</span>第八項<span>ただし書{'手続': 1}</span>（第二号においてこれらの<span>規定{'手続': 1}</span>を「<span>提供{'手続': 1}</span><span>規定{'手続': 1}</span>」と<span>総称{'手続': 1}</span>する。）に<span>規定{'手続': 1}</span>する<span>法務省令{'政令': 1, '手続': 1}</span>で<span>定める{'ある': 1}</span><span>方法{'手続': 1}</span>は、<span>電磁{'手続': 1}</span>的<span>方法{'手続': 1}</span>のうち、<span>次に{'相当': 1}</span><span>掲げる{'取り消さ': 1}</span><span>方法{'規定': 1}</span>のいずれかとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>信託{'手続': 1}</span><span>行為{'規定': 1}</span>に<span>定め{'手続': 1}</span>た<span>方法{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>提供{'手続': 1}</span><span>規定{'手続': 1}</span>により<span>電磁的記録{'手続': 1}</span>に<span>記録{'規定': 1}</span>された<span>事項{'情報': 1, '手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者が<span>定め{'手続': 1}</span>た<span>方法{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（電磁的記録に記録された事項を表示する方法）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>方法{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>の<span>電磁的記録{'規定': 1}</span>に<span>記録{'規定': 1}</span>された<span>事項{'手続': 1}</span>を<span>紙面{'手続': 1}</span>又は<span>映像{'規定': 1}</span>面に<span>表示{'手続': 1}</span>する<span>方法{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第三十八条第一項第二号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第三十八条第六項第二号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第百九十条第二項第二号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第二百五十二条第二項第二号</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（検査役が提供する電磁的記録等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第四十七条第二項に規定する法務省令で定めるものは、<span>商業登記規則{'手続': 1}</span>（昭和三十九年法務省令第二十三号）第三十六条第一項に規定する電磁的記録媒体（電磁的記録に<span>限る{'ある': 1}</span>。）<span>及び{'ただし': 1}</span><span>法{'規定': 1}</span>第四十七条第二項の<span>規定{'手続': 1}</span>により<span>電磁的記録{'規定': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者が<span>定める{'ある': 1}</span><span>電磁的記録{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第四十七条第四項に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>方法{'規定': 1}</span>は、<span>電磁{'手続': 1}</span>的<span>方法{'規定': 1}</span>のうち、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>電磁的記録{'規定': 1}</span>に<span>記録{'規定': 1}</span>された<span>事項{'情報': 1, '規定': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者が<span>定める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（電磁的方法）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第百八条第三号に<span>規定{'手続': 1}</span>する<span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'規定': 1}</span>その他の<span>情報通信{'手続': 1}</span>の<span>技術{'規定': 1}</span>を<span>利用{'手続': 1}</span>する<span>方法{'手続': 1}</span>であって<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ものは、<span>次に{'相当': 1}</span><span>掲げる{'取り消さ': 1}</span><span>方法{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>電子{'手続': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'規定': 1}</span>のうち<span>イ{'申請': 1, '手続': 1}</span>又は<span>ロ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span>もの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>送信{'規定': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>と<span>受信{'手続': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>とを<span>接続{'手続': 1}</span>する<span>電気通信回線{'手続': 1}</span><span>を通じて{'とともに': 1}</span><span>送信{'届出': 1}</span>し、<span>受信{'規定': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'手続': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>送信{'手続': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'規定': 1}</span>された<span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>を<span>電気通信回線{'規定': 1}</span><span>を通じて{'とともに': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>閲覧{'手続': 1}</span>に<span>供{'手続': 1}</span>し、<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>を<span>記録{'届出': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>磁気ディスク{'手続': 1}</span>その他これに<span>準ずる{'ある': 1}</span><span>方法{'手続': 1}</span>により<span>一定{'手続': 1}</span>の<span>情報{'手続': 1}</span>を<span>確実{'規定': 1}</span>に<span>記録{'規定': 1}</span>しておくことができる物<span>をもって{'とともに': 1}</span><span>調製{'手続': 1}</span>する<span>ファイル{'手続': 1}</span>に<span>情報{'手続': 1}</span>を<span>記録{'手続': 1}</span>したものを<span>交付{'手続': 1}</span>する<span>方法{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'手続': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>方法{'規定': 1}</span>は、<span>受信{'手続': 1}</span>者が<span>ファイル{'手続': 1}</span>への<span>記録{'手続': 1}</span>を<span>出力{'手続': 1}</span>することにより<span>書面{'手続': 1}</span>を<span>作成{'手続': 1}</span>することができるものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（電子署名）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>規定に規定する法務省令で定める<span>署名{'規定': 1}</span>又は記名押印に代わる措置は、<span>電子署名{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>法{'手続': 1}</span>第百八十七条第三項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第二百二条第三項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'規定': 1}</span>に<span>規定{'手続': 1}</span>する「<span>電子署名{'規定': 1}</span>」とは、<span>電磁的記録{'規定': 1}</span>に<span>記録{'規定': 1}</span>することができる<span>情報{'手続': 1}</span>について<span>行わ{'ある': 1}</span>れる<span>措置{'規定': 1}</span>であって、<span>次{'規定': 1}</span>の<span>要件{'次': 1, '規定': 1}</span>のいずれにも<span>該当{'規定': 1}</span>するものを<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>当該{'規定': 1}</span><span>情報{'届出': 1}</span>が<span>当該{'手続': 1}</span><span>措置{'規定': 1}</span>を<span>行っ{'ある': 1}</span>た者の作成に係るものであることを示すためのものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該情報について<span>改変{'手続': 1}</span>が行われていないかどうかを確認することができるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（信託法施行令に係る電磁的方法）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>信託法施行令（平成十九年<span>政令{'手続': 1}</span>第百九十九号）第<span>一条{'規定': 1}</span>第一項又は第<span>二条{'規定': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>示す{'取り消さ': 1}</span>べき<span>電磁{'規定': 1}</span>的<span>方法{'規定': 1}</span>の<span>種類{'手続': 1}</span>及び<span>内容{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>方法{'規定': 1}</span>のうち、<span>送信{'手続': 1}</span>者が<span>使用{'規定': 1}</span>するもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'手続': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'手続': 1}</span>のうち<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>もの</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence><span>送信{'規定': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>と<span>受信{'規定': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>とを<span>接続{'手続': 1}</span>する<span>電気通信回線{'手続': 1}</span><span>を通じて{'とともに': 1}</span><span>送信{'届出': 1}</span>し、<span>受信{'規定': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'手続': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence><span>送信{'手続': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'規定': 1}</span>された<span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>を<span>電気通信回線{'規定': 1}</span><span>を通じて{'とともに': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>閲覧{'手続': 1}</span>に<span>供{'手続': 1}</span>し、<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>を<span>記録{'届出': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence><span>磁気ディスク{'手続': 1}</span>その他これに<span>準ずる{'ある': 1}</span><span>方法{'手続': 1}</span>により<span>一定{'手続': 1}</span>の<span>情報{'手続': 1}</span>を<span>確実{'規定': 1}</span>に<span>記録{'規定': 1}</span>しておくことができる物<span>をもって{'とともに': 1}</span><span>調製{'手続': 1}</span>する<span>ファイル{'手続': 1}</span>に<span>情報{'規定': 1}</span>を<span>記録{'規定': 1}</span>したものを<span>交付{'手続': 1}</span>する<span>方法{'規定': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>ファイル{'手続': 1}</span>への<span>記録{'規定': 1}</span>の<span>方式{'事項': 1, '手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　計算</ChapterTitle>
+        <Article Num="33">
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次に<span>掲げる{'ある': 1}</span><span>規定{'事項': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span>べき<span>事項{'規定': 1}</span>は、<span>信託{'手続': 1}</span><span>計算{'目録': 1, '手続': 1}</span><span>規則{'手続': 1}</span>の<span>定める{'ある': 1}</span>ところに<span>よる{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>法{'規定': 1}</span>第三十七条第一項<span>及び{'ただし': 1}</span>第二項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第二百二十二条第二項、第三項及び第四項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第二百二十五条</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第二百五十二条第一項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'規定': 2}</span>は、<span>法{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年三月一六日法務省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一二月二八日法務省令第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、平成二十八年三月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

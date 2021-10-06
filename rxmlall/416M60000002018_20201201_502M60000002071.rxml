@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="018" Year="16">
+  <LawNum>平成十六年内閣府令第十八号</LawNum>
+  <LawBody>
+    <LawTitle>公認会計士試験規則</LawTitle>
+    <EnactStatement>公認会計士法（昭和二十三年法律第百三号）第八条、第九条、第十条及び第十四条の規定に基づき、公認会計士試験規則（昭和二十五年公認会計士管理委員会規則第三号）の全部を改正する内閣府令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（試験期日等の公告等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士試験の日時及び場所その他公認会計士試験の施行に関して必要な事項は、公認会計士・監査審査会（以下「審査会」という。）が決定し、あらかじめ官報で公告する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">審査会は、公認会計士試験を受けようとする者が受験の申込み及び受験をするについて必要な事項を定めることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、官報その他の適切な方法により周知させるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士試験を受けようとする者は、受験の申込み及び受験をするに当たっては、前項の規定による審査会の定めに従わなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（試験実施地）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士試験は、毎年一回以上、東京都、大阪府、北海道、宮城県、愛知県、石川県、広島県、香川県、熊本県、福岡県、沖縄県その他審査会の指定する場所において行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（受験願書）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士試験を受けようとする者は、審査会の定める様式の受験願書を公認会計士試験を受けようとする場所を管轄する財務局長（当該場所が福岡財務支局の管轄区域内にある場合には、福岡財務支局長。次項において同じ。）を経由して、審査会の会長（以下「会長」という。）に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の受験願書は、財務局長が受理した時に会長に提出されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>公認会計士法{'法律': 1}</span>（以下「法」という。）第九条第三項又は第十条第二項の申請は、第一項の受験願書に法<span>第九条{'経済産業大臣': 1}</span>第三項又は第十条第二項に規定する試験の免除を希望する旨を記載してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'書面': 1}</span>の申請を行う場合に<span>あっ{'行わ': 1}</span>ては、<span>法{'当該': 1}</span><span>第九条{'当該': 1}</span>第三項の<span>申請{'当該': 1}</span>については<span>第九条{'当該': 1}</span>第二項の<span>書面{'当該': 1}</span>の<span>写し{'規定': 1, '当該': 1}</span>を、<span>法{'当該': 1}</span>第十条第二項の<span>申請{'当該': 1}</span>については第九条第三項の書面の写しを、それぞれ第一項の受験願書に添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（試験科目の分野及び範囲）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第一項第一号に規定する内閣府令で<span>定める{'行わ': 1}</span>分野は、次に掲げる分野とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">簿記</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">財務諸表論</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前二号に掲げるもののほか、企業等の外部の利害関係者の経済的意思決定に役立つ情報を提供することを目的とする会計の理論</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第一項第二号に規定する<span>内閣府令{'政令': 2}</span>で定める分野は、次に掲げる分野とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>原価計算{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号に掲げるもののほか、企業等の内部の経営者の意思決定及び業績管理に役立つ情報を提供することを目的とする会計の理論</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第一項第四号に規定する<span>内閣府令{'政令': 2}</span>で定める分野は、次に掲げる分野とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">会社法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">商法（海商並びに手形及び小切手に関する<span>部分{'方法': 1}</span>を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融商品取引法（企業内容等の<span>開示{'当該': 1}</span>に関する部分に限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前三号に掲げるものの<span>ほか{'事項': 1}</span>、監査を受けるべきこととされる組合その他の組織に関する法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第二項第四号に規定する<span>内閣府令{'政令': 2}</span>で定める分野は、次に掲げる分野とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法人税法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">所得税法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前二号に掲げるもののほか、租税法総論及び消費税法、相続税法その他の租税法各論</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第一項各号又は第二項各号に掲げる試験科目のうち、次の各号に掲げる試験科目の範囲については、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">監査論</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法（昭和二十三年法律第二十五号）及び会社法（平成十七年法律第八十六号）に基づく監査制度及び監査諸基準その他の監査理論</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">経営学</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">経営管理及び財務管理の基礎的理論</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">経済学</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">ミクロ経済学、マクロ経済学その他の経済理論</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">統計学</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">記述統計及び推測統計の理論並びに金融工学の基礎的理論</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（試験免除の申請等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第九条第一項若しくは第二項又は第十条第一項の申請は、審査会の定める様式の<span>公認会計士試験{'作成': 1}</span>免除申請書を会長に提出してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請書には、法第九条第一項各号若しくは第二項各号又は第十条第一項各号に<span>該当{'当該': 1}</span>することを<span>証する{'行わ': 1}</span><span>書面{'書類': 1, '当該': 1}</span>を<span>添付{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項に<span>規定{'当該': 1}</span>する<span>申請{'当該': 1}</span>があった場合において、当該申請に係る試験を免除し、又は免除しないこととしたときは、会長は、その旨を申請者に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">会長は、第一項の<span>申請書{'期間': 1}</span>を受理してから一月以内に、前項の通知をするよう<span>努める{'行わ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'当該': 1}</span>の期間には、次に掲げる期間を含まないものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該<span>申請{'当該': 1}</span>を補正するために要する期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該申請をした者が当該申請の<span>内容{'当該': 1}</span>を<span>変更{'当該': 1}</span>するために<span>要する{'行わ': 1}</span><span>期間{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>申請{'当該': 1}</span>をした者が<span>当該{'主務大臣': 1}</span><span>申請{'当該': 1}</span>に係る<span>審査{'当該': 1}</span>に<span>必要{'当該': 1}</span>と<span>認め{'行わ': 1}</span>られる<span>資料{'当該': 1}</span>を<span>追加{'当該': 1}</span>するために<span>要する{'行わ': 1}</span><span>期間{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特定の学位による短答式による試験科目の一部免除）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法<span>第九条{'法': 1, '当該': 1}</span>第二項第二号に規定する研究は、次に掲げる科目に関する研究とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">簿記、財務諸表その他の財務会計に属する科目に関する研究</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">原価計算その他の管理会計に属する科目に関する研究</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">監査論その他の監査に属する科目に関する研究</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第九条第二項第二号に規定する文部科学大臣の定める<span>学位{'当該': 1}</span>で内閣府令で定めるものは、前項第一号に<span>規定{'当該': 1}</span>する科目を十単位以上並びに同項第二号及び第三号に規定する科目をそれぞれ六単位以上履修し、かつ、同項各号に規定する科目を合計で二十八単位以上履修した上で修得した学位規則（昭和二十八年<span>文部省令{'実用新案法': 1}</span>第九号）第五条の二に定める修士（専門職）の学位とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の単位の計算方法は、大学設置基準（昭和三十一年文部省令第二十八号）第二十一条第二項の規定の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（実務経験による短答式試験科目の免除）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">公認会計士法施行令（昭和二十七年政令第三百四十三号。以下「施行令」という。）第一条の二に規定する<span>内閣府令{'経済産業省令': 1, '政令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span><span>法人{'事項': 1, '当該': 1}</span>は、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>ものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'法人': 1, '当該': 1}</span>において、<span>次{'当該': 1}</span>の各号（第三号、第四号、第十二号及び第十三号を<span>除く{'行わ': 1}</span>。）に<span>定める{'行わ': 1}</span><span>法人{'当該': 1}</span>が、<span>法令{'当該': 1}</span>に<span>基づき{'行わ': 1}</span>、免除申請者の同条に規定する会計又は監査に関する事務又は業務に従事した期間を通じて、公認会計士又は監査法人の監査を受けていることを要する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">上場会社等（金融商品取引法施行令（昭和四十年政令第三百二十一号）第二十七条の二各号に<span>掲げる{'行わ': 1}</span><span>有価証券{'当該': 1}</span>（金融商品取引法第二条第一項第十一号に掲げる有価証券及び<span>当該{'主務大臣': 1}</span><span>有価証券{'当該': 1}</span>に係るもの並びに<span>同法{'当該': 1}</span>第六十七条の十八第四号に<span>規定{'当該': 1}</span>する<span>取扱{'当該': 1}</span><span>有価証券{'当該': 1}</span>に<span>該当{'当該': 1}</span>するものを<span>除く{'行わ': 1}</span>。）の<span>発行者{'当該': 1}</span>をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">会社法第二条第六号に規定する大会社</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">地方公共団体</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）第二条第一項に規定する金融機関であって、法令の規定により公認会計士又は監査法人の監査を受けなければならない法人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">保険業法（平成七年法律第百五号）第二条第二項に規定する保険会社</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">農林中央金庫</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">独立行政法人通則法（平成十一年法律第百三号）第三十九条の規定により会計監査人の監査を受けなければならない独立行政法人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国立大学法人及び大学共同利用機関法人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">地方独立行政法人法（平成十五年法律第百十八号）第三十五条の規定により会計監査人の監査を受けなければならない地方独立行政法人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第一号及び第二号並びに第五号から前号までに準ずる法人であって、法令の規定に基づき公認会計士又は監査法人の監査を受けなければならない法人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">水産業協同組合法（昭和二十三年法律第二百四十二号）第二条に規定する漁業協同組合連合会及び水産加工業協同組合連合会</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">企業会計の基準の設定、原価計算の統一若しくは監査基準の設定その他の企業会計制度又は監査制度の整備改善を行う法人</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行令第一条の二に規定する会計又は監査に関する事務又は業務のうち内閣府令で定めるものは、<span>次{'政令': 1, '当該': 1}</span>の各号に<span>定める{'行わ': 1}</span><span>法人{'当該': 1}</span>の<span>区分{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>、<span>当該{'主務大臣': 1}</span>各号に<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>前項{'当該': 1}</span>第一号及び第二号<span>並び{'当該': 1}</span>に第五号から第十一号までに掲げる法人</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該法人の財務書類の調製に係る事務（特別の判断を要しない機械的な事務を除く。）又は業務並びに当該法人の内部における会計に関する監査に係る業務</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">国又は地方公共団体の機関</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">前項第一号及び第二号並びに第五号から第十一号までに掲げる法人の会計に関する検査若しくは監査（直接従事する場合に限る。）、又は企業会計の基準の設定、原価計算の統一若しくは監査基準の設定その他の企業会計制度若しくは監査制度の整備改善に関する事務（特別の判断を要しない<span>機械{'登録': 1}</span>的な事務を除く。）若しくは業務</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第十二号に掲げる法人</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>水産業協同組合法{'当該': 1}</span>第八十七条の二第二項（同法第百条第一項において準用する場合を含む。）に規定する<span>役員{'当該': 1}</span>又は職員として行う漁業協同組合及び水産加工業協同組合の監査</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第十三号に掲げる法人</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">企業会計の基準の設定、原価計算の統一若しくは監査基準の設定その他の企業会計制度又は監査制度の整備改善に関する事務（特別の判断を要しない<span>機械{'登録': 1}</span>的な事務を除く。）又は業務</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（認定基準の公告）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">審査会は、施行令第一条の三に規定する認定の基準を定めたときは、官報で公告する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（試験合格者等の公告等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">会長は、公認会計士試験に合格した者に、法第十二条の<span>規定{'該当': 1}</span>により当該試験に合格したことを証する証書を授与するほか、その者の氏名及び受験番号を官報で公告する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">会長は、法第八条第一項の<span>短答{'規定': 1}</span>式による試験に合格した者に、当該試験に合格したことを証する書面を交付するとともに、その者の受験番号を官報で公告する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">会長は、<span>法{'法律': 1}</span>第十条第二項に規定する相当と認める成績を得た者に、当該成績を得たことを証する書面を交付する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（電子情報処理組織による提出等の特則）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">情報通信<span>技術{'当該': 1}</span>を<span>活用{'当該': 1}</span>した<span>行政{'当該': 1}</span>の<span>推進{'当該': 1}</span>等に関する<span>法律{'当該': 1}</span>（平成十四年<span>法律{'当該': 1}</span>第百五十一号。以下この<span>条{'当該': 1}</span>において「<span>情報通信{'当該': 1}</span><span>技術{'業務': 1, '当該': 1}</span><span>活用{'当該': 1}</span>法」と<span>いう{'行わ': 1}</span>。）第<span>六条{'当該': 1}</span>第一項の<span>規定{'当該': 1}</span>により同<span>項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>電子{'当該': 1}</span>情報処理組織を使用して第三条第一項の<span>受験{'規定': 1}</span>願書の提出、同条第三項の申請又は第五条第一項の申請（以下この条において「提出等」という。）を行う者については、内閣府の所管する金融関連<span>法令{'保証': 1}</span>に係る情報通信技術を活用した<span>行政{'当該': 1}</span>の<span>推進{'当該': 1}</span>等に関する<span>法律{'当該': 1}</span><span>施行規則{'当該': 1}</span>（平成十五年<span>内閣府令{'六条': 1, '当該': 1}</span>第十三号）第四条第二項の<span>規定{'当該': 1}</span>は、<span>適用{'当該': 1}</span>しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>提出{'規定': 1, '当該': 1}</span>等を<span>行お{'行わ': 1}</span>うとする者は、<span>提出{'当該': 1}</span>等を<span>行う{'行わ': 1}</span>者の氏名その他必要な事項を審査会が指定する方法により届け出るとともに、審査会の定めるところにより設定された識別番号及び暗証番号を情報通信技術活用法第六条第一項の申請等を行う者の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>から<span>入力{'当該': 1}</span>して<span>提出{'当該': 1}</span>等を<span>行わ{'みなす': 1}</span>なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>場合{'当該': 1}</span>における<span>情報通信{'当該': 1}</span><span>技術{'当該': 1}</span><span>活用{'当該': 1}</span>法第<span>六条{'当該': 1}</span>第四項に<span>規定{'当該': 1}</span>する<span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>を<span>明らか{'当該': 1}</span>にする<span>措置{'当該': 1}</span>であって主務<span>省令{'経済産業省令': 1}</span>で定めるものは、前項の識別番号及び暗証番号を同条第一項の申請等を行う者の使用に係る電子計算機から<span>入力{'当該': 1}</span>して<span>提出{'当該': 1}</span>等を<span>行う{'行わ': 1}</span>ことをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（受験手数料の納付）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十一条第一項に規定する<span>受験{'納付': 1}</span>手数料は、第三条第一項の受験願書に、施行令第六条に規定する金額に相当する額の収入印紙を貼って、納付するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成十八年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">公認会計士法の一部を改正する法律<span>附則{'当該': 1}</span>第八条第二項の規定により行われる従前の第三次試験において、この<span>府令{'事務': 1}</span>による改正<span>前{'規定': 1}</span>の公認会計士試験規則第十五条第一項及び第四項の規定は、なおその効力を有する。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において同条第一項中「別表第一号様式」とあるのは「取り繕い使用する別表第一号様式」と、「試験を受けようとする場所を管轄する財務局長を経由して、会長に」とあるのは「会長に」と、同条第四項中「一万五千三百円」とあるのは「一万九千五百円」と読み替えるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一二月二二日内閣府令第一〇七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、平成十八年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（公認会計士試験規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士法の一部を改正する法律（以下「改正法」という。）附則第五条の申請は、改正法第二条の規定による<span>改正{'施行': 1}</span>前の公認会計士法（昭和二十三年法律第百三号）第十四条の規定に基づき授与された第二次試験に合格したことを証する証書の写しを第三条第一項の受験願書に添付してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">公認会計士法施行令の一部を改正する<span>政令{'当該': 1}</span>（平成十五年政令第五百四十号）<span>附則{'施行': 1}</span>第<span>二条{'規定': 1}</span>第一項の<span>申請{'規定': 2, '主務大臣': 1}</span>は、公認会計士特例試験等に関する法律（昭和三十九年法律第百二十三号）<span>附則{'六条': 1}</span>第二条の<span>規定{'当該': 1}</span>による改正前の公認会計士法第五十七条第六項の規定に基づき授与された、検定に合格したことを証する証書の写しを第三条第一項の受験願書に添付してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">改正法附則第六条、附則第三十条第一項又は沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特例措置等に関する政令（昭和四十七年政令第百五十号）第四十四条第一項の申請については、第五条の規定を<span>準用{'当該': 1}</span>する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において「<span>法{'当該': 1}</span>第九条第一項若しくは第二項又は第十条第一項」とあるのは「<span>公認会計士法{'当該': 1}</span>の一部を改正する法律（平成十五年法律第六十七号。以下「改正法」という。）附則第六条、附則第三十条第一項又は沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特例措置等に関する政令（昭和四十七年政令第百五十号。以下「沖縄公認会計士政令」と<span>いう{'定める': 1}</span>。）第四十四条第一項」と、「法第九条第一項各号若しくは第二項各号又は第十条第一項各号」とあるのは「改正法附則第六条、附則第三十条第一項又は沖縄公認会計士政令第四十四条第一項」と、それぞれ読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月二三日内閣府令第一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成十八年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正前の<span>公認会計士試験{'当該': 1}</span>規則第七条第一項第八号に<span>定める{'行わ': 1}</span>法人において同条第二項第一号に定める<span>事務{'当該': 1}</span>又は業務に従事した期間を有する者に係る短答式試験科目の免除については、改正後の公認会計士試験規則第七条第一項第八号に<span>定める{'行わ': 1}</span>法人において同条第二項第一号に定める<span>事務{'当該': 1}</span>又は<span>業務{'当該': 1}</span>に従事した期間とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二五日内閣府令第五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、平成十八年五月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年八月一五日内閣府令第六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、<span>証券取引法等の一部を改正する法律{'法律': 1}</span>の施行の日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年九月二七日内閣府令第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'法律': 1}</span>は、平成十九年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（公認会計士試験規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十二条の規定による改正前の<span>公認会計士試験{'当該': 1}</span>規則第七条第一項第八号に<span>定める{'行わ': 1}</span>法人において同条第二項第一号に定める<span>事務{'当該': 1}</span>又は業務に従事した期間を有する者に係る短答式試験科目の免除については、第十二条の規定による改正後の公認会計士試験規則第七条第一項第八号に<span>定める{'行わ': 1}</span>法人において同条第二項第一号に定める<span>事務{'当該': 1}</span>又は<span>業務{'当該': 1}</span>に<span>従事{'当該': 1}</span>した<span>期間{'当該': 1}</span>と<span>みなす{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年三月二八日内閣府令第一一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'当該': 1}</span>は、平成二十年<span>四月一日{'法律': 1, '当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年二月一四日内閣府令第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'当該': 1}</span>は、<span>金融商品取引法{'当該': 1}</span>等の<span>一部{'当該': 1}</span>を<span>改正{'当該': 1}</span>する<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>の日（平成二十六年<span>四月一日{'当該': 1}</span>）から<span>施行{'当該': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'当該': 1}</span>の<span>施行{'当該': 1}</span><span>前{'当該': 1}</span>にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月二九日内閣府令第一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、農業協同組合法等の一部を改正する<span>等{'法律': 1}</span>の法律の施行の日（平成二十八年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（公認会計士試験規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">農業協同組合中央会（農業協同組合法等の一部を改正する等の法律（以下「改正法」という。）第一条の規定による改正前の農業協同組合法（以下「旧農協法」という。）第七十三条の十五に規定する農業協同組合中央会をいう。以下この項において同じ。）は、公認会計士法施行令（昭和二十七年政令第三百四十三号。以下「令」という。）第一条の二に規定する内閣府令で定める法人とみなし、農業協同組合中央会において旧農協法第七十三条の三十八第一項の規定により置かれていた農業協同組合監査士として行った農業協同組合及び農業協同組合連合会の監査は、令第一条の二に規定する<span>内閣府令{'政令': 1}</span>で定めるものと<span>みなす{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">存続<span>中央会{'期間': 1}</span>（改正法附則第十条に規定する存続中央会をいう。以下同じ。）は、令第一条の二に規定する内閣府令で定める法人とみなし、存続中央会において改正法附則第十条の規定によりなおその効力を有するものとされた旧農協法第七十三条の三十八第一項の規定により置かれた農業協同組合監査士として<span>行う{'行っ': 1}</span>農業協同組合及び農業協同組合連合会の監査は、令第一条の二に規定する<span>内閣府令{'政令': 1}</span>で定めるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年七月二六日内閣府令第五三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日内閣府令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'当該': 1}</span>は、<span>情報通信{'当該': 1}</span><span>技術{'当該': 1}</span>の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の<span>利用{'当該': 1}</span>に関する<span>法律{'当該': 1}</span>等の<span>一部{'当該': 1}</span>を<span>改正{'当該': 1}</span>する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一一月二七日内閣府令第七一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この命令は、漁業法等の一部を改正する等の法律（以下「改正法」という。）の施行の日（令和二年十二月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（公認会計士試験規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">水産業協同組合法（昭和二十三年法律第二百四十二号）第二条に規定する漁業協同組合連合会及び水産加工業協同組合連合会（以下この条において「連合会」という。）は、公認会計士法施行令（昭和二十七年政令第三百四十三号。以下この条において「令」という。）第<span>一条{'当該': 1}</span>の二に規定する<span>内閣府令{'政令': 1}</span>で定める法人とみなし、<span>連合会{'一部': 1}</span>において改正法第三条の規定による改正前の水産業協同組合法（以下この条において「旧水協法」という。）第八十七条の二第二項の規定（旧水協法第百条第一項において準用する場合を含む。）により置かれた水産業協同組合の業務及び会計について専門的知識及び実務の経験を有するものである役員又は職員として行った漁業協同組合及び水産加工業協同組合の監査は、令第一条の二に規定する<span>内閣府令{'政令': 1}</span>で定めるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>全国{'信用協同組合': 1}</span>連合会（改正法<span>附則{'規定': 1}</span>第二十五条に規定する全国連合会をいう。以下この項において同じ。）は、令第一条の二に規定する内閣府令で定める法人とみなし、全国連合会において改正法附則第二十五条の規定によりなおその効力を有するものとされた旧水協法第八十七条の二第二項の規定により置かれた水産業協同組合の<span>業務{'監査': 1}</span>及び会計について専門的知識及び実務の経験を有するものである役員又は職員として行う漁業協同組合の監査は、令第一条の二に規定する内閣府令で定めるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

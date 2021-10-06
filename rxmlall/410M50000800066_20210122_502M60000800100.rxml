@@ -1,0 +1,3291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="66" Year="10">
+  <LawNum>平成十年運輸省令第六十六号</LawNum>
+  <LawBody>
+    <LawTitle>装置型式指定規則</LawTitle>
+    <EnactStatement>道路運送車両法（昭和二十六年法律第百八十五号）第七十五条の二第一項及び第七項、第七十五条の三第一項並びに第七十六条の規定に基づき、並びに同法第七十五条の二の規定を実施するため、装置型式指定規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（この省令の適用）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">道路運送車両法（以下「法」という。）第七十五条の三第一項の規定による装置の型式についての指定（以下「指定」という。）の手続その他指定に関する実施細目は、この省令の定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（特定装置の種類）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第七十五条の三第一項の国土交通省令で定める特定装置は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第一号の原動機のうち自動車駆動用出力装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうち空気入ゴムタイヤ（二輪自動車、側車付二輪自動車及び三輪自動車に備えるものとして設計されたものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2_2">
+            <ItemTitle>二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうち空気入ゴムタイヤ（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のもの及び車両総重量が三・五トン以下の被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車に備えるものとして設計されたものに<span>限る{'定める': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうち空気入ゴムタイヤ（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人以上のもの、貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）及び車両総重量が三・五トンを超える被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車に備えるものとして設計されたものに<span>限る{'定める': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_2">
+            <ItemTitle>三の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうち空気入ゴムタイヤ（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のものに備えたものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_3">
+            <ItemTitle>三の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうち応急用予備走行装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_4">
+            <ItemTitle>三の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二号の走行装置のうちタイヤ空気圧監視<span>装置{'試験': 1}</span>（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_5">
+            <ItemTitle>三の五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち操作装置（二輪自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_6">
+            <ItemTitle>三の六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち操作装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_7">
+            <ItemTitle>三の七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち<span>かじ取{'操作': 1}</span>装置（二輪自動車、側車付二輪自動車、三輪自動車及び大型特殊自動車に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_8">
+            <ItemTitle>三の八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうちかじ取装置のフルラップ前面衝突時（自動車の前面が衝突等による衝撃を受けたときをいう。以下同じ。）の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3_9">
+            <ItemTitle>三の九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうちかじ取装置のフルラップ前面衝突時の乗員保護装置及び同項第六号の電気装置のうちフルラップ前面衝突時の感電防止装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち施錠装置（ハンドルバー方式のかじ取装置を備える二輪自動車、側車付二輪自動車及び三輪自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4_2">
+            <ItemTitle>四の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち施錠装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4_3">
+            <ItemTitle>四の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第三号の操縦装置のうち原動機その他運行に必要な装置の機能を電子的方法により停止させる装置（以下「イモビライザ」という。）（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量二トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4_4">
+            <ItemTitle>四の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置（二輪自動車、側車付二輪自動車及び三輪自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_2">
+            <ItemTitle>五の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置（貨物の運送の用に供する自動車（三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_3">
+            <ItemTitle>五の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人以上のもの、貨物の運送の用に供する自動車（三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを超えるもの及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車（最高速度二十五<span>キロメートル毎時{'定員': 1}</span>以下の自動車により<Ruby>牽<Rt>けん</Rt></Ruby>引されるものを除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_4">
+            <ItemTitle>五の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置のうち衝突被害軽減制動制御装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人以上のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを<span>超える{'限る': 1}</span>ものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_5">
+            <ItemTitle>五の五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置のうち衝突被害軽減制動制御装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_6">
+            <ItemTitle>五の六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置のうち横滑り防止装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_7">
+            <ItemTitle>五の七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第四号の制動装置のうちブレーキアシストシステム（緊急制動時に自動的に制動装置の制動力を増加させる装置をいう。以下同じ。）（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_8">
+            <ItemTitle>五の八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち<span>燃料タンク{'自動車': 1}</span>（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車、圧縮天然ガス（メタンガスを主成分とする高圧ガスをいう。）を燃料とする自動車（以下「圧縮天然ガス燃料自動車」という。）、液化天然ガス（メタンガスを主成分とする液化ガスをいう。）を燃料とする自動車（以下「液化天然ガス燃料自動車」という。）及び圧縮水素ガス（水素ガスを主成分とする高圧ガスをいう。）を燃料とする自動車（以下「圧縮水素燃料自動車」という。）以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_9">
+            <ItemTitle>五の九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち燃料タンク及び燃料タンク取付装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車、圧縮天然ガス燃料自動車、液化天然ガス燃料自動車及び圧縮水素燃料自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_10">
+            <ItemTitle>五の十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち燃料制御保護装置（圧縮天然ガス燃料自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）及び液化天然ガス燃料自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車、小型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_11">
+            <ItemTitle>五の十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち燃料タンク取付装置（圧縮天然ガス燃料自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）及び液化天然ガス燃料自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_12">
+            <ItemTitle>五の十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち燃料タンク取付装置（圧縮水素燃料自動車（大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_13">
+            <ItemTitle>五の十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち衝突時の車両火災防止装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_14">
+            <ItemTitle>五の十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の電気装置のうち電波障害防止装置（大型特殊自動車に備えるものを除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_15">
+            <ItemTitle>五の十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の電気装置のうちサイバーセキュリティシステム（自動車のサイバーセキュリティを確保するための装置をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_16">
+            <ItemTitle>五の十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の電気装置のうちプログラム等改変システム（自動車の<span>電気{'特定': 1}</span>装置に組み込まれたプログラム等を確実に改変するための装置をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_17">
+            <ItemTitle>五の十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の電気装置のうち原動機用蓄電池（電力により作動する原動機を有する自動車（大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_18">
+            <ItemTitle>五の十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の電気装置のうち感電防止装置（電力により作動する原動機を有する自動車（大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_19">
+            <ItemTitle>五の十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち<span>フル{'自動車': 1}</span>ラップ前面衝突時の燃料漏れ防止装置、同号の電気装置のうちフルラップ前面衝突時の感電防止装置及び同項第七号の車枠及び車体のうちフルラップ前面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_20">
+            <ItemTitle>五の二十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち<span>フル{'自動車': 1}</span>ラップ前面衝突時の燃料漏れ防止装置及び同項第七号の車枠及び車体のうちフルラップ前面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_21">
+            <ItemTitle>五の二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち<span>オフセット{'自動車': 1}</span>前面衝突時（自動車の前面のうち運転者席側の一部が衝突等により変形を生じたときをいう。以下同じ。）の燃料漏れ防止装置、同号の電気装置のうちオフセット前面衝突時の感電防止装置及び同項第七号の車枠及び車体のうちオフセット前面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_22">
+            <ItemTitle>五の二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち<span>オフセット{'自動車': 1}</span>前面衝突時の燃料漏れ防止装置及び同項第七号の車枠及び車体のうちオフセット前面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち自動車との側面衝突時の燃料漏れ防止装置、同号の電気装置のうち自動車との側面衝突時の感電防止装置及び同項第七号の車枠及び車体のうち自動車との側面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被牽けん引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_2">
+            <ItemTitle>六の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち自動車との側面衝突時の燃料漏れ防止装置及び同項第七号の車枠及び車体のうち自動車との側面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_3">
+            <ItemTitle>六の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち電柱その他棒状の工作物（以下「ポール」という。）との側面衝突時の燃料漏れ防止装置及び同項第七号の車枠及び車体のうち<span>ポール{'自動車': 1}</span>との側面衝突時の乗員保護装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_4">
+            <ItemTitle>六の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち後面衝突時の燃料漏れ防止装置及び同号の電気装置のうち後面衝突時の感電防止装置（電力により作動する原動機を有する自動車（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被牽けん引自動車を除く。）であって乗車定員十人未満かつ車両総重量三・五トン以下のもの及び貨物の運送の用に供する自動車（三輪自動車及び被牽けん引自動車を除く。）であって車両総重量三・五トン以下のものに限る。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_5">
+            <ItemTitle>六の五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち後面衝突時の燃料漏れ防止装置（電力により作動する原動機を有する自動車（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被牽けん引自動車を除く。）であって乗車定員十人未満かつ車両総重量三・五トン以下のもの及び貨物の運送の用に供する自動車（三輪自動車及び被牽けん引自動車を除く。）であって車両総重量三・五トン以下のものに限る。）に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_6">
+            <ItemTitle>六の六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち歩行者頭部保護装置及び歩行者脚部保護装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6_7">
+            <ItemTitle>六の七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち車両転覆時の乗員保護装置（専ら乗用の用に供する自動車（立席を有する自動車、二階建ての自動車、二輪自動車、側車付二輪自動車及び三輪自動車を除く。）であって乗車定員十八人以上のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち外装（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに装着するものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち外装の手荷物積載用部品（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち外装のアンテナ（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち突入防止装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車（ポール・トレーラを除く。）及び<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち突入防止装置及び突入防止装置取付装置（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車（ポール・トレーラを除く。）及び<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11_2">
+            <ItemTitle>十一の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち前部潜り込み防止装置（貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを<span>超える{'限る': 1}</span>ものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11_3">
+            <ItemTitle>十一の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第七号の車枠及び車体のうち前部潜り込み防止装置及び前部潜り込み防止装置取付装置（貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを<span>超える{'限る': 1}</span>ものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11_4">
+            <ItemTitle>十一の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち内装（告示で定めるものであって、専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11_5">
+            <ItemTitle>十一の五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち運転者席（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち座席（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であつて乗車定員が十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12_2">
+            <ItemTitle>十二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち座席（専ら乗用の用に供する自動車（立席を有する自動車を除く。）であつて乗車定員が十人以上のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち座席及び頭部後傾抑止装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13_2">
+            <ItemTitle>十三の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち座席ベルト取付装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13_3">
+            <ItemTitle>十三の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち座席ベルト</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち頭部後傾抑止装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="14_2">
+            <ItemTitle>十四の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち年少者用補助乗車装置取付具</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第九号の乗車装置のうち年少者用補助乗車装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項<span>第九{'運輸省令': 1}</span>号の乗車装置のうち乗降口の扉の開放防止装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のもの並びに貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="16_2">
+            <ItemTitle>十六の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十号の窓ガラス</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十一号の騒音防止装置（側車付二輪自動車、三輪自動車及び大型特殊自動車に備えるものを<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="17_2">
+            <ItemTitle>十七の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十一号の騒音防止装置（側車付二輪自動車、三輪自動車及び大型特殊自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十二号の発散防止装置のうち排気管から大気中に排出される排出物に含まれる一酸化炭素、炭化水素及び窒素酸化物又は一酸化炭素、炭化水素、窒素酸化物、粒子状物質及び黒煙を減少させる装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前照灯（配光可変型前照灯を<span>除く{'限る': 1}</span>。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="19_2">
+            <ItemTitle>十九の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前照灯（配光可変型前照灯に限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前照灯洗浄器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前照灯洗浄器及び前照灯洗浄器取付装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前部霧灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="22_2">
+            <ItemTitle>二十二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置の<span>うち側{'後部': 1}</span>方照射灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち車幅灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち尾灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち制動灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち補助制動灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="27">
+            <ItemTitle>二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち前部上側端灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="28">
+            <ItemTitle>二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち後部上側端灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="28_2">
+            <ItemTitle>二十八の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち昼間走行灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="29">
+            <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち側方灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="29_2">
+            <ItemTitle>二十九の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち番号灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="30">
+            <ItemTitle>三十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち後部霧灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="31">
+            <ItemTitle>三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち駐車灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="32">
+            <ItemTitle>三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち後退灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="32_2">
+            <ItemTitle>三十二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置のうち低速走行時側方照射灯</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="33">
+            <ItemTitle>三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の反射器のうち前部反射器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="34">
+            <ItemTitle>三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の反射器のうち側方反射器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="35">
+            <ItemTitle>三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の反射器のうち後部反射器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="36">
+            <ItemTitle>三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の反射器のうち大型後部反射器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="36_2">
+            <ItemTitle>三十六の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の反射器のうち再帰反射材</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="37">
+            <ItemTitle>三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち警音器の警報音発生装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="38">
+            <ItemTitle>三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち警音器</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="39">
+            <ItemTitle>三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち警告反射板</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40">
+            <ItemTitle>四十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち停止表示器材</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40_2">
+            <ItemTitle>四十の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち自動車の盗難が発生しようとしている、又は発生している旨を音又は音及び灯光等により車外へ警報することにより自動車の盗難を防止する装置（以下「盗難発生警報装置」という。）（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員が十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量二トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40_3">
+            <ItemTitle>四十の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち車線逸脱警報装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人以上のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを<span>超える{'限る': 1}</span>ものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40_4">
+            <ItemTitle>四十の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち車両接近通報装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40_5">
+            <ItemTitle>四十の五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち事故自動緊急通報装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人未満かつ車両総重量三・五トン以下のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="40_6">
+            <ItemTitle>四十の六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十四号の警報装置のうち側方衝突警報装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって乗車定員十人以上のもの及び貨物の運送の用に供する自動車（三輪自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であって車両総重量三・五トンを<span>超える{'限る': 1}</span>ものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="41">
+            <ItemTitle>四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十五号の指示装置のうち方向指示器（車両総重量が八トン以上又は最大積載量が五トン以上の普通自動車（セミトレーラを<Ruby>牽<Rt>けん</Rt></Ruby>引する<Ruby>牽<Rt>けん</Rt></Ruby>引自動車、乗車定員十一人以上の自動車及びその形状が乗車定員十一人以上の自動車の形状に類する自動車を除く。）の両側面の中央部に備えるものを除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="41_2">
+            <ItemTitle>四十一の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置及び同項第十五号の指示装置の光源</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="41_3">
+            <ItemTitle>四十一の三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置及び反射器並びに同項第十五号の指示装置の取付装置（専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であつて乗車定員が十人未満のもの及び貨物の運送の用に供する自動車（三輪自動車、最高速度二十五キロメートル毎時以下の自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車を除く。）であつて車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="41_4">
+            <ItemTitle>四十一の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置及び反射器並びに同項第十五号の指示装置の取付装置（二輪自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="42">
+            <ItemTitle>四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十六号の視野を確保する装置のうち後写鏡及び後方等確認装置（以下「後写鏡等」という。）（大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="43">
+            <ItemTitle>四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十六号の視野を確保する装置のうち後写鏡等及び後写鏡等取付装置（大型特殊自動車及び被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車以外の自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="44">
+            <ItemTitle>四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十七号の計器のうち速度計及び走行距離計</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="45">
+            <ItemTitle>四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二十号の自動運行装置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="46">
+            <ItemTitle>四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二十一号の特に必要な自動車の装置のうち道路運送車両法施行令（昭和二十六年政令第二百五十四号。以下「施行令」という。）第六条で定める運行記録計</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="47">
+            <ItemTitle>四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第二十一号の特に必要な自動車の装置のうち施行令第六条で定める速度表示装置</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（指定の申請）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>指定の申請は、特定装置を製作することを業とする者若しくはその者から特定装置を購入する契約を締結している者であって当該特定<span>装置{'共通': 1}</span>を販売することを業とするもの（外国において本邦に輸出される特定装置を製作することを業とする者又はその者から当該特定装置を購入する契約を締結している者であって当該特定装置を本邦に輸出することを業とするものを含む。以下「製作者等」という。）又は特定改造等を業とする者が、製作若しくは販売（以下「製作等」という。）をする特定装置又は特定改造等に係る改造のためのプログラム等が組み込まれる装置について行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定を申請する者（以下「申請者」という。）は、国土交通大臣に対し、次に掲げる事項を記載した申請書（第一号様式）を、機構に対し、その写しを提出し、かつ、申請に係る特定装置を機構に提示しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定装置の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定<span>装置{'改造': 1}</span>の名称及び型式</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請者の氏名又は名称及び住所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">主たる製作工場の名称及び所在地</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請書及びその写しには、次に掲げる書面（申請書の写しにあっては、第四号、第七号及び第八号を除く。）を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請に係る特定<span>装置{'共通': 1}</span>の構造及び性能を記載した書面</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請に係る特定装置の外観図</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">道路運送車両の保安基準（昭和二十六年運輸省令第六十七号）の規定（申請に係る特定装置が対象となる部分に限る。）に適合することを証する書面</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">品質管理に係る業務組織及び品質管理の実施要領を記載した書面（申請者が国際標準化機構第九〇〇一号の規格により登録されている場合（申請に係る特定装置に関し、前項第四号の主たる製作工場について登録されている場合に限る。）にあっては、登録されていることを証する書面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定装置を取り付けることができる自動車又は特定共通構造部の範囲を限定する場合にあっては、当該特定装置を取り付けることができる自動車又は特定共通構造部の範囲</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>製作{'指定': 1}</span>者等が申請に係る特定装置に法第七十五条の四第一項に規定する表示を付する場合にあっては、表示位置及び表示方式を記載した図面</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前条の購入契約を締結している者にあっては、当該契約書の写し</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次の各号に掲げる処分を受け、かつ、当該処分を受けた日以後初めて指定の申請をする者にあっては、当該処分に関する不正行為を防止するための措置が適切に講じられていることを証する書面</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条第七項の規定による同条第一項の規定により指定を受けた自動車（以下「指定自動車」という。）の型式についての指定の効力の停止</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条第八項の規定による指定<span>自動車{'特定': 1}</span>の型式についての指定の取消し</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条の二第四項の規定による同条第一項の規定により指定を受けた特定共通構造部（以下「指定特定共通構造部」という。）の型式についての指定の効力の停止</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条の二第五項の規定による指定特定共通構造部の型式についての指定の取消し</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条の三第五項の規定による指定を受けた特定装置（以下「指定特定装置」という。）の型式についての指定の効力の停止</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第七十五条の三第六項の規定による指定特定装置の型式についての指定の取消し</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国土交通大臣又は機構は、前二項に規定するもののほか、申請者に対し、指定に関し必要があると認めるときは、必要な書面の提出を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4_2">
+        <ArticleTitle>第四条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条第一項及び第二項の規定にかかわらず、指定を受けた者は、当該指定特定装置の型式と重要でない部分のみが異なる型式について指定を申請する場合には、国土交通大臣に対し第一号様式の二による申請書及び当該指定特定装置の型式と異なる部分に関する資料を、機構に対しそれらの写しを提出することをもって、同条第一項に規定する申請書及びその写しの提出並びに申請に係る特定装置の機構への提示並びに同条第二項に規定する書面（同項第八号に掲げる書面を除く。）の添付に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>機構は、指定を受けた者に対し、前項の規定による申請に係る指定に関し必要があると認めるときは、当該申請に係る特定装置の提示を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_3">
+        <ArticleTitle>第四条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第七十五条の三第三項に規定する判定の基準は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第四条第一項の規定により機構に提示された特定装置又は前条第一項の申請に係る特定装置が、保安基準（申請に係る特定装置が対象となる部分に限る。）に適合すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第四条第一項の規定により機構に提示された特定装置又は前条第一項の申請に係る特定<span>装置{'共通': 1}</span>と同じ構造及び性能を有する特定装置が均一に製作されるよう品質管理が行われていること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第六十三条の三第一項に規定する改善措置の届出に関する重大な不正行為を行った<span>自動車{'装置': 1}</span>製作者等が行った指定の申請のうち、当該改善措置に係る自動車の部品と同種のものが使用されている特定装置に係るものにあっては、当該改善措置及び当該改善措置の届出に関する不正行為の再発を防止するための措置が適切に講じられていること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第六十三条の三第二項に規定する改善措置の届出に関する重大な不正行為を行った<span>装置{'指定': 1}</span>製作者等（法第六十三条の二第二項に規定する装置製作者等をいう。）が行った指定の申請のうち、当該改善措置に係る<span>装置{'自動車': 2}</span>の部品と同種のものが使用されている特定装置に係るものにあっては、当該改善措置及び当該改善措置の届出に関する不正行為の再発を防止するための措置が適切に講じられていること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（指定を受けたものとみなす特定装置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第七十五条の三第八項の国土交通省令で定める特定装置は、次の表の上欄に掲げるものとし、同<span>項{'欄': 1}</span>の認定その他の証明は、同表の上欄に掲げる特定<span>装置{'改造': 1}</span>の種類に応じ、国土交通大臣が告示で定める国が、車両並びに車両への取付け又は車両における使用が可能な装置及び部品に係る調和された技術上の国際連合の諸規則の採択並びにこれらの国際連合の諸規則に基づいて行われる認定の相互承認のための条件に関する協定に附属する同表の下欄に掲げる規則に基づき行う認定によるものとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>特定装置の種類</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>規則番号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>一　第二条第一号の自動車駆動用出力装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第八十五号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>二　第二条第二号の空気入ゴムタイヤ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第七十五号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>二の二　第二条第二号の二の空気入ゴムタイヤ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第三十号第二改訂版</Sentence>
+                  <Sentence>第百十七号第二改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三　第二条第三号の<span>空気{'規定': 1}</span>入ゴムタイヤ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第五十四号</Sentence>
+                  <Sentence>第百十七号第二改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の二　第二条第三号の二の<span>空気{'規定': 1}</span>入ゴムタイヤ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第百四十二号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の三　第二条第三号の三の応急用予備走行装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第六十四号第三改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の四　第二条第三号の四のタイヤ空気圧監視装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第百四十一号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の五　第二条第三号の五の操作装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第六十号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の六　第二条第三号の六の操作装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第百二十一号改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の七　第二条第三号の七のかじ取装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第七十九号第三改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の八　第二条第三号の八のフルラップ前面衝突時の乗員保護装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence>第十二号第四改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三の九　第二条第三号の九のフルラップ前面衝突時の乗員保護装置及び感電防止装置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>四　第二条第四号の施錠装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第六十二号改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>四の二　第二条第四号の二の施錠装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第十八号第二改訂版</Sentence>
+                  <Sentence>第百十六号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>四の三　第二条第四号の三のイモビライザ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第九十七号改訂版</Sentence>
+                  <Sentence>第百十六号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>四の四　第二条第四号の四の制動装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第七十八号第五改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>五　第二条第五号の制動装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第十三H</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>H訂版</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の二</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>条第五号の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>制動装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence>第十三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence>改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>五の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>　第二条第五号の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>改</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>　第二条第五号の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>衝突<span>被害{'装置': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>装置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第二条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>突</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十二号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第二条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第二条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence>号</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>　第二条第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence>第</Sentence>
+                  <Sentence>十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>三改訂版</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence>号</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                  <Sentence>五</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十　第二条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                  <Sentence>十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第百十号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>四</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>訂版</Sentence>
+                  <Sentence>五</Sentence>
+                  <Sentence>十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>　第二条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号</Sentence>
+                  <Sentence>十</Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>装置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>十二</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特別な表示）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">条第五号の十二の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（品質管理の記録の保存）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"></Sentence>
+            <Sentence Num="2"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（届出等）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence>号第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            <Sentence Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（装置型式指定通知書等の交付）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">条第</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9_2">
+        <ArticleCaption>（勧告）</ArticleCaption>
+        <ArticleTitle>第九条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（意見の徴取）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（指定番号等の告示）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">置</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第三</Sentence>
+            <Sentence Num="2">四号</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（審査結果の通知）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（立入検査をする職員の身分を示す証票）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">五の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（申請書等の記載事項の制限）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年二月二一日運輸省令第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二条第五</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の十</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年三月一五日国土交通省令第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年五月三一日国土交通省令第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三日国土交通省令第八四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月二〇日国土交通省令第一一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年七月七日国土交通省令第八一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年四月二三日国土交通省令第六〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">装置</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年四月六日国土交通省令第四九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月二九日国土交通省令第七二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">号第六改</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一二月二一日国土交通省令第一一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月三一日国土交通省令第二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年一〇月五日国土交通省令第一〇〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">の十五</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年一月三〇日国土交通省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月二九日国土交通省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">二</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第五号の十五の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年一一月九日国土交通省令第八七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年二月一日国土交通省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年七月七日国土交通省令第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年一〇月一五日国土交通省令第八五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年七月一七日国土交通省令第四八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一月二八日国土交通省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">五十五号</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月三一日国土交通省令第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">の</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical"></Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">二</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第五号の十六の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二三日国土交通省令第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">ラ<Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一〇月二八日国土交通省令第七八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年七月二六日国土交通省令第七二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年一一月一六日国土交通省令第八四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年一月二五日国土交通省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年七月一二日国土交通省令第六二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">五</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年八月三〇日国土交通省令第七三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年一一月一二日国土交通省令第八八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年一月二四日国土交通省令第八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">五の十</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一〇日国土交通省令第五四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年一〇月九日国土交通省令第八〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">条第五号</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一月二二日国土交通省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年六月一五日国土交通省令第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一〇月八日国土交通省令第七四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年一月二〇日国土交通省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月一日国土交通省令第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年四月一三日国土交通省令第四三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年六月一七日国土交通省令第五〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">第</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">号第二改</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年八月三一日国土交通省令第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年九月一六日国土交通省令第六四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年一〇月七日国土交通省令第七三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年二月九日国土交通省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">十</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">号</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">五の十H</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年三月二三日国土交通省令第一一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月一五日国土交通省令第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二二日国土交通省令第三九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第五号の十</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年九月一四日国土交通省令第五一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年一〇月一〇日国土交通省令第六一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（装置型式指定規則の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年二月九日国土交通省令第六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">置</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月一九日国土交通省令第五九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（装置型式指定規則の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">の十</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一二日国土交通省令第七九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">二条第</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一六日国土交通省令第八〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（装置型式指定規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の十</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">ラッ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一二月二八日国土交通省令第九四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日国土交通省令第一六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">の</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二四日国土交通省令第七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二八日国土交通省令第八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">、</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一〇月一五日国土交通省令第四〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">装置及び</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一月三一日国土交通省令第四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第二〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二九日国土交通省令第五三号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（装置型式指定規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月五日国土交通省令第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>第</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二五日国土交通省令第七八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>十</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>号改</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>五の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二三日国土交通省令第九八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+         </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二五日国土交通省令第一〇〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"><span>二条{'ニ': 1}</span></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>の二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第一号様式　（装置型式指定申請書）</AppdxStyleTitle>
+      <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第一号様式の二　（既指定装置型式指定申請書）</AppdxStyleTitle>
+      <RelatedArticleNum>（第四条の二関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_002.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第二号様式　（特別な表示）</AppdxStyleTitle>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_003.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第三号様式　（特別な表示）</AppdxStyleTitle>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_004.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第四号様式　（特別な表示）</AppdxStyleTitle>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_005.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第五号様式　（指定装置製作等廃止届）</AppdxStyleTitle>
+      <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_006.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第六号様式　（証票）（第十四条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H10F03901000066_2103051103_007.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

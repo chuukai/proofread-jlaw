@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="501M60000800001" AmendmentNum="令和元年国土交通省令第一号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="075" Year="29">
+  <LawNum>昭和二十九年総理府令第七十五号</LawNum>
+  <LawBody>
+    <LawTitle>水位及び流量調査作業規程準則</LawTitle>
+    <EnactStatement>国土調査法第三条第二項の規定に基き、水位及び流量調査作業規程準則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　観測所の設置</ChapterTitle>
+        <ArticleRange>（第六条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　観測</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第十七条―第十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　定時の水位観測</SectionTitle>
+          <ArticleRange>（第二十条―第二十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量以外の流量観測</SectionTitle>
+          <TOCSubsection Delete="false" Num="1">
+            <SubsectionTitle>第一款　通則</SubsectionTitle>
+            <ArticleRange>（第二十四条・第二十五条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="2">
+            <SubsectionTitle>第二款　流速計測法</SubsectionTitle>
+            <ArticleRange>（第二十六条―第三十三条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="3">
+            <SubsectionTitle>第三款　浮子測法</SubsectionTitle>
+            <ArticleRange>（第三十四条―第三十八条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="4">
+            <SubsectionTitle>第四款　<Ruby>堰<Rt>せき</Rt>
+</Ruby>測法</SubsectionTitle>
+            <ArticleRange>（第三十九条）</ArticleRange>
+          </TOCSubsection>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量観測</SectionTitle>
+          <ArticleRange>（第四十条―第四十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="5">
+          <SectionTitle>第五節　野帳の記載</SectionTitle>
+          <ArticleRange>（第四十七条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　結果のとりまとめ</ChapterTitle>
+        <ArticleRange>（第四十八条―第五十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土調査法（昭和二十六年法律第百八十号）第二条第一項各号の水調査のうち、河川、湖沼、貯水池（<Ruby>た<Rt>ヽ</Rt></Ruby><Ruby>め<Rt>ヽ</Rt></Ruby>池を含む。）の水位及び<span>流量{'基本': 1}</span>に関する調査（以下「水位及び流量調査」という。）の作業規程の準則は、この省令の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（調査単位区域）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">水位及び流量調査は、<span>水{'地籍': 1}</span>基本調査作業規程準則（昭和二十八年総理府令第三十五号。以下「水基本調査準則」という。）第一条の規定による水調査の基準の設定のための調査を行つた区域内において行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（調査の内容）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水位及び流量調査においては、水基本調査準則第二十九条の規定により決定した位置に観測所を設置し、水位及び流量の観測を行い、その結果を地図及び簿冊に作成しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、観測所を設置して行う代りにその位置にある既存の観測所に委嘱して行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の流量の観測は、原則として流速計測法によるものとし、流速計測法により難い場合には浮子測法又は堰測法によることができるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（精度の保持）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">調査を行う者及び調査を監督する者は、常に各種の方法によつて検査を行い、当該調査が良好な精度を保つて行われるように留意しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（作業記録）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">調査を行うに<span>当つ{'当たっ': 1}</span>ては、国土交通大臣の指示する様式により作業記録を作成し、当該水位及び流量調査の成果とともに保管しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　観測所の設置</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（水位標の設置）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">水位観測所には、水基本調査準則第八条第五項に規定する観測所の種別に従つて、同条第三項に規定する位置に水位標（自記水位標を含む。以下第二十条及び第二十一条を除き同じ。）を設置する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第一種水位流量観測所及び一日の水位の変化が特に著しい地点その他特に必要と認める地点には、自記水位標を設置しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">水位標の<span>構造{'令': 1}</span>は、別表第一に定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（水位標の零点高の測定）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により水位標を設置した場合には、これに近接した位置に水準拠標を設置し、その標高を基礎として、水準儀を用いて水位標の零点高を測定しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、水準儀の読み取りの単位は、一ミリメートルとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">既存の水位標を使用する場合には、その水位標の零点高に関する資料等を検討し、改算整備しておかなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（水準拠標）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">水準拠標の標高の測定は、水準路線を選定して、その水準路線に従い、次項から第六項までに規定する水準測量により行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水準路線の選定は、測量法（昭和二十四年法律第百八十八号）第四条の規定による基本測量の成果である水準点<span>又は{'及び': 1}</span>国土調査法第二条第二項の規定による基準点測量の成果である基準<span>水準点{'測量': 1}</span>、測標水準点若しくは補助水準点から出発して、水準拠標に到達するようにするものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、やむをえない場合には、当分の間、河川等について設定された既設の水準点を出発点とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水準測量は、往復観測とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、水準標尺の高さを異にする二回の観測をもつて往復観測にかえることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の場合において、水準路線が閉合しており、且つ、精度の保持に支障がないと認める場合には、前項の規定にかかわらず、片道観測によることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">水準測量は、二個の水準標尺を水準儀の前後におおむね等距離において行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、水準儀と水準標尺との距離は、百メートルをこえてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">水準拠標の標高は、水準測量の結果に従い決定するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において水準測量の結果の数値が左の表の観測値の範囲内にある場合には、当該数値を決定値とすることができる。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">往復の出合差　１ｋｍにつき１．５ｃｍ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">閉合差１．５ｃｍ√Ｓ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">備考　Ｓは、水準路線の全長をキロメートル単位で示したものとする。</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水準拠標には、別表第二の第一号に定める標石を設置するものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、その位置に岩石その他移動の虞のないものがある場合には、別表第二の第二号に定める記号を刻して、標石にかえることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（水位標横断線）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">河川に水位標を設置した場合には、当該水位標の位置において、流身に直角の方向に水位標横断線を設定し、当該横断線の位置を示すために横断線拠標を設置する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">横断線拠標は、河川の両岸に、既往の最高水位より高い地点に、別表第三の第一号に定める標石を設置してするものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、河岸に岩石その他移動の虞のないものがある場合には、別表第三の第二号に定める記号を刻して、標石にかえることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（水位標横断線の横断測量）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により水位標横断線を設定したときは、横断線に沿つて、左の各号に掲げる方法により横断測量を行い、水位標横断面図を作成するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、水位標横断面図は、河川の下流に向つて描くものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">測量は、横断線拠標を起点とし、往復観測を行うものとし、地上測量においては水準儀を用い、水深測量においては測<Ruby>桿<Rt>かん</Rt></Ruby>又は測錘を用いること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">水準儀の読み取りの単位は、一センチメートル、測桿又は測錘の読み取りの単位は、水深一メートル未満のときは一センチメートル、一メートルから二メートルまでのときは二センチメートル、二メートルをこえるときは五センチメートルとすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">測量の間隔は、原則として等間隔とし、河床の状況又は水面の幅を考慮して、地上測量においては二〇メートル、水深測量においては五メートルをこえない範囲において、その間隔を決定するものとし、往復の観測は、同一地点を測定するように努めるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同一地点の測定値に著しい差がある場合には、当該地点について再び測定を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">水深測量の出発点の位置は、横断線拠標からの水平距離により算定し、水位標横断面図に記入しておくこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">水深測量の前後には、水位標を観測し、水位が変動しているときは、これによつて水深測量の結果を補正すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（水位標横断線の改測）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条の規定による水位標横断面図は、毎年出水期の前に、定期的に横断測量を行い、同一縮尺によつて補正するものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水等の原因によつて河床に変化をきたしたと認める場合には、その都度、すみやかに横断測量を行い補正するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の横断測量の方法については、前条各号の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（流量観測所横断線）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">流量観測所には、水基本調査準則第八条第五項に規定する観測所の種別に従つて、同条第二項に規定する位置に、流身に直角の方向に流量観測所横断線を設定し、当該横断線の位置を示すために、横断線拠標を設置する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の横断線設定の箇所数及びその間隔は、当該観測の方法に応じて、左の表に掲げるところによる。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">測定方法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">横断線箇所数</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">横断線の間隔</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">流速計測法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">一箇所</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+                    <Sentence WritingMode="vertical">おおむね五十メートル以上</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">浮子測法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">二箇所以上</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">堰測法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">一箇所</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">横断線拠標の設置の方法については、第九条第二項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（流量観測所横断線の横断測量）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流量観測所横断線の横断測量は、前条の規定により設定した横断線に沿つて行い、流量観測所横断面図を作成するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、横断測量の方法については、第十条各号の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（流量観測を行うための附帯施設の設置）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">流速計測法による観測所においては、第二十九条の規定による測定方法により流量観測を行うに必要な水位標、舟、橋<Ruby>り<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>、索綱及びつり箱等を設置するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">浮子測法による観測所においては、横断線上の適当な位置に水位標を、横断線の両端に見通し目標をそれぞれ設置するものとし、見通し目標は、相互に見通すことができるように保持するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">浮子測法による観測所においては、浮子投下施設を設置するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">浮子投下施設は、浮子が一定の<Ruby>吃<Rt>きつ</Rt></Ruby>水を保つために必要な時間等を考慮して、上流に位置する横断線の上流三十メートル以上の位置に、左の条件に適合するように設置するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">浮子の落下速度が大に失しないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">すべての浮子をすみやかに所定の位置に投下することができること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">浮子投下施設は、橋<Ruby>り<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>その他既存の工作物をもつてかえることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">水面<Ruby>勾<Rt>こう</Rt></Ruby>配を測定する場合において第一項の水位標によつては水面勾配を測定するに適当でないときは、第一項の水位標の外に、水面勾配の測定ができる位置に水位標を設置するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">堰測法による観測所においては、矩形堰を設置するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">堰については、別表第四に定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　観測</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（器材の管理）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位観測及び流量観測に使用する器材は、常に所定の性能を保持するようにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">この準則において、「<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水」とは、既往十箇年間における毎日の水位又は流量のうち、原則として当該水位流量観測所における第百位以上に該当する水位又は流量の状態をいう。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、既往十箇年における毎日の水位又は流量の資料を得ることができない場合には、当該観測所が行つた既往の観測期間の年数に十を乗じて得た数値以上の順位に該当する水位又は流量の状態をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項但書に定める既往の観測期間が断続している場合にあつては、当該観測期間を合計して、これを年数に換算し、この年数に十を乗じて得た数値以上の順位に該当する水位又は流量の状態をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位流量観測所を新たに設置した場合において、前二項の規定により<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の水位又は流量を定むべき資料を有しない時には、当該観測所と関連を有する既存の観測所の既存資料等から推定して定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（観測心得）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位及び流量調査を行う者は、観測心得を定め、これを観測員に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">観測員は、観測に際して、常に観測心得を携行しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">観測心得には、<span>左{'次': 1}</span>に掲げる事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">観測器材の取扱方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">観測記録の取扱方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">水位観測にあつては、自記紙の読み取り方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他必要なる事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　定時の水位観測</SectionTitle>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（水位観測）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位観測員は、第六条の規定により設置した水位標（自記水位標を除く。以下次条において同じ。）によつて水位を観測する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">観測は、原則として毎日六時及び十八時に行う。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の場合には、毎正時観測を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位の読み取りの単位は、原則として一センチメートルとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（自記水位標による水位観測）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">自記水位標による観測においては、自記水位標に併置された水位標による観測の結果に基き、自記紙の水位又は時刻を補正し、毎正時における数値を自記紙に記入しておくものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">自記紙の読み取りの単位は、前条第三項の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（天気、風向及び風力の観測）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">水位観測員は、天気、風向及び風力を、左の区分に従つて観測するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合、天気は観測日におけるものとし、風向及び風力は、その日の観測時におけるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">天気</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">晴、曇、雨、雪</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">風向</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">北、東、南、西</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">風力</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">静穏、和風、強風</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（水位観測員の委嘱）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位観測員は、左に掲げる条件を有する者のうちから、水位及び流量調査を行う者が委嘱する。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">長期間継続し、一定の時間に、観測作業に従事することが可能な者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">自記水位標を有する観測所にあつては、なるべく自記器械の取り扱いに関し、必要な知識を有する者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位観測員を委嘱した時は、その旨を観測所に公示するとともに、委嘱書を本人に交付するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">水位及び流量調査を行う者は、水位観測員の不測の事故による欠測を防止するため、あらかじめこれにかわる水位観測員を選定しておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量以外の流量観測</SectionTitle>
+          <Subsection Delete="false" Hide="false" Num="1">
+            <SubsectionTitle>第一款　通則</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="24">
+              <ArticleCaption>（流量観測）</ArticleCaption>
+              <ArticleTitle>第二十四条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">流量は、水深測量によつて通水断面を測定し、当該断面における流速を計り、その結果によつて求めるものとする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、流量観測の結果の数値は、有効数字三位までとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="25">
+              <ArticleTitle>第二十五条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">各種の流量観測は、良好な流量曲線が作成できるように、水位と流量との時点を考慮して行わなければならない。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第一種水位流量観測所は、少くとも年間三十六回以上の観測を行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="2">
+            <SubsectionTitle>第二款　流速計測法</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="26">
+              <ArticleCaption>（水深測量）</ArticleCaption>
+              <ArticleTitle>第二十六条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">流速計測法により流量観測を行う場合は、第十二条第一項の規定による横断線に沿つて水深測量を行い、横断面図を作成するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">水深測量の方法については、第十条各号の規定を準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="27">
+              <ArticleCaption>（流速測線の選定）</ArticleCaption>
+              <ArticleTitle>第二十七条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">流速計測法により流速を測定しようとする場合には、あらかじめ流速測線を選定するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">流速測線は、前条第一項の横断線を含む垂直面上において、横断方向に、前条の規定により行つた水深測量の測線のうちから、原則として等間隔になるように選定する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3" OldStyle="false">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">水面幅と流速測線数との割合の標準は、原則として左の表のとおりとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、横断面の形状により測線数を増加することができる。</Sentence>
+                </ParagraphSentence>
+                <TableStruct>
+                  <Table WritingMode="vertical">
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">水面幅</Sentence>
+                        <Sentence WritingMode="vertical">流速測線数</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">２０m</Sentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">mm満</Sentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">mm</Sentence>
+                        <Sentence WritingMode="vertical">１30</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">m</Sentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                    </TableRow>
+                  </Table>
+                </TableStruct>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="28">
+              <ArticleCaption>（流速測点の選定）</ArticleCaption>
+              <ArticleTitle>第二十八条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3" OldStyle="false">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="29">
+              <ArticleCaption>（流速計による測定の方法）</ArticleCaption>
+              <ArticleTitle>第二十九条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3" OldStyle="false">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="30">
+              <ArticleCaption>（流速計の種類）</ArticleCaption>
+              <ArticleTitle>第三十条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="31">
+              <ArticleCaption>（平均流速）</ArticleCaption>
+              <ArticleTitle>第三十一条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical"></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical"></Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical"></Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="32">
+              <ArticleCaption>（流量値）</ArticleCaption>
+              <ArticleTitle>第三十二条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="33">
+              <ArticleCaption>（精密測定）</ArticleCaption>
+              <ArticleTitle>第三十三条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="3">
+            <SubsectionTitle>第三款　浮子測法</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="34">
+              <ArticleCaption>（水深測量）</ArticleCaption>
+              <ArticleTitle>第三十四条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="35">
+              <ArticleCaption>（浮子流速測線の選定）</ArticleCaption>
+              <ArticleTitle>第三十五条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3" OldStyle="false">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+                <TableStruct>
+                  <Table WritingMode="vertical">
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">０</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">未満</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">１</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence WritingMode="vertical">２０</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                  </Table>
+                </TableStruct>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="36">
+              <ArticleCaption>（浮子）</ArticleCaption>
+              <ArticleTitle>第三十六条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="37">
+              <ArticleCaption>（平均流速）</ArticleCaption>
+              <ArticleTitle>第三十七条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical"></Sentence>
+                  <Sentence Num="2" WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="38">
+              <ArticleCaption>（流量値）</ArticleCaption>
+              <ArticleTitle>第三十八条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="4">
+            <SubsectionTitle>第四款　堰測法</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="39">
+              <ArticleTitle>第三十九条</ArticleTitle>
+              <Paragraph Hide="false" Num="1" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">４</Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical"></Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical"></Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">H<Ruby><Rt></Rt></Ruby></Sentence>
+                  </ListSentence>
+                </List>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2" OldStyle="false">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical"></Sentence>
+                </ParagraphSentence>
+                <StyleStruct>
+                  <Style>
+                    <List>
+                      <ListSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ListSentence>
+                    </List>
+                  </Style>
+                  <Remarks>
+                    <RemarksLabel LineBreak="false">注</RemarksLabel>
+                    <Item Delete="false" Hide="false" Num="1">
+                      <ItemTitle>１</ItemTitle>
+                      <ItemSentence>
+                        <Sentence WritingMode="vertical">の</Sentence>
+                      </ItemSentence>
+                    </Item>
+                    <Item Delete="false" Hide="false" Num="2">
+                      <ItemTitle>２</ItemTitle>
+                      <ItemSentence>
+                        <Sentence WritingMode="vertical"></Sentence>
+                      </ItemSentence>
+                    </Item>
+                    <Item Delete="false" Hide="false" Num="3">
+                      <ItemTitle>３</ItemTitle>
+                      <ItemSentence>
+                        <Sentence WritingMode="vertical">においては、</Sentence>
+                      </ItemSentence>
+                    </Item>
+                  </Remarks>
+                </StyleStruct>
+              </Paragraph>
+            </Article>
+          </Subsection>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量観測</SectionTitle>
+          <Article Delete="false" Hide="false" Num="40">
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量観測）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                <Sentence Num="2" WritingMode="vertical"></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="41">
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量観測班）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="42">
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量観測の方法）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>の数<Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                <Sentence Num="2" WritingMode="vertical">に</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="43">
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"></Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">流速測線</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">は、</Sentence>
+                <Sentence Num="2" WritingMode="vertical">該</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"></Sentence>
+                <Sentence Num="2" WritingMode="vertical">測線にお</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical"></Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
+                      <Sentence WritingMode="vertical">のとする。</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="44">
+            <ArticleCaption>（横断線の改測）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                <Sentence Num="2" WritingMode="vertical"></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="45">
+            <ArticleCaption>（流量値）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>測</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">の<Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                  <Sentence Num="2" WritingMode="vertical">定は、</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="46">
+            <ArticleCaption>（水面勾配の観測）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">として</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="5">
+          <SectionTitle>第五節　野帳の記載</SectionTitle>
+          <Article Delete="false" Hide="false" Num="47">
+            <ArticleCaption>（野帳の記載）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　結果のとりまとめ</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="48">
+          <ArticleCaption>（観測所台帳及び附図）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">によ</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="49">
+          <ArticleCaption>（水位月報及び水位年表）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">、水<Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="50">
+          <ArticleCaption>（流量測定年表）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="51">
+          <ArticleCaption>（水位流量曲線）</ArticleCaption>
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="52">
+          <ArticleCaption>（流量年表）</ArticleCaption>
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">め</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="53">
+          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水流量曲線図）</ArticleCaption>
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>に</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="54">
+          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>う<Rt>ヽ</Rt>
+</Ruby>水表）</ArticleCaption>
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>い</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三〇年七月二〇日総理府令第二七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">は、</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四九年六月二六日総理府令第三九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成元年三月一七日総理府令第一二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年三月三〇日総理府令第一九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年八月一四日総理府令第一〇三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和元年五月七日国土交通省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">る</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第一　水位標の構造</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical">ができる。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">、</Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">て</Sentence>
+              <Sentence WritingMode="vertical">水</Sentence>
+              <Sentence WritingMode="vertical"><Ruby><Rt></Rt></Ruby></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">              </Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical">つては水<Ruby><Rt></Rt></Ruby></Sentence>
+              <Sentence WritingMode="vertical">の</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第二　水準拠標の標石又は水準記号</AppdxTableTitle>
+      <Item Delete="false" Hide="false" Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical">の</Sentence>
+        </ItemSentence>
+        <FigStruct>
+          <FigStructTitle>図</FigStructTitle>
+          <Fig src="./pict/S29F03101000075-001.jpg"/>
+        </FigStruct>
+      </Item>
+      <Item Delete="false" Hide="false" Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ItemSentence>
+        <FigStruct>
+          <FigStructTitle>図</FigStructTitle>
+          <Fig src="./pict/S29F03101000075-002.jpg"/>
+        </FigStruct>
+      </Item>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第三　水位標横断線拠標及び横断線記号</AppdxTableTitle>
+      <Item Delete="false" Hide="false" Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ItemSentence>
+        <FigStruct>
+          <FigStructTitle>図</FigStructTitle>
+          <Fig src="./pict/S29F03101000075-003.jpg"/>
+        </FigStruct>
+      </Item>
+      <Item Delete="false" Hide="false" Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ItemSentence>
+        <FigStruct>
+          <FigStructTitle>図</FigStructTitle>
+          <Fig src="./pict/S29F03101000075-004.jpg"/>
+        </FigStruct>
+      </Item>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第四　堰</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical">の</Sentence>
+              <Sentence WritingMode="vertical">、一</Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical">あ</Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical"></Sentence>
+              <Sentence WritingMode="vertical">の</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第五　流速計の種類及び使用範囲の標準</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical"></Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第六</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-005.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-006.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第七</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-007.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-008.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第八</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-009.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第九</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-010.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-011.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第十</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-012.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第十一</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-013.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-014.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第十二</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-015.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S29F03101000075-016.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+  </LawBody>
+</Law>

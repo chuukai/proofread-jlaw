@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="73" Year="45">
+  <LawNum>昭和四十五年法律第七十三号</LawNum>
+  <LawBody>
+    <LawTitle>筑波研究学園都市建設法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　研究学園地区建設計画</ChapterTitle>
+        <ArticleRange>（第三条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　周辺開発地区整備計画</ChapterTitle>
+        <ArticleRange>（第七条・第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　研究学園地区建設計画及び周辺開発地区整備計画に基づく事業の実施</ChapterTitle>
+        <ArticleRange>（第九条―第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（この法律の目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、筑波研究学園都市の建設に関する総合的な計画を策定し、その実施を推進することにより、試験研究及び教育を行なうのにふさわしい研究学園都市を建設するとともに、これを均衡のとれた田園都市として整備し、あわせて首都圏の既成市街地における人口の過度集中の緩和に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「筑波研究学園都市」とは、つくば市の区域を地域とし、当該地域内に、首都圏の既成市街地にある試験研究機関及び<span>大学{'事由': 1}</span>並びに<span>前条{'一条': 1, '事由': 1}</span>の目的に照らし<span>設置{'存': 1}</span>することが<span>適当{'物件': 1}</span>であると認められる機関の施設を移転し、又は新設し、かつ、<span>研究学園{'存': 1}</span>都市にふさわしい公共施設、公益的施設及び一<span>団地{'周辺': 1}</span>の<span>住宅{'形成': 1}</span><span>施設{'各階平面図': 1}</span>を一体的に<span>整備{'容易': 1}</span>するとともに、当該地域を均衡のとれた田園都市として整備することを目的として建設する都市をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「首都圏の既成市街地」とは、首都圏整備法（昭和三十一年法律第八十三号）第二条第三項に規定する区域をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「研究学園地区」とは、筑波研究学園都市の地域のうち、移転し、又は新設する機関の施設を<span>建設{'物件': 1}</span>し、並びにこれらと一体として公共施設、公益的<span>施設{'各階平面図': 1}</span>及び一団地の<span>住宅{'形成': 1}</span>施設を整備すべき区域であつて政令で定めるものをいい、「周辺開発地区」とは、筑波研究学園都市の地域のうち研究学園地区以外の区域をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「研究学園地区建設計画」とは、研究学園地区内に移転し、又は新設する機関の施設の<span>建設{'物件': 1}</span>並びにこれらと一体として整備することが必要な<span>研究学園{'存': 1}</span>地区における公共施設、公益的施設及び一<span>団地{'周辺': 1}</span>の<span>住宅{'物件': 1}</span>施設の<span>整備{'設置': 1}</span>に関する計画をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>で「周辺開発地区整備<span>計画{'形成': 1}</span>」とは、周辺開発地区における公共施設、公益的施設及び農業の<span>近代化{'形成': 1}</span>のための施設の整備に関する計画をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「公共施設」とは、道路、<span>河川{'公共': 1}</span>、<span>水道{'公共': 1}</span>、<span>下水道{'起算': 1}</span>、<span>公園{'物件': 1}</span>その他政令で定める公共の<span>用{'物件': 1}</span>に供する<span>施設{'使用': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「公益的施設」とは、学校、保育所、病院、診療所その他政令で定める施設で筑波研究学園都市の居住者の共同の福祉又は利便のため必要なものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8" OldStyle="false">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'形成': 1}</span>で「一団地の住宅<span>施設{'各階平面図': 1}</span>」とは、一ヘクタール以上の一団地における五十戸以上の集団<span>住宅{'物件': 1}</span>及びこれらに附帯する通路その他の施設をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　研究学園地区建設計画</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（研究学園地区建設計画の内容）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">研究学園地区建設計画には、次の各号に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">人口の規模及び土地の利用に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>移転{'公告': 1}</span>し、又は<span>新設{'廃止': 1}</span>する<span>試験{'物件': 1}</span><span>研究{'事由': 1}</span><span>機関{'事由': 1}</span>及び<span>大学{'物件': 1}</span>並びに第<span>一条{'事由': 1}</span>の目的に照らし<span>設置{'存': 1}</span>することが<span>適当{'物件': 1}</span>であると<span>認め{'つき': 1}</span>られる機関の施設の建設に関する<span>事項{'概要': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号の<span>機関{'物件': 1}</span>の<span>施設{'存': 1}</span>と一体として<span>整備{'物件': 1}</span>することが必要な公共施設、公益的<span>施設{'各階平面図': 1}</span>及び一<span>団地{'周辺': 1}</span>の住宅施設の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">研究学園地区建設計画は、公害の防止について適切な考慮が払われたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（研究学園地区建設計画の決定）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">研究学園地区建設計画は、国土交通大臣が、関係地方公共団体の意見を聴くとともに関係行政機関の長に協議して、<span>決定{'変更': 1}</span>するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、関係地方公共団体から意見の申出を受けたときは、遅滞なくこれに回答するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、研究学園地区建設計画を決定するについて必要があると認めるときは、関係行政機関の<span>長{'なく': 1}</span>、関係地方公共団体及び独立行政法人都市再生機構その他の関係事業者に対し、資料の提出、意見の開陳、説明その他の必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、研究学園地区建設計画を決定したときは、これを<span>関係{'物件': 1}</span>行政機関の長及び関係地方公共団体に送付するとともに、国土交通省令の定めるところにより<span>公表{'公募': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定により公表された<span>事項{'物件': 1}</span>に関し<span>利害関係{'物件': 1}</span>を有する者は、<span>公表{'物件': 1}</span>の日から三十日以内に、<span>国土交通省令{'事由': 1}</span>の定めるところにより国土交通大臣に<span>意見{'存': 1}</span>を申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による申出があつたときは、国土交通大臣は、その申出を考慮して必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（研究学園地区建設計画の変更）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、その決定した研究学園地区建設計画が情勢の推移により適当でなくなつたとき、その他これを変更することが適当であると認めるときは、関係<span>地方公共団体{'事由': 1}</span>の意見を聴くとともに関係行政機関の長に協議して、これを変更することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、関係地方公共団体から<span>意見{'存': 1}</span>の申出を受けたときは、遅滞なくこれに回答するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第二項から第五項までの規定は、研究学園地区建設計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（首都圏整備計画との調整）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、研究学園地区建設計画については、首都圏整備計画との調整について適切な考慮を払わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　周辺開発地区整備計画</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（周辺開発地区整備計画の内容）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">周辺開発地区整備計画には、次に掲げる事項を<span>定める{'示す': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">公共施設及び<span>公益{'物件': 1}</span>的施設の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">農業の近代化のための施設の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項各号に掲げるもののほか、周辺開発地区整備計画には、<span>人口{'概要': 1}</span>の規模及び土地の利用に関する事項を<span>定める{'示す': 1}</span>よう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">周辺開発地区整備計画は、<span>首都圏{'概要': 1}</span>整備計画に適合するとともに、研究学園地区建設計画と調和したものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">周辺開発地区整備計画は、公害の防止について適切な考慮が払われたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（周辺開発地区整備計画の作成等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">茨城県知事は、つくば市長の意見を聴いて周辺開発地区整備計画を<span>作成{'概要': 1}</span>するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">茨城県知事は、周辺開発地区整備計画を作成したときは、これを公表するよう<span>努める{'でき': 1}</span>とともに、国土交通大臣に<span>通知{'事由': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>国土交通大臣{'勧告': 1}</span>は、前項の通知を受けたときは、これを関係行政機関の<span>長{'なく': 1}</span>に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項の規定は、周辺開発地区整備計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　研究学園地区建設計画及び周辺開発地区整備計画に基づく事業の実施</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（事業の実施）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">研究学園地区建設計画又は周辺開発地区整備計画に基づく事業（以下「筑波研究学園都市建設事業」という。）は、当該事業に関する法律（これに基づく<span>命令{'使用': 1}</span>を含む。）の<span>規定{'住民': 1}</span>に従い、国、地方公共団体又は独立行政法人都市再生機構その他の関係事業者が実施するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（協力）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">関係行政機関の<span>長{'なく': 1}</span>、関係地方公共団体及び独立行政法人都市再生機構その他の関係事業者は、研究学園地区建設計画（周辺開発地区整備<span>計画{'形成': 1}</span>が作成されているときは、研究学園地区建設計画及び周辺開発地区整備計画）の<span>実施{'概要': 1}</span>に関し、できる限り協力しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（勧告等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、必要があると認めるときは、<span>関係{'事由': 1}</span><span>行政機関{'構成': 1}</span>の長、関係地方公共団体又は独立行政法人都市再生機構その他の関係事業者に対し、研究学園地区建設計画又は周辺開発地区整備計画の実施に関し勧告し、及びその勧告によつてとられた措置その他研究学園地区建設計画又は周辺開発地区整備計画の<span>実施{'概要': 1}</span>に関する状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（実施の状況）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、首都圏整備法第三十条の二の規定により国会に提出する報告書に、研究学園地区建設計画（周辺開発地区整備<span>計画{'形成': 1}</span>が作成されているときは、研究学園地区建設計画及び周辺開発地区整備計画）の<span>実施{'概要': 1}</span>に関する状況をあわせて記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（資金の確保等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、筑波研究学園都市建設事業を実施するため必要な資金の確保を図り、かつ、国の財政の許す範囲内において、その実施を促進することに努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、筑波研究学園都市建設事業の実施を促進するため必要があると認めるときは、関係地方公共団体に対し、財政上、金融上及び<span>技術{'物件': 1}</span>上の<span>援助{'物件': 1}</span>を与えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="349098" AmendLawNum="昭和四九年六月二六日法律第九八号" Extract="true" Id="542871e4-d3b9-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="53">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第五十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前の国土総合開発法、首都圏整備法、首都圏の近郊整備地帯及び都市開発区域の整備に関する法律、首都圏の既成市街地における工業等の制限に関する法律、首都圏近郊緑地保全法、筑波研究学園都市建設法、近畿圏整備法、近畿圏の既成都市区域における工場等の制限に関する法律、近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律、近畿圏の保全区域の整備に関する法律、琵琶湖総合開発特別措置法、中部圏開発整備法、新産業都市建設促進法、過疎地域対策緊急措置法、奄美群島振興開発特別措置法、小笠原諸島復興特別措置法、奄美群島振興特別措置法及び小笠原諸島復興特別措置法の一部を改正する法律、小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律、防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律、地価公示法、不動産の鑑定評価に関する法律（不動産鑑定士特例試験及び不動産鑑定士補特例試験に関する法律において準用する場合を含む。）又は水資源開発公団法（以下「国土総合開発法等」と総称する。）の規定により国の機関がした許可、<span>承認{'した': 1}</span>、<span>指定{'負担': 1}</span>その他の<span>処分{'事由': 1}</span>又は通知その他の行為は、この法律による改正後の国土総合開発法等の相当規定に基づいて、相当の国の機関がした許可、<span>承認{'した': 1}</span>、<span>指定{'負担': 1}</span>その他の<span>処分{'事由': 1}</span>又は<span>通知{'物件': 1}</span>その他の<span>行為{'提起': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'存': 1}</span>の<span>施行{'物件': 1}</span>の際現にこの法律による改正前の国土総合開発法等の規定により国の機関に対してされている申請、届出その他の行為は、この法律による改正後の国土総合開発法等の相当規定に基づいて、相当の国の機関に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="54">
+        <ArticleTitle>第五十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'存': 1}</span>の施行の際現に効力を有する<span>首都圏整備委員会{'物件': 1}</span>規則、建設省令又は自治省令で、この法律による改正後の国土総合開発法等の規定により総理府令で定めるべき事項を定めているものは、この法律の施行後は、総理府令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="356048" AmendLawNum="昭和五六年五月二二日法律第四八号" Extract="true" Id="3f54cb56-188e-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十一条から第五十五条までの規定は、<span>公布{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411076" AmendLawNum="平成一一年六月一六日法律第七六号" Extract="true" Id="b51c118a-1886-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から<span>施行{'起算': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十七条から第七十二条までの規定は、<span>公布{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から<span>施行{'物件': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中地方自治法第二百五十条の次に五条、<span>節名{'物件': 1}</span>並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法<span>附則{'物件': 1}</span>第九項及び第十項の<span>改正{'物件': 1}</span>規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（<span>農業改良助長法{'物件': 1}</span>第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに<span>附則{'物件': 1}</span>第七条、第十条、第十二条、<span>第五{'物件': 1}</span>十九条<span>ただし書{'事由': 1}</span>、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の<span>規定{'起算': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'改正': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="40">
+        <ArticleCaption>（筑波研究学園都市建設法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前に第八十一条の規定による改正前の筑波研究学園都市建設法（以下この条において「旧筑波研究学園都市建設法」という。）第八条第一項の規定による承認を受けた周辺開発地区整備計画は、第八十一条の規定による改正後の筑波研究学園都市建設法（以下この条において「新筑波研究学園都市建設法」という。）第八条第一項（同条第五項において準用する場合を含む。）の規定による協議を行った周辺開発地区整備<span>計画{'形成': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に旧筑波研究学園都市建設法第八条第一項の規定によりされている承認の申請は、新筑波研究学園都市建設法第八条第一項の規定によりされた協議の申出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="159">
+        <ArticleCaption>（国等の事務）</ArticleCaption>
+        <ArticleTitle>第百五十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行<span>前{'経過': 1}</span>において、<span>地方公共団体{'使用': 1}</span>の機関が<span>法律{'物件': 1}</span>又はこれに基づく<span>政令{'物件': 1}</span>により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく<span>政令{'物件': 1}</span>により当該<span>地方公共団体{'物件': 1}</span>の<span>事務{'物件': 1}</span>として処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="160">
+        <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律（附則第<span>一条{'事由': 1}</span>各号に掲げる規定については、<span>当該{'物件': 1}</span>各<span>規定{'物件': 1}</span>。以下この<span>条{'物件': 1}</span>及び<span>附則{'物件': 1}</span>第百六十三条において同じ。）の施行前に<span>改正{'提起': 1}</span>前のそれぞれの<span>法律{'物件': 1}</span>の規定によりされた<span>許可{'物件': 1}</span>等の処分その他の<span>行為{'物件': 1}</span>（以下この<span>条{'した': 1}</span>において「処分等の行為」という。）又はこの<span>法律{'物件': 1}</span>の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の<span>申請{'該当': 1}</span>その他の行為（以下この条において「申請等の行為」という。）で、この<span>法律{'存': 1}</span>の施行の日においてこれらの<span>行為{'経過': 1}</span>に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの<span>規定{'物件': 1}</span>又は<span>改正{'物件': 1}</span>後のそれぞれの<span>法律{'物件': 1}</span>（これに基づく<span>命令{'使用': 1}</span>を含む。）の<span>経過{'物件': 1}</span>措置に関する<span>規定{'物件': 1}</span>に定めるものを除き、この<span>法律{'存': 1}</span>の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの<span>法律{'物件': 1}</span>の相当規定によりされた処分等の行為又は<span>申請{'物件': 1}</span>等の<span>行為{'提起': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に<span>改正{'概要': 1}</span>前のそれぞれの法律の規定により<span>国又{'物件': 1}</span>は<span>地方公共団体{'物件': 1}</span>の機関に対し報告、<span>届出{'物件': 1}</span>、提出その他の<span>手続{'提起': 1}</span>をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、<span>届出{'物件': 1}</span>、提出その他の手続をしなければならない<span>事項{'物件': 1}</span>についてその手続がされていないものとみなして、この<span>法律{'物件': 1}</span>による改正後の<span>それぞれ{'事由': 1}</span>の法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="161">
+        <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた<span>国等{'物件': 1}</span>の事務に係る処分であって、当該処分をした行政庁（以下この<span>条{'提起': 1}</span>において「<span>処分{'台帳': 1}</span>庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる<span>事務{'物件': 1}</span>は、新<span>地方自治法{'物件': 1}</span>第二条第九項第一号に規定する<span>第一{'物件': 1}</span>号<span>法定受託事務{'物件': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="164">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'物件': 1}</span>に規定するもののほか、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に伴い<span>必要{'物件': 1}</span>な<span>経過{'物件': 1}</span><span>措置{'従前': 1}</span>（<span>罰則{'物件': 1}</span>に関する<span>経過{'措置': 1}</span><span>措置{'経過': 1}</span>を<span>含む{'命じよ': 1}</span>。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新地方自治法第二条第九項第一号に規定する<span>第一{'物件': 1}</span>号<span>法定受託事務{'物件': 1}</span>については、できる限り<span>新た{'物件': 1}</span>に<span>設ける{'つき': 1}</span>ことのないようにするとともに、新地方自治法<span>別表{'事由': 1}</span>第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な<span>措置{'経過': 1}</span>を<span>講ずる{'命じよ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'物件': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る<span>部分{'物件': 1}</span>に<span>限る{'つき': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の<span>規定{'物件': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415100" AmendLawNum="平成一五年六月二〇日法律第一〇〇号" Extract="true" Id="63741b24-47dd-11e5-92f6-0bbe534f916f">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'起算': 1}</span>は、平成十六年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="cb96a4b0-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="60">
+        <ArticleCaption>（筑波研究学園都市建設法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に第百二十二条の<span>規定{'法律': 1}</span>による改正前の<span>筑波研究学園都市建設法{'物件': 1}</span>第八条第一項（同条第五項において準用する場合を含む。）の規定によりされている協議の申出は、第百二十二条の規定による改正後の筑波研究学園都市建設法第八条第二項（同条第四項において準用する場合を含む。）の規定によりされた通知とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="82">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この附則に<span>規定{'提起': 1}</span>するもののほか、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に関し<span>必要{'経過': 1}</span>な経過<span>措置{'経過': 1}</span>（<span>罰則{'物件': 1}</span>に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

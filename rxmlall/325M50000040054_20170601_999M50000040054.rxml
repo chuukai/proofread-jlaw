@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="54" Year="25">
+  <LawNum>昭和二十五年大蔵省令第五十四号</LawNum>
+  <LawBody>
+    <LawTitle>資産再評価の基準の特例に関する省令</LawTitle>
+    <EnactStatement>資産再評価法第三十三条から第三十五条までの規定に基き、資産再評価の基準の特例に関する省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（取得の時期の不明な資産）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">資産再評価法（昭和二十五年法律第百十号。以下「法」という。）第三十三条に規定する取得の時期の不明な資産については、左の各号のいずれか一に掲げる時期をその取得の時期とみなすことができる。</Sentence>
+            <Sentence Function="proviso" Num="2">但し、当該資産について第三号の<span>規定{'資産': 1}</span>による取得の<span>時期{'価額': 1}</span>が第二号の規定による取得の時期の前である場合においては、<span>第一{'項': 1}</span>号又は第二号に掲げる<span>時期{'規定': 1, '地区': 1, '事由': 1}</span>をその<span>取得{'該当': 1}</span>の時期とみなさなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産について最も古い記録がある時期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>左に掲げる年数を当該資産の取得の<span>時期{'資金': 1}</span>から基準日までの経過年数とみなした<span>場合{'規定': 1}</span>におけるその取得の時期</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>固定資産の耐用年数等に関する省令（昭和二十六年大蔵省令第五十号）別表一又は別表四に掲げる資産については、その基準日以後の使用可能年数を見積り、その年数を、当該資産について同表に定められた耐用年数を一・一五倍した年数から控除した<span>年数{'金額': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>固定資産の耐用年数等に関する省令別表二に掲げる資産については、その基準日以後の使用可能年数を見積り、その年数を、当該資産を新たに取得した場合においてこれにつき通常の管理又は修理をなすものとして予測される使用可能年数から控除した年数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>左のイからトまでに掲げる時期のうち当該資産の取得の時期に最も近いと認められる<span>時期{'場合': 1}</span></Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該資産の属する<span>工場{'年': 1, '事業': 1}</span>又は事業場において事業設備として当該資産と一体をなす他の資産で当該資産の取得の時期と同一の時期又はこれに近接する時期に取得したと認められるものの取得の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該資産を有する者又は当該<span>資産{'貨物': 1, '事業': 2, '居住': 1}</span>がその用に供されている事業と同一種類の事業を営む他の者の有する当該資産と同一<span>種類{'当該': 1}</span>の資産でその<span>基準{'当該': 1}</span>日における現況が当該資産に類似するものの取得の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該資産の構造又は型式によつて推定される取得の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該資産に表示されているその製作の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該資産の属する<span>工場{'年': 2}</span>又は事業場の建設の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該<span>資産{'居住': 1, '事業': 6}</span>がその用に供されている事業の開始の<span>時期{'場合': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence><span>当該{'代替': 1}</span><span>資産{'換資': 1}</span>の取得価額が明らかである場合において、その<span>取得{'当該': 3}</span>価額によつて推定される取得の時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（取得価額の不明な資産）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">法第三十三条に規定する取得価額の不明な資産については、左の各号に掲げる金額のうち当該資産の取得価額に最も近いと認められる金額をその取得価額とみなすことができる。</Sentence>
+            <Sentence Function="proviso" Num="2">但し、前条第一号の規定により最も古い記録がある時期をその取得の時期とみなした資産についてその価額が当該記録に記載されている場合においては、第一号に掲げる金額をその取得価額とみなさなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産について最も古い記録に<span>記載{'取得': 1}</span>された価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産を有する者又は当該<span>資産{'貨物': 1, '事業': 2, '居住': 1}</span>がその用に供されている事業と同一種類の事業を営む他の者が当該資産の<span>取得{'令': 1}</span>の<span>時期{'価額': 1}</span>と同一の<span>時期{'当該': 1}</span>に取得した当該<span>資産{'貨物': 1}</span>に類似する他の資産の取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該<span>資産{'貨物': 1, '有価証券': 1}</span>の<span>取得{'価額': 1, '譲渡': 2}</span>の<span>時期{'価額': 3}</span>における当該資産又はこれに<span>類似{'当該': 1, '負債': 2}</span>する他の資産の価格</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'目的': 1}</span>資産を有する者又は当該<span>資産{'貨物': 1, '事業': 2, '居住': 1}</span>がその用に供されている事業と同一種類の事業を営む他の者が当該資産の取得の時期の前又は後三年以内に取得した当該資産に類似する他の資産でその取得価額の明らかであるものの取得価額に左の算式により計算した数を乗じて算出した金額</Sentence>
+            </ItemSentence>
+            <List>
+              <ListSentence>
+                <Sentence>当該資産に類似する他の資産の取得の時期に応ずる法<span>別表{'規定': 1}</span>第三の倍数／当該資産の取得の時期に応ずる法<span>別表{'規定': 1}</span>第三の倍数</Sentence>
+              </ListSentence>
+            </List>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産の構造又は型式によつて<span>推定{'当該': 1}</span>される取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産の取得の<span>時期{'価額': 2}</span>から昭和二十七年十二月三十一日までの償却額の<span>累計{'償却': 1}</span>額がその期間における償却範囲額（法人税法（昭和二十二年法律第二十八号）又は<span>所得税法{'法人税法': 1}</span>（昭和二十二年法律第二十七号）の規定による所得の<span>計算{'金額': 3}</span>上損金又は必要な<span>経費{'損金': 1}</span>に<span>算入{'場合': 1}</span>される当該資産についての償却額の限度額をいう。以下同じ。）の累計額に等しいか又はこれをこえる場合においては、左の算式により計算した金額（左の算式において「償却率」及び「ｎ」とは、法別表第一に<span>規定{'特別': 1}</span>する「償却率」及び「ｎ」をいう。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該償却額の累計額が当該償却範囲額の累計額に等しいときは、</Sentence>
+              </Subitem1Sentence>
+              <List>
+                <ListSentence>
+                  <Sentence>当該資産の昭和２８年１月１日の直前における帳簿価額／<span>（（{'特別': 1}</span>１</Sentence>
+                </ListSentence>
+              </List>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>償却</Sentence>
+              </Subitem1Sentence>
+              <List>
+                <ListSentence>
+                  <Sentence>）ｎ）</Sentence>
+                </ListSentence>
+              </List>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（取得の時期及び取得価額の不明な資産）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（明細書の記載）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（財産税評価額のない資産）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（陳腐化した資産等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>が</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>該</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>額の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="326085" AmendLawNum="昭和二六年一〇月一〇日大蔵省令第八五号" Extract="true" Id="e93fdc40-18d5-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="328063" AmendLawNum="昭和二八年八月七日大蔵省令第六三号" Id="f327993c-18d5-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

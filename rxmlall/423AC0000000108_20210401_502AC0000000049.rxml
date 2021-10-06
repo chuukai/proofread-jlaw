@@ -1,0 +1,3132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="108" Year="23">
+  <LawNum>平成二十三年法律第百八号</LawNum>
+  <LawBody>
+    <LawTitle>電気事業者による再生可能エネルギー電気の調達に関する特別措置法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　電気事業者による再生可能エネルギー電気の調達等</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　調達価格及び調達期間</SectionTitle>
+          <ArticleRange>（第三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　入札の実施等</SectionTitle>
+          <ArticleRange>（第四条―第八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　再生可能エネルギー発電事業計画の認定等</SectionTitle>
+          <ArticleRange>（第九条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　電気事業者の義務等</SectionTitle>
+          <ArticleRange>（第十六条―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　電力・ガス取引監視等委員会</SectionTitle>
+          <ArticleRange>（第二十一条―第二十七条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　電気事業者における費用負担の調整</ChapterTitle>
+        <ArticleRange>（第二十八条―第三十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　指定入札機関及び費用負担調整機関</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　指定入札機関</SectionTitle>
+          <ArticleRange>（第三十九条―第五十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　費用負担調整機関</SectionTitle>
+          <ArticleRange>（第五十五条―第六十六条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　調達価格等算定委員会</ChapterTitle>
+        <ArticleRange>（第六十七条―第七十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange>（第七十四条―第七十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange>（第八十条―第八十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、エネルギー源としての再生可能エネルギー源を利用することが、内外の経済的社会的<span>環境{'必要': 1}</span>に応じたエネルギーの安定的かつ適切な供給の確保及びエネルギーの<span>供給{'利用': 1}</span>に係る環境への負荷の低減を図る上で重要となっていることに鑑み、電気事業者による再生可能エネルギー電気の調達に関し、その価格、期間等について特別の措置を講ずることにより、<span>電気{'場合': 1}</span>についてエネルギー源としての再生可能エネルギー源の利用を促進し、もって我が国の国際競争力の強化及び我が国産業の振興、地域の活性化その他国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律において「電気事業者」とは、電気事業法（昭和三十九年<span>法律{'法': 1}</span>第百七十号）第二条第一項第九号に規定する一般送配電事業者（以下単に「一般送配電事業者」という。）及び同項第十三号に規定する特定送配電事業者（以下単に「特定送配電事業者」という。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「再生可能エネルギー電気」とは、再生可能エネルギー発電設備を用いて再生可能エネルギー源を変換して得られる電気をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「<span>再生可能エネルギー{'規定': 1}</span>発電設備」とは、再生可能エネルギー源を電気に変換する設備及びその附属設備をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「再生可能エネルギー源」とは、次に掲げるエネルギー源をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>太陽光</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>風力</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>水力</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>地熱</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>バイオマス（動植物に由来する有機物であってエネルギー源として利用することができるもの（原油、石油ガス、可燃性天然ガス<span>及び{'又は': 1}</span>石炭並びにこれらから製造される製品を除く。）をいう。第九条第四項及び第六項において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号に掲げるもののほか、原油、石油ガス、可燃性天然ガス<span>及び{'又は': 1}</span>石炭並びにこれらから製造される製品以外のエネルギー源のうち、電気のエネルギー源として永続的に利用することができると認められるものとして政令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「<span>特定{'補償': 1}</span><span>契約{'事業': 1}</span>」とは、第九条第三項の認定（第十条第一項の変更の<span>認定{'起算': 1}</span>を含む。）を受けた者（以下「認定事業者」という。）と電気事業者が締結する契約であって、当該認定に係る再生可能エネルギー発電設備（以下「認定発電設備」という。）に係る次条第一項に規定する調達期間を超えない範囲内の期間（当該認定発電設備に係る再生可能エネルギー電気が既に<span>他{'託送': 1}</span>の者に供給されていた場合その他の経済産業省令で定める場合に<span>あっ{'除き': 1}</span>ては、経済産業省令で定める期間）にわたり、当該<span>認定{'送電': 1}</span>事業者が電気事業者に対し再生可能エネルギー電気を供給することを約し、電気事業者が当該認定<span>発電設備{'会社': 1}</span>に係る同項に規定する調達価格により<span>再生可能エネルギー{'金額': 1}</span>電気を調達することを約する契約をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　電気事業者による再生可能エネルギー電気の調達等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　調達価格及び調達期間</SectionTitle>
+          <Article Num="3">
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">経済産業大臣は、毎年度、当該<span>年度{'事業年度': 1}</span>の開始前に、電気事業者が第十六条第一項の規定により行う再生可能エネルギー電気の調達につき、経済産業省令で定める再生可能エネルギー発電設備の区分、設置の形態及び規模（以下「再生可能エネルギー発電設備の区分等」という。）のうち、次条第一項の規定による指定を<span>した{'受け': 1, '副産物': 1}</span>もの以外のものごとに、当該再生可能エネルギー電気の一キロワット時当たりの価格（以下「調達価格」という。）及びその調達<span>価格{'品等': 1}</span>による調達に係る期間（以下「調達期間」という。）を定めなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、経済産業大臣は、我が国における再生可能エネルギー電気の供給の量の状況、<span>再生可能エネルギー{'供給': 1}</span>発電設備の設置に要する費用、物価その他の経済事情の変動等を勘案し、必要があると認めるときは、半期ごとに、当該<span>半期{'事業': 1}</span>の開始前に、調達価格及び調達期間（以下「<span>調達{'告示': 1}</span>価格等」という。）を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'種類': 1}</span>は、再生可能エネルギー発電設備の区分等ごとの再生可能エネルギー電気の<span>供給{'放射線': 1}</span>の量の状況、<span>再生可能エネルギー{'供給': 1}</span><span>電気{'再生可能エネルギー': 1}</span>を発電する<span>事業{'電気': 1}</span>の状況その他の事情を勘案し、必要があると認めるときは、前項の<span>規定{'経済産業省令': 1}</span>により定める調達価格等のほかに、当該年度の翌年度以降に同項の規定により定めるべき調達価格等を当該年度に併せて定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'事項': 1}</span>の規定により調達価格等を定めた再生可能エネルギー発電設備の区分等については、その定められた年度において、第一項の規定は適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>調達価格は、当該再生可能エネルギー発電設備による再生可能エネルギー電気の供給を調達期間にわたり安定的に行うことを可能とする価格として、当該供給が効率的に実施される場合に<span>通常{'当該': 1}</span>要すると認められる費用及び当該供給に係る再生可能エネルギー電気の見込量を基礎とし、第十二項の価格目標及び我が国における再生可能エネルギー電気の供給の量の<span>状況{'確認': 1}</span>、認定事業者が認定発電設備を用いて再生可能エネルギー電気を<span>供給{'調達': 1}</span>しようとする場合に受けるべき適正な利潤、この<span>法律{'政令': 1}</span>の施行前から再生可能エネルギー発電設備を用いて再生可能エネルギー電気を供給する者の当該<span>供給{'特定': 1}</span>に係る費用その他の事情を勘案して定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>調達{'基準': 1}</span>期間は、当該再生可能エネルギー発電設備による再生可能エネルギー電気の供給の開始の時から、その供給の開始後最初に行われる<span>再生可能エネルギー{'事業': 1}</span>発電設備の重要な部分の更新の時までの標準的な期間を<span>勘案{'経済産業省令': 1}</span>して定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、調達価格等を定めるに当たっては、第三十六条の賦課金の負担が電気の使用者に対して過重なものとならないよう配慮しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">経済産業大臣は、調達価格等を定めようとするときは、当該再生可能エネルギー発電設備に係る所管に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、及び消費者政策の観点から消費者問題担当大臣（内閣府設置法（平成十一年法律第八十九号）第九条第一項に規定する特命担当大臣であって、同項の規定により命を受けて同法第四条第一項第二十八号及び同条第三項第六十一号に掲げる事務を掌理するものをいう。）の意見を聴くとともに、調達価格等算定委員会の意見を<span>聴か{'行っ': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">この場合において、経済産業大臣は、調達価格等算定委員会の意見を尊重するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、調達価格等を定めたときは、遅滞なく、これを告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の規定による告示後速やかに、当該告示に係る調達価格等並びに当該調達価格等の算定の基礎に用いた数及び算定の方法を国会に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、物価その他の経済事情に著しい変動が生じ、又は生ずるおそれがある場合において、特に必要があると認めるときは、調達<span>価格{'必要': 1}</span>等を改定することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第七項から第九項までの規定は、前項の規定による調達<span>価格{'調達': 1}</span>等の改定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'規定': 1}</span>は、調達価格等算定委員会の意見を聴いて、電気についてエネルギー源としての再生可能エネルギー源の効率的な利用を促進するため誘導すべき再生可能エネルギー電気の価格の水準に関する目標（次項及び第十四項において「価格目標」という。）を<span>定め{'事業者': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="13">
+              <ParagraphNum>１３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、再生可能エネルギー電気をめぐる情勢の変化その他の情勢の変化を勘案し、必要があると認めるときは、調達価格等算定委員会の意見を聴いて、価格目標を変更することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="14">
+              <ParagraphNum>１４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'条': 1}</span>は、前二項の規定により価格<span>目標{'変更': 1}</span>を定め、又は<span>変更{'規定': 1}</span>したときは、遅滞なく、これを公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　入札の実施等</SectionTitle>
+          <Article Num="4">
+            <ArticleCaption>（入札を実施する再生可能エネルギー発電設備の区分等の指定）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、供給することができる再生可能エネルギー電気の一キロワット時当たりの価格（以下「<span>供給{'当たり': 1}</span>価格」という。）の額についての入札により第九条第三項の<span>認定{'規定': 1}</span>を受けることができる者を決定することが、再生可能エネルギー電気の利用に伴う電気の使用者の負担の軽減を図る上で有効であると認めるときは、次条から第八条までの規定による手続を実施する再生可能エネルギー発電設備の区分等を指定することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">経済産業大臣は、前項の規定による指定をしようとするときは、あらかじめ、当該指定に係る再生可能エネルギー発電設備に係る所管に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、かつ、調達価格等算定委員会の意見を<span>聴か{'行っ': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">この場合において、経済産業大臣は、調達価格等算定委員会の意見を尊重するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第一項の規定による指定をしたときは、遅滞なく、その旨を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の規定による告示後速やかに、その旨を<span>国会{'経済産業大臣': 1}</span>に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前三項の規定は、第一項の規定による指定の取消しについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（入札実施指針）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前条第一項の規定による指定をするときは、当該指定をする再生可能エネルギー発電設備の区分等における入札の実施に関する指針（以下「入札実施指針」という。）を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>入札実施指針には、次に掲げる事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札の対象とする再生可能エネルギー発電設備の区分等</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札に付する再生可能エネルギー発電設備の出力の量（第七条第三項及び第五項において「入札量」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札の参加者の資格に関する基準</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札の参加者が提供すべき保証金の額並びにその提供の方法及び期限その他保証金に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>供給価格の額の上限額（第五項及び第七条第三項において「供給価格上限額」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札に基づく調達価格の額の決定の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札に付する再生可能エネルギー発電設備の区分等に係る調達期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札の落札者における第九条第一項の規定による認定の申請の期限</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前各号に掲げるものの<span>ほか{'事項': 1}</span>、入札の実施に必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、入札実施<span>指針{'機関': 1}</span>を定めるに当たっては、我が国における再生可能エネルギー電気の供給の<span>量{'事業者': 1}</span>の状況、<span>再生可能エネルギー{'供給': 1}</span>発電設備の設置に要する費用の推移、エネルギー政策基本法（平成十四年法律第七十一号）第十二条第一項に規定するエネルギー基本計画、エネルギー需給の長期見通しその他の再生可能エネルギー電気をめぐる情勢を勘案するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">経済産業大臣は、入札実施指針を定めようとするときは、当該入札実施<span>指針{'計画': 1}</span>に基づき実施される入札の対象とする再生可能エネルギー発電設備に係る所管に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、かつ、調達価格等算定委員会の意見を<span>聴か{'行っ': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">この場合において、経済産業大臣は、調達価格等算定委員会の意見を尊重するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">経済産業大臣は、入札実施<span>指針{'機関': 1}</span>を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、入札実施指針のうち供給価格上限額については、入札の効果的な実施のため必要があると認めるときは、<span>公表{'公示': 1}</span>しないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の規定による公表後速やかに、入札<span>実施{'技術': 1}</span>指針（第二項第六号<span>及び{'次に': 2}</span>第七号に掲げる事項に係る部分に限る。）を国会に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三項から前項までの規定は、入札実施指針の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（再生可能エネルギー発電事業計画の提出）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>入札実施指針において定められた<span>再生可能エネルギー{'区域': 1}</span>発電設備の区分等に係る入札に<span>参加{'法': 1}</span>しようとする者は、経済産業省令で定めるところにより、第九条第一項に<span>規定{'海洋': 1}</span>する再生可能エネルギー発電事業計画を作成し、経済産業大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（入札の実施）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前条の規定により再生可能エネルギー発電事業計画を提出した者のうち、当該再生可能エネルギー発電<span>事業計画{'事業者': 1}</span>が入札実施指針に照らし適切なものであると認められる者に対しては入札に参加することができる旨を、当該再生可能エネルギー発電事業計画が入札実施指針に照らし適切なものであると認められない者に対しては入札に参加することができない旨を、それぞれ通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の規定により入札に参加することができる旨の通知を受けた者を参加者として、入札実施指針に従い、入札を実施しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、入札において、入札実施指針に定める<span>入札{'ほか': 1}</span>量の範囲内で、その用いる再生可能エネルギー発電設備の出力及び供給価格を入札させ、供給価格上限額を超えない供給価格の参加者のうち、低価の参加者から順次当該入札量に達するまでの参加者をもって落札者として決定するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、入札において、同価の入札をした者が二人以上ある場合には、くじで<span>落札{'海洋': 1}</span>者の順位を決定するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の場合において、最後の順位の落札者の再生可能エネルギー発電設備の出力と他の落札者の再生可能エネルギー発電設備の出力との合計の出力の量が入札量を超えるときには、その超える分については、最後の順位の落札者において、落札がなかったものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、再生可能エネルギー電気の利用に係る電気の使用者の利益の確保を図る観点から供給価格以外の要素を勘案して落札者を決定することが特に必要であると認めるときは、政令で定めるところにより、前三項の規定による方法以外の方法で落札者を決定することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第三項又は前項の規定により落札者を決定したときは、落札者にその旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、入札の実施後、速やかに、入札の結果を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>入札に参加しようとする者は、実費を勘案して政令で定める<span>額{'当該': 1}</span>の<span>手数料{'経済産業大臣': 1}</span>を<span>国{'納付': 1}</span>に納付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、その指定する者（以下「指定入札機関」という。）に、入札の実施に関する業務（以下「入札業務」という。）を行わせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（入札の落札者における調達価格等）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、入札実施指針に従い、入札の結果を踏まえ、入札の落札者における再生可能エネルギー発電設備に係る調達価格等を定め、これを告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">第三条第十項及び第十一項の規定は、前項の調達価格等について準用する。</Sentence>
+                <Sentence Num="2">この場合において、同条第十一項中「第七項」とあるのは、「第三条第七項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　再生可能エネルギー発電事業計画の認定等</SectionTitle>
+          <Article Num="9">
+            <ArticleCaption>（再生可能エネルギー発電事業計画の認定）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>自らが維持し、及び運用する再生可能エネルギー発電設備を用いて発電した再生可能エネルギー電気を特定契約により<span>電気事業者{'電気': 1}</span>に対し供給する事業（以下「再生可能エネルギー発電事業」という。）を行おうとする者は、再生可能エネルギー発電設備ごとに、経済産業省令で定めるところにより、再生可能エネルギー発電事業の実施に関する<span>計画{'海洋': 1}</span>（以下「再生可能エネルギー発電<span>事業計画{'事業者': 1}</span>」という。）を<span>作成{'規定': 1}</span>し、経済産業大臣の認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>再生可能エネルギー発電<span>事業計画{'原子炉': 1}</span>には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請者が法人である場合においては、その役員（業務を執行する社員、取締役、執行役又はこれらに準ずる者をいい、相談役、顧問その他いかなる名称を有する者であるかを問わず、法人に対し業務を執行する社員、取締役、執行役又はこれらに準ずる者と同等以上の支配力を有するものと認められる者を含む。次項第四号ロにおいて同じ。）の<span>氏名{'海洋': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電事業の内容及び実施<span>時期{'海洋': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>再生可能エネルギー{'設置': 1}</span>発電事業の用に供する再生可能エネルギー発電設備に係る<span>再生可能エネルギー{'設置': 1}</span>発電設備の<span>区分{'海洋': 1}</span>等</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電事業の用に供する再生可能エネルギー発電設備と電気事業者が維持し、及び運用する電線路との電気的な接続に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電事業の用に供する再生可能エネルギー発電設備の設置の場所、その出力、その管理の<span>方法{'補償': 1, '海洋': 1}</span>その他再生可能エネルギー発電設備に関する<span>事項{'区分': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'前項': 1}</span>は、第一項の<span>規定{'認可': 1}</span>による<span>申請{'届出': 1}</span>があった<span>場合{'当該': 1}</span>において、その申請に係る再生可能エネルギー発電<span>事業計画{'原子炉': 1}</span>が次の各号のいずれにも<span>適合{'規定': 1}</span>するものであると認めるときは、その<span>認定{'海洋': 1}</span>をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電事業の内容が、電気についてエネルギー源としての再生可能エネルギー電気の利用の促進に資するものとして経済産業省令で定める基準に<span>適合{'海洋': 1}</span>するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電事業が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電設備が、安定的かつ効率的に再生可能エネルギー電気を発電することが<span>可能{'事業': 1}</span>であると見込まれるものとして経済産業省令で定める基準に適合すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請者が次のいずれにも該当しないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>この法律又は電気事業法の<span>規定{'法律': 1}</span>に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過<span>しない{'入札': 1}</span>者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>法人であって、その役員のうちに<span>イ{'次': 1}</span>に該当する者が<span>ある{'除く': 1}</span>もの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>再生可能エネルギー発電設備が第四条第一項の規定による指定をした再生可能エネルギー発電設備の区分等に該当する場合においては、次のいずれにも該当すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>申請が第五条第二項第八号に掲げる期限までに行われたものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第六条の規定により提出された再生可能エネルギー発電事業計画について経済産業省令で定める重要な事項の変更がないこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>申請{'法': 1}</span>者が第七条第七項の規定による通知を受けた者であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の<span>認定{'規定': 1}</span>をしようとする場合において、当該認定の申請に係る再生可能エネルギー発電設備を用いた発電がバイオマスを電気に変換するものであるときは、政令で定めるところにより、あらかじめ、農林水産大臣、国土交通大臣又は環境大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第三項の認定をしたときは、経済産業省令で定めるところにより、当該認定に係る再生可能エネルギー発電事業計画に記載された事項のうち経済産業省令で定めるものを公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第三項第一号の経済産業省令（発電に利用することができるバイオマスに係る部分に限る。）を定め、又はこれを変更しようとするときは、あらかじめ、農林水産大臣、国土交通大臣及び環境大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（再生可能エネルギー発電事業計画の変更等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>認定{'選定': 1}</span>事業者は、前条第二項第三号から第六号までに掲げる事項を<span>変更{'法': 1}</span>しようとするときは、経済産業省令で定めるところにより、経済産業大臣の<span>認定{'認可': 1}</span>を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、経済産業省令で定める軽微な<span>変更{'特定': 1}</span>については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>認定事業者は、<span>前項{'法': 1}</span>ただし書の経済産業省令で定める軽微な変更をしようとするときは、経済産業省令で定めるところにより、あらかじめ、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>認定<span>事業者{'受け': 1}</span>は、<span>前条{'第九条': 1}</span>第二項第一号、第二号<span>又は{'及び': 2}</span>第七号に掲げる事項を変更したときは、経済産業省令で定めるところにより、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第三項（<span>第五{'規定': 1, '第一': 1}</span>号イ及びハを除く。）から第五項までの規定は、第一項の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前条{'法': 3}</span>第五項の規定は、第三項の規定による届出について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（事業の廃止の届出）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>認定事業者は、第九条第三項の認定を受けた再生可能エネルギー発電事業計画（前条第一項の規定による変更の認定又は同条第二項若しくは第三項の規定による変更の届出があったときは、その変更後のもの。以下「認定計画」という。）に係る再生可能エネルギー<span>発電{'電気': 1}</span>事業を廃止しようとするときは、あらかじめ、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（指導及び助言）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、認定事業者に対し、認定計画に係る再生可能エネルギー発電事業の適確な実施に<span>必要{'確保': 1}</span>な指導及び助言を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、認定事業者が認定計画に従って<span>再生可能エネルギー{'事業者': 1}</span>発電<span>事業{'原子炉': 1}</span>を実施していないと認めるときは、当該認定事業者に対し、相当の<span>期限{'期間': 1}</span>を定めて、その改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（認定の失効）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>第九条{'経済産業大臣': 1}</span>第三項の<span>認定{'規定': 2}</span>（第十条第一項の変更の<span>認定{'起算': 1}</span>を含む。次条において同じ。）は、認定事業者が認定計画に係る再生可能エネルギー発電<span>事業{'原子炉': 1}</span>を廃止したときは、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（認定の取消し）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、次の各号のいずれかに<span>該当{'適合': 1}</span>すると認めるときは、第九条第三項の認定を<span>取り消す{'いう': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>認定事業者が認定計画に従って再生可能エネルギー発電<span>事業{'原子炉': 1}</span>を行っていないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>認定計画が第九条第三項第一号から第四号までのいずれかに<span>適合{'規定': 1}</span>しなくなったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>認定事業者が第十三条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　電気事業者の義務等</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（特定契約の申込みに応ずる義務）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>電気事業者{'認定': 1}</span>は、自らが維持し、及び運用する電線路と認定発電設備とを電気的に接続し、又は接続しようとする<span>認定{'供給': 1}</span>事業者から、当該再生可能エネルギー電気について特定契約の申込みがあったときは、その内容が当該電気事業者の利益を不当に害するおそれがあるときその他の<span>経済産業省令{'法律': 1}</span>で定める正当な理由がある場合を除き、<span>特定{'補償': 1, '当該': 1}</span>契約の締結を拒んではならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、電気事業者に対し、特定契約の円滑な締結のため必要があると認めるときは、その締結に関し必要な指導及び助言をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'主務大臣': 1}</span>は、正当な理由がなくて特定契約の<span>締結{'通知': 1}</span>に応じない電気事業者があるときは、<span>当該{'小売': 1}</span>電気事業者に対し、特定契約の締結に応ずべき旨の勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項に規定する勧告を受けた電気事業者が、正当な理由がなくてその勧告に係る措置をとらなかったときは、当該<span>電気事業者{'製造業者': 1}</span>に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（再生可能エネルギー電気の供給又は使用の義務）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>電気事業者{'主務大臣': 1}</span>は、特定契約に基づき調達する再生可能エネルギー電気について、<span>電気{'供給': 1}</span>についてエネルギー源としての再生可能エネルギー源の利用を促進するための基準として経済産業省令で定める<span>基準{'事項': 1}</span>に従い、次の各号に掲げる方法のいずれかにより供給し、又は使用しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>卸電力取引市場（電気事業法第九十七条に規定する卸電力取引所が開設する同法第九十八条第一項第一号に規定する卸電力取引市場をいう。次条第三項<span>第一{'イ': 1}</span>号及び第二十九条第三号において同じ。）における売買取引により供給する方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>小売電気事業者（電気事業法第<span>二条{'第三条': 1}</span>第一項第三号に規定する小売電気事業者をいう。以下同じ。）又は登録特定送配電事業者（同法第二十七条の十九第一項に規定する登録特定送配電事業者をいう。以下同じ。）に対し、その行う<span>小売{'事業': 1, '熱': 1}</span>供給（<span>同法{'電気事業法': 1}</span>第二条第一項第一号に規定する<span>小売{'指定': 1}</span><span>供給{'電気事業': 1}</span>をいう。第二十条第一項において同じ。）の用に供する電気として<span>供給{'使用': 1}</span>する方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、電気事業者が前項の<span>基準{'規定': 1}</span>に従って特定契約に基づき調達する<span>再生可能エネルギー{'品等': 1}</span>電気を供給せず、又は使用していないと認めるときは、当該電気事業者に対し、同項の<span>基準{'熱': 1}</span>に従って供給し、又は使用すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（再生可能エネルギー電気卸供給約款）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">電気事業者は、前条第一項第二号に掲げる方法による供給（以下「再生可能エネルギー電気卸供給」という。）に係る料金その他の供給条件について、経済産業省令で定めるところにより、再生可能エネルギー電気<span>卸{'接続': 1}</span>供給<span>約款{'規程': 1}</span>を定め、経済産業大臣に<span>届け出{'定める': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">電気事業者は、前項の規定による届出をした再生可能エネルギー電気<span>卸{'接続': 1}</span>供給約款以外の供給条件により<span>再生可能エネルギー{'供給': 1}</span>電気卸供給を行ってはならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、その再生可能エネルギー電気卸供給約款により難い特別の事情がある場合において、<span>経済産業大臣{'内容': 1}</span>の承認を受けた料金その他の供給条件により<span>再生可能エネルギー{'規則': 1}</span>電気卸供給を行うときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、再生可能エネルギー電気<span>卸{'託送': 1}</span>供給約款が次の各号のいずれかに該当しないと認めるときは、<span>当該{'設定': 1}</span><span>電気事業者{'一般送配電事業者': 1}</span>に対し、相当の期限を定め、その<span>再生可能エネルギー{'離島': 1}</span>電気<span>卸{'託送': 1}</span>供給約款を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>料金の水準が卸電力取引市場における電力の売買取引の価格の水準と同程度のものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>電気事業者並びに小売電気事業者及び登録特定送配電事業者の責任に関する事項並びに電気計器その他の用品及び配線工事その他の工事に関する費用の負担の<span>方法{'事項': 1}</span>が適正かつ明確に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>特定の者に対して不当な差別的取扱いをするものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>料金以外の供給条件が社会的経済的事情に照らして著しく不適切であり、再生可能エネルギー電気卸供給約款により再生可能エネルギー電気卸供給を受ける者の利益を著しく阻害するおそれがあるものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>電気事業者{'規定': 1}</span>は、第一項の規定により再生可能エネルギー電気<span>卸{'接続': 1}</span>供給約款の届出をしたときは、経済産業省令で定めるところにより、その再生可能エネルギー電気<span>卸{'接続': 1}</span>供給約款を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（禁止行為等）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>一般送配電事業者は、特定契約に基づき調達する<span>再生可能エネルギー{'品等': 1}</span>電気の供給又は使用に関し、次に掲げる行為をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>特定{'商品化': 1}</span>契約に基づき調達する再生可能エネルギー電気の供給に関して知り得た認定事業者又は小売電気事業者若しくは登録特定送配電事業者に関する情報を当該供給に係る業務及び託送供給（<span>電気事業法{'約款': 1}</span>第二条第一項第六号に規定する託送供給をいう。次項第一号において同じ。）<span>又は{'及び': 1}</span>電力量調整供給（同条第一項第七号に規定する電力量調整供給をいう。）の業務の用に供する目的以外のために利用し、又は提供すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>特定契約に基づき調達する再生可能エネルギー電気を供給し、又は使用するときに、特定の者に対し、<span>不当{'設備': 1}</span>に優先的な取扱いをし、若しくは利益を与え、又は不当に不利な取扱いをし、若しくは不利益を与えること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>特定送配電事業者は、特定契約に基づき調達する<span>再生可能エネルギー{'品等': 1}</span>電気の供給又は使用に関し、次に掲げる行為をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>特定{'商品化': 1}</span>契約に基づき調達する再生可能エネルギー電気の供給に関して知り得た認定事業者又は小売電気事業者若しくは登録特定送配電事業者に関する情報を当該供給に係る業務及び<span>託送{'電気': 1}</span>供給の<span>業務{'電気事業': 1}</span>の用に供する目的以外のために利用し、又は提供すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>特定契約に基づき調達する再生可能エネルギー電気を供給し、又は使用するときに、特定の者に対し、<span>不当{'設備': 1}</span>に優先的な取扱いをし、若しくは利益を与え、又は不当に不利な取扱いをし、若しくは不利益を与えること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前二項の規定に違反する行為があると認めるときは、電気事業者に対し、当該行為の停止又は変更を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（小売電気事業者及び登録特定送配電事業者の再生可能エネルギー電気の利用に関する努力義務等）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>小売電気事業者及び登録特定送配電事業者は、電気についてエネルギー源としての再生可能エネルギー源の利用を促進するため、特定契約に基づき調達される再生可能エネルギー電気をその行う小売<span>供給{'電気事業': 2}</span>の用に供する電気として利用するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、電気についてエネルギー源としての再生可能エネルギー源の円滑な利用を促進するため必要があると認めるときは、小売電気事業者及び登録特定送配電事業者に対し、特定契約に基づき調達される<span>再生可能エネルギー{'品等': 1}</span>電気の<span>利用{'供給': 1}</span>に関し必要な指導及び助言をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　電力・ガス取引監視等委員会</SectionTitle>
+          <Article Num="21">
+            <ArticleCaption>（意見の聴取）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'主務大臣': 1}</span>は、第十七条第二項、第十八条第三項若しくは第十九条第三項の<span>規定{'本文': 1}</span>による命令又は第十八条第二項ただし書の規定による承認をしようとする場合には、あらかじめ、電力・ガス取引監視等委員会（以下この節において「委員会」という。）の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>委員会{'経済産業大臣': 1}</span>は、前項の規定により意見を述べたときは、遅滞なく、その内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（勧告）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">委員会は、第二十六条第一項又は第二項の規定により委任された第七十六条第一項の規定による権限を行使した場合において、電力の適正な取引の確保を図るため必要があると認めるときは、電気事業者に対し、必要な勧告をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、次条第一項の規定による勧告をした場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定による勧告をした場合において、当該勧告を受けた<span>電気事業者{'熱供給事業': 1}</span>が、正当な理由がなく、その勧告に従わなかったときは、その旨を経済産業大臣に報告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定による報告をした場合には、経済産業大臣に対し、当該報告に基づいてとった措置について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">委員会は、第二十六条第一項又は第二項の規定により委任された第七十六条第一項の規定による権限を行使した場合において、電力の適正な取引の確保を図るため特に必要があると認めるときは、経済産業大臣に対し、必要な勧告をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、前条第一項の規定による勧告をした場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定による勧告をしたときは、遅滞なく、その内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、第一項の規定による勧告をした場合には、経済産業大臣に対し、当該勧告に基づいてとった措置について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（建議）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>委員会{'法律': 1}</span>は、この法律の規定によりその権限に<span>属さ{'掲げる': 1}</span>せられた事項に関し、必要があると認めるときは、電力の適正な取引の確保を図るため講ずべき施策について経済産業大臣に建議することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定による建議をしたときは、遅滞なく、その内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、第一項の規定による建議をした場合には、経済産業大臣に対し、当該建議に基づき講じた施策について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（資料の提出等の要求）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>委員会は、この法律の規定によりその権限に<span>属さ{'掲げる': 1}</span>せられた事項を処理するため必要があると認めるときは、関係行政機関の長その他の関係者に対し、資料の提出、意見の表明、説明その他の必要な協力を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（権限の委任）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">経済産業大臣は、電気事業者に対する第七十六条第一項の規定による権限（第十七条第二項、第十八条第三項又は第十九条第三項の規定に関するものに限る。）を委員会に委任する。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、報告を命ずる権限は、経済産業大臣が自ら行うことを妨げない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、政令で定めるところにより、<span>電気事業{'附則': 1, '熱供給事業': 1}</span>者に対する第七十六条第一項の規定による権限（第十八条第二項ただし書の規定に関するものに限る。）を委員会に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定により委任された権限を行使したときは、速やかに、その結果について経済産業大臣に報告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>委員会{'経済産業大臣': 1}</span>は、政令で定めるところにより、第一項又は第二項の規定により委任された権限を経済産業局長に<span>委任{'経済産業局長': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により経済産業局長に委任された権限に係る事務に関しては、委員会が経済産業局長を指揮監督する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（委員会に対する審査請求）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>委員会が<span>前条{'法': 1}</span>第一項又は第二項の規定により委任された第七十六条第一項の規定により行う報告の命令（前条第四項の規定により経済産業局長が行う場合を含む。）についての審査請求は、委員会に対してのみ行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　電気事業者における費用負担の調整</ChapterTitle>
+        <Article Num="28">
+          <ArticleCaption>（交付金の交付）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十五条第一項に規定する費用負担調整機関（以下この章において単に「費用<span>負担{'指定': 1}</span>調整機関」という。）は、各電気事業者における特定<span>契約{'需要': 1}</span>に基づく再生可能エネルギー電気の調達に係る費用負担を調整するため、経済産業省令で定める期間ごとに、電気事業者に対して、交付金を交付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の交付金（以下単に「交付金」という。）は、第三十一条第一項の規定により費用負担調整機関が徴収する納付金及び第三十八条の規定により政府が講ずる予算上の措置に係る資金をもって充てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（交付金の額）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項の規定により電気事業者に対して交付される交付金の額は、同<span>項{'二条': 1}</span>の経済産業省令で定める<span>期間{'事項': 1}</span>ごとに、<span>第一{'次に': 1, '次': 1}</span>号に掲げる額から第二号から第四号までに掲げる額の合計額を控除して得た額を基礎として経済産業省令で定める方法により算定した額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該電気事業者が特定契約に基づき調達する<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。第三十二条第四項及び第三十五条第二項において同じ。）に当該特定契約に係る調達価格を乗じて得た額の合計額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該電気事業者が特定契約に基づき調達する<span>再生可能エネルギー{'品等': 1}</span>電気を使用した量に相当する量の電気を自ら<span>発電{'費用': 1}</span>し、又は調達するとしたならばその発電又は調達に要することとなる費用の額として経済産業省令で定める方法により算定した額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該電気事業者が特定契約に基づき調達する再生可能エネルギー電気について<span>卸{'供給': 1}</span>電力取引市場における売買取引により得られる収入の額として経済産業省令で定める方法により算定した額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該電気事業者が再生可能エネルギー電気卸供給を行うことにより得られる収入の額として経済産業省令で定める方法により算定した額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（交付金の額の決定、通知等）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>費用負担調整機関は、第二十八条第一項の経済産業省令で定める期間ごとに、各電気事業者に対し交付すべき交付金の額を決定し、当該各<span>電気事業者{'運搬': 1}</span>に対し、その者に対し交付すべき交付金の額その他必要な事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>費用負担<span>調整{'推進': 1}</span>機関は、交付金の額を算定するため必要があるときは、電気事業者に対し、資料の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（納付金の徴収及び納付義務）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>費用負担<span>調整{'推進': 1}</span>機関は、第五十五条第二項に規定する業務に要する費用及び当該業務に関する事務の処理に要する費用（<span>次{'額': 1}</span>条第二項において「<span>事務{'事項': 1}</span>費」という。）に充てるため、経済産業省令で定める期間ごとに、小売電気事業者等（小売電気事業者、一般送配電事業者及び登録特定送配電事業者をいう。以下同じ。）から、納付金を徴収する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>小売電気事業者等は、前項の納付金（以下単に「納付金」という。）を納付する義務を負う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（納付金の額）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項の規定により小売電気事業者等から徴収する納付金の額は、同項の経済産業省令で定める期間ごとに、当該小売電気事業者等が電気の使用者に供給した電気の<span>量{'使用': 1}</span>（キロワット時で表した量をいう。以下同じ。）に当該期間の属する年度における納付金単価を乗じて得た額を<span>基礎{'法': 1}</span>とし、第三十七条第一項の規定による<span>認定{'認可': 1}</span>を<span>受け{'受けよ': 1}</span>た事業所に係る電気の使用者に対し支払を請求することができる第三十六条の賦課金の額を勘案して経済産業省令で定める方法により算定した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の納付金単価は、毎年度、当該<span>年度{'事業年度': 1}</span>の開始前に、経済産業大臣が、<span>当該{'液化石油ガス設備士': 1}</span><span>年度{'特定': 1}</span>において全ての電気事業者に交付される交付金の見込額の合計額に当該年度における事務費の見込額を加えて得た額を当該年度における全ての小売電気事業者等が電気の使用者に供給することが見込まれる電気の量の合計量で除して得た電気の一キロワット時当たりの額を基礎とし、前々年度における全ての電気事業者に係る交付金の合計額と納付金の合計額との過不足額その他の事情を勘案して定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>小売電気事業者{'額': 1}</span>等は、毎年度、経済産業省令で定めるところにより、納付金の額及び納付金<span>単価{'状況': 1}</span>を算定するための資料として、小売電気事業者等が電気の使用者に供給した電気の<span>量{'使用': 1}</span>に関する事項、第三十七条第一項の規定による<span>認定{'認可': 1}</span>を受けた事業所に係る電気の使用者に対し支払を請求することができる第三十六条の賦課金の額に関する<span>事項{'勘案': 1}</span>その他の経済産業省令で定める事項を経済産業大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>電気事業者は、毎年度、経済産業省令で定めるところにより、納付金の額及び納付金<span>単価{'状況': 1}</span>を算定するための資料として、特定契約に基づき調達した再生可能エネルギー電気の<span>量{'供給': 1}</span>に関する事項その他の経済産業省令で定める事項を経済産業大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、納付金<span>単価{'期間': 1}</span>を定めたときは、遅滞なく、これを告示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（納付金の額の決定、通知等）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>費用負担調整<span>機関{'法': 2}</span>は、第三十一条第一項の<span>経済産業省令{'政令': 2, '省令': 1}</span>で定める期間ごとに、各小売電気事業者等が納付すべき納付金の額を決定し、当該各小売電気事業者等に対し、その者が納付すべき<span>納付{'相当': 1}</span>金の額及び納付期限その他必要な事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第三十条第二項の規定は、<span>納付{'法': 1}</span>金について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同項中「電気事業者」とあるのは、「<span>次{'法': 1}</span>条第一項に<span>規定{'事項': 1}</span>する小売電気事業者等」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（納付金の納付の督促等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>費用{'該当': 1}</span>負担調整機関は、前条第一項の規定による<span>通知{'承認': 1, '認可': 1}</span>を受けた小売電気事業者等がその納付期限までに納付金を納付しないときは、督促状により期限を指定してその納付を督促しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>費用負担調整機関は、前項の規定により督促したときは、その督促に係る<span>納付{'拠出': 1}</span>金の額に納付期限の翌日からその納付の日までの日数に応じ年十四・五パーセントの割合を乗じて<span>計算{'額': 1}</span>した<span>金額{'額': 1}</span>の延滞金を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>費用負担調整機関は、第一項の規定による督促を<span>受け{'みなし': 1}</span>た小売電気事業者等が同項の規定により指定された期限までにその納付すべき金額を納付しないときは、直ちに、その旨を経済産業大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'受け': 1}</span>は、前項の規定による通知を受けたときは、直ちに、当該小売電気事業者等の氏名又は名称及び<span>当該{'住所': 1}</span>小売電気事業者等が第一項の規定により指定された期限までにその納付すべき金額を納付していない旨を<span>公表{'額': 1, '国土交通大臣': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（帳簿）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>小売電気事業者等は、経済産業省令で定めるところにより、電気の使用者に供給した<span>電気{'地点': 1}</span>の<span>量{'使用': 1}</span>その他の経済産業省令で定める事項を記載した帳簿を<span>備え付け{'備え': 1}</span>、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>電気事業者は、経済産業省令で定めるところにより、特定<span>契約{'抑制': 1}</span>ごとの調達した再生可能エネルギー電気の量その他の経済産業省令で定める事項を記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（賦課金の請求）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>小売電気事業者等は、納付金に充てるため、当該小売電気事業者等から電気の供給を受ける電気の使用者に対し、当該電気の供給の対価の一部として、賦課金を支払うべきことを請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定により電気の使用者に対し支払を請求することができる賦課金の額は、当該小売電気事業者等が当該電気の使用者に供給した電気の量に当該電気の<span>供給{'用品': 1, '使用': 1}</span>をした年度における納付金単価に相当する<span>金額{'額': 1}</span>を乗じて得た額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（賦課金に係る特例）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、毎年度、当該<span>年度{'事業年度': 1}</span>の開始前に、経済産業省令で定めるところにより、当該事業の電気の使用に係る原単位（売上高千円当たりの電気の使用量（キロワット時で表した量をいい、<span>小売電気事業者{'熱': 1}</span>等から供給を受けた電気の使用量に限る。以下この条及び第七十六条第二項において同じ。）をいう。以下この条において同じ。）が、<span>当該{'規定': 1}</span>事業が製造業に属するものである場合にあっては製造業に係る電気の使用に係る原単位の平均の八倍を超える事業、当該事業が製造業以外の業種に属するものである<span>場合{'事業': 1}</span>にあっては製造業以外の業種に係る電気の使用に係る原単位の平均の政令で定める倍数を超える事業を行う者であって、当該事業の電気の使用に係る原単位の<span>改善{'法': 1}</span>のために経済産業省令で定める基準に適合する取組を行うものからの申請により、年間の<span>当該{'事業年度': 1}</span><span>事業{'事業年度': 1}</span>に係る電気の使用量が政令で定める量を超える事業所について、我が国の国際競争力の強化を図る観点から、前条の賦課金の負担が当該事業者の<span>事業活動{'検査': 1}</span>の継続に与える影響に特に<span>配慮する必要{'必要': 1}</span>がある事業所として認定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定にかかわらず、同項の申請者が第五項の規定により認定を取り消され、その<span>取消し{'起算': 1}</span>の日から起算して五年を経過しない者である場合には、経済産業大臣は、前項の認定をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前条第二項の規定にかかわらず、第一項の<span>規定{'当該': 1}</span>による認定に係る年度において、同<span>条{'法': 1}</span>第一項の規定により第一項の規定による認定を受けた事業所に係る支払を請求することができる賦課金の額は、同条第二項の規定により算定された額から、第一号に掲げる額に第二号に掲げる<span>割合{'額': 1}</span>を乗じて得た額を減じた額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>小売電気事業者等が供給した当該事業所の当該認定に係る事業に係る電気の使用量に当該年度における納付金単価を乗じて得た額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>事業の種類及び事業者による当該事業の電気の使用に係る原単位の改善に向けた取組の状況に応じて百分の八十を超えない範囲内において<span>政令{'経済産業省令': 1}</span>で定める割合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、第一項の規定による認定を受けた事業所に係る事業者の氏名又は名称及び住所並びに法人にあってはその代表者の氏名、<span>当該{'製造': 1}</span>事業所の名称及び所在地、当該認定に係る事業の電気の使用に係る原単位の算定の基礎となる当該事業に係る電気の使用量、当該事業所の年間の当該<span>事業{'供給': 1, '事業年度': 1}</span>に係る電気の使用量その他経済産業省令で定める事項について、経済産業省令で定めるところにより、公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、偽りその他不正の<span>手段{'法': 1}</span>により第一項の規定による<span>認定{'認可': 1}</span>を受けた者があるときは、その<span>認定{'指定': 1}</span>を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、第一項の規定による<span>認定{'承認': 1}</span>を受けた者が同<span>項{'前項': 1}</span>に規定する要件を欠くに至ったと認めるときは、その認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（予算上の措置）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>政府は、第二十八条第一項の規定により<span>費用{'違反': 1}</span>負担調整機関が電気事業者に対し交付金を交付するために必要となる費用の財源に充てるため、必要な予算上の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　指定入札機関及び費用負担調整機関</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　指定入札機関</SectionTitle>
+          <Article Num="39">
+            <ArticleCaption>（指定）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第七条第十項の指定（以下この節において「<span>指定{'法': 1}</span>」という。）は、経済産業省令で定めるところにより、入札業務を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定をしたときは、入札業務を行わないものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>次の各号のいずれかに該当する者は、指定を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第五十条第二項の規定により指定を取り消され、その取消しの日から二年を経過<span>しない{'法人': 1}</span>者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その業務を行う役員のうちに、<span>次{'前': 1}</span>のいずれかに該当する者がある者</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>この法律又はこの法律に基づく処分に違反し、刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第四十八条の規定による命令により解任され、解任の日から二年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（指定の基準）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、他に指定を受けた者がなく、かつ、<span>指定{'当該': 1}</span>の申請が次の各号に適合していると認めるときでなければ、その指定をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>職員、入札<span>業務{'試験': 1, '提出': 1}</span>の実施の方法その他の事項についての<span>入札{'講習': 1, '研修': 1}</span>業務の実施に関する計画が、入札業務の適確な実施のために適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前号の入札業務の実施に関する計画を適確に実施するに足りる経理的基礎及び技術的能力があること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>一般社団法人又は一般財団法人であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>入札業務以外の業務を行っている場合には、その業務を行うことによって入札業務が不公正になるおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（入札業務規程）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">指定<span>入札{'保安': 1}</span>機関は、<span>入札{'規定': 1}</span>業務に関する規程（以下「入札業務規程」という。）を定め、経済産業大臣の認可を受けなければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>入札業務規程で定めるべき事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第一項の認可をした入札業務規程が入札業務の公正な実施上<span>不適当{'必要': 1, '業務': 1}</span>となったと認めるときは、指定<span>入札{'試験': 1}</span>機関に対し、入札業務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleCaption>（区分経理）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'試験': 1}</span>機関は、入札業務以外の業務を行っている場合には、当該業務に係る経理と<span>入札{'調整': 1}</span>業務に係る経理とを区分して整理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（業務の休廃止）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'試験': 1}</span>機関は、<span>経済産業大臣{'指定': 1}</span>の許可を受けなければ、入札業務の全部又は一部を休止し、又は廃止してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（帳簿）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'試験': 1}</span>機関は、帳簿を備え、入札業務に関し経済産業省令で定める事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'保存': 1}</span>の帳簿は、経済産業省令で定めるところにより、保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（秘密保持義務等）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'試験': 3}</span>機関の役員若しくは職員又はこれらの職にあった者は、<span>入札{'職務': 1, '当該': 1, '情報管理': 1}</span>業務に関して知り得た秘密を漏らしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>入札業務に従事する指定入札機関の役員又は職員は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（役員の選任及び解任）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'講習': 1}</span>機関の役員の選任及び解任は、経済産業大臣の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（役員の解任命令）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定<span>入札{'試験': 2}</span>機関の役員が、この<span>法律{'法': 1}</span>の規定若しくはこの法律に基づく命令の規定<span>若しくは{'又は': 1}</span><span>処分{'規定': 2}</span>に違反したとき、第四十二条第一項の認可を受けた入札業務<span>規程{'規定': 1}</span>に違反する行為をしたとき、又は<span>入札{'資金管理': 1}</span>業務に関し著しく不適当な行為をしたときは、指定<span>入札{'試験': 2}</span>機関に対して、その役員を解任すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（適合命令等）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定入札機関が第四十一条各号（第三号を除く。以下この項において同じ。）に適合しなくなったと認めるときは、指定<span>入札{'試験': 3}</span>機関に対し、同条各号に適合するために必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、<span>前項{'国土交通大臣': 1}</span>に定めるもののほか、この法律を施行するため必要があると認めるときは、指定<span>入札{'試験': 1}</span>機関に対し、<span>入札{'試験': 1}</span>業務に関し監督上必要な命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（指定の取消し等）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定<span>入札{'試験': 1, '研修': 1}</span><span>機関{'法': 1}</span>が第四十一条第三号に<span>適合{'規定': 1}</span>しなくなったときは、指定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定<span>入札{'試験': 1}</span>機関が次の各号のいずれかに該当するときは、その指定を取り消し、又は期間を定めて入札業務の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第四十条第二号に該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第四十二条第一項の認可を受けた入札業務規程によらないで入札業務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第四十二条第三項、第四十八条又は前条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>不正の手段により指定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（経済産業大臣による入札業務の実施等）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、指定入札機関が第四十四条の許可を受けて<span>入札{'商品化': 1}</span>業務の全部<span>若しくは{'又は': 2}</span>一部を休止したとき、前条第二項の規定により指定入札機関に対し入札業務の全部<span>若しくは{'又は': 1}</span>一部の停止を命じたとき、又は指定<span>入札{'試験': 1}</span>機関が天災その他の事由により入札業務の全部<span>若しくは{'又は': 1}</span>一部を実施することが困難となった場合において必要があると認めるときは、入札業務の全部又は一部を自ら行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'場合': 1}</span>が前項の規定により<span>入札{'検査': 1, '研修': 1}</span>業務の全部<span>若しくは{'又は': 1}</span>一部を自ら行う場合、<span>指定{'認証': 1}</span><span>入札{'試験': 1}</span>機関が第四十四条の許可を受けて<span>入札{'商品化': 1}</span>業務の全部<span>若しくは{'又は': 2}</span>一部を廃止する場合又は<span>前条{'法': 1}</span>の規定により経済産業大臣が指定<span>入札{'試験': 1, '保安検査': 1}</span>機関の指定を取り消す場合における入札業務の引継ぎその他の必要な事項については、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（公示）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、次の場合には、その旨を<span>官報{'当該': 1}</span>に公示しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>指定をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第四十四条の<span>許可{'前条': 1}</span>をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第五十条の規定により指定を取り消し、又は同<span>条{'前条': 1}</span>第二項の規定により入札業務の全部<span>若しくは{'又は': 2}</span>一部の停止を命じたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前条第一項の規定により、経済産業大臣が<span>入札{'研修': 1}</span>業務の全部若しくは一部を自ら行うこととするとき、又は自ら行っていた入札業務の全部若しくは一部を行わないこととするとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（指定入札機関がした処分等に係る審査請求）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">指定入札機関が行う入札業務に係る処分又はその不作為について<span>不服{'理由': 1}</span>がある者は、経済産業大臣に対し、審査請求をすることができる。</Sentence>
+                <Sentence Num="2">この場合において、経済産業大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項、第四十七条並びに第四十九条第三項の規定の適用については、指定<span>入札{'試験': 2}</span>機関の上級<span>行政庁{'指定': 1}</span>とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（規定の適用等）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>指定<span>入札{'試験': 2}</span>機関が入札業務を行う場合における第六条並びに第七条第一項から第四項まで及び第六項から第九項までの規定の適用については、第六条並びに第七条第一項から第四項まで及び第六項から第八項までの規定中「経済産業大臣」とあり、及び同条第九項中「国」とあるのは、「指定入札機関」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により読み替えて適用する第七条第九項の規定により指定入札機関に納められた手数料は、指定入札機関の収入とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　費用負担調整機関</SectionTitle>
+          <Article Num="55">
+            <ArticleCaption>（費用負担調整機関の指定等）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、一般社団法人、一般財団法人その他政令で定める法人であって、次項に規定する業務（以下「調整業務」という。）に関し次に掲げる基準に適合すると認められるものを、その申請により、全国を通じて一個に限り、費用負担調整機関（以下「調整機関」という。）として指定することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>調整業務を適<span>確{'業務': 1}</span>に実施するに足りる経理的及び技術的な<span>基礎{'規定': 1}</span>を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>役員又は職員の構成が、調整業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>調整業務以外の業務を行っている場合には、その業務を行うことによって<span>調整{'入札': 1}</span>業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第六十五条第一項の<span>規定{'指定': 1}</span>により指定を取り消され、その取消しの日から二年を経過しない者でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>役員のうちに次のいずれかに該当する者がないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>禁錮以上の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなった日から二年を経過<span>しない{'措置': 1}</span>者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>この法律又はこの<span>法律{'規定': 1}</span>に基づく命令の規定に違反したことにより罰金の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなった日から二年を経過<span>しない{'措置': 1}</span>者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>調整{'推進': 1, '保安': 1}</span>機関は、次に掲げる業務を行うものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>小売電気事業者等から納付金を徴収し、その管理を行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>電気事業者に対し交付金を交付すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前二号に掲げる業務に附帯する業務を行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第一項の規定による指定をしたときは、当該<span>指定{'許可': 1}</span>を受けた者の名称及び住所並びに事務所の所在地を<span>公示{'変更': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>調整機関は、その名称及び<span>住所{'所在地': 1}</span>並びに事務所の<span>所在地{'氏名': 1}</span>を変更しようとするときは、あらかじめ、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の規定による届出があったときは、当該届出に係る事項を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（調整業務規程）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">調整機関は、調整業務の開始前に、その実施方法その他の経済産業省令で定める事項について<span>調整{'次': 1, '資金管理': 1}</span><span>業務{'供給': 1}</span>規程を定め、<span>経済産業大臣{'主務大臣': 1}</span>の認可を受けなければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、前項の<span>認可{'規定': 1}</span>の申請が次の各号のいずれにも適合していると認めるときは、同項の認可をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>調整{'料金': 1, '商品化': 1, '資金管理': 1}</span>業務の実施方法が適正かつ<span>明確{'確実': 1}</span>に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>特定の者に対し不当な差別的取扱いをするものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>一般送配電事業者、特定送配電事業者、小売電気事業者及び登録特定送配電事業者の利益を不当に害するおそれがあるものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、第一項の認可をした<span>調整{'受け': 1}</span><span>業務{'供給': 1}</span>規程が調整業務の適正かつ確実な実施上<span>不適当{'必要': 1}</span>となったと認めるときは、その<span>調整{'商品化': 1}</span><span>業務{'供給': 1}</span>規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="57">
+            <ArticleCaption>（事業計画等）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>調整{'推進': 1}</span>機関は、毎事業年度、経済産業省令で定めるところにより、調整業務に関し事業計画書及び収支予算書を作成し、<span>経済産業大臣{'主務大臣': 2}</span>の認可を受けなければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、<span>同様{'試験': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>調整{'保安': 1}</span>機関は、前項の認可を受けたときは、遅滞なく、その事業計画書及び収支予算書を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>調整{'推進': 1}</span>機関は、経済産業省令で定めるところにより、毎事業年度終了後、調整業務に関し事業報告書及び収支決算書を作成し、<span>経済産業大臣{'主務大臣': 2}</span>に提出するとともに、これを公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58">
+            <ArticleCaption>（区分経理）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>調整{'推進': 1}</span>機関は、調整業務以外の業務を行っている<span>場合{'業務': 1}</span>には、当該業務に係る経理と調整業務に係る経理とを区分して<span>整理{'それぞれ': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="59">
+            <ArticleCaption>（業務の休廃止）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>調整{'推進': 1}</span>機関は、経済産業大臣の許可を受けなければ、調整業務の全部又は一部を休止し、又は廃止してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="60">
+            <ArticleCaption>（納付金の運用）</ArticleCaption>
+            <ArticleTitle>第六十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>調整機関は、次の<span>方法{'廃止': 1}</span>によるほか、納付金を運用してはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>国債その他経済産業大臣の指定する有価証券の保有</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>銀行その他経済産業大臣の指定する金融機関への預金</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。）への金銭信託</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="61">
+            <ArticleCaption>（帳簿）</ArticleCaption>
+            <ArticleTitle>第六十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>調整{'推進': 1}</span>機関は、経済産業省令で定めるところにより、調整業務に関する事項で経済産業省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="62">
+            <ArticleCaption>（秘密保持義務）</ArticleCaption>
+            <ArticleTitle>第六十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>調整機関の役員若しくは職員又はこれらの職にあった者は、<span>調整{'職務': 1, '当該': 1, '情報管理': 1, '入札': 1}</span>業務に関して知り得た<span>秘密{'業務': 1}</span>を漏らしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63">
+            <ArticleCaption>（役員の解任命令）</ArticleCaption>
+            <ArticleTitle>第六十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、調整機関の役員が、この法律の規定若しくはこの法律に基づく命令の規定<span>若しくは{'又は': 1}</span><span>処分{'規定': 2}</span>に違反したとき、第五十六条第一項の認可を受けた同項に規定する<span>調整{'保安': 1, '資金管理': 1}</span>業務規程に違反する行為をしたとき、又は<span>調整{'資金管理': 1, '入札': 1}</span>業務に関し著しく不適当な行為をしたときは、<span>調整{'推進': 1}</span>機関に対して、その役員を解任すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="64">
+            <ArticleCaption>（監督命令）</ArticleCaption>
+            <ArticleTitle>第六十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、この<span>法律{'他': 1}</span>を施行するために必要な限度において、<span>調整{'推進': 1}</span>機関に対し、調整業務に関し監督上必要な命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="65">
+            <ArticleCaption>（指定の取消し等）</ArticleCaption>
+            <ArticleTitle>第六十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、調整機関が次の各号のいずれかに該当するときは、第五十五条第一項の規定による指定（以下この条において単に「指定」という。）を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>調整{'情報管理': 1}</span>業務を適正かつ確実に実施することができないと認められるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>指定に関し不正の行為があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>この法律の規定若しくはこの法律に基づく命令の規定<span>若しくは{'又は': 1}</span><span>処分{'規定': 1}</span>に違反したとき、又は第五十六条第一項の認可を受けた同項に規定する<span>調整{'保安': 1}</span>業務規程によらないで調整業務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>経済産業大臣{'場合': 1}</span>は、<span>前項{'法': 1}</span>の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の規定による指定の取消しが行われた場合において、<span>小売電気事業者{'機構': 1}</span>等が当該<span>指定{'許可': 1}</span>を取り消された法人に納付した納付金がなお存するときは、当該指定を取り消された法人は、<span>経済産業大臣{'法': 1}</span>が第五十五条第一項の規定により新たに指定する調整機関に当該<span>納付{'積立': 1}</span>金を速やかに引き渡さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="66">
+            <ArticleCaption>（情報の提供等）</ArticleCaption>
+            <ArticleTitle>第六十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>経済産業大臣は、調整機関に対し、調整業務の実施に関し必要な情報及び資料の提供又は指導及び助言を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　調達価格等算定委員会</ChapterTitle>
+        <Article Num="67">
+          <ArticleCaption>（設置及び所掌事務）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>資源エネルギー庁に、調達価格等算定委員会（以下「委員会」という。）を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員会は、この法律によりその権限に属させられた事項を処理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="68">
+          <ArticleCaption>（組織）</ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>委員会は、委員五人をもって組織する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="69">
+          <ArticleCaption>（委員）</ArticleCaption>
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>委員は、電気事業、経済等に関して専門的な知識と経験を有する者のうちから、両議院の同意を得て、経済産業大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の場合において、国会の閉会又は衆議院の解散のために両議院の同意を得ることができないときは、経済産業大臣は、同項の規定にかかわらず、同項に定める資格を有する者のうちから、委員を任命することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の場合においては、任命後最初の国会で両議院の事後の承認を得なければならない。</Sentence>
+              <Sentence Num="2">この場合において、両議院の事後の承認が得られないときは、経済産業大臣は、直ちにその委員を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">委員の任期は、三年とする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員の任期が<span>満了{'委員': 1}</span>したときは、当該<span>委員{'期間': 1}</span>は、後任者が任命されるまで引き続きその職務を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員は、再任されることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、委員が破産手続開始の決定を受け、又は禁錮以上の刑に処せられたときは、その委員を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、委員が心身の故障のため職務の執行ができないと認めるとき、又は委員に職務上の義務違反その他委員たるに適しない非行があると認めるときは、両議院の同意を得て、その委員を罷免することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">委員は、職務上知ることができた秘密を漏らしてはならない。</Sentence>
+              <Sentence Num="2">その職を退いた後も同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleCaption>（委員長）</ArticleCaption>
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>委員会{'委員': 1}</span>に、委員長を置き、<span>委員{'委員会': 1}</span>の互選によってこれを定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員長は、会務を総理し、委員会を代表する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleCaption>（会議）</ArticleCaption>
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>委員会の会議は、委員長が招集する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員会は、委員長及び委員の半数以上の出席がなければ、会議を開き、議決することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員会の<span>会議{'議事': 1}</span>の議事は、出席者の過半数で決し、可否同数のときは、委員長の決するところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員長に事故がある場合における第二項の規定の適用については、前条第三項の規定により委員長の職務を代理する委員は、委員長とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">委員会の会議は、公開する。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、委員会は、会議の公正が害されるおそれがあるときその他公益上必要があると認めるときは、公開しないことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="72">
+          <ArticleCaption>（資料の提出その他の協力）</ArticleCaption>
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>委員会は、その<span>所掌{'試験': 1}</span>事務を遂行するため必要があると認めるときは、行政機関及び地方公共団体の長に対して、資料の提出、意見の開陳、説明その他の必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>委員会は、その<span>所掌{'試験': 2}</span>事務を遂行するため特に必要があると認めるときは、前項に規定する者以外の者に対しても、必要な協力を依頼することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律に定めるもののほか、委員会に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Num="74">
+          <ArticleCaption>（再生可能エネルギー源の利用に要する費用の価格への反映）</ArticleCaption>
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、電気についてエネルギー源としての再生可能エネルギー源の利用の円滑化を図るためには、<span>当該{'再生可能エネルギー': 1}</span>利用に要する費用を電気の使用者に対する電気の供給の対価に適切に反映させることが重要であることに鑑み、この法律の趣旨及び内容について、広報活動等を通じて国民に周知を図り、その理解と協力を得るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>一般送配電事業者、特定送配電事業者、小売電気事業者及び登録特定送配電事業者は、電気について<span>エネルギー源{'使用者': 1}</span>としての再生可能エネルギー源の利用の円滑化を図るため、電気の供給の対価に係る負担が電気の使用者に対して過重なものとならないよう、その事業活動の効率化、当該事業活動に係る経費の低減その他必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="75">
+          <ArticleCaption>（再生可能エネルギー電気の安定的かつ効率的な供給の確保に関する国等の責務）</ArticleCaption>
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、再生可能エネルギー電気の<span>安定的{'使用者': 1}</span>かつ効率的な供給の確保を図るため、研究開発の推進及びその成果の普及、再生可能エネルギー発電設備の設置に係る土地利用、建築物等に関する規制その他の再生可能エネルギー電気の供給に係る規制の在り方及び認定発電設備を用いて再生可能エネルギー電気を供給し、又は<span>供給{'使用': 1}</span>しようとする者の利便性の向上を図るための措置についての検討並びにその結果に基づく必要な措置の実施その他必要な<span>施策{'措置': 2}</span>を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>電気事業者及び再生可能エネルギー電気を電気事業者に供給する者は、再生可能エネルギー電気の安定的かつ効率的な供給の確保を図るため、相互の密接な連携の下に、<span>再生可能エネルギー{'部分': 1}</span>電気の円滑な供給に資する電気工作物（電気事業法第二条第一項第十八号に規定する電気工作物をいう。）の設置その他必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>電気事業者は、再生可能エネルギー電気の<span>安定的{'供給': 1}</span>かつ効率的な供給の確保を図るため、自ら維持し、及び運用する再生可能エネルギー発電設備を用いて発電する再生可能エネルギー電気を供給しようとする者から当該再生可能エネルギー発電<span>設備{'原子炉': 1}</span>と当該電気事業者が自ら維持し、及び運用する電線路とを電気的に接続することを求められた場合には、当該接続に必要な費用について必要な<span>説明{'海洋': 1}</span>をすることその他の再生可能エネルギー発電設備の接続を<span>円滑{'供給': 1}</span>に行うための措置その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>再生可能エネルギー発電設備の製造、設置その他の再生可能エネルギー発電設備に関連する事業を行う者は、再生可能エネルギー電気の<span>安定的{'使用者': 1}</span>かつ効率的な供給の確保を図るため、再生可能エネルギー発電設備の製造及び設置に要する費用の低減その他必要な措置を<span>講ずる{'講じ': 1}</span>よう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76">
+          <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">経済産業大臣は、この法律の施行に必要な限度において、一般送配電事業者、特定送配電事業者、認定<span>事業者{'受け': 1}</span>、小売電気事業者又は登録<span>特定送配電事業者{'調査': 1, '保安検査': 1}</span>に対し、その業務の状況、認定発電設備の状況その他必要な事項に関し報告をさせ、又はその職員に、一般送配電事業者、特定送配電事業者、認定事業者、小売電気事業者又は登録<span>特定送配電事業者{'当該': 1}</span>の事業所若しくは事務所若しくは認定発電設備を設置する場所に立ち入り、帳簿、書類、認定発電設備その他の物件を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、住居に立ち入る場合においては、あらかじめ、その居住者の承諾を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、第三十七条の規定の施行に必要な限度において、同条第一項の規定によりその事業所について認定を受け、若しくは受けようとする者に対し、<span>当該{'製造': 1}</span><span>事業所{'認定': 1}</span>の<span>年間{'製造': 1}</span>の当該認定に係る事業に係る電気の使用量、当該者の当該事業に係る売上高その他<span>必要{'記載': 1}</span>な事項に関し報告をさせ、又はその職員に、当該<span>事業所{'機関': 1, '工場': 1}</span>若しくは当該者の事務所に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'主務大臣': 2}</span>は、この<span>法律{'規定': 1}</span>の施行に必要な限度において、指定<span>入札{'試験': 1}</span>機関に対し、入札業務の状況その他必要な事項に関し報告をさせ、又はその職員に、指定<span>入札{'検査': 1}</span>機関の事務所に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'主務大臣': 2}</span>は、この<span>法律{'規定': 1}</span>の施行に必要な限度において、<span>調整{'推進': 1}</span>機関に対し、調整業務の状況若しくは資産に関し報告をさせ、又はその職員に、調整機関の事務所に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前<span>各項{'前項': 1}</span>の規定により立入検査をする職員は、その身分を示す証明書を携帯し、<span>関係者{'関係': 2}</span>に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項から第四項までの規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleCaption>（環境大臣との関係）</ArticleCaption>
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、電気についてエネルギー源としての再生可能エネルギー源の利用を促進するための施策の実施に当たり、当該施策の実施が環境の保全に関する施策に関連する場合には、環境大臣と緊密に連絡し、及び協力して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleCaption>（経済産業省令への委任）</ArticleCaption>
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律に定めるもののほか、この法律の<span>実施{'施行': 2}</span>のために必要な事項は、<span>経済産業省令{'政令': 1, '命令': 1}</span>で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="79">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <Article Num="80">
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国{'法律': 1}</span>の職員が、第七条第二項の規定による入札の実施に関し、その職務に反し、当該入札に参加しようとする者に談合を唆すこと、当該入札に参加しようとする者に当該入札に関する秘密を教示すること又はその他の方法により、当該入札の公正を害すべき行為を行ったときは、五年以下の懲役又は二百五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="81">
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>偽計又は威力を用いて、第七条第二項の規定による入札の公正を害すべき行為をした者は、三年以下の懲役若しくは二百五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第七条第二項の規定による入札につき、公正な価額を害し、又は不正な利益を得る目的で談合した者も、前項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="82">
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第四十六条第一項、第六十二条又は第六十九条第九項の<span>規定{'該当': 1}</span>に違反した者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="83">
+          <ArticleTitle>第八十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十条第二項の規定による<span>入札{'違反': 2}</span>業務の<span>停止{'規定': 1}</span>の命令に<span>違反{'規定': 1}</span>したときは、その違反行為をした指定<span>入札{'試験': 3}</span>機関の役員又は職員は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="84">
+          <ArticleTitle>第八十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する者は、百万円以下の<span>罰金{'六月': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十六条第四項、第十七条第二項、第十八条第三項又は第十九条第三項の規定による命令に違反した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十八条第二項の規定に違反して再生可能エネルギー電気を供給した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="85">
+          <ArticleTitle>第八十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十八条第一項又は第三十二条第三項若しくは第四項の規定による届出をせず、又は<span>虚偽{'規定': 1}</span>の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十八条第四項の規定に違反<span>した{'一条': 1}</span>者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十五条第一項又は第二項の規定に違反して帳簿を備え付けず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかった者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第七十六条第一項<span>若しくは{'又は': 1}</span>第二項の規定による報告をせず、<span>若しくは{'又は': 2}</span>虚偽の報告をし、又は同<span>条{'規定': 1}</span>第一項若しくは第二項の規定による検査を拒み、妨げ、<span>若しくは{'又は': 2}</span>忌避<span>した{'次': 1}</span>者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="86">
+          <ArticleTitle>第八十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当するときは、その違反行為をした指定<span>入札{'試験': 1}</span>機関又は調整機関の役員又は職員は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十四条又は第五十九条の許可を受けないで<span>入札{'商品化': 1}</span>業務又は調整業務の全部を廃止したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十五条又は第六十一条の規定に違反して帳簿を備え付けず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第七十六条第三項<span>若しくは{'又は': 1}</span>第四項の規定による報告をせず、<span>若しくは{'又は': 2}</span>虚偽の報告をし、又は同<span>条{'規定': 1}</span>第三項若しくは第四項の規定による検査を拒み、妨げ、<span>若しくは{'又は': 1}</span>忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="87">
+          <ArticleTitle>第八十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第八十四条又は第八十五条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各<span>本条{'項': 3}</span>の<span>刑{'罰金刑': 1}</span>を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成二十四年七月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>附則{'規定': 1, '一条': 2}</span>第八条並びに第十条第一項及び第五項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五章並びに附則第二条、第五条、第十四条及び第十五条（経済産業省設置法（平成十一年<span>法律{'第五': 1, '規定': 1}</span>第九十九号）第十九条第一項第四号の<span>改正{'二条': 1}</span>規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から<span>起算{'施行': 1}</span>して<span>三月{'三年': 1}</span>を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第三条及び第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から<span>起算{'法律': 1, '施行': 1}</span>して<span>九月{'三年': 1}</span>を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（見直し）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、東日本大震災（平成二十三年三月十一日に発生した東北地方太平洋沖地震及びこれに伴う原子力発電所の事故による災害をいう。）を踏まえてエネルギー政策基本法第十二条第一項に規定するエネルギー基本計画（以下この条において「エネルギー基本計画」という。）が変更された場合には、当該変更後のエネルギー基本計画の内容を踏まえ、速やかに、エネルギー源としての再生可能エネルギー源の利用の促進に関する制度の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、エネルギーの<span>安定的{'必要': 1}</span>かつ適切な供給の確保を図る観点から、前項の規定により必要な措置を講じた後、エネルギー基本計画が変更されるごと又は少なくとも三年ごとに、当該変更又は再生可能エネルギー電気の供給の量の状況及びその見通し、<span>電気{'事項': 1}</span>の供給に係る料金の額及びその見通し並びにその家計に与える影響、第三十六条の賦課金の負担がその事業を行うに当たり電気を大量に使用する者その他の電気の使用者の経済活動等に与える影響、内外の社会経済情勢の変化等を踏まえ、この法律の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>政府{'法律': 2}</span>は、この法律の施行後平成三十三年三月三十一日までの間に、この法律の施行の状況等を勘案し、この法律の抜本的な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行の状況等を勘案し、エネルギー対策特別会計の負担とすること、石油石炭税の収入額を充てること等を含め第三十八条の予算上の措置に係る財源について速やかに検討を加え、その結果に基づいて<span>所要{'必要': 4}</span>の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、エネルギーの<span>安定的{'必要': 1}</span>かつ適切な供給を確保し、及び再生可能エネルギー電気の利用に伴う電気の使用者の負担を軽減する観点から、電気の供給に係る体制の整備及び料金の設定を含む電気事業に係る制度の在り方について速やかに検討を加え、その結果に基づいて<span>所要{'必要': 1}</span>の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（電気事業者による新エネルギー等の利用に関する特別措置法の廃止）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>電気事業者による新エネルギー等の利用に関する特別措置法（平成十四年法律第六十二号）は、廃止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（電気事業者による新エネルギー等の利用に関する特別措置法の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">前条の規定による廃止前の電気事業者による新エネルギー等の利用に関する特別措置法（以下「旧特別措置法」という。）第四条から第<span>八条{'附則': 1}</span>まで、第九条第四項及び第五項並びに第十条から第十<span>二条{'令': 1}</span>までの規定（これらの<span>規定{'改正': 1}</span>に係る罰則を含む。）は、当分の<span>間{'規定': 2}</span>、なおその効力を有する。</Sentence>
+            <Sentence Num="2">この場合において、旧特別措置法第四条第一項中「新エネルギー等電気の基準利用量」とあるのは「電気事業者による再生可能エネルギー電気の調達に関する特別措置法（平成二十三年法律第百八号。以下「再生可能エネルギー電気特別措置法」という。）附則第三条の規定による廃止前の<span>電気事業者による新エネルギー等の利用に関する特別措置法{'規定': 1}</span>（平成十四年法律第六十二号。以下「旧特別措置法」という。）<span>第九条{'改正': 1}</span>第一項の規定により認定を受けた新エネルギー等を電気に変換する設備（以下「新エネルギー等認定設備」という。）を用いて得られる新エネルギー等電気の経過<span>措置{'原子力': 1}</span>利用量」と、「新エネルギー等電気利用目標及び新エネルギー等発電設備の導入に伴い必要となる電圧の調整のための発電設備の普及」とあるのは「旧特別措置法第四条第一項の規定により全ての電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）第<span>一条{'附則': 1}</span>の規定による改正前の電気事業法第二条第一項第二号に規定する一般電気事業者、同項第六号に規定する特定電気事業者及び同項第八号に規定する特定規模電気事業者が再生可能エネルギー電気特別措置法の施行の日（以下「施行日」という。）の属する<span>年{'年度': 1}</span>の前年の<span>四月一日{'施行日': 1}</span>からその属する年の三月三十一日までの一年間（施行日の属する<span>月{'年度': 1}</span>が一月から三月までである場合には、<span>施行日{'当該': 1}</span>の属する<span>年{'年度': 1, '工作物': 1, '事業年度': 1}</span>の前々年の四月一日からその属する年の前年の三月三十一日までの一年間）において利用をすべきものとして経済産業大臣に届け出た新エネルギー等<span>電気{'技術': 1, '利用': 1}</span>の基準利用量の合計量及び新エネルギー等認定<span>設備{'利用': 1}</span>の廃止」と、同<span>条{'省令': 1}</span>第二項中「「<span>四月一日{'規定': 1}</span>から」とあるのは「「四月一日から<span>翌年{'施行': 1}</span>の」と、「開始した日から」とあるのは「開始した日から翌年の」と、旧特別措置法第五条から第<span>八条{'二条': 2}</span>までの<span>規定{'技術': 1}</span>中「基準<span>利用{'適合': 2}</span>量」とあるのは「経過措置利用量」と、旧<span>特別措置法{'期間': 1}</span>第九条第四項中「第一項」とあるのは「旧特別措置法第九条第一項」と、同条第五項中「前各項」と<span>ある{'限る': 1}</span>のは「前項」と、「第一項」とあるのは「旧特別措置法<span>第九条{'法律': 1}</span>第一項」と、旧特別措置法第十一条並びに第十二条第一項及び第二項中「第九条第一項」と<span>ある{'及び': 1}</span>のは「旧特別措置法第九条第一項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（電気事業者による新エネルギー等の利用に関する特別措置法の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一八日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年<span>六月{'二月': 1, '一年': 2}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'条': 1}</span>の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第九条から第十<span>一条{'規定': 1}</span>まで、第二十条、第二十二条（附則第二十条第一項に係る部分に限る。）、第二十七条、第二十九条（第一号に係る部分に限る。）、第三十条（第四号から第六号までを除く。）、第三十一条（附則第二十九条第一号及び第三十条（第四号から第六号までを除く。）に係る部分に限る。）及び第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence><span>公布{'適用': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（電気事業者による再生可能エネルギー電気の調達に関する特別措置法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に第三条の規定による改正前の電気事業者による再生可能エネルギー電気の調達に関する特別措置法（以下「旧再生可能エネルギー電気特別措置法」という。）第二条第一項に規定する一般電気事業者が特定<span>契約{'導管': 1}</span>（旧再生可能エネルギー電気特別措置法第四条第一項に規定する特定契約を<span>いう{'基づき': 1}</span>。以下この条において同じ。）に基づき調達した再生可能エネルギー電気に係る交付金（旧再生可能エネルギー電気特別措置法第八条第一項の交付金をいう。以下この<span>条{'規定': 1}</span>において同じ。）であって、施行日以後にみなし<span>小売電気事業者{'免状': 1}</span>に対して交付されるものについての第三条の規定による改正後の<span>電気事業者による再生可能エネルギー電気の調達に関する特別措置法{'前': 1}</span>（以下「新再生可能エネルギー電気特別措置法」という。）第九条の規定の適用については、同条第一号中「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。）」とあるのは、「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。以下この号において同じ。）及び電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が特定契約（電気事業法等の一部を改正する法律<span>第三条{'法律': 2}</span>の規定による改正前の第四条第一項に規定する特定契約をいう。）に基づき調達した再生可能エネルギー電気の<span>量{'供給': 1}</span>を<span>基礎{'業務': 1}</span>として経済産業省令で定める方法により算定した再生可能エネルギー電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する一般電気事業者が特定契約に基づき調達した再生可能エネルギー電気に係る<span>交付{'供給': 1}</span>金であって、施行日以後に<span>附則{'法律': 1}</span>第二条第一項の規定により新電気事業法第三条の許可を受けたものとみなされる者に対して交付されるものについての新再生可能エネルギー電気特別措置法第九条の規定の適用については、同条第一号中「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。）」とあるのは、「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。以下この号において同じ。）及び電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第<span>一条{'第三条': 1}</span>の規定による改正後の<span>電気事業法{'熱供給事業法': 1, '附則': 1}</span>第三条の<span>許可{'認可': 1}</span>を受けたものとみなされる者が特定契約（電気事業法等の一部を改正する法律<span>第三条{'法律': 2}</span>の規定による改正前の第四条第一項に規定する特定契約をいう。）に基づき調達した再生可能エネルギー電気の<span>量{'供給': 1}</span>を<span>基礎{'業務': 1}</span>として経済産業省令で定める方法により算定した再生可能エネルギー電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する特定電気事業者が特定契約に基づき調達した再生可能エネルギー電気に係る<span>交付{'供給': 1}</span>金であって、施行日以後にみなし登録特定送配電事業者に対して交付されるものについての新再生可能エネルギー電気特別措置法<span>第九条{'法律': 1}</span>の規定の適用については、同条第一号中「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。）」とあるのは、「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。以下この号において同じ。）及び電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定電気事業者であって、同法<span>附則{'二条': 1}</span>第四条第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'前': 2}</span>（以下「新電気事業法」という。）第二十七条の十三第一項の届出をし、かつ、新<span>電気事業法{'当該': 1}</span>第二十七条の十五の登録を受けたものとみなされる者が特定契約（電気事業法等の一部を改正する法律<span>第三条{'法律': 2}</span>の規定による改正前の第四条第一項に規定する特定契約をいう。）に基づき調達した再生可能エネルギー電気の<span>量{'供給': 1}</span>」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する特定規模電気事業者が特定契約に基づき調達した再生可能エネルギー電気に係る<span>交付{'供給': 1}</span>金であって、施行日以後に附則第六条第二項の規定により新電気事業法第二条の二の登録を受けたものとみなされる者に対して交付されるものについての新再生可能エネルギー電気特別措置法第九条の規定の適用については、同条第一号中「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。）」とあるのは、「当該電気事業者が特定契約に基づき調達した<span>再生可能エネルギー{'品等': 1}</span>電気の量（キロワット時で表した量をいう。以下この号において同じ。）及び電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定規模電気事業者であって、同法附則第<span>六条{'二条': 1, '改正': 1}</span>第二項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が特定契約（電気事業法等の一部を改正する法律<span>第三条{'法律': 2}</span>の規定による改正前の第四条第一項に規定する特定契約をいう。）に基づき調達した再生可能エネルギー電気の<span>量{'供給': 1}</span>」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する特定規模電気事業者が特定契約に基づき調達した再生可能エネルギー電気に係る<span>交付金{'供給': 1}</span>（前項に規定するものを除く。）の交付については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>一般電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る<span>納付{'賦課金': 1}</span>金（旧再生可能エネルギー<span>電気{'場合': 1}</span>特別措置法第十一条第一項の納付金をいう。以下この条において同じ。）であって、<span>施行日{'規定': 1}</span>以後に新再生可能エネルギー電気特別措置法第十九条第一項に規定する費用負担調整機関（以下この<span>条{'章': 1}</span>において単に「費用負担調整機関」という。）がみなし小売電気事業者から<span>徴収{'義務': 1}</span>するものについての新再生可能エネルギー電気特別措置法第十二条第一項の規定の適用については、同項中「<span>当該{'規定': 1}</span>電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1, '供給': 1}</span>（キロワット時で表した量をいう。次項及び第十六条第二項において同じ。）」とあるのは、「当該電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1}</span>（キロワット時で表した量をいう。以下この項、次項及び第十六条第二項において同じ。）及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が<span>電気{'ガス': 1}</span>の使用者に供給した電気の量を基礎として経済産業省令で定める方法により算定した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>一般電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る納付金であって、施行日以後に費用負担調整機関が<span>附則{'法': 1}</span>第二条第一項の規定により新電気事業法第三条の許可を受けたものとみなされる者から徴収するものについての新再生可能エネルギー電気特別措置法第十二条第一項の規定の適用については、同項中「<span>当該{'規定': 1}</span>電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1, '供給': 1}</span>（キロワット時で表した量をいう。次項及び第十六条第二項において同じ。）」とあるのは、「当該電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1}</span>（キロワット時で表した量をいう。以下この項、次項及び第十六条第二項において同じ。）及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第<span>一条{'第三条': 1}</span>の規定による改正後の<span>電気事業法{'熱供給事業法': 1, '附則': 1}</span>第三条の<span>許可{'登録': 1}</span>を受けたものとみなされる者が電気の使用者に供給した電気の量を基礎として経済産業省令で定める方法により算定した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る納付金であって、施行日以後に費用負担調整機関がみなし登録特定送配電事業者から徴収するものについての新再生可能エネルギー電気特別措置法第十二条第一項の規定の適用については、同項中「<span>当該{'規定': 1}</span>電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1, '供給': 1}</span>（キロワット時で表した量をいう。次項及び第十六条第二項において同じ。）」とあるのは、「当該電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1}</span>（キロワット時で表した量をいう。以下この項、次項及び第十六条第二項において同じ。）及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定電気事業者であって、同法<span>附則{'二条': 1}</span>第四条第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'前': 2}</span>（以下「新電気事業法」という。）第二十七条の十三第一項の届出をし、かつ、新<span>電気事業法{'当該': 1}</span>第二十七条の十五の登録を受けたものとみなされる者が<span>電気{'ガス': 1}</span>の使用者に供給した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定規模電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る納付金であって、施行日以後に費用負担調整機関が附則第六条第二項の規定により新電気事業法第二条の二の登録を受けたものとみなされる者から徴収するものについての新再生可能エネルギー電気特別措置法第十二条第一項の規定の適用については、同項中「<span>当該{'規定': 1}</span>電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1, '供給': 1}</span>（キロワット時で表した量をいう。次項及び第十六条第二項において同じ。）」とあるのは、「当該電気事業者が電気の使用者に供給した電気の<span>量{'使用': 1}</span>（キロワット時で表した量をいう。以下この項、次項及び第十六条第二項において同じ。）及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定規模電気事業者であって、同法附則第<span>六条{'二条': 1, '改正': 1}</span>第二項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が<span>電気{'ガス': 1}</span>の使用者に供給した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定規模電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る納付金（<span>前項{'状況': 1}</span>に規定するものを除く。）の納付については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>一般電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る賦課金（旧再生可能エネルギー電気特別措置法第十六条の賦課金をいう。以下この条において同じ。）であって、施行日以後にみなし小売電気事業者が電気の使用者に対して請求することができるものについての新再生可能エネルギー電気特別措置法第十<span>六条{'二条': 1}</span>第二項の規定の適用については、同項中「当該<span>電気事業者{'特定': 1}</span>が当該電気の使用者に供給した電気の量」とあるのは、「当該電気事業者が当該電気の使用者に供給した電気の量及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が当該<span>電気{'ガス': 1}</span>の使用者に<span>供給{'使用': 1, '適用': 1}</span>した<span>電気{'ガス': 1}</span>の<span>量{'技術': 1}</span>を基礎として経済産業省令で定める方法により算定した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>一般電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る賦課金であって、施行日以後に<span>附則{'法律': 1}</span>第二条第一項の規定により新電気事業法第三条の許可を受けたものとみなされる者が電気の使用者に対して請求することができるものについての新再生可能エネルギー電気特別措置法第十<span>六条{'二条': 1}</span>第二項の規定の適用については、同項中「当該<span>電気事業者{'特定': 1}</span>が当該電気の使用者に供給した電気の量」とあるのは、「当該電気事業者が当該電気の使用者に供給した電気の量及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する一般電気事業者であって、同法附則第<span>二条{'改正': 1}</span>第一項の規定により同法第<span>一条{'第三条': 1}</span>の規定による改正後の<span>電気事業法{'熱供給事業法': 1, '附則': 1}</span>第三条の許可を受けたものとみなされる者が当該<span>電気{'ガス': 1}</span>の使用者に<span>供給{'使用': 1, '適用': 1}</span>した<span>電気{'ガス': 1}</span>の<span>量{'技術': 1}</span>を基礎として経済産業省令で定める方法により算定した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る<span>賦課{'供給': 1}</span>金であって、施行日以後にみなし登録特定送配電事業者が電気の使用者に対して請求することができるものについての新再生可能エネルギー電気特別措置法第十<span>六条{'二条': 1}</span>第二項の規定の適用については、同項中「当該<span>電気事業者{'特定': 1}</span>が当該電気の使用者に供給した電気の量」とあるのは、「当該電気事業者が当該電気の使用者に供給した電気の量及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定電気事業者であって、同法<span>附則{'二条': 1}</span>第四条第一項の規定により同法第一条の規定による改正後の<span>電気事業法{'前': 2}</span>（以下「新電気事業法」という。）第二十七条の十三第一項の届出をし、かつ、新<span>電気事業法{'当該': 1}</span>第二十七条の十五の登録を受けたものとみなされる者が当該<span>電気{'ガス': 1}</span>の使用者に<span>供給{'適用': 1}</span>した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定規模電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る賦課金であって、施行日以後に附則第六条第二項の規定により新<span>電気事業法{'適用': 1}</span>第二条の二の<span>登録{'許可': 1}</span>を受けたものとみなされる者が電気の使用者に対して請求することができるものについての新再生可能エネルギー電気特別措置法第十<span>六条{'二条': 1}</span>第二項の規定の適用については、同項中「当該<span>電気事業者{'特定': 1}</span>が当該電気の使用者に供給した電気の量」とあるのは、「当該電気事業者が当該電気の使用者に供給した電気の量及び電気事業法等の一部を改正する<span>法律{'等': 1}</span>（平成二十六年法律第七十二号）の<span>施行{'改正': 4}</span>前に同法第三条の規定による改正前の第二条第一項に規定する特定規模電気事業者であって、同法附則第<span>六条{'二条': 1, '改正': 1}</span>第二項の規定により同法第一条の規定による改正後の<span>電気事業法{'規定': 2}</span>第二条の二の登録を受けたものとみなされる者が当該<span>電気{'ガス': 1}</span>の使用者に<span>供給{'適用': 1}</span>した電気の量」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧再生可能エネルギー電気特別措置法第二条第一項に規定する<span>特定規模電気事業者{'再生可能エネルギー': 1}</span>が電気の使用者に供給した電気に係る賦課金（前項に規定するものを除く。）の<span>請求{'規定': 1}</span>については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="37">
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧再生可能エネルギー電気特別措置法第十九条第一項の規定による指定を受けている者は、施行日に新再生可能エネルギー電気特別措置法第十九条第一項の規定による指定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の<span>施行{'改正': 1}</span><span>前{'施行': 1}</span>にこの法律による改正<span>前{'附則': 1}</span>の<span>それぞれ{'法律': 1}</span>の法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、この法律による改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、この法律による改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる<span>場合{'事項': 2}</span>における<span>施行日{'申請': 1}</span>以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条まで、第四十四条、第四十七条、第五十七条、第五十九条、第六十一条、第六十八条及び第七十条に<span>定める{'掲げる': 3}</span>もののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第十条の<span>規定{'附則': 1}</span>並びに附則第十八条、第十<span>九条{'二条': 1}</span>、第二十六条、第二十七条（附則第二十六条第一項に係る<span>部分{'規定': 1}</span>に限る。）、第三十二条、第四十一条第四項、第四十四条、第四十五条（第一号から第三号までに係る<span>部分{'規定': 1}</span>に限る。）、第四十六条（附則第四十四条及び第四十五条（第一号から第三号までに係る部分に限る。）に係る部分に限る。）、第五十条第五項、第五十四条、第六十三条第四項、第七十三条、第七十四条及び第九十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月一一日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年六月三日法律第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成二十九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十二条から第十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第<span>一条{'改正': 2, '施行': 1}</span>の<span>規定{'第三条': 1, '第一': 1}</span>及び次条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十八年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>第三条{'改正': 1}</span>の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>電気事業法等の一部を改正する等の法律附則第一条第五号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（賦課金に係る特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>前条{'一条': 1, '条': 1}</span>第二号に掲げる規定の<span>施行{'改正': 1}</span>の日前に第一条の規定による改正前の電気事業者による再生可能エネルギー電気の調達に関する特別措置法第十七条第一項の規定による認定を受けた事業所に係る同法第十六条第一項の規定により支払を請求することができる賦課金の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（特定契約に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'省令': 2}</span>の施行の際現に締結されている第二条の規定による改正前の電気事業者による再生可能エネルギー電気の調達に関する特別措置法（以下「旧法」という。）第四条第一項の特定契約（以下「旧特定<span>契約{'需要': 1}</span>」という。）は、その契約の期間が終了するまでの間は、第二条の規定による改正後の<span>電気事業者による再生可能エネルギー電気の調達に関する特別措置法{'前': 1}</span>（以下「新法」という。）第二条第五項の<span>特定{'規定': 1}</span>契約（以下「新特定<span>契約{'需要': 1}</span>」と<span>いう{'基づき': 1}</span>。）とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>前項{'場合': 1}</span>の規定により新特定<span>契約{'工場': 1}</span>とみなされる旧<span>特定{'委託': 1}</span>契約に基づき再生可能エネルギー電気を調達する旧法第<span>二条{'一条': 1}</span>第一項に規定する電気事業者（以下「旧電気事業者」という。）は、その契約の期間が終了するまでの間は、新法第二条第一項に規定する電気事業者である同項に規定する一般送配電事業者とみなして、新法第二十八条、第二十九条第一号及び第二号、第三十条、第三十二条第二項及び第四項、第三十五条第二項、第五十五条第二項第二号、第五十六条第二項第三号、第七十六条第一項、第五項及び第六項、第八十五条第一号、第三号及び第四号並びに第八十七条の規定を適用する。</Sentence>
+            <Sentence Num="2">この場合において、新法第二十九条中「から第四号までに掲げる額の合計額」とあるのは、「に<span>掲げる{'乗じ': 1}</span>額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（特定供給者に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧法第五条第一項に規定する接続をしている旧法第三条第二項に規定する特定<span>供給{'設備': 1}</span>者（以下「旧<span>特定{'設備': 1}</span>供給者」という。）及び<span>旧法{'条': 1}</span>第五条第一項に規定する接続をすることについて同<span>項{'規則': 1}</span>に規定する一般送配電事業者等（以下「旧一般送配電事業者等」という。）の同意を得ている旧特定供給者は、この法律の<span>施行{'法': 1}</span>の日（以下「施行日」という。）に<span>新法{'附則': 1}</span><span>第九条{'規定': 1}</span>第三項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により新法<span>第九条{'規定': 1}</span>第三項の認定を受けたものとみなされる旧特定供給者（<span>当該{'設備': 2}</span>旧<span>特定{'託送': 1}</span>供給者に係る旧法第三条第二項に規定する認定<span>発電設備{'受け': 1}</span>が、再生可能エネルギー電気（旧法第二条第二項の<span>再生可能エネルギー{'規定': 1}</span>電気をいう。以下同じ。）の安定的かつ効率的な供給の確保を図るために特に必要なものとして経済産業省令で定める<span>基準{'要件': 1}</span>に<span>該当{'適合': 1}</span>するものである者に限る。）は、経済産業省令で定めるところにより、経済産業省令で定める期間内に新法第九条第二項各号に掲げる事項を記載した<span>書類{'書面': 1}</span>を経済産業大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1, '省令': 2}</span>の施行の際現に旧法第五条第一項に規定する接続の請求（以下「旧接続請求」という。）について旧一般送配電事業者等の同意が得られていない旧特定供給者（以下「旧接続請求者」という。）であって、当該旧接続<span>請求{'供給': 1}</span>に係る旧法第<span>六条{'法': 1}</span>第一項の規定による認定（以下「旧<span>認定{'受け': 1}</span>」という。）を受けた日が平成二十八年七月一日以降であるもの（次条第一項に規定する特定旧接続請求者を除く。）は、当該旧認定を受けた日の翌日から起算して九月間は、施行日以後であっても、引き続き当該旧接続請求を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により旧接続請求者が引き続き旧接続請求を行う場合には、当該旧接続請求及びこれに係る旧接続請求者の旧認定については、旧法第五条、第六条第六項並びに第四十条第一項、第四項及び第五項の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の<span>規定{'場合': 1}</span>により旧接続請求を引き続き行う旧接続請求者は、当該旧接続請求について、同項の期間内に旧一般送配電事業者等の同意が得られたときは、当該同意が得られた日に新法<span>第九条{'規定': 1}</span>第三項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前条{'前項': 1}</span>第二項の規定は、前項の規定により新法<span>第九条{'規定': 1}</span>第三項の<span>認定{'許可': 1}</span>を受けたものと<span>みなさ{'みなす': 1}</span>れる旧接続請求者（当該旧接続請求者に係る旧法第三条第二項に規定する認定発電設備が、再生可能エネルギー電気の安定的かつ効率的な供給の確保を図るために特に必要なものとして経済産業省令で定める基準に<span>該当{'適合': 1}</span>するものである者に限る。）について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に、旧接続請求について旧一般送配電事業者等の同意を得るために必要な<span>手続{'規定': 1}</span>その他の行為であってその手続その他の行為を終了するまでに相当の<span>期間{'事業': 1}</span>を要するものとして経済産業省令で定めるものをしている旧接続請求者（以下「特定旧<span>接続{'設備': 1}</span>請求者」という。）は、当該手続その他の行為が終了した日の翌日から起算して六月間は、<span>施行日{'経過': 1}</span>以後であっても、引き続き当該旧接続請求を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'法': 1}</span>の規定により特定旧<span>接続{'設備': 2}</span><span>請求{'供給': 1}</span>者が引き続き旧接続請求を行う場合には、当該旧接続請求及びこれに係る特定旧<span>接続{'設備': 1}</span>請求者の旧認定については、旧法第五条、第六条第六項並びに第四十条第一項、第四項及び第五項の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の<span>規定{'場合': 1}</span>により旧接続請求を引き続き行う特定旧<span>接続{'設備': 1}</span>請求者は、<span>当該{'事業者': 1}</span>旧接続請求について、同項の期間内に旧一般送配電事業者等の同意が得られたときは、当該同意が得られた日に新法第九条第三項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>附則{'前項': 1}</span>第四条第二項の<span>規定{'認定': 1}</span>は、前項の規定により新法<span>第九条{'規定': 2}</span>第三項の認定を受けたものとみなされる特定旧接続<span>請求{'供給': 1}</span>者（当該特定旧接続請求者に係る旧法第三条第二項に規定する認定発電設備が、再生可能エネルギー電気の安定的かつ効率的な供給の確保を図るために特に必要なものとして経済産業省令で定める<span>基準{'要件': 1}</span>に<span>該当{'適合': 1}</span>するものである者に限る。）について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第四条第一項、第五条第三項及び前条第三項の規定により新法<span>第九条{'規定': 1}</span>第三項の認定を受けたものとみなされる場合以外の場合には、旧認定は、その効力を失う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（交付金に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧電気事業者が旧特定契約に基づき調達した再生可能エネルギー電気に係る交付金の交付については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（納付金に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧電気事業者が電気の使用者に供給した電気に係る<span>納付{'使用': 1}</span>金の納付については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（賦課金に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に旧電気事業者が電気の使用者に供給した電気に係る賦課金の請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（費用負担調整機関に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'省令': 1}</span>の施行の際現に旧法第十九条第一項の規定による指定を受けている者は、施行日に新法第五十五条第一項の規定による<span>指定{'認可': 1}</span>を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、<span>施行日{'改正': 1}</span>前に、新法第三条（第十項及び第十一項を除く。）の規定の<span>例{'適用': 1}</span>により、平成二十九年度に係る同条第一項に規定する調達価格及び調達<span>期間{'事項': 1}</span>（次項において「調達価格等」という。）を定めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により定められた調達価格等は、施行日において、<span>新法{'前': 1}</span>第三条第一項の規定により定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、施行日前においても、新法第四条（第五項を除く。）及び第五条（第七項を除く。）の規定の例により、新法第四条第一項の規定による指定及び新法第五条第一項の規定による入札実施指針（同項に規定する入札実施<span>指針{'計画': 1}</span>をいう。次項において同じ。）の策定をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により指定された再生可能エネルギー発電設備の区分等（新法第三条第一項に規定する再生可能エネルギー発電設備の区分等をいう。）及びこれに係る入札実施指針は、施行日において、それぞれ新法第四条第一項の規定により指定され、及び新法第五条第一項の規定により定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新法第七条第十項の指定及びこれに関し<span>必要{'規定': 1}</span>な手続その他の行為は、<span>施行日{'改正': 1}</span>前においても、<span>新法{'前': 1}</span>第三十九条から第四十一条まで、第四十二条第一項及び第二項、第四十七条並びに第五十<span>二条{'前条': 1}</span>第一号の規定の例により行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により行った行為は、施行日において、同<span>項{'前項': 1}</span>に規定する規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新法第九条第一項に規定する再生可能エネルギー発電事業を行おうとする者は、施行日前においても、同項及び同条第二項の規定の例により、経済産業大臣の認定を申請することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">経済産業大臣は、前項の規定による認定の申請があった場合には、施行日前においても、<span>新法{'電気事業法': 1}</span>第九条第三項から第五項までの規定の例により、その認定をすることができる。</Sentence>
+            <Sentence Num="2">この場合において、その認定を受けた再生可能エネルギー発電<span>事業計画{'原子炉': 1}</span>は、施行日において、同条第三項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新法第二条第一項に規定する電気事業者は、施行日前においても、新法第十八条第一項の規定の例により、再生可能エネルギー電気卸供給<span>約款{'規程': 1}</span>を定め、経済産業大臣に届け出ることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'前条': 1}</span>の規定による届出をした電気事業者は、同項の規定による届出をした<span>再生可能エネルギー{'約款': 1}</span>電気<span>卸{'接続': 1}</span>供給約款により難い特別の事情がある場合には、<span>施行日{'内容': 1}</span>前においても、新法第十八条第二項ただし書の規定の例により、再生可能エネルギー電気卸供給に係る料金その他の供給条件について経済産業大臣の承認を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の<span>規定{'前項': 1}</span>による届出をした<span>再生可能エネルギー{'約款': 1}</span>電気<span>卸{'接続': 1}</span>供給約款又は前項の規定による<span>承認{'認可': 2}</span>を受けた料金その他の供給条件は、<span>施行日{'規則': 1}</span>において、新法第十八条第一項の規定による届出をし、又は同条第二項<span>ただし書{'規定': 3}</span>の<span>承認{'許可': 1}</span>を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、施行日前に、新法第三十二条第二項の規定の例により、平成二十九年度に係る同条第一項の納付金単価を<span>定め{'いう': 1}</span>、遅滞なく、これを<span>告示{'経済産業大臣': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により定められた納付金単価は、施行日において、新法第三十二条第二項の規定により定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定については、<span>当該{'施行': 1}</span>各規定。以下この条及び<span>次{'附則': 2}</span>条において同じ。）の施行前にした行為<span>並びに{'及び': 2}</span>この<span>附則{'前条': 1}</span>の規定によりなお従前の例によることとされる場合及びこの<span>附則{'条': 1}</span>の<span>規定{'第三条': 1}</span>によりなおその効力を有することとされる<span>場合{'設置': 1}</span>におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'省令': 1}</span>に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>政府{'法律': 1}</span>は、この法律の施行後三年を経過した後適当な時期において、この法律による<span>改正{'二条': 1}</span>後の規定の実施状況について検討を加え、必要があると認めるときは、その結果に応じて所要の見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中電気事業法目次の改正規定（「電気事業者」を「電気事業者等の」に、「供給命令等」を「災害等への対応」に、「第三十三条」を「第三十四条」に、「第三十四条」を「第三十四条の二」に改める部分に限る。）、<span>同法{'規定': 1}</span>第二十六条の次に二条を加える改正規定、同法第二十七条第一項の<span>改正{'二条': 1}</span>規定、同法第二十七条の十二の改正規定、同法第二十七条の二十六第一項の改正規定、同法第二十七条の二十九の改正規定、同法第二章第七節第一款の款名の改正規定、同法第二十八条の<span>改正{'二条': 1}</span>規定、同法第二十八条の四十第五号の改正規定、同節第五款の款名の改正規定、<span>同法{'改正': 1}</span>第三十一条の前に見出しを付する改正規定、同節第六款中第三十四条を第三十四条の二とする改正規定、同節第五款に一条を加える<span>改正{'規則': 1}</span>規定、同法第百十九条第九号の改正規定及び同法第百二十条第四号の<span>改正{'第九条': 1}</span><span>規定{'附則': 1}</span>、第五条の規定（第三号に掲げる改正規定を除く。）並びに第六条中電気事業法等の一部を改正する法律附則第十六条第四項の改正規定（「第六十六条の十一」を「第六十六条の十」に改める部分に限る。）及び<span>同法{'規定': 1}</span><span>附則{'規定': 1}</span>第二十三条第三項の改正規定並びに附則第六条、第七条、第九条から第十二条まで及び第二十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第<span>一条{'附則': 1}</span>の規定（前二号に掲げる改正規定を除く。）、第三条中<span>電気事業者による再生可能エネルギー電気の調達に関する特別措置法{'第五': 1}</span>第十七条第一項第一号の改正<span>規定{'附則': 1}</span>（「第九十八条第一号」を「第九十八条第一項第一号」に<span>改める{'及び': 1}</span>部分に限る。）、第四条の規定並びに第五条中独立行政法人石油天然ガス・金属鉱物資源機構法第十一条第二項に一号を加える改正規定、同法第十<span>二条{'部分': 1}</span>第一号の改正規定及び同法第十四条第一項の<span>改正{'第九条': 1}</span>規定（「までに」の下に「掲げる業務並びに同条第二項第三号に」を加える部分に<span>限る{'ある': 1}</span>。）並びに附則第十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から<span>起算{'施行': 1}</span>して<span>一年{'六月': 1}</span>六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（交付対象区分等に係る準備行為）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気特措法第二条の二第一項に規定する交付対象<span>区分{'政令': 1}</span>等を定めるため、施行日前においても、当該交付対象区分等に該当する新再生可能エネルギー電気<span>特措法{'特別措置法': 1}</span>第二条第二項に規定する<span>再生可能エネルギー{'出力': 1}</span>発電設備（以下この条において「<span>再生可能エネルギー{'規定': 1}</span>発電設備」という。）に係る所管に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、及び消費者政策の観点から消費者問題担当大臣（内閣府設置法（平成十一年法律第八十九号）第九条第一項に規定する特命担当大臣であって、同項の規定により命を受けて同法第四条第一項第二十八号及び同条第三項第六十一号に掲げる事務を掌理するものをいう。以下この条において同じ。）の意見を聴くとともに、調達価格等算定委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気<span>特措法{'特別措置法': 1}</span>第二条の三第一項に規定する基準<span>価格{'政令': 1}</span>等を定めるため、施行日前においても、当該<span>基準{'調達': 1}</span>価格等に係る再生可能エネルギー発電設備に係る所管に<span>応じ{'及び': 1}</span>て農林水産大臣、国土交通大臣又は環境大臣に協議し、及び消費者政策の観点から消費者問題担当大臣の意見を聴くとともに、調達価格等算定委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気<span>特措法{'特別措置法': 1}</span>第三条第一項に規定する特定調達対象区分等を定めるため、<span>施行日{'事項': 1}</span>前においても、当該特定調達対象区分等に該当する再生可能エネルギー発電設備に係る<span>所管{'区分': 1}</span>に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、及び消費者政策の観点から消費者問題担当大臣の意見を聴くとともに、調達価格等算定委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気<span>特措法{'特別措置法': 1}</span>第三条第二項に規定する調達<span>価格{'政令': 1}</span>等を定めるため、施行日前においても、当該調達価格等に係る再生可能エネルギー発電設備に係る所管に応じて農林水産大臣、国土交通大臣又は環境大臣に協議し、及び消費者政策の観点から消費者問題担当大臣の意見を聴くとともに、調達価格等算定委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気特措法第十五条の六第一項に規定する積立対象区分等を指定するため、施行日<span>前{'指定': 1}</span>においても、当該積立対象区分等に該当する再生可能エネルギー発電設備に係る<span>所管{'区分': 1}</span>に応じて農林水産大臣、国土交通大臣又は環境大臣に協議することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、新再生可能エネルギー電気特措法第十五条の七第一項に規定する解体等積立基準額を定めるため、施行日前においても、当該解体等積立基準額に係る再生可能エネルギー発電設備に係る<span>所管{'区分': 1}</span>に応じて農林水産大臣、国土交通大臣又は環境大臣に協議するとともに、調達価格等算定委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（費用負担調整機関の権利及び義務の承継）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に費用負担調整機関が有する権利及び義務であって、旧再生可能エネルギー電気特措法第五十五条第二項に規定する業務に係るものは、この法律の施行の時において、権利及び義務の承継に関し必要な事項を定めた計画において定めるところに従い、新電気事業法第二十八条の四に規定する広域的運営推進機関が承継する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の計画は、費用負担調整機関が、<span>政令{'経済産業省令': 1}</span>で定める<span>基準{'期間': 1}</span>に従って作成しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下同じ。）の施行前にこの法律による改正<span>前{'規定': 1, '附則': 1}</span>の<span>それぞれ{'法律': 1}</span>の法律（これらに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、この法律による改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、この法律による改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>政府{'法律': 1}</span>は、この法律の施行後五年を経過した後適当な時期において、電気供給体制の強靱じん性及び持続可能性の状況並びにこの法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、<span>当該{'同法': 1, '新法': 1}</span>規定について検討を加え、その結果に応じて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

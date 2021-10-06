@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="94" Year="50">
+  <LawNum>昭和五十年法律第九十四号</LawNum>
+  <LawBody>
+    <LawTitle>船舶の所有者等の責任の制限に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　船舶の所有者等の責任の制限</ChapterTitle>
+        <ArticleRange>（第三条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　責任制限手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第九条―第十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　責任制限手続開始の申立て</SectionTitle>
+          <ArticleRange>（第十七条―第二十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　責任制限手続開始の決定</SectionTitle>
+          <ArticleRange>（第二十六条―第三十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　責任制限手続の拡張</SectionTitle>
+          <ArticleRange>（第三十七条―第三十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　管理人</SectionTitle>
+          <ArticleRange>（第四十条―第四十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　責任制限手続への参加</SectionTitle>
+          <ArticleRange>（第四十七条―第五十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="7">
+          <SectionTitle>第七節　制限債権の調査及び確定</SectionTitle>
+          <ArticleRange>（第五十七条―第六十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="8">
+          <SectionTitle>第八節　配当</SectionTitle>
+          <ArticleRange>（第六十八条―第八十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="9">
+          <SectionTitle>第九節　責任制限手続の廃止</SectionTitle>
+          <ArticleRange>（第八十二条―第八十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="10">
+          <SectionTitle>第十節　費用</SectionTitle>
+          <ArticleRange>（第九十条―第九十四条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　補則</ChapterTitle>
+        <ArticleRange>（第九十五条―第九十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第九十九条―第百一条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、船舶の所有者等の責任の制限に関し必要な事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律において、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>用語{'規定': 1}</span>の<span>意義{'規定': 1}</span>は、<span>それぞれ{'手続': 1}</span>当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>船舶{'手続': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>航海の用に供する船舶で、ろかい又は主としてろかいをもつて運転する舟及び公用に供する船舶以外のものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>船舶所有者等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>船舶所有者、船舶賃借人及び<Ruby>傭<Rt>よう</Rt></Ruby>船者並びに法人であるこれらの者の無限責任社員をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2_2">
+              <ItemTitle>二の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>救助者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>救助活動に直接関連する役務を提供する者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>被用者等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>船舶所有者等又は救助者の被用者その他の者で、その者の行為につき船舶所有者等又は救助者が責めに任ずべきものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3_2">
+              <ItemTitle>三の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>救助船舶</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>救助活動（船舶に対する、又は船舶に関連する救助活動でその船舶上でのみ<span>行う{'ある': 1}</span>ものを除く。）を船舶から行う<span>場合{'手続': 1}</span>の<span>当該{'規定': 1}</span><span>船舶{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>制限{'規定': 1}</span><span>債権{'規定': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>船舶所有者等若しくは救助者又は被用者等が、この法律で定めるところによりその責任を<span>制限{'手続': 1}</span>することができる<span>債権{'規定': 1}</span>をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>人{'手続': 1}</span>の損害に関する<span>債権{'額': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>制限{'額': 1}</span>債権のうち人の<span>生命{'手続': 1}</span>又は<span>身体{'規定': 1}</span>が<span>害さ{'ある': 1}</span>れることによる損害に基づく債権をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>物{'規定': 1}</span>の<span>損害{'手続': 1}</span>に関する債権</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>制限{'額': 1}</span>債権のうち人の<span>損害{'場合': 1}</span>に関する債権以外の債権をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6_2">
+              <ItemTitle>六の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>旅客の損害に関する債権</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>海上旅客運送契約により船舶で運送される旅客又は海上物品運送契約により船舶で運送される車両若しくは生動物とともに乗船することを認められた者の生命又は身体が害されることによる損害に<span>基づく{'ある': 1}</span><span>当該{'規定': 1}</span>船舶の船舶所有者等又はその被用者等に対する債権をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>一単位</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>国際通貨基金協定第三条第一項に規定する特別引出権による一特別引出権に相当する金額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>受益債務者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>当該<span>責任{'規定': 1}</span>制限手続における制限債権に係る債務者で、<span>責任{'規定': 1}</span>制限手続開始の申立てをした者以外のものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において、「<span>救助活動{'規定': 1}</span>」には、次に掲げる措置を含み、公務として行う救助活動を除くものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>沈没し、難破し、乗り揚げ、若しくは放棄された船舶又はその船舶上の物の引揚げ、除去、破壊又は無害化のための措置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>積荷の除去、破壊又は無害化のための措置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前二号に掲げる措置のほか、<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>を生ずべき損害の防止又は軽減のために執られる措置</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　船舶の所有者等の責任の制限</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（船舶の所有者等の責任の制限）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>船舶所有者等又はその被用者等は、次に掲げる債権について、この法律で定めるところにより、その<span>責任{'規定': 1}</span>を制限することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>船舶上で又は船舶の運航に直接関連して生ずる人の生命若しくは<span>身体{'手続': 1}</span>が<span>害さ{'ある': 1}</span>れることによる<span>損害{'手続': 1}</span>又は<span>当該{'規定': 1}</span><span>船舶{'規定': 1}</span>以外の物の<span>滅失{'手続': 1}</span>若しくは損傷による損害に基づく債権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>運送品、旅客又は手荷物の運送の遅延による損害に基づく債権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前二号に掲げる債権のほか、船舶の<span>運航{'手続': 1}</span>に直接関連して生ずる権利侵害による<span>損害{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span>（<span>当該{'手続': 1}</span><span>船舶{'規定': 1}</span>の<span>滅失{'手続': 1}</span>又は<span>損傷{'規定': 1}</span>による<span>損害{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span>及び<span>契約{'規定': 1}</span>による<span>債務{'規定': 1}</span>の不<span>履行{'規定': 1}</span>による<span>損害{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>前条{'規定': 1}</span>第二項第三号に<span>掲げる{'ある': 1}</span><span>措置{'事項': 1, '規定': 1}</span>により<span>生ずる{'ある': 1}</span><span>損害{'当該': 1, '手続': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span>（当該船舶所有者等及びその<span>被用者{'規定': 1}</span>等が有する債権を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>前条第二項第三号に掲げる<span>措置{'規定': 1}</span>に関する<span>債権{'規定': 1}</span>（当該船舶所有者等及びその<span>被用者{'規定': 1}</span>等が有する債権並びにこれらの者との契約に基づく<span>報酬{'手続': 1}</span>及び費用に関する債権を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>救助者又はその被用者等は、次に掲げる債権について、この法律で定めるところにより、その責任を制限することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>救助活動に直接関連して生ずる人の生命若しくは<span>身体{'手続': 1}</span>が害されることによる損害又は当該救助者に係る救助船舶以外の物の滅失若しくは損傷による損害に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号に掲げる債権のほか、<span>救助活動{'債権': 1, '規定': 1}</span>に直接関連して生ずる権利侵害による損害に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span>（当該救助者に係る救助船舶の滅失又は損傷による損害に基づく債権及び<span>契約{'規定': 1}</span>による<span>債務{'規定': 1}</span>の不<span>履行{'規定': 1}</span>による<span>損害{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>前条{'規定': 1}</span>第二項第三号に<span>掲げる{'ある': 1}</span><span>措置{'事項': 1, '規定': 1}</span>により<span>生ずる{'ある': 1}</span>損害に基づく債権（当該救助者及びその<span>被用者{'債権者': 1}</span>等が有する債権を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>前条第二項第三号に掲げる措置に関する債権（当該救助者及びその被用者等が有する債権並びにこれらの者との契約に基づく<span>報酬{'手続': 1}</span>及び<span>費用{'規定': 1}</span>に関する<span>債権{'規定': 1}</span>を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>船舶所有者等若しくは救助者又は被用者等は、前二項の債権が、自己の故意により、又は損害の発生のおそれがあることを認識しながらした自己の無謀な行為に<span>よつ{'ある': 1}</span>て生じた損害に関するものであるときは、前二項の規定にかかわらず、その責任を制限することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>船舶所有者等又はその被用者等は、旅客の損害に関する<span>債権{'規定': 1}</span>については、第一項の規定にかかわらず、その責任を<span>制限{'免除': 1}</span>することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次に掲げる債権については、船舶所有者等及び救助者は、その責任を制限することができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>海難の救助又は共同海損の分担に基づく債権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>船舶所有者等の被用者でその職務が船舶の業務に関するもの又は救助者の被用者でその職務が救助活動に関するものの使用者に対して<span>有する{'ある': 1}</span>債権及びこれらの者の生命又は身体が害されることによつて生じた第三者の有する債権</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（同一の事故から生じた損害に基づく債権の差引き）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>船舶所有者等若しくは救助者又は被用者等が制限債権者に対して同一の事故から生じた債権を有する場合においては、この法律の規定は、その債権額を<span>差し引い{'ある': 1}</span>た残余の制限債権について、適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（責任の制限の及ぶ範囲）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>船舶所有者等又はその被用者等がする責任の制限は、船舶ごとに、同一の事故から生じたこれらの者に対する<span>すべて{'規定': 1}</span>の人の損害に関する債権及び物の損害に関する債権に及ぶ。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>救助船舶に係る救助者若しくは当該救助船舶の船舶所有者等又はこれらの被用者等がする責任の制限は、救助船舶ごとに、同一の事故から生じたこれらの者に対するすべての人の損害に関する債権及び物の<span>損害{'電子記録債権': 1}</span>に関する債権に及ぶ。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の救助者以外の救助者又はその被用者等がする責任の制限は、救助者ごとに、同一の事故から生じたこれらの者に対するすべての人の損害に関する債権及び物の<span>損害{'電子記録債権': 1}</span>に関する債権に及ぶ。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前三項の責任の制限が物の損害に関する債権のみについてするものであるときは、その責任の制限は、前三項の規定にかかわらず、人の損害に関する債権に及ばない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（責任の限度額等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項又は第二項に規定する責任の制限の<span>場合{'手続': 1}</span>における責任の限度額は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1">責任を制限しようとする債権が物の損害に関する債権のみである場合においては、船舶のトン数に応じて、次に定めるところにより算出した<span>金額{'規定': 1}</span>。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、百トンに満たない木船については、一単位の五十万七千三百六十倍の金額とする。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>二千トン以下の船舶にあつては、一単位の百五十一万倍の金額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>二千トンを<span>超える{'ある': 1}</span><span>船舶{'場合': 2, '手続': 1}</span>に<span>あつ{'ある': 1}</span>ては、<span>イ{'手続': 1}</span>の<span>金額{'規定': 1}</span>に、二千トンを<span>超え{'ある': 1}</span>三万トンまでの<span>部分{'手続': 1}</span>については一トンにつき一<span>単位{'手続': 1}</span>の六百四倍を、三万トンを<span>超え{'ある': 1}</span>七万トンまでの<span>部分{'手続': 1}</span>については一トンにつき一単位の四百五十三倍を、七万トンを超える部分については一トンにつき一単位の三百二倍を<span>乗じ{'ある': 1}</span>て得た<span>金額{'額': 1}</span>を加えた金額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他の場合においては、船舶のトン数に応じて、次に定めるところにより算出した金額</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>二千トン以下の船舶にあつては、一単位の四百五十三万倍の金額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>二千トンを<span>超える{'ある': 1}</span><span>船舶{'場合': 2, '手続': 1}</span>に<span>あつ{'ある': 1}</span>ては、<span>イ{'手続': 1}</span>の<span>金額{'規定': 1}</span>に、二千トンを<span>超え{'ある': 1}</span>三万トンまでの<span>部分{'手続': 1}</span>については一トンにつき一<span>単位{'手続': 1}</span>の千八百十二倍を、三万トンを<span>超え{'ある': 1}</span>七万トンまでの<span>部分{'手続': 1}</span>については一トンにつき一単位の千三百五十九倍を、七万トンを超える部分については一トンにつき一単位の九百六倍を<span>乗じ{'ある': 1}</span>て得た<span>金額{'額': 1}</span>を加えた金額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">前項第二号に規定する場合においては、制限債権の<span>弁済{'手続': 1}</span>に充てられる<span>金額{'規定': 1}</span>のうち、その金額に同項第一号に掲げる金額（百トンに満たない木船については、同号イの金額）の同項第二号に掲げる<span>金額{'場合': 1}</span>に対する割合を乗じて得た金額に相当する<span>部分{'額': 1}</span>は物の損害に関する債権の弁済に、その余の部分は人の損害に関する債権の弁済に、それぞれ充てられるものとする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、後者の部分が人の損害に関する債権を弁済するに足りないときは、前者の部分は、その弁済されない残額と物の損害に関する債権の額との割合に応じてこれらの債権の<span>弁済{'届出': 1}</span>に充てられるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前条第三項に規定する責任の制限の<span>場合{'手続': 1}</span>における責任の限度額は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>責任を制限しようとする債権が物の損害に関する債権のみである場合においては、一<span>単位{'規定': 1}</span>の百五十一万倍の<span>金額{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他の場合においては、一単位の四百五十三万倍の金額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二項の<span>規定{'手続': 1}</span>は、<span>前項{'手続': 1}</span>第二号に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>制限{'協定': 1, '規定': 1}</span><span>債権者{'規定': 2}</span>は、その<span>制限{'規定': 1}</span>債権の額の割合に応じて<span>弁済{'規定': 1}</span>を受ける。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（船舶のトン数の算定）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項及び第二項の船舶のトン数は、船舶のトン数の測度に関する法律（昭和五十五年法律第四十号）第四条第二項の規定の例により算定した数値にトンを付して表したものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　責任制限手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Num="9">
+            <ArticleCaption>（責任制限事件の管轄）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>責任制限事件は、次の各号に掲げる区分に<span>応じ{'ある': 1}</span>、<span>それぞれ{'手続': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>裁判所{'規定': 1}</span>の管轄に専属する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第六条第一項に規定する責任の制限の場合において船舶が船籍を有するとき、又は同条第二項に規定する責任の制限の場合において救助船舶が船籍を有するとき。</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>船籍の所在地を管轄する地方裁判所</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第六条第一項に規定する責任の制限の場合において船舶が船籍を有しないとき、又は同条第二項に規定する責任の制限の場合において救助船舶が船籍を有しないとき。</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>申立人の普通裁判籍の所在地、事故発生地、事故後に当該船舶が最初に到達した地又は制限<span>債権{'規定': 1}</span>（物の損害に関する債権のみについての責任制限<span>手続{'場合': 1}</span>にあつては<span>人{'当該': 1}</span>の損害に関する債権を<span>除く{'ある': 1}</span>。以下この章において同じ。）に基づき申立人の財産に対して<span>差押え{'変更': 1, '規定': 1}</span>若しくは仮差押えの執行がされた地を管轄する地方裁判所</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第六条第三項に規定する責任の制限のとき。</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>申立人の普通裁判籍の所在地、事故発生地又は制限債権に基づき申立人の財産に対して<span>差押え{'規定': 1}</span>若しくは仮差押えの執行がされた地を管轄する<span>地方裁判所{'規定': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（責任制限事件の移送）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'規定': 1}</span>は、<span>著しい{'なく': 1}</span><span>損害{'申立て': 1, '規定': 1}</span>又は<span>遅滞{'規定': 1}</span>を<span>避ける{'ある': 1}</span>ため必要があると認めるときは、職権で、<span>責任{'手続': 1}</span>制限事件を他の管轄裁判所、制限債権者の<span>普通裁判籍{'規定': 1}</span>の所在地を管轄する地方裁判所又は同一の事故から生じた他の<span>責任{'規定': 1}</span>制限事件若しくは船舶油濁等損害賠償保障法（昭和五十年法律第九十五号）の規定による<span>責任{'規定': 1}</span>制限事件の係属する裁判所に移送することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（民事訴訟法の準用）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>特別{'規定': 1}</span>の定めがある場合を<span>除い{'除き': 2}</span>て、<span>責任{'規定': 1}</span>制限手続に関しては、民事訴訟法（平成八年法律第百九号）の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（任意的口頭弁論及び職権調査）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続に関する裁判は、口頭弁論を経ないですることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>裁判所は、職権で、<span>責任{'規定': 1}</span>制限事件に関して必要な調査をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（抗告）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">責任制限手続に関する裁判に対しては、この法律に特別の<span>規定{'定め': 2, '手続': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'規定': 1}</span>に<span>限り{'ある': 1}</span>、その<span>裁判{'規定': 1}</span>につき<span>利害関係{'規定': 1}</span>を<span>有する{'ある': 1}</span>者は、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+                <Sentence Num="2">その<span>期間{'手続': 1}</span>は、<span>裁判{'規定': 1}</span>の<span>公告{'手続': 1}</span>が<span>あつ{'ある': 1}</span>た<span>場合{'規定': 1}</span>においては、その<span>公告{'規定': 1}</span>が<span>あつ{'ある': 1}</span>た日から起算して一月とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（公告）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この法律の規定に<span>よつ{'取り消さ': 1}</span>てする公告は、官報及び裁判所の指定する新聞紙に掲載してする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>公告は、最終の掲載があつた日の翌日に、その効力を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（公告及び送達をする場合）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">この法律の規定に<span>よつ{'でき': 1}</span>て公告及び送達をしなければならない場合には、送達は、<span>書類{'規定': 1}</span>を<span>通常{'規定': 1}</span>の<span>取扱い{'規定': 1}</span>による<span>郵便{'規定': 1}</span>に<span>付し{'ある': 1}</span>、又は<span>民間事業者による信書の送達に関する法律{'規定': 1}</span>（平成十四年<span>法律{'規定': 1}</span>第九十九号）第<span>二条{'手続': 1}</span>第六項に<span>規定{'手続': 1}</span>する<span>一般信書便{'規定': 1}</span><span>事業者{'規定': 1}</span>若しくは同<span>条{'規定': 1}</span>第九項に<span>規定{'手続': 1}</span>する<span>特定信書便{'手続': 1}</span><span>事業者{'規定': 1}</span>の<span>提供{'規定': 1}</span>する同<span>条{'届出': 1}</span>第二項に<span>規定{'手続': 1}</span>する<span>信書便{'規定': 1}</span>の<span>役務{'規定': 1}</span>を<span>利用{'規定': 1}</span>して<span>送付{'手続': 1}</span>する<span>方法{'手続': 1}</span>によりすることができる。</Sentence>
+                <Sentence Num="2">この<span>場合{'手続': 1}</span>においては、<span>公告{'規定': 1}</span>は、<span>一切{'方法': 1, '規定': 1}</span>の<span>関係{'規定': 1}</span>人に対する<span>送達{'規定': 1}</span>の<span>効力{'規定': 1}</span>を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この法律に定めるもののほか、<span>責任{'規定': 1}</span>制限手続に関し必要な事項は、<span>最高裁判所規則{'法務省令': 1}</span>で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　責任制限手続開始の申立て</SectionTitle>
+          <Article Num="17">
+            <ArticleCaption>（手続開始の申立て）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>船舶所有者等若しくは救助者又は被用者等は、その<span>責任{'規定': 1}</span>を制限するため、責任制限手続開始の申立てをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>船舶共有者は、各自責任制限手続開始の申立てをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（疎明等）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>責任制限<span>手続{'特別清算': 1}</span>開始の申立てをするときは、制限<span>債権{'規定': 1}</span>に係る<span>事故{'手続': 1}</span>を<span>特定{'手続': 1}</span>するために<span>必要{'適格消費者団体': 1, '手続': 1}</span>な<span>事実{'手続': 1}</span>及び<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>（<span>事故{'手続': 1}</span><span>発生{'手続': 1}</span>後の<span>利息{'手続': 1}</span>又は不履行による損害賠償若しくは違約金の<span>請求権{'規定': 1}</span>を除く。第二十五条第二号において同じ。）の額が第七条第一項又は第三項に規定する責任の限度額（以下「責任<span>限度{'受託': 1}</span>額」という。）を超えることを疎明し、かつ、<span>知れ{'ある': 1}</span>ている<span>制限{'規定': 1}</span><span>債権者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び住所を届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（供託命令）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、<span>責任{'規定': 1}</span>制限手続開始の申立てを相当と<span>認める{'ある': 1}</span>ときは、その<span>申立て{'規定': 1}</span>を<span>した{'規定': 1}</span>者（以下「<span>申立{'規定': 1}</span>人」と<span>いう{'ある': 1}</span>。）に対して、<span>一月{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない一定の期間内に、裁判所の定める<span>責任{'規定': 1}</span>限度額に相当する金銭及びこれに対する事故<span>発生{'手続': 1}</span>の日から<span>供託{'規定': 1}</span>の日（<span>次{'手続': 1}</span>条第一項の<span>規定{'手続': 1}</span>により<span>供託{'手続': 1}</span><span>委託{'規定': 1}</span><span>契約{'規定': 1}</span>を<span>締結{'規定': 1}</span>する<span>場合{'手続': 1}</span>に<span>あつ{'ある': 1}</span>ては、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>届出{'規定': 1}</span>の日。次項において同じ。）まで事故発生の日における法定<span>利率{'規定': 1}</span>により算定した金銭を裁判所の指定する<span>供託{'規定': 1}</span>所に供託し、かつ、その旨を届け出るべきことを命じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の<span>責任{'規定': 1}</span>限度額に相当する金銭は、供託の日において公表されている<span>最終{'規定': 1}</span>の一単位の額により算定するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（供託委託契約）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>申立人が、裁判所の許可を<span>得て{'規定': 1}</span>供託委託契約を<span>締結{'資産の流動化に関する法律': 1}</span>し、前条第一項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>において<span>定め{'手続': 1}</span>られた<span>期間内{'規定': 1}</span>にその旨を<span>裁判所{'規定': 1}</span>に<span>届け出{'規定': 1}</span>た<span>場合{'手続': 1}</span>においては、<span>当該{'規定': 1}</span><span>契約{'規定': 1}</span>に係る<span>一定{'規定': 1}</span>の<span>額{'手続': 1}</span>の<span>金銭{'規定': 1}</span>は、その<span>期間内{'規定': 1}</span>に<span>供託{'規定': 1}</span>することを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>供託委託契約は、<span>責任{'規定': 1}</span>制限手続開始の決定があつた<span>場合{'規定': 1}</span>において、<span>受託{'規定': 1}</span>者が<span>申立{'規定': 1}</span>人のために一定の<span>額{'金額': 1}</span>の金銭及びこれに対する<span>責任{'規定': 1}</span>制限手続開始の決定の日から<span>供託{'場合': 1}</span>の日まで供託金に付される利息の利率と同一の率により算定した金銭を前条第一項の供託所に供託をすることを<span>約する{'ある': 1}</span><span>契約{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>供託{'規定': 1}</span><span>委託{'規定': 1}</span><span>契約{'規定': 1}</span>は、第一項の<span>規定{'手続': 1}</span>による<span>届出{'場合': 1, '規定': 1}</span>が<span>あつ{'ある': 1}</span>た後は、<span>裁判所{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'ある': 1}</span>なければ、変更又は解除をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>銀行{'規定': 1}</span>その他の政令で定める者でなければ、供託委託契約の<span>受託{'規定': 1}</span>者（以下<span>単に{'相当': 1}</span>「<span>受託{'規定': 1}</span>者」と<span>いう{'ある': 1}</span>。）と<span>なる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（受託者の供託）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>前条{'規定': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>届出{'規定': 1}</span>がされた<span>場合{'手続': 1}</span>においては、<span>受託{'規定': 1}</span>者は、<span>裁判所{'規定': 1}</span>の<span>定める{'ある': 1}</span>日（<span>次{'規定': 1}</span>条第一項において「<span>指定{'規定': 1}</span>日」と<span>いう{'ある': 1}</span>。）までに<span>供託{'規定': 1}</span><span>委託{'規定': 1}</span><span>契約{'規定': 1}</span>に従つて<span>供託{'規定': 1}</span>し、かつ、その旨を<span>裁判所{'規定': 1}</span>に<span>届け出{'手続': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>受託{'規定': 1}</span>者がした<span>供託{'規定': 1}</span>は、<span>申立{'規定': 1}</span>人が<span>供託{'規定': 1}</span>者<span>として{'とともに': 1}</span><span>した{'規定': 1}</span><span>供託{'規定': 1}</span>と<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（受託者が供託しなかつた場合の義務等）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>前条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>供託{'規定': 1}</span>をしなかつた<span>場合{'規定': 1}</span>においては、<span>受託{'規定': 1}</span>者は、<span>供託{'規定': 1}</span>に<span>代え{'ある': 1}</span>て、<span>指定{'規定': 1}</span>日において<span>供託{'手続': 1}</span>すべき<span>金銭{'規定': 1}</span>及びこれに対する<span>指定{'規定': 1}</span>日の<span>翌日{'規定': 1}</span>から支払の日まで指定日の翌日における法定<span>利率{'規定': 1}</span>により算定した金銭を管理人に支払う義務を<span>負う{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>受託{'規定': 1}</span>者が<span>前項{'手続': 1}</span>の<span>義務{'規定': 1}</span>を<span>履行{'手続': 1}</span>しなかつた<span>場合{'規定': 1}</span>においては、<span>裁判所{'信託': 1, '手続': 1}</span>は、<span>管理人{'規定': 1}</span>の<span>申立て{'規定': 1}</span>により、その<span>受託{'規定': 1}</span>者に対して、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>支払う{'ある': 1}</span>べき<span>額{'手続': 1}</span>の<span>金銭{'裁判所': 1, '規定': 1}</span>を<span>管理人{'規定': 1}</span>に<span>支払う{'ある': 1}</span>べきことを<span>命じ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>は、<span>執行{'手続': 1}</span>力の<span>ある{'取り消さ': 1}</span><span>債務名義{'確定判決': 1, '規定': 1}</span>と<span>同一{'規定': 1}</span>の<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項の<span>申立て{'手続': 1}</span>についての<span>裁判{'手続': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'手続': 1}</span>は、第一項の<span>規定{'手続': 1}</span>により<span>受託{'規定': 1}</span>者から<span>金銭{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>受け{'ある': 1}</span>たときは、<span>直ちに{'相当': 1}</span>、これを第十<span>九条{'手続': 1}</span>第一項の<span>供託{'規定': 1, '手続': 1}</span>所に<span>供託{'規定': 1}</span>し、かつ、その旨を<span>裁判所{'規定': 1}</span>に<span>報告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>管理人{'規定': 1}</span>がした<span>供託{'報告': 1, '規定': 1}</span>は、<span>申立{'規定': 1}</span>人が<span>供託{'規定': 1}</span>者としてした供託とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（他の手続の中止命令等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限<span>手続{'特別清算': 1}</span>開始の申立てがあつた<span>場合{'規定': 1}</span>において、<span>必要{'規定': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>裁判所{'規定': 1}</span>は、<span>申立{'手続': 1}</span>人又は<span>受益{'職権': 1}</span>債務者の申立てにより、<span>責任{'規定': 1}</span>制限手続開始の申立てにつき決定が<span>ある{'でき': 1}</span>までの<span>間{'規定': 1}</span>、<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>申立{'規定': 1}</span>人又は<span>受益{'規定': 1}</span>債務者の財産に対する強制執行、仮差押え、<span>仮処分{'手続': 1}</span>又は担保権の実行の手続の中止を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>中止{'規定': 1}</span>の<span>決定{'命令': 1, '規定': 1}</span>を変更し、又は取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（却下）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>申立人が破産者であるときは、裁判所は、<span>責任{'規定': 1}</span>制限<span>手続{'破産手続': 1}</span>開始の申立てを却下しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（棄却）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>次の場合においては、裁判所は、<span>責任{'規定': 1}</span>制限<span>手続{'特別清算': 1}</span>開始の申立てを棄却しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>手続の費用の<span>予納{'請求権': 1}</span>がないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>制限債権の額が<span>責任{'規定': 1}</span>限度額を超えないことが明らかなとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申立人が第十九条第一項の規定による決定に従わないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　責任制限手続開始の決定</SectionTitle>
+          <Article Num="26">
+            <ArticleCaption>（責任制限手続の効力発生の時）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span><span>制限{'更生': 1}</span><span>手続{'特別清算': 1}</span>は、その開始の決定の時から、<span>効力{'場合': 1}</span>を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（開始決定と同時に定めるべき事項）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、責任制限<span>手続{'破産手続': 1}</span>開始の決定と同時に、<span>管理人{'規定': 1}</span>を<span>選任{'規定': 1}</span>し、かつ、<span>次{'手続': 1}</span>の<span>事項{'規定': 1}</span>を<span>定め{'変更': 1, '規定': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1"><span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>届出{'手続': 1}</span><span>期間{'手続': 1}</span>。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、その期間は、決定の日から一月以上<span>四月{'規定': 1}</span>以下でなければならない。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1">制限債権の調査<span>期日{'規定': 1}</span>。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、その期日と届出期間の末日との<span>間{'異議': 1}</span>には、一週間以上二月以下の期間がなければならない。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（開始の公告等）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、<span>責任{'規定': 1}</span>制限手続開始の決定をしたときは、直ちに、次の事項を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>責任制限手続開始決定の年月日時及び主文</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十九条第一項の規定による決定に<span>基づき{'ある': 1}</span><span>供託{'規定': 1}</span>された<span>金銭{'規定': 1}</span>又は第二十条第一項の<span>供託{'規定': 1}</span><span>委託{'規定': 1}</span><span>契約{'規定': 1}</span>に係る<span>一定{'規定': 1}</span>の<span>金銭{'手続': 1}</span>の<span>総額{'当該': 1, '規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>管理{'手続': 1}</span>人の<span>氏名{'手続': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>申立{'住所': 1, '手続': 1}</span>人及び<span>知れ{'ある': 1}</span>ている<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>の<span>氏名{'規定': 1}</span>又は名称並びにこれらの者と事故に係る船舶、救助船舶又は救助者との関係</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>制限債権の届出期間及び<span>調査{'規定': 1}</span><span>期日{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>申立{'規定': 1}</span>人又は<span>受益{'相手方': 1, '規定': 1}</span><span>債務者{'規定': 1}</span>に対する<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>をその<span>届出{'手続': 1}</span><span>期間内{'手続': 1}</span>に<span>届け出る{'ある': 1}</span>べき<span>旨{'規定': 1}</span>の<span>催告{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'手続': 1}</span>、<span>申立{'手続': 1}</span>人<span>並び{'規定': 1}</span>に<span>知れ{'ある': 1}</span>ている<span>制限{'規定': 1}</span><span>債権者{'規定': 1}</span><span>及び{'又は': 1}</span><span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>には、<span>前項{'手続': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'規定': 1}</span>を<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">前二項の<span>規定{'手続': 1}</span>は、第一項第二号から第五号までに<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>に<span>変更{'手続': 1}</span>を<span>生じ{'あっ': 1, 'ある': 1}</span>た<span>場合{'規定': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>制限{'規定': 1}</span><span>債権{'新株予約権': 1, '規定': 1}</span>の<span>調査{'手続': 1}</span>期日の変更については、公告することを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（抗告）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限<span>手続{'特別清算': 1}</span>開始の申立てについての裁判に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二十三条の規定は、<span>責任{'規定': 1}</span>制限<span>手続{'特別清算': 1}</span>開始の申立てを却下し、又は<span>棄却{'規定': 1}</span>する決定に対して即時抗告があつた場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 2}</span>制限手続開始の決定に対し前条第一項の<span>即時抗告{'規定': 1}</span>が<span>あつ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、第十九条第一項の規定による決定において定められた<span>責任{'規定': 1}</span>限度額又は事故発生の日を不当と<span>認める{'ある': 1}</span>ときは、<span>裁判所{'手続': 1}</span>は、<span>申立{'額': 1}</span>人に対して、二週間を超えない一定の期間内に、増加すべき責任限度額に相当する金銭及びこれに対する事故<span>発生{'手続': 1}</span>の日から<span>供託{'締結': 1, '手続': 1}</span>の日（<span>次項{'規定': 1}</span>において<span>準用{'手続': 1}</span>する第二十条第一項の<span>規定{'場合': 2, '手続': 1}</span>により<span>供託{'規定': 1}</span><span>委託{'規定': 1}</span><span>契約{'規定': 1}</span>を<span>締結{'規定': 1}</span>する<span>場合{'手続': 1}</span>に<span>あつ{'ある': 1}</span>ては、同<span>項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による届出の日）まで<span>事故{'効力': 1}</span>発生の日における法定利率により算定した金銭又は増加すべき第十九条第一項に<span>規定{'手続': 1}</span>する法定利率により算定した金銭を供託し、かつ、その旨を責任制限裁判所に届け出るべきことを命じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">第十九条第二項及び第二十条から第二十二条までの規定は、<span>前項{'規定': 1}</span>の<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+                <Sentence Num="2">この<span>場合{'規定': 1}</span>において、第十<span>九条{'条': 1, '規定': 1}</span>第二項中「供託の日」とあるのは、「第三十条第一項の供託の日」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（開始決定を取り消す決定の公告等）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続開始の<span>決定{'規定': 1}</span>を取り消す決定が<span>確定{'手続': 1}</span>したときは、<span>裁判所{'手続': 1}</span>は、<span>直ちに{'相当': 1}</span>、その旨を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'規定': 1}</span>、<span>申立{'規定': 1}</span>人<span>並び{'規定': 1}</span>に<span>知れ{'ある': 1}</span>ている<span>制限{'規定': 1}</span><span>債権者{'規定': 1}</span><span>及び{'又は': 1}</span><span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>には、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>公告{'手続': 1}</span>に係る<span>事項{'規定': 1}</span>を<span>記載{'通知': 1, '規定': 1}</span>した<span>書面{'規定': 1}</span>を<span>送達{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（開始決定が取り消された場合における供託金の取戻しの制限）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>申立{'場合': 1, '手続': 1}</span>人は、<span>前条{'終局': 1, '規定': 1}</span>第一項の<span>決定{'規定': 1}</span>が<span>確定{'手続': 1}</span>した日から<span>起算{'規定': 1}</span>して一月を経過した後でなければ、次条に規定する基金として供託された金銭を取り戻し、又はその取戻請求権を処分することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（手続開始の効果）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">責任制限手続が開始されたときは、制限債権者は、この<span>法律{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、第十<span>九条{'規定': 1}</span>第一項又は第三十条第一項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>に<span>基づき{'ある': 1}</span><span>供託{'規定': 1}</span>された<span>金銭{'規定': 1}</span>、第二十<span>一条{'規定': 1}</span>第一項又は第二十二条第五項（第三十条第二項においてこれらの<span>規定{'手続': 1}</span>を<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>により<span>供託{'規定': 1}</span>される<span>金銭{'規定': 1}</span>及び第九十四条第一項の<span>規定{'手続': 1}</span>により<span>供託{'規定': 1}</span>される<span>金銭{'規定': 1}</span>並びに供託されたこれらの金銭に付される利息（以下「<span>基金{'手続': 1}</span>」という。）から支払を受けることができる。</Sentence>
+                <Sentence Num="2">この場合においては、制限債権者は、<span>基金{'規定': 1}</span>以外の申立人の財産又は受益債務者の財産に対してその権利を行使することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'場合': 1, '規定': 1}</span><span>制限{'規定': 1}</span>手続が開始されたときは、制限債権者は、制限<span>債権{'取得': 1, '手続': 1}</span>を<span>もつ{'ある': 1}</span>て<span>申立{'規定': 1}</span>人又は受益債務者の債権と<span>相殺{'手続': 1}</span>することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（強制執行に対する異議の訴え）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>申立{'委託': 1}</span>人又は受益債務者は、第三十三条<span>後段{'規定': 1}</span>の<span>事由{'規定': 3}</span>を<span>主張{'規定': 1}</span>して制限債権に基づく強制執行の不<span>許{'手続': 1}</span>を求めるには、強制執行に対する異議の訴えを提起しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>請求{'規定': 1}</span><span>異議{'規定': 1}</span>の<span>訴え{'手続': 1}</span>に関する<span>民事執行法{'規定': 1}</span>（昭和五十四年<span>法律{'手続': 1}</span>第四号）の<span>規定{'手続': 1}</span>は、<span>前項{'規定': 1}</span>の<span>訴え{'申立て': 1, '規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（担保権実行に対する異議の訴え）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>申立{'場合': 1, '規定': 1}</span>人又は<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>は、第三十三条<span>後段{'規定': 1}</span>の<span>事由{'規定': 3}</span>を<span>主張{'規定': 1}</span>して<span>制限{'規定': 1}</span>債権に基づく担保権の実行の不<span>許{'手続': 1}</span>を求めるには、担保権の実行に対する異議の訴えを提起しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の訴えは、被告の<span>普通裁判籍{'規定': 1}</span>の所在地を管轄する<span>裁判所{'地方裁判所': 2}</span>又はこの<span>裁判所{'申立': 1}</span>がないときは、<span>担保権{'規定': 1}</span>の<span>目的{'規定': 1}</span>である<span>財産{'手続': 1}</span>の<span>所在地{'規定': 1}</span>を<span>管轄{'規定': 1}</span>する<span>裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>に<span>専属{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>民事執行法{'規定': 1}</span>第三十六条及び第三十七条の規定は、第一項の訴えについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　責任制限手続の拡張</SectionTitle>
+          <Article Num="37">
+            <ArticleCaption>（手続拡張の申立て）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">物の損害に関する債権のみについて責任制限手続が開始された場合においては、申立人<span>又は{'及び': 1}</span><span>受益{'規定': 1}</span>債務者は、人の損害に関する債権について責任を制限するため、責任制限手続<span>拡張{'開始': 1}</span>の申立てをすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、制限債権の調査<span>期日{'期間': 1, '規定': 1}</span>が<span>開始{'手続': 1}</span>された後は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十八条から第二十五条までの規定は、<span>前項{'規定': 1}</span>の<span>申立て{'場合': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（手続拡張の決定）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>責任制限手続を拡張する<span>決定{'規定': 1}</span>においては、責任制限手続が人の損害に関する債権についても効力を及ぼす旨を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前節（第二十七条中<span>管理人{'規定': 1}</span>の選任に関する部分を除く。）の規定は、前項の<span>決定{'場合': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（受益債務者を申立人とみなす場合）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>前条{'規定': 1}</span>第一項の<span>決定{'規定': 1}</span>があつたときは、第八十二条から第八十四条まで、第九十条から第九十二条まで及び第九十四条の規定の適用については、責任制限手続<span>拡張{'開始': 1}</span>の申立てをした受益債務者は、申立人とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　管理人</SectionTitle>
+          <Article Num="40">
+            <ArticleCaption>（権限）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'規定': 1}</span>は、<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'手続': 1}</span><span>期日{'規定': 1}</span>における<span>意見{'規定': 1}</span>の<span>陳述{'回復': 1}</span>、<span>配当{'手続': 1}</span>その他この<span>法律{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>職務{'ほか': 1, '規定': 1}</span>を<span>行う{'ある': 1}</span><span>権限{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>職務{'規定': 2}</span>を<span>行う{'ある': 1}</span>ため、<span>管理人{'規定': 1}</span>は、<span>申立{'手続': 1}</span>人又は<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>に対して、<span>必要{'規定': 1}</span>な<span>事項{'規定': 1}</span>の<span>報告{'手続': 1}</span>又は<span>帳簿{'規定': 1}</span>その他の<span>書類{'手続': 1}</span>の<span>提出{'交付': 1, '手続': 1}</span>を<span>求める{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（監督）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'規定': 1}</span>は、<span>裁判所{'規定': 1}</span>が<span>監督{'信託': 1, '手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（注意義務）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'手続': 1}</span>は、<span>善良{'規定': 1}</span>な<span>管理{'規定': 1}</span>者の<span>注意{'規定': 1}</span>を<span>もつ{'ある': 1}</span>てその<span>職務{'手続': 1}</span>を<span>行わ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleCaption>（管理人代理）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'破産管財人': 1, '規定': 1}</span>は、<span>必要{'手続': 1}</span>があるときは、その職務を行わせるため、自己の<span>責任{'手続': 1}</span>で<span>管理人{'届出': 1}</span><span>代理{'規定': 1}</span>を<span>選任{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の<span>規定{'信託': 1}</span>による<span>管理人{'受益者': 1}</span>代理の<span>選任{'受益者': 1}</span>については、裁判所の許可を得なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（報酬等）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>管理人は、<span>責任{'規定': 1}</span>制限手続のため必要な費用の前払及び<span>裁判所{'規定': 1}</span>が<span>定める{'でき': 1}</span><span>報酬{'裁判': 1, '規定': 1}</span>を<span>受ける{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'手続': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（解任）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>重要{'手続': 1}</span>な<span>事由{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>裁判所{'手続': 1}</span>は、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により、又は<span>職権{'規定': 1}</span>で、<span>管理人{'規定': 1}</span>を<span>解任{'規定': 1}</span>することができる。</Sentence>
+                <Sentence Num="2">この<span>場合{'規定': 1}</span>においては、その<span>管理{'規定': 1}</span>人を<span>審尋{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（計算の報告義務）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'手続': 1}</span>の<span>任務{'手続': 1}</span>が<span>終了{'手続': 1}</span>した<span>場合{'規定': 1}</span>においては、<span>管理人{'規定': 1}</span>又はその<span>相続人{'規定': 1}</span>は、<span>遅滞{'規定': 1}</span><span>なく{'やすい': 1}</span>、<span>裁判所{'手続': 1}</span>に<span>計算{'規定': 1}</span>の<span>報告{'規定': 1}</span>をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　責任制限手続への参加</SectionTitle>
+          <Article Num="47">
+            <ArticleCaption>（参加）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>制限{'手続': 1}</span><span>債権者{'規定': 1}</span>は、その<span>有する{'ある': 1}</span><span>制限{'手続': 1}</span><span>債権{'規定': 1}</span>（<span>利息{'手続': 1}</span>又は不履行による損害賠償若しくは違約金の<span>請求権{'規定': 1}</span>については、制限債権の調査<span>期日{'公告': 1}</span>の開始の日までに生じたものに限る。以下この章において同じ。）をもつて<span>責任{'規定': 1}</span>制限手続に参加することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>制限債権を<span>弁済{'手続': 1}</span>した申立人又は受益債務者は、<span>弁済{'財産': 1}</span>の限度においてその制限債権を有するものとみなし、これをもつて<span>責任{'規定': 1}</span>制限<span>手続{'登記': 1}</span>に参加することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">制限債権につき、将来、制限債権者に代位し、又は申立人若しくは受益債務者に対して<span>求償{'財産': 1, '規定': 1}</span>権を有することとなる者は、その制限債権を有するものとみなし、これをもつて<span>責任{'規定': 1}</span>制限手続に参加することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、制限債権者が<span>責任{'規定': 1}</span>制限手続に<span>参加{'規定': 1}</span>した場合における当該参加に係る<span>制限{'手続': 1}</span><span>債権{'規定': 1}</span>については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>申立{'手続': 1}</span>人又は<span>受益{'規定': 1}</span><span>債務者{'債権': 1, '規定': 1}</span>は、<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>に<span>基づき{'ある': 1}</span><span>外国{'規定': 1}</span>において<span>強制執行{'規定': 1}</span>をされるおそれが<span>ある{'でき': 1}</span>ときは、その<span>強制執行{'手続': 1}</span>により<span>支払{'規定': 1}</span>をすべき<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>額{'手続': 1}</span>についてその<span>制限{'規定': 1}</span>債権を有するものとみなし、これをもつて<span>責任{'手続': 1}</span>制限手続に参加することができる。</Sentence>
+                <Sentence Num="2">前項<span>ただし書{'同法': 1}</span>の<span>規定{'手続': 1}</span>は、この場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前各項の規定により<span>責任{'規定': 1}</span>制限手続に参加しようとする者は、制限債権の<span>内容{'手続': 1}</span>その他の<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'ある': 1}</span>事項を<span>裁判所{'記載': 1}</span>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項の規定により<span>責任{'規定': 1}</span>制限手続に参加しようとする者が前項の規定による<span>届出{'手続': 1}</span>をするときは、<span>外国{'手続': 1}</span>において<span>強制執行{'規定': 1}</span>をされるおそれが<span>ある{'受ける': 1}</span>ことを<span>疎明{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（制限債権につき申立人及び受益債務者以外の者が全部義務を負う場合）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>制限{'手続': 1}</span><span>債権{'規定': 1}</span>につき<span>申立{'手続': 1}</span>人及び<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>以外に<span>全部{'規定': 2}</span>の<span>履行{'規定': 1}</span>をする義務を負う者がある場合において、その者のためにも<span>責任{'規定': 1}</span>制限手続が開始され、又は拡張されたときは、制限債権者は、責任制限手続開始の時又は責任制限手続拡張の時に有する制限債権の全額につき、各責任制限手続においてその権利を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の<span>規定{'手続': 1}</span>は、<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>につき<span>申立{'手続': 1}</span>人及び<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>以外に<span>全部{'規定': 2}</span>の<span>履行{'規定': 1}</span>をする<span>義務{'規定': 1}</span>を<span>負う{'ある': 1}</span>者が<span>ある{'でき': 1}</span><span>場合{'規定': 1}</span>において、その者のために船舶油濁等損害賠償保障法の規定により<span>責任{'手続': 1}</span>制限手続が開始され、又は拡張されたときにおける同法第二条第十三号に規定する船舶油濁等損害に<span>基づく{'ある': 1}</span><span>債権{'規定': 1}</span>（<span>制限{'手続': 1}</span><span>債権{'次': 1, '規定': 1}</span>に<span>該当{'手続': 1}</span>するものに<span>限る{'ある': 1}</span>。）について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（金銭を目的としない債権等）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>債権{'規定': 1}</span>の<span>目的{'手続': 1}</span>が、<span>金銭{'規定': 1}</span>でないとき、又は<span>金銭{'規定': 1}</span>であつてその額が不確定であるとき、若しくは外国の<span>通貨{'規定': 1}</span>をもつて定められたものであるときは、その債権の額は、責任<span>制限{'更生': 1}</span>手続開始の時又は責任制限手続拡張の時における評価額による。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（届出の期間）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第四十七条第五項の規定による届出は、第二十七条（第三十八条第二項において準用する場合を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>により<span>裁判所{'定款': 1, '規定': 1}</span>が定めた届出期間内にしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">第四十七条第一項から第四項までの規定により<span>責任{'規定': 1}</span>制限手続に参加することのできる者が、その責めに帰することのできない事由に<span>よつ{'ある': 1}</span>て届出期間内に届出をすることができなかつたときは、その者は、前項の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>届出{'規定': 1}</span><span>期間{'手続': 1}</span>が<span>経過{'規定': 1}</span>した後においても、<span>届出{'規定': 1}</span>をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2"><span>ただし{'又は': 1}</span>、<span>制限{'規定': 1}</span>債権の調査期日が終了した後は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（変更の届出等）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続に参加した者は、その<span>届け出{'重要': 1}</span>た事項に<span>変更{'手続': 1}</span>が<span>生じ{'ある': 1}</span>たとき、又は<span>届け出{'規定': 1}</span>た<span>事項{'手続': 1}</span>を<span>変更{'規定': 1}</span>しようとするときは、その旨を<span>裁判所{'規定': 1}</span>に<span>届け出{'手続': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前条{'手続': 1}</span>の<span>規定{'財産': 1, '手続': 1}</span>は、他の制限債権者の利益を<span>害す{'ある': 1}</span>べき変更の届出をする場合について<span>準用{'前条': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">第四十七条第三項又は第四項の規定により<span>責任{'規定': 1}</span><span>制限{'非訟事件': 1}</span>手続に参加した者は、<span>制限{'更生': 1}</span>債権者に<span>代位{'規定': 1}</span>し、申立人若しくは受益債務者に対して求償権を取得し、又は<span>制限{'一部': 1}</span>債権につき支払をしたときは、その旨を<span>裁判所{'規定': 1}</span>に<span>届け出{'手続': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'規定': 1}</span>においては、<span>届出{'規定': 1}</span>の原因となつた事実を証明しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（手続に参加した者の地位の承継）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続に参加した者の届出に係る<span>債権{'手続': 1}</span>を<span>取得{'手続': 1}</span>した者は、その<span>参加{'規定': 1}</span><span>した{'規定': 1}</span>者の<span>地位{'手続': 1}</span>を<span>承継{'手続': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>承継{'規定': 1}</span>しようとする者は、<span>取得{'手続': 1}</span>した<span>債権{'規定': 1}</span>その他の<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>裁判所{'手続': 1}</span>に<span>届け出{'手続': 1}</span>なければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'手続': 1}</span>においては、<span>当該{'規定': 1}</span><span>債権{'規定': 1}</span>を取得したことを証明しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の規定は、第四十七条第一項の規定により<span>責任{'規定': 1}</span>制限手続に参加した者の届出に係る債権を<span>弁済{'手続': 1}</span>した申立人又は受益債務者について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（届出の却下）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、この節の規定に<span>よつ{'ある': 1}</span>てする届出が第四十七条第五項若しくは第六項、第五十条（第五十一条第二項において準用する場合を<span>含む{'ある': 1}</span>。）、第五十<span>一条{'規定': 1}</span>第三項<span>又は{'及び': 1}</span><span>前条{'規定': 1}</span>第二項（同<span>条{'申立': 1, '規定': 1}</span>第三項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>に<span>違反{'規定': 1}</span>するときは、その<span>届出{'申立て': 1, '規定': 1}</span>を<span>却下{'破産債権者': 1, '手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（時効の完成猶予）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続への参加がある場合には、<span>責任{'規定': 1}</span>制限手続への参加が終了する（責任制限手続終結の決定によらないで責任制限手続への参加が終了した場合に<span>あつ{'ある': 1}</span>ては、その<span>終了{'手続': 1}</span>の時から<span>六月{'規定': 1}</span>を<span>経過{'手続': 1}</span>する）までの<span>間{'手続': 1}</span>は、<span>時効{'規定': 1}</span>は、<span>完成{'手続': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（知れた制限債権者の届出義務等）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>申立{'手続': 1}</span>人及び<span>受益{'規定': 1}</span><span>債務者{'手続': 1}</span>は、第十<span>八条{'規定': 1}</span>（第三十七条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>により<span>届け出{'規定': 1}</span>た制限債権者以外の制限債権者で、まだ責任制限手続に<span>参加{'代理人': 1}</span>していないものの氏名又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span>を<span>知つ{'ある': 1}</span>たときは、<span>直ちに{'相当': 1}</span>、これを<span>裁判所{'手続': 1}</span>に<span>届け出{'手続': 1}</span>なければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>制限{'協定': 1, '規定': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'手続': 1}</span><span>期日{'規定': 1}</span>が<span>終了{'規定': 1}</span>した後に<span>知つ{'ある': 1}</span>たときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二十八条第二項及び第三項（第三十八条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>届出{'規定': 1}</span>に係る制限債権者について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（配当の前払の許可）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第四十七条第一項の規定により<span>責任{'規定': 1}</span>制限手続に参加した者の著しい損害を避けるため<span>緊急{'手続': 1}</span>の必要があるときは、裁判所は、当該参加<span>した{'手続': 1}</span>者の<span>届出{'規定': 1}</span>に係る<span>債権{'手続': 1}</span>が<span>確定{'手続': 1}</span>する<span>前{'手続': 1}</span>においても、<span>管理人{'規定': 1}</span>の<span>申立て{'規定': 1}</span>により、又は<span>職権{'規定': 1}</span>で、<span>管理人{'規定': 1}</span>に対して、<span>制限{'規定': 1}</span>債権に対する配当の一部として<span>基金{'破産債権者': 1, '規定': 1}</span>から相当の金額を支払うことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>管理人は、<span>前項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>制限{'規定': 1}</span><span>債権者{'規定': 1}</span>から同<span>項{'規定': 1}</span>の<span>申立て{'規定': 1}</span>をすべきことを<span>求め{'ある': 1}</span>られたときは、<span>直ちに{'相当': 1}</span>、その旨を<span>裁判所{'規定': 1}</span>に<span>報告{'手続': 1}</span>し、なお、その<span>申立て{'規定': 1}</span>をしないこととしたときは、<span>遅滞{'規定': 1}</span><span>なく{'著しい': 1}</span>、その<span>理由{'規定': 1}</span>を<span>裁判所{'規定': 1}</span>に<span>報告{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="7">
+          <SectionTitle>第七節　制限債権の調査及び確定</SectionTitle>
+          <Article Num="57">
+            <ArticleCaption>（制限債権の調査）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'手続': 1}</span><span>期日{'規定': 1}</span>においては、<span>届出{'規定': 1}</span>の<span>あつ{'でき': 1}</span>た<span>債権{'規定': 1}</span>について、<span>制限{'届出': 1, '手続': 1}</span><span>債権{'規定': 1}</span>であるか<span>どう{'相当': 1}</span>か、並びに<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>であるときは、その<span>内容{'手続': 1}</span>及び人の損害に関する債権と<span>物{'手続': 1}</span>の損害に関する債権との別を調査する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58">
+            <ArticleCaption>（関係人の出頭）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>申立人、受益債務者及び<span>責任{'規定': 1}</span><span>制限{'規定': 1}</span>手続に参加した者並びにこれらの<span>代理人{'規定': 1}</span>は、制限<span>債権{'規定': 1}</span>の<span>調査{'手続': 1}</span><span>期日{'規定': 1}</span>に<span>出頭{'債権': 1, '規定': 1}</span>して、<span>届出{'場合': 1, '手続': 1}</span>の<span>あつ{'でき': 1}</span>た<span>債権{'規定': 1}</span>について<span>異議{'届出': 1, '手続': 1}</span>を<span>述べる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="59">
+            <ArticleCaption>（管理人の出頭）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>制限{'手続': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'社債': 1, '手続': 1}</span>は、<span>管理人{'規定': 1}</span>の<span>出頭{'規定': 1}</span>が<span>なけれ{'なく': 1}</span>ばすることが<span>でき{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="60">
+            <ArticleCaption>（異議のない制限債権の確定）</ArticleCaption>
+            <ArticleTitle>第六十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'支払': 1, '手続': 1}</span><span>期日{'規定': 1}</span>において<span>管理人{'手続': 1}</span><span>及び{'次に': 1}</span>第五十八条に<span>掲げる{'取り消さ': 1}</span>者の<span>異議{'規定': 1}</span>が<span>なかつ{'なく': 1}</span>たときは、<span>制限{'手続': 1}</span><span>債権{'手続': 1}</span>であること及びその<span>内容{'規定': 1}</span>並びに人の損害に関する債権と<span>物{'手続': 1}</span>の損害に関する債権との別は、確定する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="61">
+            <ArticleCaption>（査定の裁判）</ArticleCaption>
+            <ArticleTitle>第六十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、異議のあつた債権について、査定の裁判をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>査定{'規定': 1}</span>の裁判においては、当該債権が、<span>制限{'手続': 1}</span><span>債権{'規定': 1}</span>でないときはその旨を、制限債権であるときはその<span>内容{'手続': 1}</span>及び人の損害に関する債権と<span>物{'手続': 1}</span>の<span>損害{'更生': 1}</span>に関する債権との別を定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>査定の裁判は、当該債権を届け出た者及びその債権について異議を述べた者に送達する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="62">
+            <ArticleCaption>（管理人の調査等）</ArticleCaption>
+            <ArticleTitle>第六十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、査定の裁判をするに当たり、管理人に対して、必要な事項について<span>調査{'手続': 1}</span>を命じ、又は意見を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63">
+            <ArticleCaption>（査定の裁判に対する異議の訴え）</ArticleCaption>
+            <ArticleTitle>第六十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>査定{'規定': 1}</span>の裁判に不服がある者（管理人を除く。）は、<span>決定{'規定': 1}</span>の<span>送達{'手続': 1}</span>を<span>受け{'ある': 1}</span>た日から<span>一月{'規定': 1}</span>の<span>不変{'手続': 1}</span><span>期間内{'手続': 1}</span>に、<span>異議{'当該': 1, '規定': 1}</span>の<span>訴え{'手続': 1}</span>を<span>提起{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>訴え{'規定': 1}</span>は、これを<span>提起{'規定': 1}</span>する者が、<span>異議{'規定': 1}</span>のあつた債権を届け出た者であるときは異議を述べた者を、異議を述べた者であるときは異議のあつた債権を届け出た者を、それぞれ被告としなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の訴えは、<span>責任{'規定': 1}</span>制限裁判所の管轄に専属し、口頭弁論は、第一項の<span>期間{'規定': 1}</span>を<span>経過{'規定': 1}</span>した後でなければ、<span>開始{'規定': 1}</span>することが<span>でき{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>同一{'規定': 1}</span>の<span>債権{'規定': 1}</span>に関し数個の<span>訴え{'手続': 1}</span>が<span>同時に{'相当': 1}</span><span>係属{'手続': 1}</span>するときは、<span>弁論{'手続': 1}</span>及び<span>裁判{'規定': 1}</span>は、<span>併合{'手続': 1}</span>してしなければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'手続': 1}</span>においては、<span>民事訴訟法{'手続': 1}</span>第四十条第一項から第三項までの<span>規定{'手続': 1}</span>を<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>訴え{'規定': 1}</span>についての<span>判決{'規定': 1}</span>においては、<span>訴え{'規定': 1}</span>を<span>不適法{'提起': 1, '規定': 1}</span>として却下する場合を除き、<span>査定{'手続': 1}</span>の裁判を認可し、又は変更する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="64">
+            <ArticleCaption>（訴訟手続の中止）</ArticleCaption>
+            <ArticleTitle>第六十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第四十七条第五項の規定により<span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>届出{'手続': 1}</span>がされた<span>場合{'手続': 1}</span>において、<span>当該{'規定': 1}</span><span>債権{'相続': 1, '規定': 1}</span>に関する<span>債権者{'届出': 1, '手続': 1}</span>及び<span>申立{'規定': 1}</span>人又は<span>受益{'規定': 1}</span><span>債務者{'人事': 1, '手続': 1}</span>間の<span>訴訟{'規定': 1}</span>（以下「<span>手続{'届出': 1}</span>外<span>訴訟{'手続': 1}</span>」と<span>いう{'ある': 1}</span>。）が<span>係属{'規定': 1}</span>するときは、<span>裁判所{'規定': 1}</span>は、<span>原告{'手続': 1}</span>の<span>申立て{'規定': 1}</span>により、その<span>訴訟{'裁判': 1, '規定': 1}</span><span>手続{'規定': 1}</span>の<span>中止{'手続': 1}</span>を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'手続': 1}</span>は、<span>原告{'前項': 1, '手続': 1}</span>の<span>申立て{'規定': 1}</span>により、<span>前項{'手続': 1}</span>の規定による中止の決定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="65">
+            <ArticleCaption>（手続外訴訟の管轄の拡張）</ArticleCaption>
+            <ArticleTitle>第六十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>査定{'規定': 1}</span>の裁判に対する異議の訴えが係属するときは、その訴えに係る<span>債権{'規定': 1}</span>を<span>有する{'ある': 1}</span>者及び<span>申立{'規定': 1}</span>人又は<span>受益{'規定': 1}</span>債務者間の<span>当該{'すべて': 1}</span>債権に関する<span>訴え{'規定': 1}</span>は、責任<span>制限{'査定': 1}</span>裁判所に提起することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="66">
+            <ArticleCaption>（移送）</ArticleCaption>
+            <ArticleTitle>第六十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>査定の裁判に対する異議の訴えが係属する場合において、その訴えに係る<span>債権{'訴訟': 2, '規定': 1}</span>に関する<span>手続{'届出': 1}</span>外訴訟が他の第一審裁判所に係属するときは、<span>責任{'規定': 1}</span>制限裁判所は、申立てにより、その移送を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'請求': 1, '規定': 1}</span>が<span>あつ{'ある': 1}</span>たときは、<span>移送{'場合': 1, '規定': 1}</span>を求められた<span>裁判所{'訴訟': 1}</span>は、手続外訴訟を<span>責任{'手続': 1}</span>制限裁判所に<span>移送{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定による移送は、<span>訴訟{'裁判': 1, '規定': 1}</span><span>手続{'規定': 1}</span>が中断又は中止中でもすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="67">
+            <ArticleCaption>（併合）</ArticleCaption>
+            <ArticleTitle>第六十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>責任制限裁判所に査定の裁判に対する異議の訴えと手続外訴訟とが<span>係属{'手続': 1}</span>するときは、弁論及び裁判は、併合してしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="8">
+          <SectionTitle>第八節　配当</SectionTitle>
+          <Article Num="68">
+            <ArticleCaption>（配当）</ArticleCaption>
+            <ArticleTitle>第六十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>基金{'手続': 1}</span>は、<span>第九{'同法': 1}</span>十二条第五項（第九十四条第二項において準用する場合を含む。）又は第九十三条第一項若しくは第三項の規定により支弁されるものを除き、配当に充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69">
+            <ArticleCaption>（配当の時期）</ArticleCaption>
+            <ArticleTitle>第六十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>管理人は、制限債権の調査期日が<span>終了{'規定': 1}</span>した後、<span>遅滞{'規定': 1}</span><span>なく{'やむを得ない': 1}</span>、<span>配当{'当該': 1, '手続': 1}</span>を<span>行わ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>制限{'規定': 1}</span><span>債権{'規定': 1}</span>の<span>調査{'手続': 1}</span>期日において異議があつたときは、管理人は、査定の裁判に対する異議の訴えの出訴期間を経過した後でなければ、配当を行うことができない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>裁判所{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'ある': 1}</span>たときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="70">
+            <ArticleCaption>（配当表）</ArticleCaption>
+            <ArticleTitle>第七十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>管理人は、配当を行おうとするときは、配当表を<span>作り{'ある': 1}</span>、裁判所の認可を得なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>配当表には、配当に<span>加える{'ある': 1}</span>べき制限債権者の氏名、配当に加えるべき<span>制限{'規定': 1}</span><span>債権{'控除': 1}</span>の<span>額{'手続': 1}</span>、<span>配当{'規定': 1}</span>することのできる金銭の額、配当率その他の<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'でき': 1}</span>事項を人の損害に関する債権と<span>物{'手続': 1}</span>の損害に関する債権との別に従つて記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="71">
+            <ArticleCaption>（配当表の認可の公告）</ArticleCaption>
+            <ArticleTitle>第七十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'簡易': 1}</span>は、<span>配当{'手続': 1}</span>表を<span>認可{'規定': 1}</span>したときは、その旨を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="72">
+            <ArticleCaption>（配当表に対する異議）</ArticleCaption>
+            <ArticleTitle>第七十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>配当{'規定': 1}</span>表の<span>記載{'財産': 1, '期間': 1, '規定': 1}</span>に<span>不服{'手続': 1}</span>が<span>ある{'除く': 1}</span>者は、<span>前条{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>公告{'規定': 1}</span>の日から二週間の<span>不変{'規定': 1}</span><span>期間内{'準用': 1, '規定': 1}</span>に、<span>裁判所{'規定': 1}</span>に対して、<span>異議{'規定': 1}</span>を<span>申し立てる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'前項': 1, '規定': 1}</span>は、<span>異議{'規定': 1}</span>が<span>相当{'手続': 1}</span>であると<span>認める{'ある': 1}</span>ときは、<span>管理人{'手続': 1}</span>に対して、<span>配当{'手続': 1}</span>表の<span>更正{'手続': 1}</span>を命じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>異議についての裁判に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="73">
+            <ArticleCaption>（配当の保留の申出）</ArticleCaption>
+            <ArticleTitle>第七十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'手続': 1}</span>制限手続に参加した者は、配当表に対する異議<span>申立{'手続': 1}</span><span>期間{'規定': 1}</span>の<span>経過{'手続': 1}</span><span>前{'規定': 1}</span>に、<span>管理人{'規定': 1}</span>に対して、<span>届出{'規定': 1}</span>に係る<span>自己{'手続': 1}</span>の<span>債権{'規定': 1}</span>につき<span>手続{'届出': 1}</span>外<span>訴訟{'規定': 1}</span>が<span>係属{'手続': 1}</span>していること又は<span>当該{'再生': 1, '規定': 1}</span><span>債権{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>強制執行{'社債管理者': 1, '規定': 1}</span>若しくは担保権の実行がされていることを証明して、配当の<span>保留{'手続': 1}</span>の申出をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="74">
+            <ArticleCaption>（配当の保留）</ArticleCaption>
+            <ArticleTitle>第七十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>管理人は、次に掲げる債権については、配当を保留しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前条の規定により配当の保留の申出がされた債権</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第四十七条第三項又は第四項の規定により責任制限手続に参加した者の届出に係る債権で、第五十一条第三項の規定による届出がないもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>責任制限手続においてまだ確定していない債権で、前二号に掲げるもの以外のもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="75">
+            <ArticleCaption>（費用等の保留命令）</ArticleCaption>
+            <ArticleTitle>第七十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第九十二条第一項若しくは第九十三条第二項又は同条第一項の規定により立て替えられ、又は支弁されることとなる費用等及び弁護士又は<span>弁護士法人{'規定': 1}</span>の報酬で、その額が明らかでないものがあるときは、裁判所は、管理人に対して、基金につき相当額の保留をすることを命じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>裁判所は、前項の規定による決定を変更し、又は取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="76">
+            <ArticleCaption>（配当の効果）</ArticleCaption>
+            <ArticleTitle>第七十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限<span>手続{'新株予約権': 1}</span>に参加した者がその配当額につき供託に関する法令の規定により<span>基金{'規定': 1}</span>から支払を受けることができることとなつたときは、申立人及び受益<span>債務者{'財産': 1, '証券': 1}</span>は、<span>責任{'規定': 2}</span>制限手続外においては、当該参加した者に対する配当に係る債権について、その責任を免れる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="77">
+            <ArticleCaption>（手続からの除斥）</ArticleCaption>
+            <ArticleTitle>第七十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>届出に係る債権が手続外訴訟において制限債権でないことに確定したときは、当該債権は、<span>責任{'債務者': 1}</span>制限手続から除斥される。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="78">
+            <ArticleCaption>（保留された配当の実施）</ArticleCaption>
+            <ArticleTitle>第七十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第七十四条各号に掲げる債権について、次に掲げる<span>事由{'規定': 1}</span>が<span>生じ{'ある': 1}</span>たときは、<span>管理人{'規定': 1}</span>は、<span>遅滞{'規定': 1}</span><span>なく{'やむを得ない': 1}</span>、<span>配当{'手続': 1}</span>を<span>実施{'財産': 1, '手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第七十四条<span>第一{'手続': 1}</span>号に<span>掲げる{'ある': 1}</span><span>債権{'場合': 2, '規定': 1}</span>にあつては、その内容が確定し、かつ、<span>保留{'規定': 1}</span>の申出をした者が配当を行うべきことを求めたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第七十四条第二号に掲げる<span>債権{'規定': 1}</span>に<span>あつ{'ある': 1}</span>ては、その<span>内容{'規定': 1}</span>が<span>確定{'規定': 1}</span>し、かつ、第五十<span>一条{'前条': 1, '手続': 1}</span>第三項の<span>規定{'手続': 1}</span>による<span>届出{'場合': 1, '規定': 1}</span>が<span>あつ{'ある': 1}</span>たとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第七十四条第三号に<span>掲げる{'ある': 1}</span><span>債権{'場合': 1}</span>にあつては、その内容が確定したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="79">
+            <ArticleCaption>（追加配当）</ArticleCaption>
+            <ArticleTitle>第七十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>基金に新たに配当に充てることができる部分が生じたときは、管理人は、更に配当を<span>行わ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>管理人{'規定': 1}</span>は、<span>裁判所{'規定': 1}</span>の<span>許可{'手続': 1}</span>を<span>得{'取り消さ': 1}</span>て、<span>一時{'手続': 1}</span><span>前項{'手続': 1}</span>の<span>配当{'規定': 1}</span>を行わないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="80">
+            <ArticleCaption>（手続の終結）</ArticleCaption>
+            <ArticleTitle>第八十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>配当が終了したときは、裁判所は、責任制限手続終結の決定をし、かつ、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="81">
+            <ArticleCaption>（損害賠償）</ArticleCaption>
+            <ArticleTitle>第八十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>申立人又は<span>受益{'規定': 2}</span><span>債務者{'条': 1, '手続': 1}</span>が第十八条（第三十七条第二項において<span>準用{'規定': 1}</span>する場合を含む。）又は第五十五条第一項に規定する届出義務に違反した場合において、<span>責任{'規定': 1}</span>制限手続終結の決定があつたときは、これらの者は、その<span>義務{'場合': 1}</span>に違反したことにより生じた損害を賠償する責めに任ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="9">
+          <SectionTitle>第九節　責任制限手続の廃止</SectionTitle>
+          <Article Num="82">
+            <ArticleCaption>（手続の廃止）</ArticleCaption>
+            <ArticleTitle>第八十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">次の<span>場合{'規定': 1}</span>においては、裁判所は、申立てにより、又は職権で、責任<span>制限{'規定': 1}</span>手続廃止の決定をしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、第三号の場合において制限<span>債権者{'規定': 1}</span>を<span>著しく{'なく': 1}</span><span>害する{'ある': 1}</span>おそれが<span>ある{'除く': 1}</span>ときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十二条第二項（第三十条第二項及び第三十七条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>に<span>基づき{'あっ': 1, 'ある': 1}</span><span>受託{'規定': 1}</span>者から<span>金銭{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>受ける{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ないことを<span>管理人{'規定': 1}</span>が<span>証明{'規定': 1}</span>したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>申立{'規定': 1}</span>人が第三十条第一項（第三十八条第二項において<span>準用{'手続': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>に<span>従わ{'ある': 1}</span>ないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>申立{'規定': 1}</span>人が第九十一条<span>後段{'前項': 1, '決定': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'届出': 1}</span>に<span>従わ{'でき': 1}</span>ないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="83">
+            <ArticleTitle>第八十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>申立{'規定': 1}</span>人は、知れている受益債務者及び<span>責任{'規定': 1}</span>制限手続に参加した者の全員の同意を得て、<span>責任{'規定': 1}</span><span>制限{'更生': 1}</span>手続廃止の申立てをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の申立てがあつたときは、裁判所は、責任制限手続<span>廃止{'開始': 1}</span>の決定をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="84">
+            <ArticleTitle>第八十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">申立人が破産手続開始の決定を受けた場合において、責任制限手続を続行することが破産債権者を著しく害するおそれがあるときは、裁判所は、破産管財人の申立てにより、責任制限手続廃止の決定をしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>配当{'規定': 1}</span>表の認可の公告があつたとき、又は<span>破産法{'規定': 1}</span>（平成十六年法律第七十五号）第百九十五条第一項に<span>規定{'手続': 1}</span>する最後配当、同法第二百四条第一項に規定する<span>簡易{'手続': 1}</span><span>配当{'手続': 1}</span>、<span>同法{'手続': 1}</span>第二百八条第一項に<span>規定{'手続': 1}</span>する<span>同意{'規定': 1}</span>配当若しくは同法第二百九条第一項に規定する<span>中間{'手続': 1}</span>配当の許可があつたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="85">
+            <ArticleCaption>（廃止の公告等）</ArticleCaption>
+            <ArticleTitle>第八十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、責任制限<span>手続{'規定': 1}</span><span>廃止{'開始': 1}</span>の決定をしたときは、直ちに、その<span>主文{'手続': 1}</span>及び<span>理由{'規定': 1}</span>の<span>要旨{'規定': 1}</span>を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三十<span>一条{'手続': 1}</span>第二項の規定は、前項の場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="86">
+            <ArticleCaption>（抗告）</ArticleCaption>
+            <ArticleTitle>第八十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続<span>廃止{'開始': 1}</span>の申立てを却下し、又は棄却する決定及び<span>責任{'手続': 1}</span><span>制限{'更生': 1}</span>手続廃止の<span>決定{'規定': 1}</span>に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="87">
+            <ArticleCaption>（廃止決定の取消しの公告等）</ArticleCaption>
+            <ArticleTitle>第八十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'場合': 1}</span>制限手続<span>廃止{'開始': 1}</span>の決定を取り消す決定が<span>確定{'手続': 1}</span>したときは、<span>裁判所{'手続': 1}</span>は、<span>直ちに{'相当': 1}</span>、その旨を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三十<span>一条{'手続': 1}</span>第二項の規定は、前項の場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88">
+            <ArticleCaption>（廃止決定の発効）</ArticleCaption>
+            <ArticleTitle>第八十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>責任{'規定': 1}</span>制限手続<span>廃止{'開始': 1}</span>の決定は、確定しなければその<span>効力{'場合': 1}</span>を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="89">
+            <ArticleCaption>（廃止決定が確定した場合における供託金の取戻しの制限）</ArticleCaption>
+            <ArticleTitle>第八十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第三十二条の規定は、<span>責任{'規定': 1}</span>制限手続廃止の決定が確定した<span>場合{'手続': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="10">
+          <SectionTitle>第十節　費用</SectionTitle>
+          <Article Num="90">
+            <ArticleCaption>（費用負担の原則）</ArticleCaption>
+            <ArticleTitle>第九十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第九十三条第一項又は第二項に規定するものを除き、<span>責任{'手続': 1}</span>制限手続のため必要な費用及び<span>管理人{'規定': 1}</span>の<span>報酬{'規定': 1}</span>（以下この<span>節{'規定': 1}</span>において「<span>費用{'手続': 1}</span>等」という。）は、申立人の負担とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="91">
+            <ArticleCaption>（予納義務）</ArticleCaption>
+            <ArticleTitle>第九十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">申立人は、<span>責任{'規定': 1}</span>制限<span>手続{'特別清算': 1}</span>開始の申立てをするときは、費用等<span>として{'とともに': 1}</span><span>裁判所{'手続': 1}</span>が<span>定める{'ある': 1}</span>金額を予納しなければならない。</Sentence>
+                <Sentence Num="2"><span>予納{'前項': 1}</span>した費用等が不足する<span>場合{'負担': 1, '規定': 1}</span>において、裁判所がその<span>不足{'手続': 1}</span>する費用等の予納を命じたときも、<span>同様{'次': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="92">
+            <ArticleCaption>（申立人が予納命令に従わない場合における費用等の立替え等）</ArticleCaption>
+            <ArticleTitle>第九十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第八十二条第三号に該当する場合において、同<span>条{'同様': 1, '手続': 1}</span><span>ただし書{'規定': 1}</span>に<span>規定{'手続': 1}</span>する事由があるときは、費用等は、基金から立て替える。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の規定により立て替えた費用等については、管理人が、申立人から取り立てるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の場合においては、裁判所は、管理人の申立てにより、申立人に対して、第一項の規定により立て替えた費用等の額と同額の金銭を管理人に支払うべきことを命じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二十二条第三項及び第四項の規定は、前項の規定による決定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項の規定により取り立てるべき費用等の取立てが不能であるときは、当該費用等は、基金から支弁する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="93">
+            <ArticleCaption>（管理人の訴訟の追行の費用等）</ArticleCaption>
+            <ArticleTitle>第九十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>管理人が査定の裁判に対する異議の訴えを追行するために必要な費用等及び弁護士又は<span>弁護士法人{'規定': 1}</span>の<span>報酬{'規定': 1}</span>は、次項に規定する費用を除き、基金から支弁する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>管理人が査定の裁判に対する異議の訴えを追行するために必要な費用のうち訴訟費用となるものは、基金から立て替える。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>査定の裁判に対する異議の訴えについての判決において管理人の負担とされた訴訟費用は、基金から支弁する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'信託': 1}</span>は、管理人の申立てにより、第一項の費用等及び報酬の<span>額{'規定': 1}</span>を<span>定める{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="94">
+            <ArticleCaption>（管理人が取り立てた費用等及び訴訟費用の供託）</ArticleCaption>
+            <ArticleTitle>第九十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第九十二条第一項又は前条第二項の規定により<span>立て替え{'ある': 1}</span>た費用等又は訴訟費用を管理人が取り立てたときは、これを申立人のために基金として供託しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二十二条第六項の規定は前項の規定により管理人がした供託について、第九十二条第五項の規定は管理人が取り立てるべき前項の訴訟費用の取立てが不能である場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　補則</ChapterTitle>
+        <Article Num="95">
+          <ArticleCaption>（船舶先取特権）</ArticleCaption>
+          <ArticleTitle>第九十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>制限債権者は、その制限債権（<span>物{'手続': 1}</span>の損害に関する債権に限る。）に関し、事故に係る船舶及びその属具について先取特権を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の<span>先取特権{'規定': 2}</span>は、商法（明治三十二年法律第四十八号）第八百四十二条第五号の先取特権に次ぐ。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>商法第八百四十三条第二項本文、第八百四十四条から第八百四十六条まで及び第八百四十八条第一項の規定は、第一項の先取特権について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の<span>先取特権{'登記': 1}</span>が消滅する前に責任制限<span>手続{'特別清算': 1}</span>開始の決定があつた<span>場合{'規定': 1}</span>において、その決定を取り消す決定又は<span>責任{'規定': 1}</span>制限手続廃止の決定が確定したときは、<span>前項{'場合': 2}</span>において準用する<span>商法{'民事訴訟法': 1}</span>第八百四十六条の規定にかかわらず、第一項の先取特権は、その確定後一年を経過した時に消滅する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="96">
+          <ArticleCaption>（締約国である外国における制限基金の形成の効果）</ArticleCaption>
+          <ArticleTitle>第九十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>千九百七十六年の<span>海事{'担保': 1}</span>債権についての責任の制限に関する条約を改正する千九百九十六年の議定書の締約国である外国において同議定書によつて改正された千九百七十六年の海事債権についての責任の制限に関する条約（以下「海事債権責任制限条約」という。）に定める制限<span>基金{'規定': 1}</span>が形成された場合においては、当該基金から支払を受けることができる制限債権については、その制限債権者は、制限基金以外の船舶所有者等の財産若しくは救助者の財産又は被用者等の財産に対してその権利を行使することが<span>でき{'取り消さ': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三十四条から第三十六条までの<span>規定{'手続': 1}</span>は、前項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="97">
+          <ArticleTitle>第九十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="98">
+          <ArticleCaption>（船舶の管理人等に対するこの法律の適用）</ArticleCaption>
+          <ArticleTitle>第九十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、海事債権責任制限条約第一条第二項に規定する船舶の管理人及び船舶の運航者並びに法人であるこれらの者の無限責任社員について船舶所有者等と同様に、同項に規定する船舶の管理人又は船舶の運航者の被用者その他の者でその者の行為につきこれらの者が責めに任ずべきものについて被用者等と同様に、適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律は、制限債権につき弁済の責めに任ずることによつて生ずる損害をてん補する保険契約の保険者について、被保険者と同様に適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="99">
+          <ArticleTitle>第九十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>管理人又は管理人代理がその職務に関し賄<Ruby>賂<Rt>ろ</Rt></Ruby>を収受し、又はこれを要求し、若しくは約束したときは、三年以下の懲役<span>又は{'若しくは': 1}</span>百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の場合において、収受した賄<Ruby>賂<Rt>ろ</Rt></Ruby>は、没収する。</Sentence>
+              <Sentence Num="2">その全部又は一部を没収することができないときは、その価額を追徴する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="100">
+          <ArticleTitle>第百条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項に規定する賄<Ruby>賂<Rt>ろ</Rt></Ruby>を供与し、又はその申込み若しくは約束をした者は、三年以下の懲役<span>又は{'若しくは': 1}</span>百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="101">
+          <ArticleTitle>第百一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第四十条第二項の規定による<span>報告{'規定': 1}</span>又は<span>書類{'資料': 2, '規定': 1}</span>の<span>提出{'規定': 1}</span>を<span>求め{'ある': 1}</span>られて、<span>報告{'手続': 1}</span>をせず、若しくは<span>書類{'資料': 1, '規定': 1}</span>の<span>提出{'規定': 1}</span>をせず、<span>又は{'ただし': 1}</span><span>虚偽{'規定': 1}</span>の<span>報告{'規定': 1}</span>をし、若しくは<span>虚偽{'規定': 1}</span>の<span>書類{'資料': 1, '規定': 1}</span>の<span>提出{'規定': 1}</span>をした者は、<span>一年{'規定': 1}</span>以下の<span>懲役{'規定': 1}</span>又は五十万円以下の<span>罰金{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>法人{'手続': 1}</span>の<span>代表者{'手続': 1}</span>又は<span>法人{'規定': 1}</span>若しくは<span>人{'規定': 1}</span>の<span>代理人{'手続': 1}</span>、<span>使用人{'手続': 1}</span>その他の<span>従業者{'手続': 1}</span>が、その<span>法人{'手続': 1}</span>又は<span>人{'規定': 1}</span>の<span>業務{'手続': 1}</span>に関して<span>前項{'二条': 1, '手続': 1}</span>の<span>違反行為{'規定': 1}</span>をしたときは、<span>行為{'規定': 1}</span>者を<span>罰する{'ある': 1}</span><span>ほか{'規定': 1}</span>、その<span>法人{'規定': 1}</span>又は<span>人{'規定': 1}</span>に対しても、同<span>項{'本条': 1}</span>の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'規定': 1}</span>は、海上航行船舶の所有者の責任の制限に関する国際条約が日本国について効力を生ずる日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、この法律の施行<span>前{'効力': 1, '施行': 1, '規定': 1}</span>に<span>発生{'規定': 1}</span>した<span>事故{'規定': 1}</span>により<span>生じ{'ある': 1}</span>た<span>損害{'規定': 1}</span>に<span>基づく{'でき': 1}</span><span>債権{'規定': 1}</span>については<span>適用{'手続': 1}</span>せず、この<span>法律{'規定': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に<span>生じ{'でき': 1}</span>た<span>債権{'規定': 1}</span>及びこの<span>法律{'規定': 1}</span>の<span>施行{'手続': 1}</span><span>前{'効力': 1, '規定': 1}</span>に<span>発生{'規定': 1}</span>した<span>事故{'規定': 1}</span>によりこの<span>法律{'手続': 1}</span>の<span>施行{'規定': 2}</span>後に<span>生じ{'でき': 1}</span>た<span>損害{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>債権{'手続': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五〇年一二月二七日法律第九五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、責任条約が日本国について効力を生ずる日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、<span>民事執行法{'規定': 1}</span>（昭和五十四年<span>法律{'規定': 1}</span>第四号）の<span>施行{'規定': 1}</span>の日（昭和五十五年十月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律の施行前に申し立てられた民事執行、企業担保権の実行及び破産の事件については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>前項の<span>事件{'規定': 1}</span>に関し<span>執行官{'規定': 1}</span>が受ける手数料及び支払又は<span>償還{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>費用{'手続': 1}</span>の<span>額{'規定': 1}</span>については、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>最高裁判所規則{'手続': 1}</span>の<span>定める{'ある': 1}</span>ところに<span>よる{'ある': 1}</span>。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五七年五月二一日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に<span>発生{'行為': 2, '規定': 1}</span>した<span>事故{'規定': 1}</span>から<span>生じ{'ある': 1}</span>た<span>債権{'手続': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月二六日法律第一一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この法律は、新<span>民訴{'規定': 1}</span>法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年六月八日法律第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、平成十四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第一〇〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、<span>民間事業者による信書の送達に関する法律{'会社法': 1, '規定': 1}</span>（平成十四年<span>法律{'規定': 1}</span>第九十九号）の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>前条{'手続': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年八月一日法律第一三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'六月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年四月二一日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'改正': 1}</span>は、平成十七年<span>三月一日{'改正': 1, '規定': 1}</span>（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、<span>破産法{'不動産登記法': 1, '規定': 1}</span>（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新破産法」という。）の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（罰則の適用等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前にした<span>行為{'規定': 1}</span><span>並びに{'及び': 1, 'ただし': 1}</span><span>附則{'規定': 1}</span>第<span>二条{'規定': 1}</span>第一項、<span>第三条{'規定': 1}</span>第一項、第四条、第五条第一項、第九項、第十七項、第十九項及び第二十一項並びに第<span>六条{'附則': 1, '規定': 1}</span>第一項及び第三項の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>における<span>施行日{'規定': 1}</span>以後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'規定': 1}</span>第二条から<span>前条{'規定': 1}</span>までに<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'一年': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日（以下「<span>施行日{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="121">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第百二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>の<span>それぞれ{'規定': 1}</span>の<span>法律{'規定': 2}</span>（これに<span>基づく{'ある': 1}</span><span>命令{'規定': 1}</span>を<span>含む{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>において同じ。）の<span>規定{'手続': 1}</span>によって<span>した{'規定': 1}</span><span>処分{'規定': 1}</span>、<span>手続{'規定': 1}</span>その他の<span>行為{'規定': 1}</span>であって、<span>改正{'規定': 1}</span>後の<span>それぞれ{'規定': 2}</span>の<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>に相当の規定があるものは、この附則に<span>別段{'相当': 1}</span>の定めがあるものを除き、改正後のそれぞれの<span>法律{'規定': 1}</span>の<span>相当{'施行': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>によってしたものと<span>みなす{'取り消さ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="122">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span><span>並びに{'及び': 1}</span>この<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>及びこの<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="123">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'法律': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴い{'ある': 1}</span><span>必要{'規定': 1}</span>な<span>経過{'手続': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月一七日法律第五八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、千九百七十六年の海事債権についての責任の制限に関する条約を改正する千九百九十六年の議定書が日本国について効力を生ずる日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律の施行<span>前{'効力': 1, '規定': 1}</span>に発生した事故から生じた債権についての<span>責任{'手続': 1}</span>の制限については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年五月七日法律第一九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、平成二十七年<span>六月八日{'規定': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律の施行前に発生した事故から生じた債権についての<span>責任{'手続': 1}</span>の制限については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>民法{'規定': 3}</span><span>改正{'規定': 1}</span>法の<span>施行{'法律': 1, '規定': 1}</span>の日から<span>施行{'手続': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の<span>規定{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'一条': 1, '規定': 1}</span>第五十条<span>及び{'ただし': 1}</span>第五十二条の<span>規定{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（船舶の所有者等の責任の制限に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'手続': 1}</span>第十六条に<span>規定{'手続': 1}</span>する<span>場合{'規定': 1}</span>における前条の規定による改正前の<span>船舶の所有者等の責任の制限に関する法律{'民事訴訟法': 1, '手続': 1}</span>第九十五条第一項の先取特権の効力及び順位については、前条の規定による改正後の船舶の所有者等の責任の制限に関する法律第九十五条の規定にかかわらず、なお従前の例に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="52">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、二千一年の燃料油による汚染損害についての民事責任に関する国際条約及び二千七年の難破物の除去に関するナイロビ国際条約が日本国について効力を生ずる日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

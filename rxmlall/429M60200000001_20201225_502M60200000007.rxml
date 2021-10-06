@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Rule" Num="001" Year="29">
+  <LawNum>平成二十九年公正取引委員会規則第一号</LawNum>
+  <LawBody>
+    <LawTitle>公正取引委員会の確約手続に関する規則</LawTitle>
+    <EnactStatement>私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）の規定に基づき、公正取引委員会の確約手続に関する規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　法第四十八条の二の規定による通知</ChapterTitle>
+        <ArticleRange>（第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　排除措置計画</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　排除措置計画の認定の申請</SectionTitle>
+          <ArticleRange>（第八条―第十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　認定</SectionTitle>
+          <ArticleRange>（第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　却下</SectionTitle>
+          <ArticleRange>（第十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　認定排除措置計画の変更</SectionTitle>
+          <ArticleRange>（第十四条―第十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　排除措置計画の認定の取消し</ChapterTitle>
+        <ArticleRange>（第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　法第四十八条の六の規定による通知</ChapterTitle>
+        <ArticleRange>（第二十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　排除確保措置計画</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　排除確保措置計画の認定の申請</SectionTitle>
+          <ArticleRange>（第二十二条―第二十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　認定</SectionTitle>
+          <ArticleRange>（第二十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　却下</SectionTitle>
+          <ArticleRange>（第二十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　認定排除確保措置計画の変更</SectionTitle>
+          <ArticleRange>（第二十八条―第三十三条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="7">
+        <ChapterTitle>第七章　排除確保措置計画の認定の取消し</ChapterTitle>
+        <ArticleRange>（第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="8">
+        <ChapterTitle>第八章　補則</ChapterTitle>
+        <ArticleRange>（第三十五条―第三十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（この規則の趣旨・定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">公正取引委員会（以下「委員会」という。）が行う確約<span>手続{'当該': 1}</span>（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号。以下「法」と<span>いう{'行わ': 1}</span>。）第四十八条の二から第四十八条の九までの手続をいう。以下同じ。）については、<span>法{'当該': 1}</span>に<span>定める{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、この<span>規則{'当該': 1}</span>の<span>定める{'行わ': 1}</span>ところに<span>よる{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>規則{'当該': 1}</span>において<span>使用{'当該': 1}</span>する<span>用語{'当該': 1}</span>であって、<span>法{'当該': 1}</span>において<span>使用{'当該': 1}</span>する<span>用語{'当該': 1}</span>と<span>同一{'法律': 1, '当該': 1}</span>のものは、これと<span>同一{'当該': 1}</span>の<span>意義{'当該': 1}</span>において<span>使用{'当該': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（期間の計算）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>期間{'当該': 1}</span>の<span>計算{'当該': 1}</span>については、<span>民法{'当該': 1}</span>（明治二十九年<span>法律{'当該': 1}</span>第八十九号）の<span>期間{'当該': 1}</span>に関する<span>規定{'当該': 1}</span>に<span>従う{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>期間{'当該': 1}</span>の<span>末日{'当該': 1}</span>が<span>行政機関の休日に関する法律{'当該': 1}</span>（昭和六十三年<span>法律{'当該': 1}</span>第九十一号）第一条第一項各号に掲げる日に当たるときは、期間は、その翌日に満了する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（用語）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>確約{'審査': 1}</span>手続においては、日本語を用いる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（公示送達の方法）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">委員会は、公示送達があったことを官報又は新聞紙に掲載することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">外国においてすべき送達については、委員会は、官報又は新聞紙への掲載に代えて、公示送達があったことを通知することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（文書の作成）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>確約{'審査': 1}</span>手続において作成すべき文書には、特別の定めのある場合を<span>除い{'除き': 1}</span>て、年月日を記載して署名し、又は記名<span>押印{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の文書が委員会において作成すべき謄本の場合には、当該謄本を作成した職員が、その記載に接続して当該謄本が原本と相違ない旨を付記し、かつ、これに記名押印して、毎葉に契印又はこれに準ずる措置をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（文書の訂正）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確約手続において文書を作成するには、文字を改変してはならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">文字を加え、削り、又は欄外に記載したときは、これに認印しなければならない。</Sentence>
+              <Sentence Num="3" WritingMode="vertical">この場合において、削った部分は、これを読むことができるように字体を残さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　法第四十八条の二の規定による通知</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（通知書の送達）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十八条の二の規定による通知は、疑いの理由となった行為をしている者又はその代理人に対し、同<span>条{'当該': 1}</span>各号に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>文書{'当該': 1}</span>を<span>送達{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　排除措置計画</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　排除措置計画の認定の申請</SectionTitle>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（排除措置計画の認定の申請方法）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'前項': 1, '当該': 1}</span>第四十八条の三第一項の<span>規定{'当該': 1}</span>による<span>申請{'主務大臣': 1}</span>を<span>しよう{'当該': 1}</span>とする者は、<span>様式{'当該': 1}</span>第一号による<span>申請書{'当該': 1}</span>を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>申請書{'当該': 1}</span>には、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>書類{'当該': 1}</span>を<span>添付{'当該': 1}</span>するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>書類{'当該': 1}</span>が<span>日本語{'当該': 1}</span>で<span>作成{'当該': 1}</span>されていないものであるときは、<span>当該{'主務大臣': 1}</span><span>書類{'資料': 1, '当該': 1}</span>に日本語の翻訳文を添えなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除措置が疑いの理由となった行為を排除するために十分なものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除措置が確実に実施されると見込まれるものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他委員会が法第四十八条の三第三項の<span>認定{'規定': 1}</span>をするため<span>参考{'経済産業省令': 1, '当該': 1}</span>となるべき事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第四十八条の三第一項の規定による申請をした者（以下この節から第三節までにおいて「申請者」という。）は、申請書類の記載事項に変更がある場合は、同<span>項{'当該': 1}</span>の<span>期間{'当該': 1}</span>が<span>経過{'当該': 1}</span>する日までに、<span>変更{'当該': 1}</span><span>内容{'当該': 1}</span>を<span>記載{'当該': 1}</span>した報告書を委員会に提出することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>既に{'更に': 1}</span>その申請に係る処分がされているときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二条の規定により文書を<span>提出{'当該': 1}</span>する<span>場合{'当該': 1}</span>には、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>いずれかの<span>方法{'当該': 1}</span>により、又はそれらの<span>方法{'当該': 1}</span>の<span>併用{'当該': 1}</span>により<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>直接{'当該': 1}</span><span>持参{'当該': 1}</span>する<span>方法{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>書留郵便{'当該': 1}</span>、<span>民間事業者による信書の送達に関する法律{'当該': 1}</span>（平成十四年<span>法律{'当該': 1}</span>第九十九号）第<span>二条{'当該': 1}</span>第六項に<span>規定{'当該': 1}</span>する<span>一般信書便{'当該': 1}</span><span>事業者{'当該': 1}</span>若しくは同<span>条{'当該': 1}</span>第九項に<span>規定{'当該': 1}</span>する<span>特定信書便{'当該': 1}</span><span>事業者{'当該': 1}</span>による同<span>条{'当該': 1}</span>第二項に<span>規定{'当該': 1}</span>する<span>信書便{'当該': 1}</span>の<span>役務{'当該': 1}</span>であって<span>当該{'主務大臣': 1}</span><span>一般信書便{'事業者': 1, '当該': 1}</span><span>事業者{'当該': 1}</span>若しくは<span>当該{'主務大臣': 1}</span><span>特定信書便{'事業': 1, '当該': 1}</span><span>事業者{'当該': 1}</span>において<span>引受け{'当該': 1}</span>及び<span>配達{'当該': 1}</span>の<span>記録{'当該': 1}</span>を<span>行う{'行わ': 1}</span>もの又はこれらに<span>準ずる{'行わ': 1}</span><span>方法{'当該': 1}</span>により<span>送付{'当該': 1}</span>する<span>方法{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>申請{'当該': 1}</span>者は、<span>申請{'当該': 1}</span>をした日からその<span>申請{'当該': 1}</span>に係る<span>処分{'当該': 1}</span>がされるまでの<span>間{'主務大臣': 1}</span>、いつ<span>でも{'とともに': 1}</span>、第八条第二項第三号に<span>規定{'当該': 1}</span>する<span>書類{'当該': 1}</span>の<span>提出{'当該': 1}</span>を<span>追加{'当該': 1}</span>して行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　認定</SectionTitle>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（認定書の送達）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の三第五項に規定する認定書の<span>謄本{'当該': 1}</span>は、申請者又はその代理人にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　却下</SectionTitle>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（決定書の送達等）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の三第七項において<span>読み替え{'行わ': 1}</span>て準用する同条第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、申請者又はその<span>代理人{'決定': 1}</span>にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除措置計画の認定の申請を<span>却下{'処分': 1}</span>した旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">却下の理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　認定排除措置計画の変更</SectionTitle>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（認定排除措置計画の変更の認定の申請方法）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の三第三項の認定を受けた者であって同条第八項の規定により当該認定に係る排除措置計画（以下この節において「認定排除措置計画」という。）を変更しようとする者は、様式第二号による申請書を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>申請書{'当該': 1}</span>には、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>書類{'当該': 1}</span>を<span>添付{'当該': 1}</span>するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>書類{'当該': 1}</span>が<span>日本語{'当該': 1}</span>で<span>作成{'当該': 1}</span>されていないものであるときは、<span>当該{'主務大臣': 1}</span><span>書類{'資料': 1, '当該': 1}</span>に日本語の翻訳文を添えなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除措置が疑いの理由となった行為を排除するために十分なものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除措置が確実に実施されると見込まれるものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他委員会が法第四十八条の三第八項の規定による変更の認定をするため<span>参考{'当該': 1}</span>となるべき事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">認定<span>排除措置{'当該': 1}</span>計画の変更の認定の<span>申請{'当該': 1}</span>をした者（以下この節において「申請者」という。）は、申請書類の記載事項に変更がある場合は、その申請に係る<span>処分{'当該': 1}</span>がされるまでの<span>間{'当該': 1}</span>に、<span>変更{'当該': 1}</span><span>内容{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>報告書{'当該': 1}</span>を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十条の<span>規定{'当該': 1}</span>は、前<span>二条{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>文書{'当該': 1}</span>を<span>提出{'当該': 1}</span>する<span>場合{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>申請{'場合': 1, '当該': 1}</span>者は、<span>申請{'当該': 1}</span>をした日からその申請に係る処分がされるまでの間、いつでも、第十<span>四条{'当該': 1}</span>第二項第三号に規定する書類の提出を追加して行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（認定書の送達）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'当該': 1}</span>第四十八条の三第九項において<span>準用{'規定': 1}</span>する同条第五項に規定する認定書の<span>謄本{'当該': 1}</span>は、申請者又はその代理人にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（決定書の送達等）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の三第九項において<span>準用{'当該': 1}</span>する同<span>条{'協同組合': 1, '当該': 1}</span>第七項において<span>読み替え{'行わ': 1}</span>て準用する同条第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、申請者又はその<span>代理人{'決定': 1}</span>にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">認定<span>排除措置{'当該': 1}</span>計画の変更の認定の申請を却下した旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">却下の<span>理由{'法': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　排除措置計画の認定の取消し</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（決定書の送達等）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十八条の五第二項において読み替えて準用する<span>法{'特許法': 1}</span>第四十八条の三第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、当該認定を受けた者又はその代理人に<span>送達{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法': 1}</span>の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>排除措置{'当該': 1}</span>計画の認定を取り消した旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取消しの<span>理由{'前項': 1, '当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　法第四十八条の六の規定による通知</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（通知書の送達）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十八条の六の<span>規定{'当該': 1}</span>による<span>通知{'当該': 1}</span>は、同<span>条{'当該': 1}</span>第一号に<span>掲げる{'行わ': 1}</span>者又はその<span>代理人{'当該': 1}</span>に対し、同<span>条{'当該': 1}</span>第二号に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>文書{'当該': 1}</span>を<span>送達{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　排除確保措置計画</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　排除確保措置計画の認定の申請</SectionTitle>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（排除確保措置計画の認定の申請方法）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'前項': 1, '当該': 1}</span>第四十八条の七第一項の<span>規定{'当該': 1}</span>による<span>申請{'主務大臣': 1}</span>を<span>しよう{'当該': 1}</span>とする者は、<span>様式{'当該': 1}</span>第三号による<span>申請書{'当該': 1}</span>を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>申請書{'当該': 1}</span>には、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>書類{'当該': 1}</span>を<span>添付{'当該': 1}</span>するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>書類{'当該': 1}</span>が<span>日本語{'当該': 1}</span>で<span>作成{'当該': 1}</span>されていないものであるときは、<span>当該{'主務大臣': 1}</span><span>書類{'資料': 1, '当該': 1}</span>に日本語の翻訳文を添えなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除確保措置が疑いの理由となった行為が排除されたことを確保するために十分なものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除確保措置が確実に実施されると見込まれるものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他委員会が法第四十八条の七第三項の<span>認定{'規定': 1}</span>をするため<span>参考{'経済産業省令': 1, '当該': 1}</span>となるべき事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第四十八条の七第一項の規定による申請をした者（以下この節から第三節までにおいて「申請者」という。）は、申請書類の記載事項に変更がある場合は、同<span>項{'当該': 1}</span>の<span>期間{'当該': 1}</span>が<span>経過{'当該': 1}</span>する日までに、<span>変更{'当該': 1}</span><span>内容{'当該': 1}</span>を<span>記載{'当該': 1}</span>した報告書を委員会に提出することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>既に{'更に': 1}</span>その申請に係る処分がされているときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十条の規定は、前二条の規定により<span>文書{'当該': 1}</span>を<span>提出{'当該': 1}</span>する<span>場合{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>申請{'場合': 1, '当該': 1}</span>者は、<span>申請{'当該': 1}</span>をした日からその<span>申請{'当該': 1}</span>に係る<span>処分{'当該': 1}</span>がされるまでの<span>間{'主務大臣': 1}</span>、いつ<span>でも{'とともに': 1}</span>、第二十二条第二項第三号に<span>規定{'当該': 1}</span>する<span>書類{'当該': 1}</span>の<span>提出{'当該': 1}</span>を<span>追加{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　認定</SectionTitle>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption>（認定書の送達）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'当該': 1}</span>第四十八条の七第四項において準用する法第四十八条の三第五項に規定する認定書の<span>謄本{'当該': 1}</span>は、申請者又はその代理人にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　却下</SectionTitle>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption>（決定書の送達等）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の七第六項において<span>読み替え{'行わ': 1}</span>て準用する法第四十八条の三第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、申請者又はその<span>代理人{'決定': 1}</span>にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>排除{'当該': 1}</span>確保措置計画の認定の申請を<span>却下{'拒絶': 1}</span>した旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>却下{'処分': 1}</span>の理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　認定排除確保措置計画の変更</SectionTitle>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption>（認定排除確保措置計画の変更の認定の申請方法）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の七第三項の認定を受けた者であって同条第七項の規定により当該認定に係る排除確保措置計画（以下この節において「認定<span>排除{'事業': 1}</span>確保措置計画」という。）を変更しようとする者は、<span>様式{'当該': 1}</span>第四号による<span>申請書{'当該': 1}</span>を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>申請書{'当該': 1}</span>には、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>書類{'当該': 1}</span>を<span>添付{'当該': 1}</span>するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>書類{'当該': 1}</span>が<span>日本語{'当該': 1}</span>で<span>作成{'当該': 1}</span>されていないものであるときは、<span>当該{'主務大臣': 1}</span><span>書類{'資料': 1, '当該': 1}</span>に日本語の翻訳文を添えなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除確保措置が疑いの理由となった行為が排除されたことを確保するために十分なものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">排除確保措置が確実に実施されると見込まれるものであることを示す書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他委員会が法第四十八条の七第七項の規定による変更の認定をするため<span>参考{'当該': 1}</span>となるべき事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">認定<span>排除{'請求': 1, '当該': 1}</span>確保措置計画の変更の認定の<span>申請{'当該': 1}</span>をした者（以下この節において「申請者」という。）は、申請書類の記載事項に変更がある場合は、その申請に係る<span>処分{'当該': 1}</span>がされるまでの<span>間{'当該': 1}</span>に、<span>変更{'当該': 1}</span><span>内容{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>報告書{'当該': 1}</span>を<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十条の<span>規定{'当該': 1}</span>は、前<span>二条{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>文書{'当該': 1}</span>を<span>提出{'当該': 1}</span>する<span>場合{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="31">
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>申請{'場合': 1, '当該': 1}</span>者は、<span>申請{'当該': 1}</span>をした日からその<span>申請{'当該': 1}</span>に係る<span>処分{'当該': 1}</span>がされるまでの<span>間{'主務大臣': 1}</span>、いつ<span>でも{'とともに': 1}</span>、第二十八条第二項第三号に<span>規定{'当該': 1}</span>する<span>書類{'当該': 1}</span>の<span>提出{'当該': 1}</span>を<span>追加{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="32">
+            <ArticleCaption>（認定書の送達）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'場合': 1, '当該': 1}</span>第四十八条の七第八項において<span>準用{'規定': 1, '当該': 1}</span>する同<span>条{'法': 1, '当該': 1}</span>第四項において準用する法第四十八条の三第五項に規定する認定書の<span>謄本{'当該': 1}</span>は、申請者又はその代理人にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="33">
+            <ArticleCaption>（決定書の送達等）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十八条の七第八項において<span>準用{'当該': 1}</span>する同<span>条{'協同組合': 1, '当該': 1}</span>第六項において<span>読み替え{'行わ': 1}</span>て準用する<span>法{'条': 1}</span>第四十八条の三第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、申請者又はその<span>代理人{'決定': 1}</span>にこれを送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">認定<span>排除{'当該': 1}</span>確保措置計画の変更の認定の申請を<span>却下{'拒絶': 1}</span>した旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">却下の<span>理由{'法': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="7">
+        <ChapterTitle>第七章　排除確保措置計画の認定の取消し</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（決定書の送達等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十八条の九第二項において読み替えて準用する<span>法{'特許法': 1}</span>第四十八条の三第五項に規定する決定書の<span>謄本{'当該': 1}</span>は、当該認定を受けた者又はその代理人に<span>送達{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法': 1}</span>の<span>決定{'当該': 1}</span>書には、次に掲げる事項を記載するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>排除{'当該': 1}</span>確保措置計画の認定を取り消した旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取消しの理由</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="8">
+        <ChapterTitle>第八章　補則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（文書のファクシミリによる提出）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>確約{'当該': 1}</span>手続において提出すべき文書は、次に掲げるものを<span>除き{'行わ': 1}</span>、<span>ファクシミリ{'当該': 1}</span>を<span>利用{'当該': 1}</span>して<span>送信{'当該': 1}</span>することにより<span>提出{'当該': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>申請書{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申請書に添付する書類（第十一条、第十<span>七条{'第一': 1, '当該': 1}</span>、第二十五条及び第三十一条の規定により提出するものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">報告書</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>ファクシミリ{'当該': 1}</span>を<span>利用{'当該': 1}</span>して<span>文書{'当該': 1}</span>が<span>提出{'当該': 1}</span>された<span>場合{'当該': 1}</span>は、<span>委員会{'当該': 1}</span>が<span>受信{'当該': 1}</span>した時に、<span>当該{'主務大臣': 1}</span><span>文書{'当該': 1}</span>が<span>委員会{'当該': 1}</span>に<span>提出{'当該': 1}</span>されたものと<span>みなす{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>委員会{'当該': 1}</span>は、<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>提出{'当該': 1}</span>者に対し、送信に使用した<span>文書{'書面': 1}</span>を提出させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35_2">
+          <ArticleCaption>（署名及び押印の省略）</ArticleCaption>
+          <ArticleTitle>第三十五条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>確約{'当該': 1}</span>手続において提出すべき文書は、記名をもって署名又は押印を省略することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員会の職員は、前項に規定する場合において、<span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と認めるときは、提出者に対し、前項の文書が<span>真正{'当該': 1}</span>なものであることを証明する<span>書類{'書面': 1}</span>の提出の指示その他の方法により、その<span>内容{'当該': 1}</span>を<span>確認{'当該': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（申請の取下げ）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>規則{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>申請{'当該': 1}</span>は、当該申請に係る処分がされるまでは、いつでも取り下げることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による申請の取下げは、書面でしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（更正決定）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">認定書又は決定書に誤記その他明白な誤りがあるときは、委員会は、職権又は申立てにより、更正決定をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">更正決定に対しては、更正決定書の謄本の送達を受けた日から二週間以内に、委員会に対し、文書をもって異議の申立てをすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員会は、前項の異議申立てを却下したときは、これを申立人に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、環太平洋パートナーシップ協定の締結及び<span>環太平洋パートナーシップ{'規則': 1}</span>に関する包括的及び先進的な協定の締結に伴う関係法律の<span>整備{'当該': 1}</span>に関する<span>法律{'当該': 1}</span>（平成二十八年<span>法律{'当該': 1}</span>第百八号）の<span>施行{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月一八日公正取引委員会規則第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>規則{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月一〇日公正取引委員会規則第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>規則{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日公正取引委員会規則第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、令和元年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二五日公正取引委員会規則第七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、令和二年十二月二十五日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第１号（用紙の大きさは日本産業規格Ａ４とする。）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/429M60200000001_2101190801_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２号（用紙の大きさは日本産業規格Ａ４とする。）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/429M60200000001_2101190801_002.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第３号（用紙の大きさは日本産業規格Ａ４とする。）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/429M60200000001_2101190801_003.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第４号（用紙の大きさは日本産業規格Ａ４とする。）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/429M60200000001_2101190801_004.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

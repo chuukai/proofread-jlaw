@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="4" Year="17">
+  <LawNum>平成十七年財務省令第四号</LawNum>
+  <LawBody>
+    <LawTitle>平成十六年度の水田農業構造改革交付金等についての所得税及び法人税の臨時特例に関する法律施行規則</LawTitle>
+    <EnactStatement>平成十六年度の水田農業構造改革交付金等についての所得税及び法人税の臨時特例に関する法律（平成十七年法律第二号）第一条の規定に基づき、平成十六年度の水田農業構造改革交付金等についての所得税及び法人税の臨時特例に関する法律施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>平成十六年度の水田農業構造改革交付金等についての所得税及び法人税の<span>臨時{'適用': 1}</span>特例に関する法律（平成十七年<span>法律{'規定': 1}</span>第二号。以下「<span>法{'改正': 1}</span>」という。）第一条に規定する<span>財務省令{'政令': 5}</span>で定める損失又は費用は、次の各号に掲げる<span>農地{'場合': 4}</span>の区分に応じ当該各号に定める損失又は費用で、同条の規定の適用がないものとしたならば所得税法（昭和四十年<span>法律{'改正': 1}</span>第三十三号）の<span>規定{'第三条': 1}</span>により平成十六年分の同法第二条第一項第三十五号に規定する農業所得の<span>金額{'税額': 1}</span>の<span>計算{'それぞれ': 1}</span>上、必要経費に算入されるべきものとする。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>法第<span>一条{'規定': 1}</span>の<span>農地{'規定': 1}</span>を米穀（飼料の用に供するものを除く。）以外の作物の生産若しくは栽培の用に供し、又は畜舎その他の農業生産に必要な施設の敷地、山林若しくは養魚池の用に供した場合における当該農地</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>次に掲げる損失又は費用</Sentence>
+            </Column>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>イ</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence>当該農地に係るけい畔、水利施設その他所得税法第二条第一項第十八号に規定する固定資産又は同項第二十号に規定する繰延資産に係る資産の取壊し又は除却による損失</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>ロ</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence>イに規定する取壊し又は除却に付随する費用</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>ハ</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence>当該米穀以外の作物の生産又は栽培をしたことに伴い特別に<span>支出{'計算': 1}</span>する費用</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>法第一条の<span>農地{'規定': 1}</span>で前号に掲げるもの以外のもの</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>当該農地に係る公租公課、農薬費、雇人費、減価償却費その他当該農地の維持又は管理に要する費用</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

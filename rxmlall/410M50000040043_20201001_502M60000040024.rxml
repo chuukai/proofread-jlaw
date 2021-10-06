@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="43" Year="10">
+  <LawNum>平成十年大蔵省令第四十三号</LawNum>
+  <LawBody>
+    <LawTitle>電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律施行規則</LawTitle>
+    <EnactStatement>電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律（平成十年法律第二十五号）の規定に基づき、電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令において、「国税」、「国税関係帳簿書類」、「<span>電磁的記録{'規定': 1}</span>」、「<span>保存{'方法': 1, '連結納税': 1}</span>義務者」、「<span>納税{'当該': 1}</span>地等」、「電子取引」又は「電子計算機出力マイクロフィルム」とは、それぞれ電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律（平成十年法律第二十五号。以下「法」という。）第二条に規定する国税、国税関係帳簿書類、<span>電磁的記録{'規定': 1}</span>、<span>保存{'方法': 1, '連結納税': 1}</span>義務者、<span>納税{'当該': 1}</span>地等、電子取引又は電子計算機出力マイクロフィルムをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令において、「電子計算機処理」とは、電子計算機を使用して行われる情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（税関長が所轄庁となる場合）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第一項に規定する<span>財務省令{'政令': 9}</span>で定める<span>場合{'方法': 1}</span>は、<span>国税{'当該': 1}</span><span>関係{'納付': 1}</span><span>帳簿{'法令': 1, '法律': 1}</span>（法第<span>二条{'第一': 1}</span>第二号に規定する国税関係帳簿を<span>いう{'みなし': 1}</span>。以下同じ。）が消費税法施行令（昭和六十三年政令第三百六十号）第七十<span>一条{'規定': 1}</span>第三項（<span>帳簿{'規定': 2}</span>の備付け等）、酒税法施行令（昭和三十七年政令第九十七号）第五十二条第四項（<span>記帳{'規定': 1}</span>義務）、たばこ税法<span>施行令{'施行': 1}</span>（昭和六十年政令第五号）第十七条第五項（記帳義務）、揮発油税法施行令（昭和三十二年政令第五十七号）第十七条第五項（記帳義務）、石油ガス税法施行令（昭和四十一年政令第五号）第二十一条第四項（記帳義務）、石油石炭税法施行令（昭和五十三年政令第百三十二号）第二十条第六項、第八項若しくは第九項（記帳義務）又は国際観光旅客税法施行令（平成三十年政令第百六十一号）第七条（同条の国外事業者に係る部分に限る。）（記帳義務）の帳簿である場合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（国税関係帳簿書類の電磁的記録による保存等）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'当該': 1}</span>第四条第一項の承認を受けている保存義務者は、次に掲げる<span>要件{'場合': 1}</span>に従って<span>当該{'該当': 1}</span>承認を受けている国税関係帳簿に係る<span>電磁的記録{'書類': 2}</span>の備付け及び保存をしなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税関係帳簿に係る電子計算機<span>処理{'法律': 1}</span>に、次に掲げる要件を満たす電子計算機処理システム（電子計算機処理に関するシステムをいう。以下同じ。）を使用すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>当該{'作成': 1}</span>国税関係帳簿に係る<span>電磁的記録{'書類': 2}</span>の記録事項について訂正又は削除を行った場合には、これらの事実及び内容を確認することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係帳簿に係る<span>記録{'記載': 1}</span>事項の<span>入力{'記載': 1}</span>をその業務の処理に係る通常の期間を経過した後に行った場合には、その<span>事実{'当該': 1}</span>を確認することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税関係帳簿に係る<span>電磁的記録{'書類': 1, '当該': 1}</span>の<span>記録{'記載': 1}</span>事項と当該国税関係帳簿に<span>関連{'当該': 1}</span>する<span>国税{'法人': 1}</span>関係帳簿（以下この号において「関連<span>国税{'利用': 1}</span>関係<span>帳簿{'記載': 1}</span>」という。）の記録事項（当該<span>関連{'事業者': 1}</span>国税関係帳簿が、法第四条第一項又は第五条第一項若しくは第三項の承認を<span>受け{'あっ': 1}</span>ているものである場合には、当該関連<span>国税{'事業者': 1}</span><span>関係{'納付': 1}</span><span>帳簿{'当該': 1}</span>に係る電磁的記録又は電子計算機出力マイクロフィルムの記録事項）との間において、相互にその<span>関連{'規定': 1}</span>性を確認することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該<span>国税{'支配': 1}</span>関係帳簿に係る<span>電磁的記録{'書類': 3}</span>の備付け及び保存に併せて、次に掲げる<span>書類{'事項': 1}</span>（<span>当該{'記載': 1}</span>国税関係帳簿に係る<span>電子計算機{'書類': 1}</span>処理に当該保存義務者が開発したプログラム（法第<span>六条{'第一': 1}</span>第一項に規定するプログラムをいう。以下この条及び第五条第二項において同じ。）以外の<span>プログラム{'次': 1}</span>を使用する場合にはイ<span>及び{'又は': 1}</span>ロに掲げる<span>書類{'場合': 1, '金額': 1}</span>を除くものとし、<span>当該{'作成': 1}</span>国税<span>関係{'納付': 1}</span>帳簿に係る<span>電子計算機{'書類': 1}</span>処理を他の者（当該電子計算機処理に当該保存義務者が開発したプログラムを使用する者を除く。）に委託している場合にはハに掲げる書類を除くものとする。）の備付けを行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係帳簿に係る<span>電子計算機{'当該': 1}</span>処理システムの<span>概要{'帳簿': 1}</span>を記載した書類</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係帳簿に係る<span>電子計算機{'書類': 1}</span>処理<span>システム{'当該': 1}</span>の<span>開発{'帳簿': 1}</span>に際して作成した書類</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係帳簿に係る電子計算機<span>処理{'法律': 1}</span>システムの操作説明書</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>当該{'作成': 1}</span>国税関係帳簿に係る電子計算機処理並びに<span>当該{'作成': 1}</span>国税<span>関係{'記載': 1}</span>帳簿に係る電磁的記録の備付け及び保存に関する事務手続を明らかにした書類（当該電子計算機<span>処理{'当該': 1}</span>を他の者に委託している場合には、その<span>委託{'当該': 1, '該当': 1}</span>に係る契約書並びに<span>当該{'作成': 1, '新型コロナウイルス感染症': 1}</span>国税関係帳簿に係る電磁的記録の備付け及び保存に関する事務手続を明らかにした書類）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税関係帳簿に係る<span>電磁的記録{'書類': 2}</span>の備付け及び保存をする場所に当該<span>電磁的記録{'契約': 1}</span>の電子計算機処理の用に供することができる電子計算機、プログラム、ディスプレイ及びプリンタ並びにこれらの操作説明書を備え付け、当該電磁的記録をディスプレイの画面及び書面に、整然とした形式及び明瞭な状態で、速やかに出力することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>当該{'電磁的記録': 1}</span>国税<span>関係{'規定': 1}</span>帳簿に係る電磁的記録の記録事項の検索をすることができる機能（次に掲げる要件を満たすものに限る。）を確保しておくこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">取引年月日、勘定科目、取引金額その他の国税関係帳簿の種類に応じた主要な記録項目（以下この号において「記録項目」という。）を検索の条件として設定することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">日付又は金額に係る記録項目については、その範囲を指定して条件を設定することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">二以上の任意の記録項目を組み合わせて条件を設定することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項（第一号、第二号及び第五号<span>ハ{'第一': 1}</span>に係る部分を<span>除く{'限る': 4}</span>。）の規定は、<span>法{'税務署長': 1}</span>第四条第二項の承認を受けている<span>保存{'場合': 1, '当該': 2}</span>義務者の<span>当該{'特例': 1}</span><span>承認{'支払': 1}</span>を受けている国税関係<span>書類{'法令': 2}</span>（<span>法{'関税': 1}</span>第二条第二号に規定する国税関係書類をいう。以下同じ。）に係る電磁的記録の<span>保存{'場合': 1}</span>について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、前項第五号イ中「、<span>勘定科目{'内部': 1}</span>、取引金額その他の国税関係帳簿の種類に応じた主要な記録項目」とあるのは「その他の<span>日付{'場合': 1}</span>」と、同号ロ中「日付又は金額」とあるのは「日付」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第三項に規定する<span>財務省令{'政令': 1}</span>で定める書類は、国税関係<span>書類{'帳簿': 1}</span>のうち、棚卸表、貸借対照表及び損益計算書並びに計算、整理又は決算に関して<span>作成{'規定': 1}</span>されたその他の書類とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'項': 1}</span>第四条第三項に規定する<span>財務省令{'政令': 1}</span>で定める<span>装置{'事項': 1}</span>は、スキャナとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第三項の承認を受けている保存義務者は、次に掲げる<span>要件{'場合': 1}</span>に従って<span>当該{'該当': 1}</span>承認を受けている国税関係書類に係る<span>電磁的記録{'規定': 1, '提出': 1}</span>の保存をしなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次に掲げる方法のいずれかにより入力すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類に係る<span>記録{'記載': 1}</span>事項の入力をその作成又は受領後、<span>速やか{'当該': 1}</span>に行うこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類に係る<span>記録{'記載': 1}</span>事項の<span>入力{'金融機関': 1}</span>をその業務の処理に係る通常の期間を経過した後、速やかに行うこと（当該国税関係書類の作成又は受領から<span>当該{'保存': 1}</span>入力までの各事務の処理に関する規程を定めている場合に限る。）。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号の入力に当たっては、次に掲げる<span>要件{'事項': 1}</span>を満たす電子計算機処理システムを使用すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">スキャナ（次に掲げる要件を満たすものに限る。）を使用する電子計算機処理システムであること。</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">解像度が、日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項（日本産業規格）に規定する日本産業規格をいう。以下同じ。）Ｚ六〇一六附属書ＡのＡ・一・二に規定する一般文書のスキャニング時の解像度である二十五・四ミリメートル当たり二百ドット以上で読み取るものであること。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">赤色、緑色及び青色の階調がそれぞれ二百五十六階調以上で読み取るものであること。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類をスキャナで読み取る際に（当該国税関係<span>書類{'帳簿': 1}</span>の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合にあっては、その作成又は受領後その者が<span>署名{'場合': 1}</span>した当該国税関係書類について特に速やかに）、一の入力単位ごとの電磁的記録の記録事項に一般財団法人日本データ通信協会が認定する業務に係るタイムスタンプ（次に掲げる要件を満たすものに限る。第八条第一項第一号及び第二号において「タイムスタンプ」という。）を付すこと。</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">当該記録事項が変更されていないことについて、<span>当該{'最高': 1}</span><span>国税{'確認': 1}</span><span>関係{'帳簿': 1}</span><span>書類{'帳簿': 1}</span>の保存<span>期間{'適用': 1}</span>（国税に関する法律の規定により国税関係<span>書類{'帳簿': 1}</span>の<span>保存{'課税': 1}</span>をしなければならないこととされている期間をいう。）を通じ、当該業務を行う者に対して確認する方法その他の方法により確認することができること。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">課税<span>期間{'文書': 1}</span>（国税通則法（昭和三十七年<span>法律{'関係': 1}</span>第六十六号）第<span>二条{'規定': 1}</span><span>第九{'規定': 1}</span>号（定義）に規定する課税<span>期間{'事業年度': 1}</span>をいう。）中の<span>任意{'課税': 1, '指定': 1}</span>の期間を指定し、当該期間内に付したタイムスタンプについて、一括して検証することができること。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類をスキャナで読み取った際の次に掲げる情報（当該国税関係<span>書類{'帳簿': 1}</span>の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合において、当該国税関係書類の大きさが日本産業規格Ａ列四番以下であるときは、（１）に掲げる情報に限る。）を保存すること。</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">解像度及び階調に関する情報</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">当該国税関係書類の大きさに関する情報</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類に係る電磁的記録の<span>記録{'前': 1}</span>事項について訂正又は削除を行った場合には、これらの事実及び内容を確認することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>当該{'書類': 1}</span>国税関係書類に係る<span>記録{'記載': 1}</span>事項の入力を行う者又はその者を直接監督する者に関する情報を確認することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税関係<span>書類{'帳簿': 1}</span>の<span>作成{'提出': 1}</span>又は受領から当該<span>国税{'支配': 1}</span>関係<span>書類{'帳簿': 1}</span>に係る<span>記録{'記載': 1}</span>事項の<span>入力{'記載': 1}</span>までの各事務について、その適正な実施を<span>確保{'必要': 1}</span>するために必要なものとして次に<span>掲げる{'定める': 1}</span>事項（<span>当該{'記載': 1}</span>保存義務者が<span>中小企業基本法{'特例': 1}</span>（昭和三十八年法律第百五十四号）第<span>二条{'規定': 2}</span>第五項（中小企業者の範囲及び用語の定義）に規定する<span>小規模企業者{'適用': 1}</span>である場合であって、ロに規定する定期的な検査を国税通則法第七十四条の九第三項第二号（納税義務者に対する調査の事前通知等）に規定する税務代理人が<span>行う{'いう': 1}</span>こととしているときは、イに掲げる事項を除く。）に関する<span>規程{'政令': 1, '財務省令': 3}</span>を定めるとともに、これに基づき<span>当該{'事務': 1, '規定': 1}</span>各事務を処理すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">相互に<span>関連{'場合': 1}</span>する当該各事務（当該国税関係<span>書類{'法令': 1}</span>の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合にあっては、その作成又は受領に関する<span>事務{'場合': 1}</span>を除き、当該国税<span>関係{'規定': 1}</span><span>書類{'当該': 1, '帳簿': 1}</span>に係る電磁的記録の記録事項の確認を行う事務を<span>含む{'受ける': 1}</span>ものに限る。）について、それぞれ別の者が行う体制</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該各事務に係る処理の内容を確認するための定期的な検査を行う体制及び手続</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該各事務に係る処理に<span>不備{'必要': 1}</span>があると認められた場合において、その報告、原因究明及び改善のための方策の検討を行う体制</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税関係<span>書類{'帳簿': 1}</span>に係る電磁的記録の記録事項と当該<span>国税{'外国': 1}</span>関係<span>書類{'帳簿': 1}</span>に<span>関連{'電磁的記録': 1, '提出': 1}</span>する<span>国税{'法人': 1}</span>関係帳簿の<span>記録{'記載': 1}</span>事項（<span>当該{'記載': 1}</span>国税関係帳簿が、法第四条第一項又は第五条第一項若しくは第三項の承認を<span>受け{'あっ': 1}</span>ているものである場合には、当該国税関係帳簿に係る電磁的記録又は電子計算機出力マイクロフィルムの記録事項）との間において、相互にその<span>関連{'規定': 1}</span>性を確認することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該<span>国税{'支配': 1}</span>関係<span>書類{'帳簿': 1}</span>に係る電磁的記録の保存をする場所に当該電磁的記録の電子計算機処理の用に供することができる電子計算機、プログラム、映像面の最大径が三十五センチメートル以上のカラーディスプレイ及びカラープリンタ並びにこれらの操作説明書を備え付け、当該電磁的記録をカラーディスプレイの画面及び書面に、次のような状態で速やかに出力することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">整然とした形式であること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該国税関係書類と同程度に明瞭であること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">拡大又は縮小して出力することが可能であること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">国税庁長官が定めるところにより日本産業規格Ｚ八三〇五に規定する四ポイントの大きさの文字を認識することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第三号及び第五号の規定は、法第四条第三項の承認を受けている保存義務者の<span>当該{'特例': 1}</span><span>承認{'支払': 1}</span>を受けている<span>国税{'方法': 1}</span>関係書類に係る<span>電磁的記録{'提出': 1}</span>の保存について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同号イ中「、勘定科目」とあるのは、「その他の日付」と読み替えるものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第三項の承認を受けている保存<span>義務{'承認': 1}</span>者は、<span>当該{'特例': 1}</span><span>承認{'支払': 1}</span>を受けている国税関係書類のうち<span>国税庁長官{'政令': 1, '財務省令': 3}</span>が定める書類（以下この<span>項{'保存': 2}</span>及び次項において「一般<span>書類{'口座': 1}</span>」という。）に記載されている事項を電磁的記録に記録する<span>場合{'当該': 1}</span>には、前項第一号、第二号<span>ハ{'規定': 1}</span>（（２）に係る部分に限る。）<span>及び{'次に': 1}</span>第四号に掲げる要件にかかわらず、<span>当該{'規定': 1}</span><span>電磁的記録{'登記': 1}</span>の保存に併せて、当該<span>電磁的記録{'貨物': 1, '書類': 1, '証明': 1}</span>の<span>作成{'書類': 1}</span><span>及び{'又は': 1}</span>保存に関する<span>事務{'当該': 1}</span>の手続を明らかにした書類（<span>当該{'添付': 1}</span>事務の責任者が定められているものに限る。）の備付けを行うことにより、当該一般書類に係る電磁的記録の保存をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項の規定の適用については、同項第二号イ（２）中「赤色、緑色及び青色の階調がそれぞれ」とあるのは「白色から黒色までの階調が」と、同号ロ中「（当該国税関係書類の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合にあっては、その作成又は受領後その者が<span>署名{'場合': 1}</span>した当該国税関係<span>書類{'帳簿': 1}</span>について特に速やかに）」とあるのは「、又は<span>当該{'作成': 1}</span>国税関係書類の<span>作成{'関税': 1}</span>若しくは受領をする者が<span>当該{'特例': 1}</span>国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合におけるその作成若しくは受領後その者が署名した当該<span>国税{'税関': 1}</span>関係書類について特に速やかに」と、同項第六号中「カラーディスプレイ」とあるのは「ディスプレイ」と、「カラープリンタ」とあるのは「プリンタ」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第三項の<span>承認{'支払': 1}</span>を受けている保存義務者は、当該承認を受けている国税関係<span>書類{'法律': 1}</span>のうち法第六条第二項に規定する代える日（第二号において「基準日」という。）前に作成又は<span>受領{'規定': 1, '帳簿': 1}</span>をした書類（一般書類を除く。以下この条において「<span>過去{'規定': 2}</span>分重要書類」という。）に記載されている事項を電磁的記録に記録する場合において、あらかじめ、その記録する事項に係る過去分<span>重要{'帳簿': 1}</span>書類の種類及び次に掲げる事項を記載した<span>届出{'申請書': 1}</span>書（以下この<span>条{'場合': 1, '規定': 2}</span>において「<span>適用{'規定': 3, '特例': 1}</span>届出書」という。）を所轄<span>税務署長{'提出': 2}</span>等（<span>法{'項': 1}</span>第四条第一項に<span>規定{'納税': 2}</span>する所轄税務署長等をいう。<span>次項{'項': 1}</span>、第五条第三項及び第六条において同じ。）に提出したとき（従前において当該過去分重要書類と同一の種類の<span>書類{'規定': 1}</span>に係る適用届出書を提出していない場合に限る。）は、第五項第一号及び第四号（<span>同{'第一': 2}</span>号<span>イ{'ロ': 2, 'ハ': 1}</span>及び<span>ハ{'ロ': 1, '第一': 1}</span>に係る部分に限る。）に掲げる<span>要件{'規定': 1}</span>に<span>かかわら{'満たす': 1}</span>ず、当該電磁的記録の保存に併せて、当該<span>電磁的記録{'貨物': 1, '書類': 1, '証明': 1}</span>の<span>作成{'書類': 1}</span><span>及び{'又は': 1}</span>保存に関する<span>事務{'当該': 1}</span>の手続を明らかにした書類（<span>当該{'添付': 1}</span>事務の責任者が定められているものに限る。）の備付けを行うことにより、当該過去分重要書類に係る<span>電磁的記録{'長': 1}</span>の<span>保存{'提出': 1}</span>をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同<span>項{'前項': 1}</span>の規定の適用については、同項第二号ロ中「<span>読み取る{'ある': 1}</span>際に（当該国税関係<span>書類{'帳簿': 1}</span>の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合にあっては、その作成又は受領後その者が<span>署名{'場合': 1}</span>した当該国税関係<span>書類{'帳簿': 1}</span>について特に速やかに）」とあるのは「読み取る際に」と、同号ハ中「情報（当該国税関係<span>書類{'帳簿': 1}</span>の作成又は受領をする者が当該国税関係<span>書類{'帳簿': 1}</span>をスキャナで読み取る場合において、当該国税関係書類の大きさが日本産業規格Ａ列四番以下であるときは、⑴に掲げる情報に限る。）」とあるのは「情報」と、同項第四号中「の作成又は受領から当該<span>国税{'支配': 1}</span>関係<span>書類{'帳簿': 1}</span>に係る<span>記録{'記載': 1}</span>事項の入力までの各<span>事務{'記載': 1}</span>」とあるのは「に係る<span>記録{'必要': 1}</span>事項の入力に関する事務」と、「当該各事務を」とあるのは「当該事務を」と、同号<span>ロ{'作成': 1}</span>中「当該各事務」とあるのは「当該事務」と、「定期的な検査」とあるのは「<span>検査{'当該': 1, '記載': 1}</span>」とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>届出{'自動車': 1}</span>者の氏名<span>又は{'及び': 1}</span>名称、<span>住所{'納税': 1}</span><span>若しくは{'及び': 1}</span>居所又は本店若しくは主たる事務所の所在地<span>及び{'若しくは': 1}</span><span>法人番号{'納税': 1}</span>（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第<span>二条{'規定': 2}</span>第十五項（定義）に規定する<span>法人番号{'個人番号': 1}</span>を<span>いう{'含む': 1}</span>。以下この号、第五条<span>第一{'章': 1}</span>項第一号<span>並び{'該当': 1, '法人番号': 1}</span>に第<span>六条{'第一': 1}</span>第一項第一号及び第二項第一号において同じ。）（法人番号を有しない者にあっては、氏名又は名称及び住所<span>若しくは{'又は': 2}</span>居所又は本店<span>若しくは{'又は': 1}</span>主たる事務所の所在地）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>基準{'場所': 1}</span>日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の<span>保存{'規定': 1}</span><span>義務{'場合': 1}</span>者は、同項の規定の適用を<span>受けよ{'受ける': 1}</span>うとする過去分重要書類につき、所轄税務署長等の<span>ほか{'提出': 1, '規定': 1}</span>に適用届出書の提出に当たり便宜とする<span>税務署長{'事項': 1}</span>（以下この項において「<span>所轄{'規定': 1}</span>外税務署長」という。）がある場合において、当該<span>所轄{'申告': 1}</span>外税務署長がその<span>便宜{'提出': 1}</span>とする事情について相当の理由があると認めたときは、<span>当該{'納税': 2}</span>所轄外税務署長を経由して、その<span>便宜{'提出': 1}</span>とする事情の詳細を<span>記載{'規定': 1}</span>した<span>適用{'規定': 1}</span>届出書を<span>当該{'相続人': 1, '納税': 1}</span>所轄<span>税務署長{'書類': 1}</span>等に提出することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、<span>当該{'規定': 1}</span>適用<span>届出{'納税': 2, '提出': 1}</span>書が<span>所轄{'事項': 1}</span>外税務署長に<span>受理{'提出': 3}</span>されたときは、<span>当該{'規定': 1}</span><span>適用{'特例': 1}</span>届出書は、その<span>受理{'納税': 1}</span>された日に所轄税務署長等に提出されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（国税関係帳簿書類の電子計算機出力マイクロフィルムによる保存等）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五条第一項の<span>承認{'交付': 1}</span>を受けている保存義務者は、前条第一項各号に掲げる要件及び次に掲げる<span>要件{'事項': 1}</span>に従って<span>当該{'全て': 1}</span>承認を受けている国税関係帳簿に係る<span>電磁的記録{'書類': 2}</span>の備付け及び当該電磁的記録の電子計算機出力<span>マイクロフィルム{'帳簿': 1}</span>による保存をしなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該電子計算機<span>出力{'作成': 1}</span>マイクロフィルムの保存に併せて、次に掲げる書類の備付けを行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムの作成及び保存に関する事務<span>手続{'長': 1}</span>を<span>明らか{'確認': 1}</span>にした書類</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">次に掲げる事項が記載された書類</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical"><span>保存{'当該': 1}</span>義務者（<span>保存{'規定': 1}</span>義務者が法人である場合には、当該法人の国税関係帳簿の<span>保存{'書類': 1}</span>に関する事務の責任者である者）の当該国税関係帳簿に係る電磁的記録（前条第一項第一号イ<span>及び{'又は': 2}</span><span>ロ{'ハ': 1}</span>に規定する事実及び内容に係るものを含む。）が真正に出力され、当該電子計算機出力マイクロフィルムが作成された旨を証する<span>記載{'書類': 1}</span>及び記名押印</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムの作成責任者の記名押印</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムの<span>作成{'保存': 1}</span>年月日</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムの保存に併せて、国税関係帳簿の種類、取引年月日その他の日付及び勘定科目（勘定科目が主要な記録項目でない国税関係帳簿にあっては、勘定科目を除く。）を特定することによりこれらに対応する電子計算機出力マイクロフィルムを探し出すことができる索引簿の備付けを行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムごとの記録事項の索引を当該索引に係る電子計算機出力マイクロフィルムに出力しておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該電子計算機出力マイクロフィルムの保存をする場所に、日本産業規格Ｂ七一八六に規定する基準を満たすマイクロフィルムリーダプリンタ及びその操作説明書を備え付け、当該電子計算機出力マイクロフィルムの内容を当該マイクロフィルムリーダプリンタの画面及び書面に、整然とした形式及び明瞭な状態で、速やかに出力することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該国税<span>関係{'当該': 1}</span>帳簿の<span>保存{'当該': 1}</span>期間（国税に関する法律の規定により国税関係<span>帳簿{'法律': 1}</span>の保存をしなければならないこととされている期間をいう。）の初日から当該国税関係<span>帳簿{'法律': 1}</span>に係る国税の<span>国税通則法{'法律': 2}</span>第二条第七号（定義）に規定する<span>法定{'中間': 1}</span><span>申告{'納': 1}</span>期限（当該法定<span>申告{'納': 1}</span>期限のない国税に係る国税関係帳簿については、当該国税の同条第八号に規定する法定納期限）後三年を<span>経過{'四月一日': 1}</span>する日までの間（当該保存義務者が<span>当該{'関税': 1}</span>国税関係帳簿に係る国税の納税者（同<span>条{'法律': 1, '前項': 1}</span>第五号に規定する納税者をいう。）でない場合には、当該保存義務者が当該納税者であるとした場合における当該期間に相当する期間）、当該電子計算機出力マイクロフィルムの保存に併せて前条第一項第四号及び第五号に掲げる要件に従って当該<span>電子計算機{'電磁的記録': 1}</span>出力マイクロフィルムに係る電磁的記録の保存をし、又は当該電子計算機出力マイクロフィルムの記録事項の検索をすることができる機能（同号に規定する<span>機能{'消費税': 1}</span>に相当するものに限る。）を確保しておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項（第三号に係る部分に限る。）及び前項（各号に係る部分に<span>限る{'除く': 1}</span>。）の規定は、法第五条第二項の承認を受けている<span>保存{'場合': 1, '当該': 2}</span>義務者の<span>当該{'特例': 1}</span><span>承認{'支払': 1}</span>を受けている<span>国税{'当該': 1, '方法': 1}</span>関係書類に係る電磁的記録の電子計算機出力マイクロフィルムによる保存について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、前項第二号中「国税<span>関係{'当該': 1}</span>帳簿の種類、取引年月日その他の日付及び勘定科目（勘定科目が主要な記録項目でない国税関係帳簿にあっては、勘定科目を除く。）」とあるのは「国税関係書類の種類及び取引年月日その他の日付」と、同項第五号中「前条第一項第四号」とあるのは「前条第二項において準用する同<span>条{'場合': 1}</span>第一項第四号」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'施行令': 1}</span>第五条第三項に規定する<span>財務省令{'政令': 8}</span>で定める<span>場合{'書類': 1, '事項': 1}</span>は、次に掲げる<span>場合{'事実': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四条第一項又は第二項の承認を受けている<span>国税{'当該': 1}</span><span>関係{'当該': 1}</span>帳簿<span>書類{'記載': 1}</span>の全部又は一部について、その保存期間（国税に関する法律の規定により<span>国税{'申告': 1}</span>関係帳簿書類の保存をしなければならないこととされている<span>期間{'方法': 2}</span>をいう。以下この項において同じ。）のうち法<span>第九条{'規定': 1}</span>において準用する法第六条第一項又は第二項の申請書に記載することにより当該国税関係帳簿書類に係る<span>電磁的記録{'方法': 1}</span>の<span>保存{'課税': 1}</span>をする期間としてあらかじめ特定する期間が経過した日以後の期間（電子計算機出力マイクロフィルムによる保存をもって電磁的記録の保存に代えようとする日以後の期間に限る。）につき電子計算機出力マイクロフィルムによる保存をもって電磁的記録の保存に代えようとする場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四条第一項又は第二項の承認を受けている国税<span>関係{'当該': 2, '規定': 1}</span>帳簿<span>書類{'記載': 1}</span>の全部又は一部について、その保存期間の全期間（<span>電子計算機{'当該': 1}</span>出力マイクロフィルムによる保存をもって電磁的記録の保存に代えようとする日以後の期間に限る。）につき電子計算機出力マイクロフィルムによる保存をもって電磁的記録の保存に代えようとする場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項及び第二項の規定は、法第五条第三項の承認を<span>受け{'受けよ': 1}</span>ている保存義務者の<span>当該{'特例': 1}</span><span>承認{'支払': 1}</span>を受けている国税<span>関係{'納付': 1}</span>帳簿書類に係る電磁的記録の<span>電子計算機{'保存': 1}</span>出力マイクロフィルムによる保存について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（電磁的記録による保存等の承認の申請等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'準用': 1}</span>第六条第一項又は第二項に規定する<span>財務省令{'政令': 5}</span>で定める事項は、次に掲げる事項とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>申請{'記載': 1, '定め': 1}</span>者の氏名又は名称、住所<span>若しくは{'又は': 1}</span>居所又は本店若しくは主たる事務所の所在地<span>及び{'若しくは': 1, '並びに': 1}</span><span>法人番号{'特定': 1}</span>（<span>法人番号{'市町村民税': 1}</span>を有<span>しない{'減価償却資産': 1}</span>者にあっては、氏名又は名称及び住所<span>若しくは{'又は': 2}</span>居所又は本店<span>若しくは{'又は': 1}</span>主たる事務所の所在地）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>申請{'規定': 1, '届出': 1, '場所': 1}</span>に係る国税<span>関係{'規定': 1}</span>帳簿書類の保存<span>場所{'方法': 3}</span>及び<span>納税{'法': 1}</span>地等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第六条第一項に規定する備付けを開始する日又は同<span>条{'同法': 1}</span>第二項に規定する代える日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第<span>六条{'規定': 1}</span>第一項<span>ただし書{'規定': 2}</span>又は第二項ただし書の規定により<span>提出{'承認': 1}</span>する申請書である場合には、これらの<span>規定{'項': 1}</span>に規定する<span>業務{'事業年度': 1}</span>の開始の日又は設立の日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請に係る<span>国税{'支配': 1}</span><span>関係{'作成': 1, '当該': 1}</span>帳簿<span>書類{'記載': 1}</span>の全部又は一部が、法第七条第一項の規定による届出書を提出し、又は<span>法{'条': 3}</span>第八条第二項の規定による<span>通知{'適用': 8}</span>を受けたことのあるものである場合には、その旨及び当該<span>届出{'書類': 1, '修正申告': 1}</span>書を提出し、又は当該<span>通知{'承認': 3, '移転': 1}</span>を受けた<span>年月日{'日': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>申請{'法': 2}</span>者が、第三条に規定する要件を満たすためにとろうとする措置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六条第一項又は第二項に規定する<span>財務省令{'政令': 5}</span>で定める<span>書類{'場合': 1}</span>は、次に掲げる<span>書類{'規定': 1}</span>（申請に係る国税関係帳簿書類に係る電子計算機処理に申請者が開発したプログラム以外のプログラムを使用する<span>場合{'条': 1, '別表': 1}</span>には、第一号に掲げる書類を除く。）とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>申請{'作成': 1}</span>に係る<span>国税{'当該': 1, '提出': 1}</span>関係帳簿書類に係る電子計算機<span>処理{'規定': 1}</span>システムの<span>概要{'準備': 1}</span>を記載した<span>書類{'当該': 1, '承認': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請に係る国税<span>関係{'作成': 1}</span>帳簿書類に係る電子計算機処理に関する事務手続の概要を明らかにした書類（当該電子計算機<span>処理{'当該': 1}</span>を他の者に委託している場合には、その<span>委託{'当該': 3}</span>に係る契約書の写し）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">申請書の記載事項を<span>補完{'税関': 1}</span>するために必要となる<span>書類{'事項': 4}</span>その他参考となるべき書類</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六条第六項（<span>法{'規定': 1}</span>第七条第三項において準用する<span>場合{'法': 1}</span>を含む。）の規定により法第六条第六項に<span>規定{'納税': 1}</span>する所轄外税務署長を経由して同条第一項又は第二項の<span>申請書{'規定': 3}</span>（<span>法{'場合': 1}</span>第七条第三項において準用する<span>場合{'提出': 1}</span>に<span>あっ{'含む': 7}</span>ては、同条第一項又は第二項の<span>届出{'規定': 6}</span>書）を<span>所轄{'規定': 1}</span>税務署長等に提出しようとする保存<span>義務{'場合': 1}</span>者は、<span>当該{'承認': 1}</span><span>申請{'事業年度': 1}</span>書に法第六条第六項に規定する<span>便宜{'該当': 1}</span>とする事情の詳細を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（電磁的記録による保存等の承認に係る変更）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第七条第一項に規定する<span>保存{'経過': 1}</span><span>義務{'提出': 1}</span>者は、同項に規定する電磁的記録に係る承認済国税<span>関係{'当該': 1}</span>帳簿<span>書類{'記載': 1}</span>の全部又は一部について、法第四条第一項に規定する<span>電磁的記録{'担保': 1}</span>の備付け及び保存又は同条第二項若しくは第三項に規定する電磁的記録の保存をやめようとする場合には、あらかじめ、次に掲げる事項を<span>記載{'準用': 1}</span>した法第七条第一項の<span>届出{'規定': 2, '納税': 3}</span>書を<span>所轄{'規定': 1}</span>税務署長等に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">届出者の<span>氏名{'住所': 1}</span><span>又は{'及び': 3}</span>名称、住所<span>若しくは{'及び': 1}</span>居所又は本店若しくは主たる事務所の所在地<span>及び{'若しくは': 1, '並びに': 1}</span><span>法人番号{'特定': 1}</span>（<span>法人番号{'市町村民税': 1}</span>を有<span>しない{'減価償却資産': 1}</span>者にあっては、氏名又は名称及び住所<span>若しくは{'又は': 2}</span>居所又は本店若しくは主たる事務所の所在地）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>届出{'規定': 1, '場所': 1}</span>に係る国税関係帳簿書類の保存<span>場所{'方法': 3, '事項': 1}</span>及び<span>納税{'保存': 1}</span>地等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">届出に係る国税<span>関係{'規定': 1, '当該': 1}</span>帳簿書類について<span>法{'法律': 1}</span>第<span>四条{'規定': 4}</span><span>各項{'規定': 2}</span>のいずれかの承認を受けた年月日<span>又は{'及び': 1}</span>当該承認があったものとみなされた年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">電磁的記録による備付け及び保存をやめようとする国税関係<span>帳簿{'法律': 1}</span>又は電磁的記録による保存をやめようとする国税関係<span>書類{'帳簿': 1}</span>の種類及びそのやめようとする<span>理由{'年月日': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七条第二項に規定する保存義務者は、同項に規定する<span>申請書{'帳簿': 1}</span>に記載した事項（国税関係帳簿<span>書類{'種類': 1}</span>の種類を<span>除く{'ある': 1}</span>。）の変更をしようとする場合には、あらかじめ、その旨及び次に掲げる事項を記載した同項の<span>届出{'規定': 1, '納税': 1}</span>書を<span>所轄{'事項': 1}</span><span>税務署長{'受理': 1, '提出': 1}</span>等に提出しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該変更が当該<span>申請{'書類': 1}</span>書に<span>添付{'提出': 1}</span>した書類に係るものであるときは、当該<span>書類{'事業年度': 1}</span>に<span>当該{'提出': 1}</span>変更をしようとする内容を記入して、当該届出書に添付するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">届出者の氏名<span>又は{'及び': 1}</span>名称、住所<span>若しくは{'及び': 1}</span>居所又は本店若しくは主たる事務所の所在地<span>及び{'若しくは': 1, '並びに': 1}</span><span>法人番号{'特定': 1}</span>（<span>法人番号{'市町村民税': 1}</span>を有<span>しない{'減価償却資産': 1}</span>者にあっては、氏名又は名称及び住所<span>若しくは{'又は': 2}</span>居所又は本店若しくは主たる事務所の所在地）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>届出{'規定': 1, '場所': 1}</span>に係る国税関係帳簿書類の保存<span>場所{'方法': 3, '事項': 1}</span>及び<span>納税{'保存': 1}</span>地等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">届出に係る国税<span>関係{'規定': 1, '当該': 1}</span>帳簿書類について<span>法{'法律': 1}</span>第<span>四条{'規定': 4}</span><span>各項{'規定': 2}</span>のいずれかの承認を受けた年月日<span>又は{'及び': 1}</span>当該承認が<span>あっ{'受けよ': 1}</span>たものとみなされた年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更をしようとする事項及び当該変更の内容</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（電子計算機出力マイクロフィルムによる保存等の承認に対する準用）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二条の規定は、法第九条において<span>準用{'規定': 1}</span>する<span>法{'場合': 1}</span>第六条から第<span>八条{'六条': 1}</span>までの規定を適用する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（電子取引の取引情報に係る電磁的記録の保存）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'場合': 1}</span>第十条に規定する保存義務者は、電子取引を行った場合には、次項又は第三項に定めるところにより同条<span>ただし書{'規定': 1}</span>の書面又は電子計算機出力マイクロフィルムを保存する場合を除き、当該電子取引の取引情報（法第二条第六号に規定する取引情報をいう。）に係る電磁的記録を、当該取引情報の受領が書面により行われたとした場合又は当該取引情報の送付が書面により行われその写しが作成されたとした場合に、国税に関する法律の規定により、当該書面を保存すべきこととなる<span>場所{'場合': 1}</span>に、当該書面を保存すべきこととなる期間、次に掲げる措置のいずれかを行い、第三条第一項第四号<span>並び{'規定': 1}</span>に同<span>条{'施行令': 1}</span>第五項第七号において準用する同条第一項第三号（<span>同{'規定': 1, '第一': 1}</span>号<span>イ{'規定': 1}</span>に係る部分に限る。）及び第五号に掲げる<span>要件{'書類': 1}</span>に従って<span>保存{'場合': 1, '該当': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該<span>電磁的記録{'書類': 1}</span>の記録事項にタイムスタンプが付された後、当該取引情報の授受を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該取引情報の授受後遅滞なく、当該電磁的記録の記録事項にタイムスタンプを付すとともに、当該電磁的記録の保存を行う者又はその者を直接監督する者に関する情報を確認することができるようにしておくこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次に掲げる要件のいずれかを満たす電子計算機処理システムを使用して当該取引情報の授受及び当該電磁的記録の保存を行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該電磁的記録の<span>記録{'記載': 1}</span><span>事項{'情報': 1}</span>について訂正又は削除を行った場合には、これらの事実及び<span>内容{'規定': 1}</span>を確認することができること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該電磁的記録の記録事項について訂正又は削除を行うことができないこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該電磁的記録の記録事項について正当な理由がない<span>訂正{'区分': 1}</span>及び削除の防止に関する事務<span>処理{'貨物': 1}</span>の規程を定め、当該規程に沿った運用を行い、当該電磁的記録の保存に併せて当該<span>規程{'貨物': 1}</span>の備付けを行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第十条<span>ただし書{'規定': 1}</span>の規定により同条ただし書の<span>書面{'規定': 4}</span>の保存をする保存義務者は、当該書面を、<span>前項{'法': 1}</span>に規定する場所に、同項に規定する期間、<span>整理{'認定': 1}</span>して保存しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、当該書面は、整然とした形式及び明瞭な状態で出力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'出力': 1}</span>第十条ただし書の規定により同条<span>ただし書{'規定': 1}</span>の<span>電子計算機{'規定': 1}</span>出力マイクロフィルムの保存をする保存義務者は、当該電子計算機出力マイクロフィルムを、第一項に<span>規定{'保存': 1}</span>する場所に、同項に規定する期間、第四条第二項において<span>準用{'提出': 1}</span>する同<span>条{'場合': 2}</span><span>第一{'規定': 1}</span>項第一号（同号ロに係る部分に限る。）から第四号までに掲げる要件に従って<span>保存{'該当': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年七月一二日大蔵省令第六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'法律': 1}</span>は、平成十三年三月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'法律': 1}</span>は、平成十三年一月六日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年九月三〇日財務省令第九一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十五年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一月三一日財務省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'法律': 1}</span>は、平成十七年<span>四月一日{'法律': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>改正{'省令': 1}</span>後の<span>電子計算機{'規定': 1}</span>を使用して作成する<span>国税{'財務省令': 1}</span><span>関係{'規定': 1}</span>帳簿書類の保存方法等の特例に関する法律施行規則第八条第一項の<span>規定{'施行': 1, '法律': 1}</span>は、この省令の施行の日以後に行う電子取引の取引情報（電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律（平成十年法律第二十五号）第十条に規定する電子取引の<span>取引情報{'適用': 1}</span>をいう。以下同じ。）について適用し、同日前に行った電子取引の取引情報については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年三月三一日財務省令第二二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成二十一年四月一日から<span>施行{'間': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年七月九日財務省令第六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）附則第一条第四号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の<span>電子計算機{'規定': 1}</span>を使用して作成する<span>国税{'財務省令': 1}</span><span>関係{'規定': 1}</span>帳簿書類の保存方法等の特例に関する法律<span>施行規則{'法律': 2, '六条': 1, '規定': 1}</span>（以下「新規則」という。）第五条<span>第一{'第三条': 1}</span>項第一号の規定は、この<span>省令{'政令': 1}</span>の施行の日（以下「施行日」という。）以後に提出する<span>電子計算機{'当該': 1}</span>を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律第<span>六条{'法律': 2}</span>第一項又は第二項の<span>申請書{'提出': 1, '規定': 1}</span>（以下この<span>項{'提出': 1}</span>において「申請書」という。）について適用し、<span>施行日{'同日': 2}</span>前に提出した<span>申請書{'届出': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">新<span>規則{'租税特別措置法': 1, '新令': 1}</span>第六条第一項第一号及び第二項第一号の規定は、<span>施行日{'書類': 1}</span>以後に提出する電子計算機を使用して作成する<span>国税{'財務省令': 1}</span>関係帳簿書類の保存方法等の特例に関する<span>法律{'規定': 1}</span>第七条第一項又は第二項の<span>届出{'最初': 1}</span>書（以下この項において「届出書」という。）について適用し、<span>施行日{'同日': 2}</span>前に提出した届出書については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日財務省令第三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この<span>省令{'法律': 1, '政令': 3}</span>は、平成二十七年九月三十日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第八条第一項第一号の改正規定及び<span>附則{'改正': 3}</span>第三項の規定は、平成二十八年<span>一月一日{'政令': 1, '四月一日': 1}</span>から<span>施行{'二条': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>改正{'政令': 1, '準用': 1}</span>後の<span>電子計算機{'規定': 2}</span>を使用して作成する<span>国税{'財務省令': 1}</span><span>関係{'規定': 1}</span>帳簿書類の保存方法等の特例に関する法律<span>施行規則{'法律': 2, '六条': 1, '規定': 1}</span>（以下「新<span>規則{'酒類': 1}</span>」という。）第三条第三項、第五項及び第六項の規定は、この省令の<span>施行{'期間': 1}</span>の日以後に提出する電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律第<span>六条{'規定': 1}</span>第二項の<span>申請書{'規定': 1}</span>（以下この項において「申請書」という。）に係る<span>国税{'関税': 1}</span><span>関係{'当該': 1}</span>書類（<span>同法{'関税': 1}</span>第二条第二号に規定する国税関係書類をいう。以下この<span>項{'規定': 2}</span>において同じ。）について<span>適用{'規定': 1}</span>し、同日前に提出した申請書に係る<span>国税{'支配': 1, '関税': 1}</span>関係書類については、なお<span>従前{'規定': 1}</span>の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">新<span>規則{'所得税法': 1}</span>第八条第一項の規定は、平成二十八年一月一日以後に行う電子取引の取引情報（電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律第十条に<span>規定{'施行規則': 1}</span>する電子取引の取引情報をいう。以下同じ。）について適用し、同日前に行った電子取引の取引情報については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月三一日財務省令第二六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この<span>省令{'政令': 1}</span>は、平成二十八年九月三十日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五条第一項第一号の改正規定並びに第<span>六条{'条': 1}</span>第一項第一号及び第二項<span>第一{'第五': 1}</span>号の改正規定並びに附則第三項及び第四項の規定は、平成二十九年一月一日から<span>施行{'二条': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の<span>電子計算機{'規定': 2}</span>を使用して作成する<span>国税{'財務省令': 1}</span><span>関係{'規定': 1}</span>帳簿書類の保存方法等の特例に関する法律<span>施行規則{'法律': 2, '六条': 1, '規定': 1}</span>（以下「新規則」という。）第三条の規定は、この<span>省令{'政令': 1}</span>の施行の日以後に提出する電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する<span>法律{'規定': 1}</span>（以下「<span>法{'法律': 2}</span>」という。）第<span>六条{'規定': 1}</span>第二項の申請書（以下この項において「申請書」という。）に係る<span>国税{'関税': 1}</span>関係書類（<span>法{'関税': 1}</span>第二条第二号に規定する<span>国税{'支配': 1}</span>関係書類をいう。以下この<span>項{'規定': 2}</span>において同じ。）について<span>適用{'規定': 1}</span>し、同日前に提出した申請書に係る<span>国税{'支配': 1, '関税': 1}</span>関係書類については、なお<span>従前{'規定': 1}</span>の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">新<span>規則{'所得税法': 1, '新令': 2}</span>第五条第一項の規定は、平成二十九年<span>一月一日{'施行日': 1}</span>以後に<span>提出{'発行': 1}</span>する法第六条第一項又は第二項の<span>申請書{'規定': 3}</span>（以下この<span>項{'場合': 1}</span>において「<span>申請書{'規定': 1}</span>」という。）について適用し、<span>同日{'施行日': 1}</span><span>前{'当該': 1}</span>に提出した申請書については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">新<span>規則{'所得税法': 1, '租税特別措置法': 1}</span>第<span>六条{'第三条': 1}</span>第一項及び第二項の規定は、平成二十九年<span>一月一日{'施行日': 2}</span>以後に<span>提出{'規定': 1}</span>する法第七条第一項又は第二項の<span>届出{'規定': 4}</span>書（以下この<span>項{'規定': 1}</span>において「届出書」という。）について適用し、同日前に提出した届出書については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年四月一八日財務省令第三九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、平成三十一年<span>一月七日{'公布': 1}</span>から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日財務省令第二一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和元年九月三十日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三条第五項の改正規定及び第四条第一項第四号の<span>改正{'附則': 2, '次': 1}</span><span>規定{'前': 1}</span>は、同年<span>七月一日{'使用': 1, '四月一日': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の<span>電子計算機{'規定': 2}</span>を使用して作成する<span>国税{'財務省令': 1}</span><span>関係{'規定': 1}</span>帳簿書類の保存方法等の特例に関する法律<span>施行規則{'施行令': 1, '法律': 1}</span><span>第三条{'規則': 1}</span>第七項及び第八項の規定は、この省令の施行の<span>日{'規定': 1}</span>以後に提出する同<span>条{'所得税法': 1}</span>第七項に規定する適用届出書に係る同項に規定する過去分重要書類について<span>適用{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年十月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項の規定は、同年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

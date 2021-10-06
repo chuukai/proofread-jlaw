@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="133" Year="19">
+  <LawNum>平成十九年法律第百三十三号</LawNum>
+  <LawBody>
+    <LawTitle>犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　預金口座等に係る取引の停止等の措置</ChapterTitle>
+        <ArticleRange>（第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　預金等に係る債権の消滅手続</ChapterTitle>
+        <ArticleRange>（第四条―第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　被害回復分配金の支払手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第八条・第九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　手続の開始等</SectionTitle>
+          <ArticleRange>（第十条・第十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　支払の申請及び決定等</SectionTitle>
+          <ArticleRange>（第十二条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　支払の実施等</SectionTitle>
+          <ArticleRange>（第十六条・第十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　手続の終了等</SectionTitle>
+          <ArticleRange>（第十八条―第二十五条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　預金保険機構の業務の特例等</ChapterTitle>
+        <ArticleRange>（第二十六条―第三十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange>（第三十一条―第四十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange>（第四十三条―第四十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、預金口座等への振込みを利用して行われた詐欺等の犯罪行為により被害を受けた者に対する被害回復分配金の支払等のため、預金等に係る債権の消滅手続及び被害回復分配金の支払手続等を<span>定め{'金融機関': 1}</span>、もって当該犯罪行為により被害を受けた者の財産的被害の迅速な回復等に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律において「金融機関」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>銀行</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>信用金庫</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>信用金庫連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>労働金庫</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>労働金庫連合会{'信用金庫連合会': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>信用協同組合{'農林中央金庫': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>信用協同組合連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>農業協同組合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>農業協同組合連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence>漁業協同組合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence>漁業協同組合連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence>水産加工業協同組合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence>水産加工業協同組合連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence>農林中央金庫</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence>株式会社商工組合中央金庫</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'貯金': 1}</span>において「預金口座等」とは、預金口座又は貯金口座（金融機関により、預金口座又は貯金口座が犯罪行為に利用されたこと等を理由として、これらの<span>口座{'預金': 1}</span>に係る契約を解約しその資金を別段預金等により管理する措置がとられている場合におけるこれらの口座であったものを含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「振込利用犯罪行為」とは、詐欺その他の人の財産を害する罪の犯罪行為であって、財産を得る方法としてその被害を受けた者からの預金口座等への振込みが利用されたものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「犯罪利用預金口座等」とは、次に掲げる預金口座等をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>振込利用犯罪行為において、前項に規定する振込みの振込先となった預金口座等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>専ら前号に掲げる預金口座等に係る<span>資金{'貯金': 1}</span>を<span>移転{'援助': 1}</span>する目的で利用された預金口座等であって、当該預金口座等に係る資金が同号の振込みに係る資金と実質的に同じであると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「被害回復分配金」とは、第七条の規定により消滅した預金又は貯金（以下「預金等」という。）に係る債権の額に相当する額の金銭を<span>原資{'貸付け': 1}</span>として金融機関により支払われる金銭であって、振込利用犯罪行為により失われた財産の価額を基礎として第四章の規定によりその金額が算出されるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　預金口座等に係る取引の停止等の措置</ChapterTitle>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>金融機関{'項': 1}</span>は、当該金融機関の預金口座等について、捜査機関等から当該預金口座等の不正な利用に関する情報の提供があることその他の事情を勘案して犯罪利用預金口座等である<span>疑い{'必要': 1}</span>があると認めるときは、当該預金口座等に係る取引の停止等の措置を適切に講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>金融機関は、<span>前項{'準用': 1}</span>の<span>場合{'規定': 1}</span>において、同項の預金口座等に係る取引の状況その他の事情を<span>勘案{'預金': 1}</span>して当該預金口座等に係る<span>資金{'保険契約': 1}</span>を<span>移転{'援助': 1}</span>する目的で利用された疑いがある他の金融機関の預金口座等があると認めるときは、当該<span>他{'情報': 1}</span>の金融機関に対して必要な情報を提供するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　預金等に係る債権の消滅手続</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（公告の求め）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>金融機関{'場合': 1}</span>は、当該金融機関の預金口座等について、次に掲げる<span>事由{'事項': 1}</span>その他の事情を勘案して犯罪利用預金口座等であると<span>疑う{'受け': 1}</span>に足りる相当な理由があると認めるときは、速やかに、当該預金口座等について現に取引の停止等の措置が講じられていない場合においては当該措置を講ずるとともに、主務省令で定めるところにより、預金保険機構に対し、当該預金口座等に係る預金等に係る債権について、主務省令で定める書類を添えて、当該債権の消滅手続の開始に係る公告をすることを求めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>捜査機関等から当該預金口座等の不正な利用に関する情報の提供があったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>前{'当該': 1}</span>号の情報その他の情報に基づいて当該預金口座等に係る振込利用犯罪行為による被害の状況について行った調査の結果</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>金融機関が有する資料により<span>知る{'行う': 1}</span>ことができる当該預金口座等の名義人の住所への連絡その他の方法による当該名義人の所在その他の状況について行った調査の結果</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該預金口座等に係る取引の状況</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定は、次の各号のいずれかに該当するときは、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>前項に規定する預金口座等についてこれに係る預金等の払戻しを求める訴え（以下この章において「払戻しの訴え」という。）が提起されているとき又は当該預金等に係る債権について強制執行、仮差押え若しくは仮処分の手続その他主務省令で定める手続（以下この章において「強制執行等」という。）が行われているとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>振込利用犯罪行為により被害を受けたと認められる者の状況その他の事情を勘案して、この<span>法律{'法': 1}</span>に規定する手続を実施することが適当でないと認められる場合として、主務省令で定める場合に<span>該当{'当該': 1}</span>するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>金融機関は、第一項の預金口座等に係る取引の状況その他の事情を<span>勘案{'預金': 1}</span>して当該預金口座等に係る資金を移転する目的で利用されたと疑うに足りる相当な理由がある他の金融機関の預金口座等があると認めるときは、当該他の金融機関に対し、同項の<span>預金{'規定': 1}</span>口座等に係る主務省令で定める事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（公告等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>預金保険{'加入': 1}</span>機構は、前条第一項の規定による<span>求め{'通知': 1}</span>があったときは、遅滞なく、当該求めに係る書面又は同<span>項{'電磁的記録': 1, '前項': 1}</span>に規定する主務省令で定める<span>書類{'金額': 1}</span>の<span>内容{'理由': 1}</span>に基づき、次に掲げる事項を<span>公告{'記載': 2}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>前条第一項の規定による求めに係る預金口座等（以下この章において「対象預金口座等」という。）に係る預金等に係る債権（以下この<span>章{'支払': 1}</span>において「対象預金等債権」と<span>いう{'譲り受け': 1}</span>。）についてこの<span>章{'項': 1}</span>の<span>規定{'契約': 1}</span>に基づく<span>消滅{'更生': 1}</span>手続が開始された<span>旨{'公告': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>対象預金口座等に係る金融機関及びその店舗並びに預金等の種別及び口座番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>対象預金口座等の名義人の氏名又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>対象預金等債権の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>対象預金口座等に係る名義人その他の<span>対象{'当該': 1}</span>預金等<span>債権{'口座': 1}</span>に係る債権者による当該対象預金等債権についての金融機関への権利行使の届出又は払戻しの訴えの提起若しくは強制執行等（以下「<span>権利行使{'規定': 1}</span>の届出等」という。）に係る期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号の権利行使の届出の方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>払戻しの訴えの提起又は強制執行等に関し参考となるべき事項として主務省令で定めるもの（<span>当該{'方法': 1}</span>事項を公告することが困難である旨の金融機関の<span>通知{'必要': 1}</span>が<span>ある{'掲げる': 2}</span>事項を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五号に掲げる<span>期間内{'事項': 1}</span>に権利行使の届出等がないときは、対象預金等債権が消滅する旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他主務省令で定める<span>事項{'事由': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項第五号に掲げる<span>期間{'事項': 1}</span>は、同<span>項{'法': 1}</span>の規定による<span>公告{'場合': 1}</span>があった日の翌日から起算して六十日以上でなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>預金保険{'経過': 1}</span>機構は、前条第一項の規定による求めに係る書面又は同<span>項{'都道府県知事': 1}</span>に規定する主務省令で定める<span>書類{'金額': 1}</span>に形式上の<span>不備{'必要': 1}</span>があると認めるときは、金融機関に対し、相当の期間を定めて、その補正を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>金融機関は、第一項第五号に掲げる期間内に対象預金口座等に係る振込利用犯罪行為により被害を受けた旨の申出をした者があるときは、その者に対し、被害回復分配金の支払の申請に関し利便を図るための措置を適切に講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項から第三項までに規定するものの<span>ほか{'法': 2}</span>、第一項の規定による公告に関し必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（権利行使の届出等の通知等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>金融機関は、<span>前条{'限り': 1}</span>第一項第五号に掲げる期間内に権利行使の届出等があったときは、その旨を<span>預金保険機構{'規定': 1}</span>に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>金融機関は、前条第一項第五号に掲げる期間内に対象預金口座等が犯罪利用預金口座等でないことが<span>明らか{'相当': 1}</span>になったときは、その旨を預金保険機構に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>預金保険<span>機構{'前項': 1}</span>は、前二項の規定による通知を受けたときは、<span>預金{'当該': 1}</span>等に係る債権の消滅手続が終了した旨を公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（預金等に係る債権の消滅）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">対象預金等債権について、第五条第一項第五号に掲げる期間内に権利行使の<span>届出{'遅滞': 1}</span>等がなく、かつ、前条第二項の規定による<span>通知{'場合': 1}</span>がないときは、当該対象預金等債権は、消滅する。</Sentence>
+              <Sentence Num="2">この場合において、<span>預金保険機構{'当該': 1}</span>は、その旨を公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　被害回復分配金の支払手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Num="8">
+            <ArticleCaption>（被害回復分配金の支払）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>金融機関{'施行': 1}</span>は、前条の規定により消滅した預金等に係る債権（以下この<span>章{'預金': 1}</span>及び第三十七条第二項において「消滅預金等債権」という。）の額に相当する<span>額{'金銭': 1}</span>の金銭を<span>原資{'貸付け': 1}</span>として、この<span>章{'内閣府令': 1}</span>の定めるところにより、消滅預金等債権に係る預金口座等（以下この<span>章{'委託': 1}</span>において「対象預金口座等」という。）に係る振込利用犯罪行為（対象預金口座等が第二条第四項第二号に掲げる預金口座等である場合にあっては、当該預金<span>口座{'当該': 1}</span>等に係る<span>資金{'保険契約': 1}</span>の<span>移転{'貸付け': 1}</span>元となった同項第一号に掲げる預金口座等に係る振込利用犯罪行為。以下この章において「対象犯罪行為」という。）により被害を受けた者（法人でない団体で代表者又は管理人の定めのあるものを含む。）であってこれにより財産を失ったもの（以下この章において「対象被害者」という。）に対し、被害回復分配金を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関は、対象被害者について相続その他の一般承継があったときは、この章の定めるところにより、その相続人その他の一般承継人に対し、被害回復分配金を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前二項の規定は、消滅預金等債権の<span>額{'譲渡': 1}</span>が千円未満である場合は、<span>適用{'準用': 1}</span>しない。</Sentence>
+                <Sentence Num="2">この場合において、預金保険機構は、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（被害回復分配金の支払を受けることができない者）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>前条の規定にかかわらず、次の各号のいずれかに該当する者は、<span>被害{'場合': 1}</span>回復分配金の支払を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象犯罪行為により失われた財産の価額に相当する損害の全部について、そのてん補又は賠償がされた場合（当該対象犯罪行為により当該財産を失った対象被害者又はその一般承継人以外の者により当該てん補又は賠償がされた場合に限る。）における当該対象犯罪行為により当該財産を失った対象被害者又はその一般承継人</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象犯罪行為を実行した者若しくはこれに共犯として加功した者、当該対象犯罪行為に関連して不正な利益を得た者、当該対象<span>犯罪行為{'信託': 1}</span>により財産を失ったことについて自己に不法な原因がある者その他被害回復分配金の支払を受けることが社会通念上適切でない者又は対象被害者がこれらの者のいずれかに該当する場合におけるその一般承継人</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　手続の開始等</SectionTitle>
+          <Article Num="10">
+            <ArticleCaption>（公告の求め）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、第七条の規定により預金等に係る債権が<span>消滅{'項': 1}</span>したとき（第八条第三項に規定する場合を除く。）は、速やかに、主務省令で定めるところにより、預金保険機構に対し、その消滅に係る消滅預金等債権について、主務省令で定める書類を添えて、<span>被害{'義務': 1}</span>回復分配金の支払手続の<span>開始{'規定': 1}</span>に係る<span>公告{'記載': 1}</span>をすることを求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前項の規定は、対象預金口座等に係るすべての対象<span>被害者{'取引': 1}</span>又はその一般承継人が明らかであり、かつ、これらの対象被害者又はその一般承継人のすべてから被害回復分配金の支払を求める旨の<span>申出{'金融機関': 1}</span>があるときは、適用しない。</Sentence>
+                <Sentence Num="2">この場合において、金融機関は、預金保険機構にその旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（公告等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>預金保険機構は、前条第一項の規定による<span>求め{'通知': 1}</span>があったときは、遅滞なく、当該求めに係る書面又は同<span>項{'電磁的記録': 1, '前項': 1}</span>に規定する主務省令で定める<span>書類{'金額': 1}</span>の<span>内容{'理由': 1}</span>に基づき、次に掲げる事項を<span>公告{'定め': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前条第一項の規定による求めに係る消滅預金等債権についてこの章の<span>規定{'手続': 1}</span>に基づく<span>被害{'額': 1}</span>回復分配金の支払手続が開始された旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象預金口座等（対象<span>預金{'有価証券': 1}</span>口座等が第二条第四項第二号に掲げる預金口座等である場合における当該<span>対象{'保険契約': 1}</span>預金口座等に係る<span>資金{'貯金': 1, '保険契約': 1}</span>の<span>移転{'貸付け': 1}</span>元となった同項第一号に掲げる預金口座等を含む。次号において同じ。）に係る金融機関及びその店舗並びに預金等の種別及び口座番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象預金口座等の名義人の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>消滅預金等債権の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>支払<span>申請{'受け': 1}</span>期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>被害回復分配金の支払の申請方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>被害回復分配金の支払の申請に関し参考となるべき事項として主務省令で定めるもの（<span>当該{'方法': 1}</span>事項を公告することが困難である旨の金融機関の<span>通知{'必要': 1}</span>が<span>ある{'掲げる': 3}</span>事項を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他主務<span>省令{'内閣府令': 1}</span>で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項第五号に掲げる<span>支払{'事項': 1}</span><span>申請{'受け': 1}</span>期間（以下この章において単に「<span>支払{'当該': 1}</span><span>申請{'支払': 1}</span>期間」という。）は、同項の規定による公告が<span>あっ{'生じ': 1}</span>た日の翌日から起算して三十日以上でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>預金保険{'経過': 1}</span>機構は、前条第一項の規定による求めに係る書面又は同<span>項{'都道府県知事': 1}</span>に規定する主務省令で定める<span>書類{'金額': 1}</span>に形式上の<span>不備{'必要': 1}</span>があると認めるときは、金融機関に対し、相当の期間を<span>定め{'前': 1}</span>て、その補正を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関は、対象犯罪行為による被害を受けたことが疑われる者に対し被害回復分配金の支払手続の実施等について周知するため、必要な<span>情報{'事項': 1}</span>の提供その他の措置を適切に講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項から第三項までに規定するもののほか、第一項の規定による公告に関し必要な事項は、主務省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　支払の申請及び決定等</SectionTitle>
+          <Article Num="12">
+            <ArticleCaption>（支払の申請）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>被害回復分配金の支払を受けようとする者は、支払申請期間（第十条第二項の規定による通知があった<span>場合{'当該': 2, '管理': 1}</span>においては、<span>金融機関{'政令': 1, '内閣府令': 1}</span>が定める相当の期間。以下同じ。）内に、主務省令で定めるところにより、次に掲げる事項を記載した申請書に第一号及び第二号に掲げる事項を<span>疎明{'記載': 1}</span>するに足りる資料を添付して、対象預金口座等に係る金融機関に申請をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請人が対象被害者又はその一般承継人であることの基礎となる事実</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象犯罪行為により失われた財産の価額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>控除対象額（対象犯罪行為により失われた財産の価額に相当する損害について、そのてん補又は賠償がされた場合（当該対象犯罪行為により当該財産を失った対象被害者又はその一般承継人以外の者により当該てん補又は賠償がされた場合に限る。）における当該てん補額及び賠償額を合算した額をいう。以下同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他主務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前項の規定による申請をした対象被害者又はその一般承継人（以下この項において「対象被害者等」という。）について、当該申請に対する次条の規定による決定が行われるまでの<span>間{'請求': 1}</span>に一般承継があったときは、当該対象被害者等の一般承継人は、支払申請期間が経過した後であっても、当該一般承継があった日から六十日以内に限り、被害回復分配金の支払の申請をすることができる。</Sentence>
+                <Sentence Num="2">この場合において、当該一般承継人は、主務省令で定めるところにより、前項に規定する申請書に同項第一号及び第二号に掲げる事項を疎明するに足りる資料を添付して、これを対象預金口座等に係る金融機関に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の規定による申請は、対象犯罪行為に係る第二条第三項に規定する振込みの依頼をした金融機関を経由して、行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（支払の決定）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">金融機関は、前条第一項の規定による申請があった場合において、<span>支払{'当該': 2}</span><span>申請{'期間': 1}</span>期間が経過したときは、遅滞なく、同条第一項又は第二項に規定する申請書及び資料等に基づき、その申請人が被害回復分配金の支払を受けることができる者に<span>該当{'場所': 1}</span>するか否かの決定をしなければならない。</Sentence>
+                <Sentence Num="2">同<span>条{'前項': 1}</span>第二項の規定による申請があった場合において、当該申請に係る<span>一般承継{'場合': 1}</span>があった日から六十日が経過したときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">金融機関は、被害回復分配金の<span>支払{'認可': 1}</span>を受けることができる者に<span>該当{'金融機関': 1}</span>する旨の決定（以下「支払該当者決定」という。）をするに当たっては、その犯罪被害額（対象犯罪行為により失われた財産の価額から控除対象額を控除した額をいう。以下同じ。）を定めなければならない。</Sentence>
+                <Sentence Num="2">この場合において、支払該当者決定を受ける者で同一の対象被害者の一般承継人であるものが二人以上ある場合におけるその者に係る犯罪被害額は、当該対象被害者に係る対象犯罪行為により失われた財産の価額から控除対象額を控除した額を当該一般承継人の数で除して得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項後段に規定する場合において、当該支払該当者決定を受ける者のうちに各人が支払を受けるべき被害回復分配金の額の割合について合意をした者があるときは、同項後段の規定にかかわらず、当該合意をした者に係る犯罪被害額は、同項後段の規定により算出された額のうちこれらの者に係るものを合算した額に当該合意において定められた各人が支払を受けるべき被害回復分配金の額の割合を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項に定めるもののほか、犯罪被害額の認定の方法については、主務省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（書面の送付等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、前条の規定による決定を行ったときは、速やかに、その<span>内容{'規定': 1}</span>を記載した書面を申請人に送付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定にかかわらず、<span>申請{'外国': 1}</span>人の所在が<span>知れ{'ある': 1}</span>ないときその他同項の<span>書面{'規定': 1}</span>を送付することができないときは、金融機関において当該書面を<span>保管{'交付': 1}</span>し、いつでも<span>申請{'書面': 1}</span>人に交付すべき旨を<span>明らか{'必要': 1}</span>にする措置として主務省令で定める措置をとることをもって同項の規定による送付に代えることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（決定表の作成等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、第十三条の規定による決定を行ったときは、次に掲げる事項を記載した<span>決定{'記録': 1}</span>表を作成し、申請人の閲覧に供するため、これを<span>主務{'方法': 1}</span>省令で定める場所に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>支払該当者決定を受けた者の氏名又は名称及び当該支払該当者決定において定められた犯罪被害額（支払該当者決定を受けた者がないときは、その旨）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他主務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　支払の実施等</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（支払の実施等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、すべての<span>申請{'法': 1}</span>に対する第十三条の規定による決定を行ったときは、遅滞なく、支払該当者決定を受けた者に対し、被害回復分配金を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により支払う被害回復分配金の<span>額{'分配': 1}</span>は、支払該当者決定により定めた犯罪被害額の総額（以下この項において「総被害額」という。）が<span>消滅{'特定': 1}</span>預金等債権の額を超えるときは、この額に当該支払該当者決定を受けた者に係る犯罪被害額の総被害額に対する割合を乗じて得た額（その額に一円未満の端数があるときは、これを切り捨てた額）とし、その他のときは、当該犯罪被害額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関は、第一項の規定により支払う被害回復分配金の額を決定表に記載し、その旨を預金保険機構に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>預金保険機構は、前項の規定による通知を受けたときは、第一項の規定により支払う被害回復分配金の額を<span>金融機関{'決定': 1}</span>が決定表に記載した旨を<span>公告{'書面': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（支払該当者決定後の一般承継人に対する被害回復分配金の支払）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">金融機関は、支払該当者決定が行われた者について一般承継があった場合において、その者に支払うべき被害回復分配金でまだ支払っていないものがあるときは、その者の<span>一般承継{'場合': 1}</span>人であって当該一般承継があった日から六十日以内に届出をしたものに対し、未払の被害回復分配金を支払わなければならない。</Sentence>
+                <Sentence Num="2">この場合において、当該一般承継人は、主務省令で定めるところにより、届出書を金融機関に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">前項の規定により届出をした一般承継人が二人以上ある場合における当該一般承継人に支払う被害回復分配金の額は、同項に規定する未払の被害回復分配金の額を当該一般承継人の数で除して得た額（その額に一円未満の端数があるときは、これを切り捨てた額）とする。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該一般承継人のうちに各人が支払を受けるべき被害回復分配金の額の割合について合意をした者があるときは、当該合意をした者に支払う被害回復分配金の額は、この項本文の規定により<span>算出{'自己資本': 1}</span>された額のうちこれらの者に係るものを合算した額に当該合意において定められた各人が支払を受けるべき被害回復分配金の額の割合を乗じて得た額（その額に一円未満の端数があるときは、これを切り捨てた額）とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　手続の終了等</SectionTitle>
+          <Article Num="18">
+            <ArticleCaption>（公告）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、次の各号のいずれかに該当するときは、速やかに、預金保険機構に対し、被害回復分配金の支払手続の終了に係る公告をすることを求めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十二条第一項又は第二項の規定による申請がないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十<span>二条{'条': 1}</span>第一項<span>又は{'及び': 1}</span>第二項の<span>規定{'登録': 1}</span>による申請のすべてについて第十三条の規定による決定があった場合において、支払該当者決定を受けた者がないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前節又は第二十二条第二項の規定により支払うべき被害回復分配金のすべてについて、同節の規定によりこれを支払い、又は同項に規定する措置をとったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>対象<span>預金{'契約': 1, '保険契約': 1}</span>口座等が犯罪利用預金口座等でないことが<span>明らか{'相当': 1}</span>になったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>預金保険機構は、前項の規定による<span>求め{'払込み': 1}</span>があったときは、遅滞なく、被害回復分配金の支払手続が<span>終了{'金融機関': 1}</span>した旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（預金保険機構への納付）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>金融機関{'公告': 1}</span>は、第八条第三項<span>又は{'及び': 1}</span>前条第二項の規定による公告があった場合において、次の各号のいずれかに該当するときは、当該各号に定める額に相当する<span>額{'金額': 2}</span>の金銭を、<span>預金保険{'貸付け': 1}</span>機構に納付しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第八条第三項の規定による公告があったとき又は前条第二項の規定による<span>公告{'場合': 1}</span>があった<span>場合{'当該': 1}</span>において被害回復分配金の支払を行わなかったとき。</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>消滅預金等<span>債権{'保険金': 1}</span>の額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前条第二項の規定による<span>公告{'場合': 3}</span>があった場合において、当該<span>公告{'支払': 1}</span>に係る対象<span>預金{'共益': 1, '会社': 1}</span>口座等について支払った被害<span>回復{'規定': 1}</span>分配金の額の合計額が消滅預金等債権の額に満たないとき。</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>消滅預金等債権の額から当該被害回復分配金の額の合計額を控除した額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（犯罪被害者等の支援の充実等）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>預金保険機構は、<span>前条{'前項': 1}</span>（第二十四条第三項の規定によりその<span>例{'準用': 2}</span>によることとされる場合を含む。）の規定により金銭の納付を受けたときは、<span>当該{'場合': 1}</span>納付を受けた金銭の額から当該金銭の額に第二十五条第四項の規定による支払に要する<span>費用{'金銭': 1}</span>の額を考慮して主務省令で定める<span>割合{'額': 2}</span>を乗じて得た額を控除した額の金銭を、主務省令で定めるところにより、犯罪被害者等の支援の充実のために支出するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>預金保険機構は、前項の<span>主務{'規定': 2}</span>省令で定める割合を乗じて得た額の金銭について、その全部<span>又は{'若しくは': 1}</span>一部が第二十五条第四項の規定による支払のため必要がなくなったときは、前項の主務省令で定めるところにより、これを犯罪被害者等の支援の充実のために支出するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（損害賠償請求権等との関係）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>被害回復分配金を支払ったときは、その<span>支払{'承認': 1}</span>を受けた者が有する当該被害回復分配金に係る対象犯罪行為に係る損害賠償請求権その他の請求権は、その支払を受けた額の限度において消滅する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関が第二十五条第一項又は第二項の規定による支払を行った場合において、その<span>支払{'登録': 1}</span>を受けた者が第四条第一項の規定の適用その他の前章又はこの章に規定する手続の実施に関し損害賠償請求権その他の請求権を有するときは、当該請求権は、その支払を受けた額の限度において消滅する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（被害回復分配金の支払を受ける権利の消滅等）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>被害回復分配金の支払手続において、被害回復<span>分配{'契約': 1}</span>金の支払を受ける<span>権利{'場所': 1}</span>は、第十六条第四項（次項又は第二十四条第二項の規定によりその<span>例{'準用': 4}</span>によることとされる場合を<span>含む{'あっ': 1}</span>。）の規定による<span>公告{'請求': 1}</span>があった時から六月間行使しないときは、消滅する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">金融機関は、前項の規定により被害回復分配金の支払を受ける権利が消滅した場合において、同一の対象預金口座等に係る被害回復分配金の支払について他に支払該当者決定を受けた者（被害回復分配金の支払を受ける権利が消滅した者を除く。以下「他の支払該当者」という。）があり、かつ、他の支払該当者について既に支払った被害回復分配金の額が犯罪被害額に満たないときは、遅滞なく、同項の規定により消滅した権利に係る被害<span>回復{'条': 1}</span>分配金の額に相当する額の金銭を<span>原資{'額': 1}</span>として、前節の規定の例により、他の支払該当者又はその一般承継人に対し、<span>被害{'行使': 1}</span>回復分配金の支払をしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、同項の規定により消滅した権利に係る被害<span>回復{'条': 1}</span>分配金の<span>額{'配当': 1}</span>が千円未満である場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（被害回復分配金の支払を受ける権利の保護）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">被害回復分配金の支払を受ける権利は、譲り渡し、担保に供し、又は差し押さえることができない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>国税{'当該': 1}</span>滞納処分（その例による処分を含む。）により差し押さえる場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（不正の手段により支払を受けた場合の返還等）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>金融機関は、偽りその他不正の手段により被害回復分配金の<span>支払{'貸付け': 1}</span>を受けた者があるときは、その者からの被害回復分配金の返還に係る措置を適切に講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">金融機関は、前項に規定する者から被害回復分配金の返還を受けた場合において、他の支払<span>該当者{'受け': 1}</span>があり、かつ、他の支払該当者について既に支払った被害回復分配金の額が犯罪被害額に満たないときは、遅滞なく、返還を受けた額に相当する額の金銭を原資として、前節の規定の例により、他の支払該当者又はその一般承継人に対し、被害回復分配金の支払をしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、同項に規定する者から返還を受けた額が千円未満である<span>場合{'二条': 1}</span>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項に<span>規定{'当該': 1}</span>する者から返還を受けた金銭の預金保険機構への納付については、第十九条の規定の例による。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（犯罪利用預金口座等でないことについて相当な理由があると認められる場合における支払の請求等）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>対象預金<span>口座{'資金': 1}</span>等に係る名義人その他の消滅預金等債権に係る債権者（以下この条において「<span>名義{'規定': 1}</span>人等」という。）は、第八条第三項又は第十八条第二項の規定による<span>公告{'場合': 1}</span>があった後において、対象預金口座等に係る金融機関に対し第五条第一項第五号に掲げる期間内に同号の権利行使の届出を行わなかったことについてのやむを得ない事情その他の<span>事情{'農林中央金庫': 1}</span>、当該対象預金<span>口座{'債権': 1}</span>等の利用の状況及び<span>当該{'補償': 1}</span>対象預金口座等への主要な入金の原因について必要な説明が行われたこと等により、当該対象預金口座等が犯罪利用預金口座等でないことについて相当な<span>理由{'金額': 1}</span>があると<span>認め{'認める': 1}</span>られる場合には、当該金融機関に対し、消滅<span>預金{'貯金': 1, '当該': 1}</span>等債権の<span>額{'元本': 1}</span>に相当する<span>額{'金額': 1, '金銭': 1}</span>の支払を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">名義人等は、対象預金口座等について、当該対象預金口座等に係る金融機関に対し第五条第一項第五号に掲げる期間内に同号の権利行使の届出を行わなかったことについてのやむを得ない<span>事情{'理由': 1}</span>その他の事情について必要な説明を行った場合において、対象犯罪行為による被害に係る<span>財産{'信託': 1}</span>以外の財産をもって当該対象<span>預金{'協同組織金融機関': 1}</span>口座等への振込みその他の方法による入金が行われているときは、第八条第三項又は第十八条第二項の規定による公告があった後において、当該対象預金口座等に係る金融機関に対し、消滅預金等債権の額から<span>当該{'場合': 1}</span>入金以外の当該対象預金口座等へのすべての入金の合計額を控除した額の支払を請求することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該消滅<span>預金{'貯金': 1, '当該': 1}</span>等債権の額が当該合計額以下であるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関は、前二項の規定による支払を行おうとする場合において、第四条第一項の規定の適用その他の<span>前章{'前条': 1}</span>に規定する手続の実施に関し過失がないと思料するときは、その旨を預金保険機構に<span>通知{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">第一項又は第二項の規定による支払を行った<span>金融機関{'決定': 1}</span>は、主務省令で定めるところにより、第四条第一項の規定の適用その他の前章に規定する手続の実施に関し過失がないことについて相当な理由があると認められるときは、預金保険機構に対し、第一項又は第二項の規定により支払った<span>額{'金額': 1, '金銭': 1}</span>に<span>相当{'控除': 1}</span>する<span>額{'金銭': 1}</span>の支払を<span>請求{'受け': 1}</span>することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該<span>支払{'貯金': 1}</span>に係る預金<span>口座{'金額': 1}</span>等について<span>被害{'預金': 1}</span>回復分配金が支払われている場合において、この章に<span>規定{'更生': 1}</span>する手続の実施に関し金融機関に過失があるときは、その請求することができる額は、第一項又は第二項の規定により支払った額から金融機関の過失により支払った被害回復分配金の額の合計額を控除した額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融機関は、第一項又は第二項の規定による支払に係る預金<span>口座{'貯金': 1}</span>等が犯罪利用<span>預金{'当該': 1}</span>口座等その他不正に利用された預金口座等である<span>疑い{'相当': 1}</span>があると認めるときは、当該支払を停止する措置を講ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　預金保険機構の業務の特例等</ChapterTitle>
+        <Article Num="26">
+          <ArticleCaption>（預金保険機構の業務の特例）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>預金保険<span>機構{'保護': 1}</span>（以下「機構」という。）は、<span>預金保険法{'施行': 1}</span>（昭和四十六年<span>法律{'附則': 1}</span>第三十四号）第三十四条に規定する業務のほか、第一条の<span>目的{'規定': 2}</span>を達成するため、次の業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>預金等に係る債権の消滅<span>手続{'株式会社': 1}</span>の開始に係る公告その他第三章の規定による業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>被害回復分配金の支払手続の開始に係る公告その他前章の規定による業務（次号及び第四号に掲げる業務を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十九条（第二十四条第三項の<span>規定{'従前': 1}</span>によりその<span>例{'準用': 5, '場合': 1}</span>によることとされる場合を含む。）の規定による金銭の収納及び第二十条の規定による金銭の支出その他の管理</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>前条{'法': 1}</span>第四項の規定による金銭の支払</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十条の規定による手数料の<span>収納{'支払': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号の業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（公告の方法）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律の規定による公告は、<span>インターネット{'方法': 1}</span>を利用して公衆の閲覧に供する方法でしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>機構は、第二十六条の<span>規定{'当該': 1}</span>による業務（以下「被害回復分配金支払業務」という。）に係る経理については、その他の経理と区分し、特別の勘定を設けて整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（借入金）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>機構は、被害回復分配金支払業務を<span>行う{'いう': 1}</span>ため必要があると認めるときは、内閣総理大臣及び<span>財務大臣{'厚生労働大臣': 1, '内閣総理大臣': 1}</span>の<span>認可{'承認': 1}</span>を受けて、<span>金融機関{'日本銀行': 1}</span>その他の者から資金の<span>借入れ{'適用': 1}</span>（借換えを含む。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による借入金の現在額は、政令で定める金額を超えることとなってはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（手数料）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>機構は、第四条第一項又は第十条第一項の規定による<span>求め{'行為': 1}</span>を行う金融機関から、被害回復分配金支払業務に係る事務に要する費用を勘案して機構が運営委員会（<span>預金保険法{'法': 1}</span>第十四条に規定する運営委員会をいう。）の議決を経て定める額の手数料を<span>徴収{'額': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、前項に規定する手数料の額を定め、又はこれを変更しようとするときは、<span>内閣総理大臣{'金融庁長官': 1}</span>及び財務大臣の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Num="31">
+          <ArticleCaption>（預金保険法の適用）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">この法律により<span>機構{'規定': 1}</span>の業務が行われる場合には、この法律の<span>規定{'施行': 1}</span>によるほか、預金保険法を適用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第十<span>五条{'二条': 1}</span>第五号中「事項」と<span>ある{'掲げる': 1}</span>のは「事項（<span>犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律{'民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律': 1}</span>（平成十九年法律第百三十三号。以下「<span>被害{'規定': 2}</span>回復分配金支払法」という。）の規定による機構の業務に係るものを除く。）」と、<span>同法{'機構': 1}</span>第三十七条第一項中「<span>次{'一条': 1}</span>の各号に掲げる業務」とあるのは「次の各号に掲げる<span>業務{'金額': 1}</span>（被害回復分配金<span>支払{'法': 1}</span>法の規定による業務を行う場合にあつては、当該<span>業務{'政令': 1}</span>）」と、「各号に定める者」とあるのは「各号に定める者（被害回復分配金<span>支払{'法': 1}</span>法の規定による業務を行う場合にあつては、被害回復<span>分配金{'分配': 1}</span>支払法第二条第一項に規定する金融機関）」と、同条第二項中「<span>特定{'規定': 2}</span>持株会社等」とあるのは「特定持株会社等（被害回復分配金支払法の規定による業務を行う場合にあつては、被害回復<span>分配金{'分配': 1}</span>支払法第二条第一項に規定する金融機関）」と、同法第四十四条、第四十五条第二項及び第四十六条第一項中「この法律」とあるのは「この法律又は被害回復分配金支払法」と、同法第五十<span>一条{'規定': 1}</span>第二項中「<span>業務{'第一': 1}</span>（第四十条の二第二号に掲げる業務を除く。）」とあるのは「業務（第四十条の二第二号に掲げる業務及び被害回復<span>分配金{'分配': 1}</span>支払法第二十八条に規定する被害回復分配金支払業務を除く。）」と、同法第百五十二条第一号中「この法律」とあるのは「この法律又は被害回復分配金支払法」と、同条第三号中「第三十四条に規定する業務」とあるのは「第三十四条に規定する業務及び被害回復分配金支払法の<span>規定{'信託': 1}</span>による業務」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（関係行政機関等に対する協力の要請）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>金融機関は、この法律に規定する手続の実施に関し、関係行政機関等に対し必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（分別管理）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>金融機関は、被害回復分配金の支払の原資となる金銭を、自己の固有<span>財産{'投資信託': 1}</span>その他の財産と<span>分別{'管理': 1}</span>して管理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（電磁的記録又は電磁的方法による求め等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第四条第一項の規定による求め（同<span>項{'事項': 1}</span>の<span>主務{'規定': 1}</span>省令で定める書類の提出を含む。）、第五条第一項第七号の規定による通知、第六条第一項又は第二項の規定による通知、第十条第一項の規定による求め（同項の<span>主務{'規定': 3}</span>省令で定める書類の提出を含む。）、同条第二項の規定による通知、第十一条第一項第七号の規定による通知、第十六条第三項の規定による通知、第十八条第一項の規定による<span>求め{'申出': 1}</span>及び第二十五条第三項の規定による通知は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして主務省令で定めるものをいう。）の提出又は電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって主務省令で定めるものをいう。）をもって行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（報告又は資料の提出）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>行政庁は、この法律の<span>円滑{'規定': 1}</span>な実施を確保するため必要があると認めるときは、<span>金融機関{'措置': 1, '当該': 1}</span>（<span>金融機関{'銀行': 1, '労働金庫': 1, '農林中央金庫': 1}</span>代理<span>業者{'金融機関': 1}</span>（銀行法（昭和五十六年法律第五十九号）第二条第十五項に規定する銀行代理業者、長期信用銀行法（昭和二十七年法律第百八十七号）第十六条の五第三項に規定する長期信用銀行代理業者、信用金庫法（昭和二十六年<span>法律{'改正': 1}</span>第二百三十八号）第八十五条の二第三項に<span>規定{'信用金庫法': 1}</span>する<span>信用金庫{'信用協同組合': 1, '農林中央金庫': 1}</span>代理業者、協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）第六条の三第三項に規定する<span>信用協同組合{'労働金庫': 1}</span>代理業者、労働金庫法（昭和二十八年<span>法律{'改正': 1}</span>第二百二十七号）第八十九条の三第三項に規定する<span>労働金庫{'銀行': 1, '農林中央金庫': 1}</span>代理業者、農業協同組合法（昭和二十二年<span>法律{'改正': 1}</span>第百三十二号）第九十二条の二第三項に規定する特定<span>信用事業{'労働金庫': 1}</span>代理業者、水産業協同組合法（昭和二十三年<span>法律{'一条': 1}</span>第二百四十二号）第百六条第三項に規定する特定<span>信用事業{'労働金庫': 1}</span>代理業者、<span>農林中央金庫法{'水産業協同組合法': 1}</span>（平成十三年法律第九十三号）第九十五条の二第三項に規定する農林中央金庫代理業者<span>及び{'並びに': 1}</span><span>株式会社商工組合中央金庫法{'金融商品取引法': 1}</span>（平成十九年法律第七十四号）第二条第四項に規定する代理又は媒介に係る<span>契約{'取次ぎ': 1}</span>の相手方をいう。以下この条及び次条において同じ。）を含む。）又は<span>銀行持株会社{'準用': 1}</span>等（<span>銀行法{'保険業法': 1, '法': 1}</span>第二条第十三項に規定する銀行持株会社又は<span>長期信用銀行法{'子会社': 1, '条': 1}</span>第十六条の四第一項に規定する長期信用銀行<span>持株会社{'代理': 1}</span>をいう。以下この<span>条{'項': 2, '次項': 1}</span>及び次条において同じ。）に対し、その業務又は財産の<span>状況{'業務': 1}</span>に関し報告又は<span>資料{'虚偽': 1}</span>の<span>提出{'必要': 1}</span>を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>行政庁{'内閣総理大臣': 1, '農水産業協同組合': 1, '日本銀行': 1}</span>は、この法律の<span>円滑{'規定': 1}</span>な実施を確保するため特に必要があると認めるときは、その必要の限度において、金融機関若しくは銀行持株会社等（以下この条及び<span>次{'対象': 1}</span>条において「金融機関等」という。）の<span>子会社{'銀行': 1}</span>（当該金融機関等が銀行法第<span>二条{'法律': 1}</span>第一項に規定する銀行又は同条第十三項に規定する<span>銀行持株会社{'準用': 1}</span>である場合には同<span>条{'子会社': 1}</span>第八項に、長期信用銀行法第二条に規定する長期信用銀行又は<span>同法{'長期信用銀行': 1}</span>第十六条の四第一項に規定する長期信用銀行持株会社である場合には同法第十三条の二第二項に、信用金庫又は信用金庫連合会である<span>場合{'信用協同組合': 1}</span>には信用金庫法第三十二条第六項に、信用協同組合又は信用協同組合連合会である場合には協同組合による<span>金融事業{'信用金庫法': 1}</span>に関する<span>法律{'規定': 1}</span>第四条第一項に、<span>労働金庫{'信用金庫法': 1, '規定': 1}</span>又は<span>労働金庫連合会{'信用協同組合': 1, '労働金庫法': 1}</span>である場合には労働金庫法第三十二条第五項に、<span>農業協同組合{'株式会社商工組合中央金庫': 1}</span>又は農業協同組合連合会である場合には農業協同組合法第十一条の二第二項に、<span>漁業協同組合{'規定': 1, '事業': 1}</span>若しくは漁業協同組合連合会<span>又は{'若しくは': 1}</span>水産加工業協同組合若しくは<span>水産加工業協同組合連合会{'準用': 1}</span>である場合には水産業協同組合法第十一条の八第二項に、<span>農林中央金庫{'準用': 1}</span>である場合には農林中央金庫法第二十四条第四項に、株式会社商工組合中央金庫である場合には株式会社商工組合中央金庫法第二十三条第二項に、それぞれ<span>規定{'当該': 1}</span>する子会社（<span>子会社{'受け': 1}</span>と<span>みなさ{'なる': 1}</span>れる会社を含む。）をいう。次項及び次条において同じ。）又は<span>当該{'農水産業協同組合': 1, '更生': 1}</span>金融機関等から業務の委託を受けた者（<span>金融機関{'銀行': 1, '労働金庫': 1, '農林中央金庫': 1}</span>代理業者を<span>除く{'含む': 1}</span>。次項並びに次条第二項及び第五項において同じ。）に対し、当該<span>金融機関{'銀行': 1}</span>等の業務又は財産の状況に関し参考となるべき<span>報告{'事項': 1}</span>又は資料の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>金融機関{'当該': 1, '農水産業協同組合': 1, '日本銀行': 1}</span>等の<span>子会社{'銀行': 1}</span>又は金融機関等から業務の委託を受けた者は、<span>正当{'場合': 1}</span>な理由があるときは、前項の規定による報告又は資料の提出を拒むことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（立入検査）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>行政庁{'農水産業協同組合': 1}</span>は、この法律の<span>円滑{'規定': 1}</span>な実施を確保するため必要があると認めるときは、<span>当該{'日本銀行': 1, '職員': 1}</span>職員に<span>金融機関{'農水産業協同組合': 1}</span>等（<span>金融機関{'銀行': 1}</span>代理業者を含む。）の営業所<span>若しくは{'又は': 2}</span>事務所その他の施設に立ち入らせ、その業務若しくは財産の状況に関し質問させ、<span>又は{'若しくは': 3}</span>帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>行政庁{'内閣総理大臣': 3, '主務大臣': 1}</span>は、前項の規定による立入り、質問又は検査を行う場合において特に必要があると認めるときは、その必要の限度において、当該職員に<span>当該{'農水産業協同組合': 1}</span><span>金融機関{'農水産業協同組合': 1}</span>等の子会社若しくは当該金融機関等から業務の委託を受けた者の施設に立ち入らせ、当該金融機関等に対する質問若しくは検査に必要な事項に関し質問させ、又は帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項の場合において、<span>当該{'項': 1}</span>職員は、その身分を示す証明書を携帯し、<span>関係{'関係者': 2}</span>人の請求があったときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項及び第二項の規定による権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前条第三項の規定は、第二項の規定による<span>金融機関{'農水産業協同組合': 1}</span>等の子会社又は金融機関等から業務の委託を受けた者に対する質問及び検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1"><span>行政庁{'内閣総理大臣': 2, '主務大臣': 1}</span>は、必要があると認めるときは、機構に、第一項又は第二項の規定による立入り、質問又は検査（第三章及び第四章の規定による手続が適正に行われていることを<span>調査{'業務': 1, '場合': 1}</span>するために行うものに<span>限る{'でき': 1}</span>。）を<span>行わ{'行う': 1}</span>せることができる。</Sentence>
+              <Sentence Num="2">この<span>場合{'当該': 1}</span>において、機構は、その職員に当該立入り、質問又は検査を行わせるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三項から第五項までの<span>規定{'内閣総理大臣': 1}</span>は、前項の規定による立入り、質問又は検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（政府による周知等）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>政府は、この法律の円滑な実施を図るため、振込利用犯罪行為により被害を受けた者の財産的被害の迅速な回復等に資するとのこの法律の趣旨及び被害回復分配金の支払手続等に関する事項その他この法律の内容について、広報活動等を通じて国民に周知を図り、その理解を得るよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、毎年少なくとも一回、消滅預金等債権に関する<span>事項{'担保': 1}</span>、被害回復分配金の支払の実施の状況その他のこの法律の実施の<span>状況{'必要': 1}</span>に関する事項を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（主務省令への委任）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律に規定するもののほか、この法律の<span>実施{'施行': 2}</span>のため必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（行政庁）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律における行政庁は、次の各号に掲げる区分に応じ、当該各号に定める者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第<span>二条{'額': 1}</span>第一項第一号から第三号まで、第六号<span>及び{'又は': 1}</span>第七号に掲げる金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>内閣総理大臣{'法律': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二条第一項第四号及び第五号に掲げる金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>内閣総理大臣及び<span>厚生労働大臣{'財務大臣': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二条第一項第八号及び第九号に<span>掲げる{'及び': 1}</span>金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>農業協同組合法{'預金保険法': 1}</span>第九十八条第一項に規定する行政庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二条第一項第十号から第十三号までに掲げる金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>水産業協同組合法第百二十七条第一項に規定する行政庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二条第一項第十四号に掲げる金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>農林水産大臣及び<span>内閣総理大臣{'金融庁長官': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二条第一項第十五号に掲げる金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>株式会社商工組合中央金庫法第五十六条第二項に規定する主務大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（主務省令）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">この法律における主務<span>省令{'規定': 1}</span>は、内閣府令・財務省令・厚生労働省令・農林水産省令・経済産業省令とする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、第二十条第一項に規定する主務省令は、内閣府令・財務省令とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内閣総理大臣は、この法律による<span>権限{'規定': 1}</span>を金融庁長官に委任する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律に<span>規定{'権限': 1}</span>する行政庁の権限に属する事務（この法律の規定により都道府県知事の権限に属することとされている事務を除く。）の<span>一部{'規定': 1}</span>は、政令で定めるところにより、都道府県知事が行うこととすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項に規定するもののほか、この法律の<span>規定{'施行': 3}</span>による行政庁の<span>権限{'議決権': 1}</span>の行使に関して必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律の規定により都道府県が処理することとされている<span>事務{'場合': 1}</span>は、地方自治法（昭和二十二年<span>法律{'同法': 1}</span>第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第三十五条第一項又は第二項の規定による報告若しくは資料の提出をせず、<span>又は{'若しくは': 1}</span>虚偽の報告若しくは資料の提出をした者は、<span>一年{'した': 1}</span>以下の懲役又は三百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三十六条第一項、第二項<span>又は{'若しくは': 1}</span>第六項の規定による当該職員又は機構の職員の質問に対して<span>答弁{'日本銀行': 1}</span>をせず、若しくは虚偽の答弁をし、<span>又は{'若しくは': 1}</span>これらの規定による検査を拒み、妨げ、若しくは忌避した者も、前項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十二条第一項又は第二項に規定する申請書又は資料に<span>虚偽{'事項': 1}</span>の記載をして<span>提出{'書面': 1}</span>した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十七条第一項（第二十二条第二項又は第二十四条第二項の規定によりその<span>例{'準用': 5}</span>によることとされる場合を含む。）に規定する届出書に虚偽の記載をして<span>提出{'書面': 1}</span>した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法人{'した': 1}</span>（法人でない団体で<span>代表者{'法人': 1}</span>又は管理人の定めがあるものを含む。以下この<span>項{'役員': 1}</span>において同じ。）の<span>代表者{'場合': 1}</span>若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は<span>人{'法人': 1}</span>の業務に関し、<span>次{'前条': 1}</span>の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当<span>該各{'当該': 1}</span>号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第四十三条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>二億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>前条{'三条': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>同条の<span>罰金刑{'規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法人でない団体について前項の規定の<span>適用{'ほか': 1}</span>がある場合には、その代表者又は管理人が、その訴訟行為につき<span>当該{'団体': 1}</span>法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を<span>準用{'ほか': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から<span>起算{'施行': 1}</span>して<span>六月{'三月': 1}</span>を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'附則': 1}</span>条及び<span>附則{'当該': 1}</span>第四条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>機構{'命令': 1}</span>は、この法律の施行の日前においても、被害回復分配金支払業務の実施に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月一日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'公布': 1}</span>は、平成二十年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から<span>施行{'法': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>附則{'一条': 1}</span>第三条から第二十二条まで、第二十五条から第三十条まで、第百一条及び第百二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から<span>起算{'施行': 2}</span>して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="100">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'施行': 1}</span>の施行前に改正前のそれぞれの法律（これに基づく命令を<span>含む{'いう': 1}</span>。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後の<span>それぞれ{'規定': 1}</span>の法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、<span>改正{'府令': 1}</span>後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="101">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'法': 1}</span>（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為<span>並びに{'及び': 8}</span>この附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの<span>法律{'政令': 2}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="102">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'各項': 1, '政令': 1}</span>に定めるもののほか、この<span>法律{'府令': 1}</span>の<span>施行{'規定': 1}</span>に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月一九日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、<span>公布{'規定': 1}</span>の日から<span>起算{'施行': 1}</span>して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中金融商品取引法第百九十七条の二の次に一条を加える改正規定、<span>同法{'令': 2}</span>第百九十八条第二号の次に二号を<span>加える{'掲げる': 1}</span>改正規定並びに<span>同法{'令': 1}</span>第百九十八条の三、第百九十八条の六第二号、第二百五条第十四号並びに第二百七条第一項第二号及び第二項の改正<span>規定{'附則': 1}</span>、第三条の規定、第四条中農業協同組合法第十<span>一条{'施行規則': 2}</span>の四第四項の次に一項を加える改正規定、第五条のうち水産業協同組合法第十一条の十一中第五項を第六項とし、第四項の次に一項を加える改正規定、第八条の規定（投資信託及び投資法人に関する法律第二百五十二条の改正規定を除く。）、第十四条のうち銀行法第十三条中第五項を第六項とし、第四項の次に一項を加える<span>改正{'法律': 1}</span>規定及び同法第五十二条の二十二第四項中「前三項」を「前<span>各項{'規定': 1}</span>」に改め、同項を同条第五項とし、同条第三項の次に一項を<span>加える{'掲げる': 1}</span>改正規定、第十<span>五条{'条': 1}</span>の規定、第十九条のうち農林中央金庫法第五十八条中第五項を第六項とし、第四項の次に一項を<span>加える{'掲げる': 1}</span>改正規定、第二十一条中信託業法第九十一条、第九十三条、第九十六条及び第九十八条第一項の改正規定、第二十二条の規定並びに附則第三十条（株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十三条第二項の<span>改正{'附則': 1}</span>規定に限る。）、第三十一条（株式会社東日本大震災事業者再生支援機構法（平成二十三年法律第百十三号）第十七条第二項の改正規定に限る。）、第三十二条、第三十六条及び第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から<span>起算{'施行': 1}</span>して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第<span>一条{'準用': 2}</span>中金融商品取引法第七十九条の四十九第一項、第七十九条の五十三第四項及び第五項、第七十九条の五十五第二項並びに第百八十五条の十六の改正<span>規定{'附則': 1}</span>、第十三条の規定、第十<span>六条{'改正': 2}</span>中保険業法第二百四十条の六第一項、第二百四十<span>一条{'施行規則': 1}</span>第一項、第二百四十九条第一項、第二百四十九条の二第一項及び第五項、第二百四十九条の三並びに第二百六十五条の二十八第一項の改正規定、第十<span>七条{'改正': 1}</span>の規定（金融機関等の更生手続の特例等に関する法律第四百四十五条第三項の改正<span>規定{'部分': 1}</span>を除く。）、第二十条の規定並びに附則第十七条から第十九条まで、第二十二条から第二十四条まで、第二十九条（犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律（平成十九年法律第百三十三号）第三十一条の改正規定に限る。）、第三十条（株式会社地域経済活性化支援機構法第二十三条第二項の改正規定を除く。）、第三十一条（株式会社東日本大震災事業者再生支援機構法第十七条第二項の改正規定を除く。）、第三十三条及び第三十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して<span>九月{'一年': 1}</span>を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの<span>法律{'府令': 2}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="37">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から第十<span>五条{'一条': 1, '二条': 1}</span>まで及び前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一二月一四日法律第九五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

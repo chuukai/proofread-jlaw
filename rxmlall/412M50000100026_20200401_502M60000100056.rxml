@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="26" Year="12">
+  <LawNum>平成十二年厚生省令第二十六号</LawNum>
+  <LawBody>
+    <LawTitle>介護保険の調整交付金等の交付額の算定に関する省令</LawTitle>
+    <EnactStatement>介護保険の国庫負担金の算定等に関する政令（平成十年政令第四百十三号）第一条の二第二項、第三項及び第五項の規定に基づき、介護保険の調整交付金の交付額の算定に関する省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">介護保険の調整交付金及び介護保険法（平成九年法律第百二十三号。以下「法」という。）第百二十二条の三第一項及び第二項に規定する<span>交付金{'特別': 1, '前期高齢者': 1}</span>の<span>交付{'額': 2}</span>額の算定に関しては、この<span>省令{'政令': 1}</span>の定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（普通調整交付金の額の算定）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">普通調整交付金の額は、当該市町村の調整基準標準<span>給付{'事業': 1}</span>費額に当該市町村の普通調整交付金交付割合を乗じて得た額に調整率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（調整基準標準給付費額）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の<span>調整{'規定': 1}</span>基準標準給付費額は、<span>次{'額': 1}</span>の各号に掲げる額の<span>合算{'合計': 1}</span>額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前年度{'額': 1}</span>の十二月十一日から当該年度の十二月十日までの間の請求に係る次に掲げる<span>介護{'予防': 1}</span><span>給付{'合算': 1}</span>に要した費用の額であって当該年度の十二月末日現在において<span>審査{'支給': 1}</span>決定しているものの額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅介護サービス費の支給（<span>法{'決定': 1}</span>第四十一条第六項の規定により指定居宅サービス事業者（同<span>条{'同法': 1}</span>第一項に規定する指定居宅<span>サービス{'介護': 1}</span>事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">地域密着型<span>介護{'介護予防': 1}</span>サービス費の支給（<span>法{'新法': 1}</span>第四十二条の二第六項の規定により指定地域密着型サービス事業者（同<span>条{'同法': 1}</span>第一項に規定する指定地域密着型サービス事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅介護サービス計画費の支給（<span>法{'条': 1}</span>第四十六条第四項の規定により指定居宅介護支援事業者（同<span>条{'法': 1}</span>第一項に規定する指定居宅介護支援事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">施設介護サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定入所者介護サービス費の支給（介護保険法施行規則（平成十一年厚生省令第三十六号）第八十三条の八第一項（同令第百七十二条の二において準用する場合を含む。）の規定によるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前年度の十二月十一日から当該年度の十二月十日までの間の請求に係る次に掲げる予防給付に要した費用の額であって当該年度の十二月末日現在において審査<span>決定{'算定': 1}</span>しているものの額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">介護予防サービス費の支給（法第五十三条第四項の規定により指定介護予防<span>サービス{'支援': 1}</span>事業者（同<span>条{'同法': 1, '法': 1}</span>第一項に規定する指定介護予防サービス事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">地域密着型介護予防サービス費の支給（法第五十四条の二第六項の規定により指定地域密着型介護予防サービス事業者（同<span>条{'法': 2}</span>第一項に規定する指定地域密着型介護予防サービス事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">介護予防サービス計画費の支給（<span>法{'条': 1}</span>第五十八条第四項の規定により指定介護予防支援事業者（同<span>条{'介護保険法': 1}</span>第一項に規定する指定介護予防支援事業者をいう。）に対して支払われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定入所者<span>介護予防{'介護': 1}</span>サービス費の支給（介護保険法施行規則第九十七条の四において準用する同令第八十三条の八第一項の規定によるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前年度の一月一日から当該年度の十二月三十一日までの間における次に掲げる<span>介護{'予防': 1}</span><span>給付{'サービス': 1}</span>に要した費用の額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅<span>介護{'施設': 1}</span>サービス費の支給（第一号イに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例居宅介護サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">地域密着型介護サービス費の支給（第一号ロに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例<span>地域密着型{'居宅': 1}</span><span>介護{'介護予防': 1}</span>サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅介護福祉用具購入費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅介護住宅改修費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">居宅介護サービス計画費の支給（第一号ハに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例居宅介護サービス計画費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例施設介護サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">高額<span>介護{'施設': 1}</span>サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">高額医療合算介護サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="12">
+              <Subitem1Title>ヲ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定入所者介護サービス費の支給（第一号ホに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="13">
+              <Subitem1Title>ワ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例特定入所者介護サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前年度{'要件': 1}</span>の一月一日から<span>当該{'規定': 1}</span>年度の十二月三十一日までの間における次に掲げる予防給付に要した<span>費用{'算定': 1}</span>の額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical"><span>介護予防{'準用': 1}</span>サービス費の支給（第二号イに<span>掲げる{'及び': 1}</span>ものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例介護予防サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">地域密着型介護予防サービス費の支給（第二号ロに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例地域密着型<span>介護予防{'介護': 1}</span>サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">介護予防福祉用具購入費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">介護予防住宅改修費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">介護予防サービス計画費の支給（第二号ハに掲げるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例介護予防サービス計画費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">高額介護予防サービス費の<span>支給{'事業': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">高額医療合算介護予防<span>サービス{'医療費': 1}</span>費の<span>支給{'並び': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定入所者介護予防サービス費の支給（第二号ニに<span>掲げる{'及び': 1}</span>ものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="12">
+              <Subitem1Title>ヲ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例特定入所者介護予防サービス費の支給</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第百二十一条第二項に規定する市町村について前項の規定を適用する場合においては、居宅介護サービス費、特例居宅介護サービス費、居宅介護福祉用具購入費、居宅介護住宅改修費、介護予防サービス費、特例介護予防サービス費、介護予防福祉用具購入費又は介護予防住宅改修費の支給に要した費用の額は、法第四十三条第三項、第四十四条第六項、第四十五条第六項、第五十五条第三項、第五十六条第六項又は第五十七条第六項の規定に基づく条例による措置が<span>講ぜ{'講じ': 1}</span>られないものとして算定するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（普通調整交付金交付割合）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の普通調整交付金交付割合は、第一号に掲げる数から第二号に掲げる数を控除して得た<span>数{'額': 2}</span>に<span>相当{'数': 1}</span>する<span>割合{'額': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">百分の五十五から法第百二十五条第二項に規定する第二号被保険者負担率（次号において「第二号被保険者負担率」という。）を控除して得た数</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">百分の五十から第二号被保険者負担率を控除して得た数に後期高齢者加入割合補正係数及び所得段階別加入割合補正係数を乗じて得た数</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（後期高齢者加入割合補正係数）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>前条{'額': 1}</span>第二号の後期高齢者加入割合補正係数は、別表第一に掲げる算式により算定した数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（所得段階別加入割合補正係数）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条第二号の所得段階別加入割合補正係数は、別表第二に掲げる<span>算式{'額': 1}</span>により算定した数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（特別調整交付金の額）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特別調整交付金の額は、次に掲げる額の合算額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前年度{'額': 1}</span>の<span>一月一日{'年度': 1}</span>から当該年度の十二月三十一日までの間に災害等により減免の措置を採った保険料の額が、前年度において賦課した保険料の総額の四分の一に相当する額と当該年度において賦課した保険料の総額の四分の三に相当する額を<span>合算{'手当': 1}</span>して得た額の百分の三に相当する額以上である場合</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該保険料の減免額の十分の八以内の額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前年度の一月一日から当該年度の十二月三十一日までの間において、災害等による法第五十条第一項、第二項若しくは第三項又は第六十条第一項、第二項若しくは第三項の規定の適用により生じた介護給付及び予防給付に<span>要し{'要する': 1}</span>た費用の額が、<span>第三条{'法': 1}</span>に規定する調整基準標準<span>給付{'事業': 1}</span>費額（法第四十九条の二第一項若しくは第二項又は第五十九条の二第一項若しくは第二項の規定の適用に係るものを除く。）の九十分の十に相当する額、調整基準標準給付費額（法第四十九条の二第一項又は第五十九条の二第一項の規定の適用に係るものに限る。）の八十分の二十に相当する額及び調整基準標準給付費額（法第四十九条の二第二項又は第五十九条の二第二項の規定の適用に係るものに限る。）の七十分の三十に相当する額の合算額の百分の三に相当する額以上である場合</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該災害等による法第五十条第一項、第二項若しくは第三項又は第六十条第一項、第二項若しくは第三項の規定の適用により生じた介護給付及び予防給付に<span>要し{'要する': 1}</span>た費用の額の十分の八以内の額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号に掲げる場合のほか、介護保険の財政又は介護保険事業の安定的な運営に影響を与える場合その他のやむを得ない特別の事情がある<span>場合{'厚生労働省令': 1}</span></Sentence>
+              <Sentence Num="2" WritingMode="vertical">別に定める額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（調整率）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の調整率は、第一号に掲げる額を第二号に掲げる額で除して得た<span>数{'額': 1, '率': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該年度分として交付する調整交付金の総額から当該年度において各<span>市町村{'後期高齢者医療広域連合': 1}</span>に対して交付する特別調整交付金の<span>総額{'額': 1}</span>を<span>控除{'交付': 1}</span>して得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該年度における各市町村に係る第三条に規定する調整基準標準<span>給付{'事業': 1}</span>費額に第四条に規定する普通調整交付金交付割合を<span>乗じ{'掲げる': 1}</span>て得た額の<span>合算{'調整': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（端数計算）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">調整交付金の額を算定する場合において、その<span>算定{'当該': 1}</span>した<span>金額{'額': 1}</span>に五百円未満の端数があるときは、その<span>端数{'場合': 1}</span>を切り捨て、五百円以上千円未満の端数があるときは、その端数を千円に切り上げるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（法第百二十二条の三第一項及び第二項に規定する交付金の交付）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第百二十二条の三第一項に規定する交付金は、介護保険の国庫負担金の算定等に関する政令（平成十年政令第四百十三号）第<span>一条{'第三条': 1}</span>の四第二項及び第三項に規定する市町村に対し、これらの規定に規定する状況を示す指標ごとに算定した点数に基づいて算定した額を交付する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第百二十二条の三第二項に規定する交付金は、介護保険の国庫負担金の算定等に関する政令第一条の四第五項及び第六項に規定する都道府県に対し、これらの規定に規定する状況を示す指標ごとに算定した点数に基づいて算定した額を交付する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、平成十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（平成十二年度から平成十四年度までの各年度における調整交付金の交付額の算定の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十二年度の調整交付金の交付額の算定について<span>第三条{'省令': 1}</span>第一項の規定を適用する場合においては、同項中「合算額」とあるのは「合算額に八分の十一を乗じて得た額」と、同項第一号及び第二号中「前年度の十二月十一日から当該年度の十二月十日まで」とあるのは「平成十二年四月一日から十二月十日まで」と、「当該年度の十二月末日」とあるのは「平成十二年十二月末日」と、同項第三号及び第四号中「前年度の<span>一月一日{'年度': 1}</span>から当該年度の十二月三十一日まで」とあるのは「平成十二年<span>四月一日{'当該': 1}</span>から十二月三十一日まで」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十二年度の調整交付金の交付額の算定について第七条の規定を適用する場合においては、同条第一号中「前年度の一月一日から<span>当該{'規定': 1}</span>年度の十二月三十一日まで」とあるのは「平成十二年十月一日から十二月三十一日まで」と、同条第一号中「前年度において賦課した保険料の総額の四分の一に相当する額と当該年度において賦課した保険料の総額の四分の三に相当する額を合算して得た額」とあるのは「平成十二年度において賦課した保険料の総額の二分の一に相当する額」と、同<span>条{'当該': 1}</span>第二号中「前年度の<span>一月一日{'年度': 1}</span>から当該年度の十二月三十一日まで」とあるのは「平成十二年四月一日から十二月三十一日まで」と、「第三条に規定する調整基準標準<span>給付{'事業': 1}</span>費額」とあるのは「附則第二条第一項の規定により読み替えて適用される<span>第三条{'法': 1}</span>に規定する調整基準標準給付費額に十一分の九を乗じて得た額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十三年度の調整交付金の交付額の<span>算定{'法': 1}</span>について第七条の規定を適用する場合においては、同条中「前年度の一月一日から<span>当該{'規定': 1}</span>年度の十二月三十一日まで」とあるのは「平成十二年一月一日から平成十三年十二月三十一日まで」と、同条第一号中「<span>前年度{'規定': 1}</span>において賦課した保険料の総額の四分の一に相当する額と当該年度において賦課した保険料の総額の四分の三に相当する額」とあるのは「平成十二年度において賦課した保険料の総額の二分の一に相当する額と平成十三年度において賦課した保険料の総額の三分の二に相当する<span>額{'金額': 1}</span>」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十四年度の調整交付金の交付額の算定について第七条の規定を適用する場合においては、同条中「前年度の一月一日から<span>当該{'規定': 1}</span>年度の十二月三十一日まで」とあるのは「平成十三年一月一日から平成十四年十二月三十一日まで」と、同条第一号中「<span>前年度{'規定': 1}</span>において賦課した保険料の総額の四分の一に相当する額と当該年度」とあるのは「平成十三年度において賦課した保険料の総額の三分の一に相当する額と平成十四年度」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（平成二十七年度から平成二十九年度までの各年度における調整率の特例）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十七年度から平成二十九年度までの各年度の調整率について第八条の規定を<span>適用{'準用': 1}</span>する場合においては、同条第一号中「総額から」とあるのは「総額及び当該年度分として交付する法第百二十二条の二第二項に規定する交付金の総額の合算額から」と、「総額を」とあるのは「総額及び当該年度において各市町村に対して交付する介護予防・日常生活支援総合事業特別調整交付金の<span>総額{'額': 1}</span>の合算額を」と、同<span>条{'額': 1}</span>第二号中「合算額」とあるのは「合算額及び当該年度における各市町村に係る介護保険法第百二十二条の二第二項に規定する交付金の額の算定に関する省令（平成二十七年厚生労働省令第五十八号）第三条に規定する調整基準標準事業費額に同令第四条に規定する介護予防・日常生活支援総合事業<span>普通{'特別': 1}</span>調整交付金交付割合を<span>乗じ{'掲げる': 1}</span>て得た額の<span>合算{'調整': 1}</span>額の合算額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年二月二八日厚生労働省令第二〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行し、平成十二年度分の調整交付金から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月一日厚生労働省令第二四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、平成十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（平成十八年度から平成二十年度までの各年度における所得段階別加入割合補正係数の算定の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十八年度におけるこの省令による改正後の介護保険の調整交付金の交付額の算定に関する省令（以下「算定省令」という。）第四条第二号の所得段階別加入割合補正係数は、算定省令第六条の<span>規定{'施行': 1}</span>にかかわらず、附則別表第一に掲げる<span>算式{'数': 1}</span>により算定した数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成十九年度における算定省令第四条第二号の所得段階別加入割合補正係数は、算定省令第六条の<span>規定{'施行': 1}</span>にかかわらず、附則別表第二に掲げる<span>算式{'数': 1}</span>により算定した数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十年度における算定省令第四条第二号の所得段階別加入割合補正係数は、算定省令第六条の<span>規定{'施行': 1}</span>にかかわらず、附則別表第三に掲げる<span>算式{'数': 1}</span>により算定した数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <SupplProvisionAppdxTable Num="1">
+        <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第一</SupplProvisionAppdxTableTitle>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical">所得段階別加入割合補正係数</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical">                  <ArithFormula>１</ArithFormula>                </Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+          <Remarks>
+            <RemarksLabel>備考</RemarksLabel>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">（</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">）</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">（</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">）</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </Remarks>
+        </TableStruct>
+      </SupplProvisionAppdxTable>
+      <SupplProvisionAppdxTable Num="2">
+        <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第二</SupplProvisionAppdxTableTitle>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical"></Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical">                  <ArithFormula>×（Ｃ</ArithFormula>                </Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+          <Remarks>
+            <RemarksLabel>備考</RemarksLabel>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">（</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">）</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </Remarks>
+        </TableStruct>
+      </SupplProvisionAppdxTable>
+      <SupplProvisionAppdxTable Num="3">
+        <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第三</SupplProvisionAppdxTableTitle>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical"></Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderRight="solid">
+                <Sentence Num="1" WritingMode="vertical">                  <ArithFormula>（Ｅ</ArithFormula>                </Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+          <Remarks>
+            <RemarksLabel>備考</RemarksLabel>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">（</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical">）</Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </Remarks>
+        </TableStruct>
+      </SupplProvisionAppdxTable>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年三月三一日厚生労働省令第七〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年三月三〇日厚生労働省令第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">（</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年六月七日厚生労働省令第七七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年一二月一二日厚生労働省令第一三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日厚生労働省令第五七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical"></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年三月一七日厚生労働省令第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年一二月二六日厚生労働省令第一三五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（平成三十年度から平成三十二年度までの各年度における後期高齢者加入割合補正係数の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">（</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月二二日厚生労働省令第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月三〇日厚生労働省令第九六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日厚生労働省令第五六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable Num="1">
+      <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">                <ArithFormula>                  <Fig src="./pict/2JH00000024024.jpg"/>                </ArithFormula>              </Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+        <Remarks>
+          <RemarksLabel>備考</RemarksLabel>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </Remarks>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable Num="2">
+      <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">                <ArithFormula>．０</ArithFormula>              </Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+        <Remarks>
+          <RemarksLabel>備考</RemarksLabel>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical">（</Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </Remarks>
+      </TableStruct>
+    </AppdxTable>
+  </LawBody>
+</Law>

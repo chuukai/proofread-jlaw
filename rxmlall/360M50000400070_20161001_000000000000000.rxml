@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="070" Year="60">
+  <LawNum>昭和六十年通商産業省令第七十号</LawNum>
+  <LawBody>
+    <LawTitle>半導体集積回路の回路配置に関する法律に基づく登録機関に関する省令</LawTitle>
+    <EnactStatement>半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）第二十八条第一項及び第二項、第三十条第一号、第三十三条第二項、第四十二条並びに第四十五条第二項の規定に基づき、並びに同法を実施するため、半導体集積回路の回路配置に関する法律に基づく指定登録機関に関する省令を次のように制定する。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（用語）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令で使用する用語は、半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号。以下「法」という。）で使用する用語の<span>例{'当該': 1}</span>に<span>よる{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（機関登録の申請）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span>を<span>受けよ{'行わ': 1}</span>うとする者は、<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>申請書{'当該': 1}</span>を<span>経済産業大臣{'主務大臣': 1, '当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>及び<span>住所{'当該': 1}</span>並びに<span>法人{'当該': 1}</span>に<span>あつ{'行わ': 1}</span>てはその<span>代表{'当該': 1}</span>者の<span>氏名{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>設定{'変更': 1, '当該': 1}</span><span>登録{'当該': 1}</span>等<span>事務{'当該': 1}</span>を<span>行お{'行わ': 1}</span>うとする<span>事務所{'当該': 1}</span>の<span>所在地{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>行お{'行わ': 1}</span>うとする<span>設定{'当該': 1}</span><span>登録{'試験': 1, '当該': 1}</span>等<span>事務{'当該': 1}</span>の<span>範囲{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>設定{'当該': 1}</span><span>登録{'当該': 1}</span>等<span>事務{'当該': 1}</span>を<span>開始{'当該': 1}</span>しようとする<span>年月日{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'当該': 1}</span>の<span>申請書{'当該': 1}</span>には、次に掲げる<span>書類{'事項': 1}</span>を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>定款及び登記事項証明書又はこれらに準ずるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>最近の事業年度末における財産目録及び貸借対照表又はこれらに準ずるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>申請の日を<span>含む{'属する': 1}</span>事業年度及び翌事業年度における事業計画書及び収支予算書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>役員及び設定登録等事務実施者の氏名及び<span>略歴{'当該': 1}</span>を記載した<span>書類{'事項': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定登録等事務以外の<span>業務{'当該': 1}</span>を<span>行つ{'行わ': 1}</span>ている<span>場合{'当該': 1}</span>は、その<span>業務{'当該': 1}</span>の<span>種類{'内容': 1, '当該': 1}</span>及び<span>概要{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>書類{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span><span>申請{'事務': 1, '当該': 1}</span>者が<span>法{'当該': 1}</span>第二十九条各号の<span>規定{'当該': 1}</span>に<span>該当{'当該': 1}</span>しないことを<span>説明{'当該': 1}</span>した書類</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（機関登録の更新に係る準用）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第三十条の二第一項の規定により、機関登録の<span>更新{'当該': 1}</span>を受けようとする場合は、<span>前条{'法': 1}</span>の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（事務所の変更の届出）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>登録{'当該': 1}</span><span>機関{'当該': 1}</span>は、<span>法{'当該': 1}</span>第三十二条の<span>規定{'当該': 1}</span>による<span>届出{'当該': 1}</span>を<span>しよう{'当該': 1}</span>とするときは、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>届出{'当該': 1}</span>書を<span>経済産業大臣{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>後の<span>設定{'当該': 1}</span><span>登録{'当該': 1}</span>等<span>事務{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>事務所{'当該': 1}</span>の<span>所在地{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>しようとする<span>年月日{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（設定登録等事務規程）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第三十三条第二項の設定登録等<span>事務{'前項': 1}</span><span>規程{'当該': 1}</span>で定めるべき事項は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定登録等事務を行う<span>時間{'当該': 1}</span>及び休日に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>手数料の収納の方法に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定登録等事務の<span>実施{'当該': 1}</span>の<span>方法{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>設定{'当該': 1}</span><span>登録{'当該': 1}</span>等事務実施者の選任及び<span>解任{'当該': 1}</span>に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>設定{'当該': 1}</span>登録等事務実施者の設定登録等事務実施前の研修に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>回路配置原簿及び閉鎖回路配置原簿並びに設定登録等事務に関する<span>帳簿{'当該': 1}</span>、<span>書類{'資料': 1, '当該': 1}</span>及び<span>資料{'当該': 1}</span>の<span>保存{'当該': 1}</span>に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定登録等<span>事務{'当該': 1}</span>に関して知り得た秘密の保持に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>前各号に掲げるものの<span>ほか{'事項': 1}</span>、設定登録等事務に関し<span>必要{'当該': 1}</span>な<span>事項{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>登録{'当該': 1}</span><span>機関{'当該': 1}</span>は、<span>法{'当該': 1}</span>第三十三条第一項の規定により設定登録等事務<span>規程{'当該': 1}</span>の認可を受けようとするときは、その旨を記載した申請書に設定登録等事務規程の案を<span>添え{'定め': 1}</span>て経済産業大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>登録機関は、<span>法{'当該': 1}</span>第三十三条第一項の規定により設定登録等<span>事務{'業務': 1}</span><span>規程{'当該': 1}</span>の変更の<span>認可{'登録': 1}</span>を受けようとするときは、次に掲げる<span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>申請書{'当該': 1}</span>を<span>経済産業大臣{'特許庁長官': 1, '当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>しようとする<span>事項{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>しようとする<span>年月日{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（設定登録等事務の休廃止）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>登録機関は、法第三十四条の<span>許可{'当該': 1}</span>を受けようとするときは、次に掲げる事項を記載した申請書を経済産業大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>休止{'当該': 1}</span>し、又は廃止しようとする設定登録等事務の範囲</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>休止し、又は廃止しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>休止しようとする場合にあつては、その期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>休止又は廃止の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（電磁的記録に記録された事項を表示する方法等）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第三十四条の二第二項第三号の経済産業省令で定める方法は、電磁的記録に記録された事項を紙面又は出力装置の映像面に表示する方法とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第三十四条の二第二項第四号の経済産業省令で定める<span>電磁{'方法': 1, '当該': 1}</span>的<span>方法{'当該': 1}</span>は、次に<span>掲げる{'行わ': 1}</span>もののうち、<span>登録{'当該': 1}</span><span>機関{'当該': 1}</span>が<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>送信{'当該': 1}</span>者の<span>使用{'当該': 1}</span>に係る電子計算機と受信者の使用に係る電子計算機とを<span>電気通信回線{'当該': 1}</span>で接続した電子情報処理組織を使用する方法であつて、当該<span>電気通信回線{'利用': 1}</span>を通じて情報が送信され、受信者の使用に係る<span>電子計算機{'当該': 1}</span>に<span>備え{'行わ': 1}</span>られたファイルに<span>当該{'記録': 1}</span><span>情報{'磁気ディスク': 1}</span>が記録されるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>磁気ディスク{'当該': 1}</span>その他これに準ずる方法により一定の<span>情報{'事項': 2}</span>を確実に記録しておくことができる物をもつて<span>調整{'調製': 1}</span>するファイルに情報を記録したものを交付する方法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（事業計画等）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>登録機関は、事業計画又は収支予算を変更しようとするときは、変更後の事業計画書又は収支予算書に、次に掲げる事項を記載した書類を<span>添え{'行わ': 1}</span>て<span>経済産業大臣{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>しようとする<span>事項{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>しようとする<span>年月日{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>変更{'当該': 1}</span>の<span>理由{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（役員等の選任及び解任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>登録{'当該': 1}</span><span>機関{'当該': 1}</span>は、<span>法{'当該': 1}</span>第三十六条の<span>届出{'規定': 1, '当該': 1}</span>を<span>しよう{'当該': 1}</span>とするときは、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>届出{'当該': 1}</span>書を<span>経済産業大臣{'文部科学大臣': 1}</span>に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>選任し、又は<span>解任{'当該': 1}</span>しようとする役員又は登録事務実施者の氏名及び略歴</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>選任し、又は解任しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>選任又は解任の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（立入検査の身分証明書）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第三十九条第二項の証明書は、別記様式によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（帳簿の記載）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十二条第一項の経済産業省令で定める事項は、各月における登録の申請の件数、登録の件数及び法第四十八条第一項の<span>請求{'規定': 2}</span>の件数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第四十二条第一項の<span>帳簿{'規定': 2}</span>は、設定登録等事務を<span>廃止{'当該': 1}</span>するまで<span>保存{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（業務の引継ぎ等）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>登録{'当該': 1}</span><span>機関{'当該': 1}</span>は、<span>法{'当該': 1}</span>第四十五条第二項の<span>規定{'当該': 1}</span>により<span>経済産業大臣{'当該': 1}</span>が同<span>項{'当該': 1}</span>の<span>設定{'当該': 1}</span><span>登録{'当該': 1}</span>等<span>事務{'当該': 1}</span>の<span>全部{'当該': 1}</span>又は<span>一部{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>場合{'当該': 1}</span>には、次に掲げる事項を行わなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>引き継ぐ{'行わ': 1}</span>べき設定登録等事務を経済産業大臣に<span>引き継ぐ{'行わ': 1}</span>こと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>回路配置原簿、閉鎖回路配置原簿並びに引き継ぐべき設定登録等事務に関する帳簿、書類及び資料を経済産業大臣に引き継ぐこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>その他経済産業大臣が設定登録等事務の引き継ぎに関し必要と認める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（設定登録等事務の実施に要する費用の細目）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>回路配置利用権等の登録に関する<span>政令{'事項': 1}</span>第七十条第一項の経済産業省令で定める<span>事項{'経済産業大臣': 1}</span>は、認可を受けようとする手数料の額を<span>算出{'当該': 1}</span>する基礎となる人件費及び事務費その他の経費の額並びに認可を受けようとする手数料の額の算出方法とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この省令は、法の一部の<span>施行{'当該': 1}</span>の日（昭和六十年十一月二十九日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第七条及び第十六条の<span>規定{'当該': 1}</span>は、<span>法{'当該': 1}</span>の<span>施行{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="406066" AmendLawNum="平成六年九月三〇日通商産業省令第六六号" Id="8e878ec2-d3b6-11e9-ab6a-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'法': 1}</span>は、<span>行政手続法{'法': 1, '当該': 1}</span>の<span>施行{'当該': 1}</span>の日（平成六年十月一日）から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="409039" AmendLawNum="平成九年三月二七日通商産業省令第三九号" Extract="true" Id="07f47320-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="410034" AmendLawNum="平成一〇年三月三〇日通商産業省令第三四号" Extract="true" Id="5560f2ae-d3b7-11e9-ab6a-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、平成十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="412261" AmendLawNum="平成一二年一〇月三一日通商産業省令第二六一号" Id="9800e616-190d-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成十三年<span>一月六日{'公布': 1, '当該': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415043" AmendLawNum="平成一五年三月三一日経済産業省令第四三号" Extract="true" Id="0836d0c6-d3b6-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416023" AmendLawNum="平成一六年二月二六日経済産業省令第二三号" Id="985b7a0e-190d-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、公益法人に係る改革を推進するための経済産業省関係法律の整備に関する法律の施行の日（平成十六年三月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（半導体集積回路の回路配置に関する法律第二十八条第一項に規定する指定登録機関を指定する省令の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>半導体集積回路の回路配置に関する法律第二十八条第一項に規定する指定登録機関を指定する省令（平成十三年経済産業省令第百三十四号）は、廃止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417014" AmendLawNum="平成一七年三月四日経済産業省令第一四号" Id="b1f65602-d3b3-11e9-ab6a-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="420082" AmendLawNum="平成二〇年一二月一日経済産業省令第八二号" Id="97b754ec-f352-11e6-941f-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、一般社団法人及び一般財団法人に関する法律の施行の日（平成二十年十二月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式（第１０条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S60F03801000070-001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

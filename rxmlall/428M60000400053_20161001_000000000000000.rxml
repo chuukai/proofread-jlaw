@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="053" Year="28">
+  <LawNum>平成二十八年経済産業省令第五十三号</LawNum>
+  <LawBody>
+    <LawTitle>渇水準備引当金に関する省令</LawTitle>
+    <EnactStatement>電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）附則第十六条第三項の規定によりなおその効力を有するものとして読み替えて適用される同法第一条の規定による改正前の電気事業法（昭和三十九年法律第百七十号）第三十六条の規定に基づき、渇水準備引当金に関する省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令において使用する用語は、<span>電気事業法{'核原料物質、核燃料物質及び原子炉の規制に関する法律': 2}</span>及び電気事業法等の一部を改正する法律（以下「改正法」という。）において<span>使用{'施行': 3}</span>する用語の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この<span>省令{'規則': 3}</span>において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力発電電力量」とは、一事業年度において電気事業の用に供するため水力発電所において自ら発電する電力量をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力受電電力量」とは、一事業年度において電気事業の用に供するため、河川の流量の増減により受給電力量が増減する旨の定めのある受給契約に基づいて他の者から供給を受ける水力発電所において発電した<span>電力量{'電気': 1}</span>をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力発受電電力量」とは、水力発電電力量及び水力受電電力量の合計をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力発電電力量」とは、一事業年度において小売電気事業の用に供するため火力発電所において自ら発電する電力量（他の小売電気事業者にその小売電気事業の用に供するために供給する電力量を除く。）をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力受電電力量」とは、一事業年度において小売<span>電気事業{'供給': 2}</span>の用に供するため<span>他{'電気': 2}</span>の者から供給を受ける火力発電所において発電した電力量をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力発受電電力量」とは、火力発電電力量及び火力受電電力量の合計をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力発電単位当たり運転費」とは、水力発電所において発電する電気の発電に要する費用のうち、水力発電電力量の増減に比例して増減する費用の一キロワット時当たりの値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力受電平均<span>購入{'需要': 1}</span>単価」とは、他の者から供給を受ける水力発電所において発電した電気の購入に要する費用のうち、水力受電電力量の増減に比例して増減する費用の一キロワット時当たりの値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>「水力発受電単位当たり運転費」とは、水力発電単位当たり運転費と水力受電平均購入単価の水力発電<span>電力{'設備': 1}</span>量と水力受電電力量による加重平均値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力発電単位当たり<span>運転{'特定': 1}</span>費」とは、<span>火力発電所{'水力発電所': 1}</span>において発電する電気の発電に要する費用のうち、火力発電電力量の増減に比例して増減する費用の一キロワット時当たりの値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力受電平均購入単価」とは、他の者から供給を受ける<span>火力発電所{'水力発電所': 1}</span>において発電した電気の購入に要する費用のうち、火力受電電力量の増減に比例して増減する費用の一キロワット時当たりの値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence>「火力発受電単位当たり運転費」とは、火力発電単位当たり運転費と火力受電平均購入単価の火力発電電力量と火力受電電力量による加重平均値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>「年間水力<span>発受電{'事業': 1}</span>電力量」とは、毎年四月一日から翌年三月三十一日までの期間（以下「限度額算定期間」という。）に属する事業年度における水力発受電電力量の合計をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence>「年間水力発受電単位当たり運転費」とは、一の限度額算定期間に属する事業年度における水力発受電単位当たり運転費のそれぞれの事業年度における<span>水力{'火力': 1}</span>発受電電力量による加重平均値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence>「年間火力発受電単位当たり運転費」とは、一の限度額算定期間に属する事業年度における火力発受電単位当たり運転費のそれぞれの事業年度における火力発受電電力量による加重平均値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence>「特定小売供給<span>割合{'約款': 1}</span>」とは、特定小売供給に係る販売<span>電力量{'小売': 1}</span>を<span>電気事業{'供給': 1}</span>に係る販売電力量で除して得た値をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（積立て又は取崩しの基準となる電気の量）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">改正法附則第十六条第三項の規定によりなおその効力を有するものとして読み替えて適用される改正法第<span>一条{'規定': 1}</span>の規定による改正前の電気事業法（以下「旧法」という。）第三十六条第一項の経済産業省令で定める量及び同条第二項の<span>経済産業省令{'政令': 1}</span>で定める量は、事業年度ごとに、みなし小売電気事業者が当該事業年度の開始の<span>日{'前': 1}</span>以後二月以内に定めた当該事業年度における水力発受電電力量の予定値に相当する量とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、その予定値を<span>変更{'当該': 1}</span>したときは、その変更後の予定値に相当する量とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>みなし小売電気事業者は、前項に規定する予定値を定め、又は変更しようとするときは、経済産業大臣の承認を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項の規定による水力発受電電力量の予定値は、平水、発電所の能力及び電気の受給契約を基礎として算定するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（積立ての限度額）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">旧法第三十六条第一項の経済産業省令で定める額は、一の限度額算定期間に属する事業年度ごとに、みなし小売電気事業者が<span>当該{'必要': 1}</span>限度額算定期間の開始の日以後二月以内に定めた当該限度額算定期間における年間火力発受電単位当たり運転費、年間水力発受電単位当たり運転費及び年間水力発受電電力量のそれぞれの予定値により、次の算式を用いて<span>算定{'額': 1}</span>した値に相当する額とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、これらの予定値を変更したときは、その変更後の予定値により、次の算式を用いて算定した値に相当する額とする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>（年間<span>火力{'電気': 1}</span>発受電単位当たり運転費の予定値12</Sentence>
+            </ListSentence>
+          </List>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>力発受電単位当たり運転費の予定値</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（収益又は費用の増加又は減少の額の算出の方法）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2">水力発受電</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+            <List>
+              <ListSentence>
+                <Sentence>量の予定値×特定小売供給割合の</Sentence>
+              </ListSentence>
+            </List>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+            <List>
+              <ListSentence>
+                <Sentence>値×</Sentence>
+              </ListSentence>
+            </List>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（渇水準備引当金に関する省令の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>み</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>小売</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>業</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

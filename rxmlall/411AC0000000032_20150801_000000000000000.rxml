@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="32" Year="11">
+  <LawNum>平成十一年法律第三十二号</LawNum>
+  <LawBody>
+    <LawTitle>金融業者の貸付業務のための社債の発行等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　登録</ChapterTitle>
+        <ArticleRange>（第三条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　会計の整理</ChapterTitle>
+        <ArticleRange>（第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　監督</ChapterTitle>
+        <ArticleRange>（第十条―第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十四条―第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第十八条―第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、金融業者がその貸付業務のために行う社債の発行等による貸付<span>資金{'債権': 1}</span>の受入れに関し、社債の<span>購入者{'発行': 1}</span>等の保護に資するため、社債の発行等による貸付資金の受入れをする金融業者について、一定の<span>財産{'取得': 1}</span>的基礎等を<span>要件{'当該': 1}</span>とする登録制度を<span>実施{'規定': 1}</span>するとともに、その貸付状況等を明確に表示するための会計の整理を義務付ける措置を定めることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「金融業者」とは、貸金業法（昭和五十八年法律第三十二号）第二条第二項に規定する貸金業者その他の<span>金銭{'資金': 1}</span>の貸付け（手形の割引、売渡担保その他これらに類する方法によってする金銭の交付を含む。以下同じ。）を業として行う者で政令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<span>金融{'規定': 1}</span>会社等」とは、<span>法人{'特定': 1}</span>である金融業者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「特定<span>金融{'承継': 1}</span><span>会社{'法律': 1}</span>等」とは、<span>次{'前項': 1}</span>条の<span>規定{'該当': 1}</span>により内閣総理大臣の登録を受けた者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　登録</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（登録）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>金融{'保証': 1}</span>業者は、内閣総理大臣の<span>登録{'認可': 1, '承認': 1}</span>を受けた金融会社等でなければ、社債の発行その他の政令で定める方法（以下「社債の発行等」という。）による貸付資金の受入れをしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（登録の申請）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条の<span>登録{'規定': 2, '認可': 1}</span>を<span>受けよ{'掲げる': 1, '受け': 1}</span>うとする金融会社等は、次に掲げる事項を記載した登録申請書を<span>内閣総理大臣{'主務大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>商号{'氏名': 2}</span>又は名称及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>資本金{'氏名': 1}</span>又は出資の<span>額{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>内閣府令{'政令': 1}</span>で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の登録申請書には、<span>登記事項証明書{'規定': 1}</span>その他内閣府令で定める書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（登録の実施）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、<span>第三条{'提出': 1}</span>の登録の申請があったときは、<span>次{'場合': 1}</span>条第一項の規定によりその登録を<span>拒否{'申請': 1}</span>する場合を<span>除き{'除く': 2}</span>、次に掲げる事項を特定<span>金融{'承継': 1}</span>会社等登録簿に登録しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前条第一項各号に掲げる事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">登録年月日及び登録番号</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、<span>前項{'法': 1}</span>の規定による<span>登録{'保険': 1}</span>をしたときは、<span>遅滞{'申請': 1}</span>なく、その旨を登録申請者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>内閣総理大臣{'場合': 1}</span>は、<span>内閣府令{'政令': 1}</span>で定めるところにより、特定金融会社等登録簿を公衆の縦覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（登録の拒否）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、登録<span>申請{'受け': 1}</span>者が次の各号のいずれかに該当するとき、又は登録申請書若しくはその添付書類に虚偽の記載があり、<span>若しくは{'及び': 1}</span>記載が欠けているときは、その登録を拒否しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融会社等に該当しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金又は出資の額が政令で定める金額に<span>満た{'掲げる': 1}</span>ない金融会社等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金銭の貸付けに係る業務を政令で定める基準に達しない人的構成により行う金融会社等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第十一条第一項の規定により<span>第三条{'変更': 1}</span>の<span>登録{'免許': 1}</span>を取り消され、その取消しの日から三年を経過しない<span>金融{'更生': 1}</span>会社等</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、前項の規定により登録を拒否したときは、遅滞なく、その理由を示して、その旨を登録<span>申請{'規定': 2}</span>者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（変更の届出）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定金融<span>会社{'指標': 1}</span>等は、第四条第一項各号に掲げる<span>事項{'取引': 1}</span>に<span>変更{'定め': 1}</span>があったときは、その日から二週間以内に、その旨を<span>内閣総理大臣{'場合': 1}</span>に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、前項の規定による届出を受理したときは、その<span>届出{'場合': 2}</span>があった事項を<span>特定{'規定': 1}</span>金融会社等<span>登録{'規定': 1}</span>簿に登録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（廃止の届出等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>金融{'承継': 1}</span><span>会社{'法律': 1}</span>等が、第二条第二項に規定する金融会社等に該当しないこととなったとき、又は社債の発行等による貸付資金の受入れをやめたときは、その特定金融会社等であった法人を代表する役員その他の<span>政令{'内閣府令': 3}</span>で定める者は、その日から三十日以内に、その旨を<span>内閣総理大臣{'規定': 1}</span>に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>金融{'承継': 1}</span><span>会社{'負債': 1}</span>等が第<span>二条{'前項': 1}</span>第二項に規定する金融会社等に該当しないことと<span>なっ{'いう': 1}</span>たとき、又は特定金融会社等から社債の発行等による貸付資金の受入れをやめた旨の届出があったときは、当該特定金融会社等の第三条の<span>登録{'規定': 2}</span>は、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　会計の整理</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>金融{'承継': 1}</span>会社等は、内閣府令で定める勘定科目の分類及び貸借対照表、損益計算書その他の財務計算に関する<span>諸表{'書類': 3}</span>の記載要領に従い、その会計を整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項に規定する内閣府令で定める勘定科目の分類及び貸借対照表、損益計算書その他の財務計算に関する<span>諸表{'書類': 3}</span>の記載要領は、特定金融会社等の金銭の貸付け及び社債の<span>発行{'取得': 1}</span>等の状況を明確に<span>表示{'参考': 1}</span>することとなるものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　監督</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、この法律の施行に必要な限度において、特定<span>金融{'承継': 1}</span>会社等に対し、その業務又は<span>経理{'財産': 4}</span>の状況に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（登録の取消し等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、特定<span>金融{'提出': 1, '承継': 1}</span>会社等が次の各号のいずれかに該当するときは、<span>第三条{'場合': 1}</span>の登録を取り消し、又は六月以内の期間を<span>定め{'募集': 1}</span>て社債の発行等による貸付<span>資金{'債権': 1}</span>の<span>受入れ{'貸付け': 1}</span>の停止を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第六条第一項第二号又は第三号のいずれかに該当することとなったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>不正{'第五': 1, '場合': 1}</span>の手段により第三条の<span>登録{'許可': 1}</span>を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">この法律若しくはこの<span>法律{'規定': 1}</span>に基づく命令<span>又は{'若しくは': 2}</span>これらに基づく処分に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">貸金業法その他の法律の規定により<span>金銭{'資金': 2}</span>の貸付けに係る業務の全部<span>又は{'若しくは': 1}</span>一部の停止を<span>命ぜ{'命ずる': 1}</span>られたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>内閣総理大臣{'場合': 1}</span>は、特定金融会社等の<span>営業所{'本店': 1}</span><span>若しくは{'又は': 2}</span>事務所の所在地を確知できないとき、又は特定<span>金融{'提出': 1}</span>会社等を代表する役員の所在を確知できないときは、内閣府令で定めるところにより、その事実を公告し、その公告の日から三十日を<span>経過{'規定': 1}</span>しても<span>当該{'しない': 1}</span>特定<span>金融{'承継': 1}</span><span>会社{'指標': 1}</span>等から申出がないときは、当該特定<span>金融{'承継': 2}</span>会社等の第三条の<span>登録{'規定': 2}</span>を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による処分については、行政手続法（平成五年<span>法律{'令': 1}</span>第八十八号）第三章の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（登録の抹消）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、第八条第二項の規定により第三条の<span>登録{'規定': 1}</span>がその効力を失ったとき、又は前条第一項若しくは第二項の規定により第三条の<span>登録{'免許': 1}</span>を<span>取り消し{'受け': 1}</span>たときは、<span>当該{'規定': 1}</span>登録を抹消しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（監督処分の公告）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、第十一条第一項又は第二項の規定による処分をしたときは、<span>内閣府令{'政令': 1}</span>で定めるところにより、その旨を公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（登録の取消し等に伴う債務の履行の完了等）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>金融{'承継': 2}</span>会社等について、第八条第二項の規定により<span>第三条{'適用': 1}</span>の<span>登録{'規定': 1}</span>が<span>効力{'受け': 1}</span>を失ったとき、又は第十一条第一項若しくは第二項の規定により第三条の<span>登録{'免許': 2}</span>が<span>取り消さ{'受け': 1}</span>れたときは、当該特定<span>金融{'承継': 1}</span><span>会社{'指標': 1}</span>等であった者又はその一般承継人（<span>政令{'内閣府令': 1}</span>で定める者を除く。）は、当該特定<span>金融{'承継': 1, '発行': 1}</span>会社等が<span>貸付{'金銭': 1}</span><span>資金{'債権': 1}</span>の受入れのために行った社債の発行等に係る債務として政令で定めるものの履行を完了する目的の範囲内においては、なお特定<span>金融{'提出': 1, '承継': 1, '債権': 1}</span>会社等とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（財務大臣への資料提出等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>財務大臣{'特例': 1}</span>は、その所掌に係る金融破<Ruby>綻<Rt>たん</Rt><span>処理{'制度': 1}</span></Ruby>制度及び金融危機管理に関し、金融業者の貸付業務のための社債の発行等に係る<span>制度{'法律': 2}</span>の<span>企画{'法律': 1}</span>又は立案をするため必要があると認めるときは、内閣総理大臣に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">財務大臣は、その所掌に係る金融破<Ruby>綻<Rt>たん</Rt><span>処理{'制度': 1}</span></Ruby>制度及び金融危機管理に関し、金融業者の貸付業務のための社債の発行等に係る<span>制度{'法律': 2, '会社': 1}</span>の<span>企画{'法律': 1}</span>又は立案をするため特に必要があると認めるときは、その必要の限度において、<span>特定{'当該': 1}</span><span>金融{'提出': 1}</span>会社等に対し、<span>資料{'規定': 1}</span>の提出、説明その他の<span>協力{'書類': 1}</span>を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、この法律による<span>権限{'施行': 1}</span>（政令で定めるものを除く。）を金融庁長官に<span>委任{'指定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融庁長官は、<span>政令{'別': 1}</span>で定めるところにより、前項の規定により委任された権限の一部を財務局長又は財務支局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（内閣府令への委任）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'附則': 1}</span>に定めるもののほか、この法律を実施するため必要な事項は、<span>内閣府令{'政令': 4}</span>で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、三年以下の懲役若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>第三条{'前項': 2, '二条': 2}</span>の規定に違反した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>不正{'免許': 1}</span>の手段により第三条の登録を受けた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第十一条第一項の規定による社債の発行等による貸付<span>資金{'債権': 1}</span>の<span>受入れ{'貸付け': 1}</span>の停止の<span>命令{'規定': 1}</span>に<span>違反{'劣後特約': 1}</span>して社債の発行等による貸付資金の受入れをした<span>特定{'債権': 1}</span>金融<span>会社{'取引': 1}</span>等の代表者、代理人、使用人その他の従業者でその違反行為をした者は、二年以下の懲役若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、<span>一年{'三年': 1}</span>以下の懲役若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第四条第一項の<span>登録{'規定': 1}</span>申請書又は同<span>条{'添付': 1}</span>第二項の<span>書類{'規定': 4}</span>に<span>虚偽{'規定': 1}</span>の記載をして提出した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第十条の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第七条第一項の規定による<span>届出{'報告': 1}</span>をせず、又は虚偽の届出をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の<span>代表者{'場合': 1}</span>又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は<span>人{'法人': 1}</span>の業務に関し、<span>次{'前条': 1}</span>の各号に掲げる規定の違反行為をしたときは、その行為者を罰するほか、その法人に対して当<span>該各{'当該': 1}</span>号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第十九条</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">三億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第二十条</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">二億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第十八条又は<span>前条{'管理人': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定により法人でない団体を処罰する場合には、その代表者又は管理人がその訴訟行為につきその団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次{'法律': 1}</span>の各号のいずれかに該当する者は、百万円以下の<span>過料{'場合': 2}</span>に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第八条第一項の規定による届出をせず、又は<span>虚偽{'当該': 1}</span>の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>第九条{'銀行法': 1}</span>第一項の規定に<span>違反{'改正': 1}</span>した特定<span>金融{'承継': 1}</span>会社等の代表者、代理人、使用人その他の従業者でその違反行為をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して<span>一月{'一年': 2, '三月': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>政府{'銀行法': 1}</span>は、この法律の施行後五年以内に、この法律の施行状況のほか、金融業者が社債の発行等により貸付<span>資金{'債権': 1}</span>の受入れをして行っている<span>金銭{'資金': 1}</span>の貸付けが国民経済に及ぼしている影響等を勘案し、この法律に規定する金融業者の貸付<span>業務{'債権': 1}</span>のための社債の<span>発行{'振替': 1}</span>等に係る制度について検討を加え、その結果に基づいて<span>所要{'必要': 1}</span>の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'規定': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（<span>核原料物質、核燃料物質及び原子炉の規制に関する法律{'金融商品取引法': 1}</span>の一部を改正する法律附則の改正規定に係る部分に<span>限る{'いう': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'改正': 2}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三章（<span>第三条{'部分': 1}</span>を除く。）及び次条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成十二年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、新<span>不動産登記法{'施行': 1}</span>の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'命令': 1, '政令': 1}</span>は、会社法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="418115" AmendLawNum="平成一八年一二月二〇日法律第一一五号" Extract="true" Id="dcdead58-1887-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>公布{'施行': 1}</span>の日から<span>起算{'施行': 2}</span>して<span>一年{'三月': 1}</span>を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

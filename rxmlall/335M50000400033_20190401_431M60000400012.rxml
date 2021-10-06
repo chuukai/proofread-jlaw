@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="431M60000400012" AmendmentNum="平成三十一年経済産業省令第十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="033" Year="35">
+  <LawNum>昭和三十五年通商産業省令第三十三号</LawNum>
+  <LawBody>
+    <LawTitle>特許登録令施行規則</LawTitle>
+    <EnactStatement>特許登録令（昭和三十五年政令第三十九号）第十条の規定に基づき、および同令を実施するため、特許登録令施行規則を次のように制定する。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="1_2">
+        <ChapterTitle>第一章の二　特許原簿の調製方法</ChapterTitle>
+        <ArticleRange>（第一条の二―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　申請の手続</ChapterTitle>
+        <ArticleRange>（第十条―第十三条の三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　登録の手続</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第十四条―第二十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　職権による登録の手続</SectionTitle>
+          <ArticleRange>（第二十八条―第四十条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　命令および嘱託による登録の手続</SectionTitle>
+          <ArticleRange>（第四十一条―第四十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　申請による登録の手続</SectionTitle>
+          <ArticleRange>（第四十八条―第六十一条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（登録の前後）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿における登録の前後は、同一の区（第七条第一項の甲区、乙区又は丁区をいう。以下この項において同じ。）にした登録相互間については順位番号、別の区にした登録相互間については受付の年月日及び<span>受付{'登録': 1}</span>番号（登録の双方に<span>受付{'登録': 1}</span>の年月日及び<span>受付{'登録': 1}</span>番号の記録がないときは登録年月日、登録の一方に受付の年月日及び受付番号の記録がないときは受付の年月日と登録年月日）による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿における登録の<span>前後{'登録': 1}</span>は、乙区にした登録相互間については順位番号による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="1_2">
+        <ChapterTitle>第一章の二　特許原簿の調製方法</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1_2">
+          <ArticleCaption>（特許登録原簿の調製方法）</ArticleCaption>
+          <ArticleTitle>第一条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録<span>原簿{'特定': 1}</span>の調製の方法は、電子計算機の操作によるものとし、文字の記号への変換の方法その他の<span>磁気テープ{'ファイル': 1}</span>への記録の方法については、特許庁長官が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="1_3">
+          <ArticleCaption>（特許原簿の様式等）</ArticleCaption>
+          <ArticleTitle>第一条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿は、それに記録されている事項を記載した<span>書類{'当該': 1}</span>（以下「<span>登録{'当該': 1}</span><span>事項{'当該': 1}</span><span>記載{'当該': 1}</span><span>書類{'当該': 1}</span>」という。）を様式第一により作成できるものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿は様式第一の二により、特許関係拒絶審決再審請求原簿は様式第二により、特許信託原簿は<span>様式{'登録': 1}</span>第三により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿及び特許信託原簿には、様式第四による目録を附さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿及び特許信託原簿の登録用紙の表題部中の枚数欄には、登録用紙の枚数に相当する数字に、特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿及び特許信託原簿は、バインダー式帳簿とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（特許仮実施権原簿等の作成）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿は、仮<span>専用{'当該': 1}</span>実施権に係る特許出願ごとに一用紙を備えなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿は、再審の請求に係る<span>特許出願{'登録': 1}</span>又は<span>特許権{'登録': 1}</span>の<span>存続{'登録': 1}</span>期間の延長<span>登録{'請求': 1}</span>の出願ごとに一用紙を備えなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許信託原簿は、信託財産に属する特許権その他<span>特許{'財産': 1}</span>に関する権利ごとに一用紙を備えなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（目録の記載）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許信託原簿の目録には、特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許信託原簿に登録用紙をつづり込むごとに、特許番号（登録の目的が仮<span>専用{'当該': 1}</span>実施権に関するときは、特許出願の番号）、つづり込んだ年月日及び理由を記載して、特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録用紙を特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許信託原簿から除いたときは、目録中その登録用紙に係る記載を朱<Ruby>抹<Rt>まつ</Rt></Ruby>し、除いた年月日及び理由を記載して、特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（閉鎖特許原簿の作成）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">消滅した特許権に係る閉鎖<span>特許{'回路': 1}</span>原簿は、磁気テープをもつて調製し、消滅した特許権ごとに磁気テープの連続した部分を使用しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令（昭和三十五年政令第三十九号）第十二条第一項の規定により特許登録<span>原簿{'意匠': 1}</span>における登録を閉鎖特許原簿に移す方法は、閉鎖特許原簿に特許登録原簿における<span>当該{'登録': 1}</span>特許権の登録と同一の記録をしたのち、特許登録原簿における当該特許権の登録を消すことによるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令第十二条第二項の規定により特許仮実施権原簿における登録を閉鎖特許原簿に移す方法は、特許仮実施権原簿における当該登録の登録用紙を閉鎖したのち、閉鎖特許原簿に閉鎖した登録用紙を移すことによるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一条の三第三項及び第五項の規定は、前項の規定による閉鎖特許原簿に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前条{'特許法': 1}</span>の規定は、前項において<span>準用{'規定': 1}</span>する第一条の三第三項の目録に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（閉鎖特許原簿の保存期間）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">閉鎖特許原簿の消滅した特許権の記録の保存期間は、その記録の日から二十年とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">閉鎖特許原簿の閉鎖した登録用紙の保存期間は、その閉鎖の日から二十年とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（附属書類）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令第十条第三項の附属書類は、登録受付簿とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録受付簿は、様式第五により<span>作成{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（特許登録原簿の記録）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿は、特許番号記録部、表示部、特許料記録部、甲区、乙区及び丁区の別に記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許番号<span>記録{'登録': 1}</span>部には、特許番号を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">表示部には、特許権の表示をするほか、その存続期間の延長及び消滅並びに特許異議の申立てについての確定した決定、特許無効審判、延長登録無効審判若しくは訂正審判の確定審決又は再審の確定した決定若しくは確定審決に関する事項を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許料記録部には、<span>特許{'番号': 1}</span>料及びその納付年月日、特許権が特許法（昭和三十四年法律第百二十一号）第百七条第三項に規定する共有に係る場合であつて持分の定めがあるときの国以外の者の持分の割合、特許料の納付の<span>軽減{'申出': 1}</span>若しくは免除を受ける者の持分の割合、特許料の納付の軽減若しくは免除若しくはその納付の猶予又は特許料の返還に関する事項を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿の甲区には、特許権の設定、移転、処分の制限及び信託による<span>特許権{'回路配置利用権': 1}</span>についての変更に関する事項を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿の乙区には、専用<span>実施権{'利用権': 1}</span>及びこれを目的とする<span>質権{'当該': 1}</span>に関する事項を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録原簿の丁区には、特許権を目的とする質権に関する事項を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7_2">
+          <ArticleCaption>（特許仮実施権原簿の記載）</ArticleCaption>
+          <ArticleTitle>第七条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿の特許出願番号欄には、特許出願の番号を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿の表題部のうち、<span>表示{'事項': 1}</span>欄には、仮専用実施権に係る特許出願の表示を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿の甲区の事項欄には、仮専用実施権に係る特許出願に係る特許を受ける権利を有する者に関する事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿の<span>乙{'甲': 1}</span>区の事項欄には、仮専用実施権に関する事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許仮実施権原簿の表示<span>番号{'事項': 1}</span>欄には、表示欄又は<span>甲{'欄': 1}</span>区の事項欄に登録事項を記載した順序を記載し、特許仮実施権<span>原簿{'設定': 1}</span>の順位<span>番号{'事項': 1}</span><span>欄{'登録': 1}</span>には、乙区の事項欄に登録事項を記載した順序を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（特許関係拒絶審決再審請求原簿の記載）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">請求番号欄には、特許関係拒絶審決再審請求原簿に最初に登録した順序により請求番号を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿の表題部のうち、表示欄には、当該再審の請求に係る特許出願の番号又は<span>延長{'実用新案': 1}</span><span>登録{'国際': 1}</span>出願の番号及び特許番号、再審の請求があつた年月日、再審の番号並びに再審の請求があつた旨を記載し、表示番号欄には、表示欄に登録事項を記載した順序を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿の事項区のうち、事項欄には、請求人の氏名または名称<span>および{'及び': 1}</span>住所または居所を記載し、順位番号欄には、事項欄に登録事項を記載した<span>順序{'事項': 1}</span>を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（特許信託原簿の記載）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許<span>信託{'当該': 1}</span>番号欄には、特許信託原簿に最初に登録した順序により特許<span>信託{'登録': 1}</span>番号を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許信託原簿の表題部のうち、表示欄には、信託財産に属する特許権その他特許に関する権利の表示をし、その変更および消滅ならびにこれらの権利の信託の終了を記載し、表示番号欄には、表示欄に登録事項を記載した順序を<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許信託原簿の事項区のうち、事項欄には、特許登録令第五十八条第一項各号に掲げる事項及びその変更又は更正を記載し、順位番号欄には、事項欄に登録事項を記載した順序を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　申請の手続</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（申請書の様式）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">権利の全部の移転の<span>登録{'法律': 1}</span>（<span>特許法{'当該': 1}</span>第七十四条第一項の規定による請求に基づくもの及び相続その他の一般承継によるものを除く。）を申請するときは、申請書は、様式第七により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特許法{'法': 1}</span>第七十四条第一項の規定による請求に基づく特許権の移転の登録を申請するときは、申請書は、様式第七の二により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">相続その他の<span>一般承継{'回路配置利用権': 1}</span>による権利の移転の登録を申請するときは、申請書は、様式第八により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録名義人又は仮専用実施権に係る特許出願に係る特許を受ける権利を有する者の表示の変更又は更正の登録を申請するときは、申請書は、様式第九により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専用実施権の設定の登録を申請するときは、申請書は、様式第十により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">仮専用実施権の設定の登録を申請するときは、申請書は、様式第十一により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">質権の設定の登録を申請するときは、<span>申請書{'別紙': 1}</span>は、様式第十二により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8" OldStyle="false">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>信託{'設定': 1}</span>の登録を申請するときは、申請書は、様式第十三により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10_2">
+          <ArticleCaption>（併合の手続）</ArticleCaption>
+          <ArticleTitle>第十条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許権の移転の登録の申請（二以上の特許権に係るときは、これらの登録の目的が同一の場合に限る。）と特許法<span>施行規則{'当該': 1}</span>（昭和三十五年<span>通商産業省令{'規定': 2}</span>第十号）第十二条第一項の<span>届出{'当該': 1}</span>は、特許権の<span>登録{'事務': 1}</span>義務者及び登録権利者が特許を受ける権利の被承継人及び承継人と<span>同一{'当該': 1}</span>の場合に限り、一の書面ですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録名義人（特許権者に限る。以下この条において同じ。）の表示の変更の登録の申請と特許法施行規則<span>第九条{'規定': 1}</span>第一項の届出又は<span>工業所有権に関する手続等の特例に関する法律{'特例': 1}</span>施行規則（平成二年通商産業省令第四十一号。以下「特例法施行規則」という。）第四条第一項の<span>届出{'規定': 1}</span>は、登録名義人が<span>特許法{'届出': 1}</span>施行規則第九条第一項の届出又は特例法施行規則第四条第一項の<span>届出{'規定': 1}</span>をする者と同一であり、かつ、<span>変更{'当該': 1}</span>の<span>内容{'当該': 1}</span>が同一の場合に限り、一の書面ですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録名義人の氏名若しくは名称又は住所若しくは居所の表示の更正の登録の申請と特許出願人又は特許権の存続期間の延長登録の出願人の氏名<span>若しくは{'又は': 1}</span>名称又は住所若しくは居所についての<span>補正{'変更': 1}</span>（願書、特許法第百八十四条の五第一項の書面又は<span>特許を受ける権利{'当該': 1}</span>の承継の届出書についてするものに限る。）は、登録名義人が特許出願人又は特許権の存続期間の延長登録の出願人と同一であり、かつ、更正の内容が補正の内容と同一の場合に限り、一の書面ですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">仮専用実施権に係る特許出願に係る特許を受ける権利を有する者の表示の<span>変更{'当該': 1}</span>の登録の申請と特例法施行規則第四条第一項の<span>届出{'規定': 1}</span>は、当該特許を受ける権利を有する者が特例法施行規則第四条第一項の<span>届出{'規定': 1}</span>をする者と同一であり、かつ、変更の<span>内容{'当該': 1}</span>が<span>同一{'当該': 1}</span>の<span>場合{'当該': 1}</span>に限り、一の書面ですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10_3">
+          <ArticleCaption>（外国人の国籍の記載の省略）</ArticleCaption>
+          <ArticleTitle>第十条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録権利者が外国人である場合において、その者の国籍が<span>申請書{'事項': 1}</span>に記載した住所又は居所の国と同一のときは、その<span>国籍{'事項': 1}</span>の記載を省略することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10_4">
+          <ArticleCaption>（登録の申請の例外）</ArticleCaption>
+          <ArticleTitle>第十条の四</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録は、次に掲げる場合に応じ、<span>申請書{'それぞれ': 1}</span>に添付される<span>特許{'当該': 1}</span>登録令第二十九条第一項第一号に掲げる<span>書面{'場合': 1}</span>が当<span>該各{'経済産業省令': 1}</span>号に定めるものであるときは、同令第十八条の規定にかかわらず、登録権利者又は登録義務者だけで申請することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">特許権の<span>移転{'全て': 1}</span>に該当する場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げるもの</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>特許{'事項': 1}</span>権の移転を証明する<span>契約書{'書面': 1}</span>の謄本又は抄本であつて、認証のあるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">特許法条約に基づく規則２０（１）に規定する<span>モデル{'国際': 1}</span>国際様式によつて作成された譲渡証明書又は譲渡文書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">専用<span>実施{'交付': 1}</span>権の設定、移転、変更又は消滅に該当する場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">専用<span>実施{'使用': 1}</span>権の設定、移転、変更又は消滅を証明する<span>契約書{'書面': 1}</span>の謄本又は抄本であつて、認証のあるもの</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">仮専用実施権の設定、移転、変更又は消滅に該当する場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">仮専用<span>実施{'使用': 1}</span>権の設定、移転、変更又は消滅を証明する<span>契約書{'書面': 1}</span>の謄本又は抄本であつて、認証のあるもの</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>特許権{'回路配置利用権': 1}</span>又は専用実施権を目的とする質権の設定、移転、変更又は消滅に該当する場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>特許権{'回路配置利用権': 1}</span>又は専用実施権を目的とする質権の設定、移転、変更又は消滅を証明する<span>契約書{'書面': 1}</span>の謄本又は抄本であつて、認証のあるもの</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10_5">
+          <ArticleCaption>（申請の取下げ）</ArticleCaption>
+          <ArticleTitle>第十条の五</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">申請の取下げは、様式第十四によりしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">申請の取下げは、登録完了後は、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特許庁長官{'当該': 1}</span>は、申請の取下げがされたときは、申請書及びその添付書面を還付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（先順位の質権の記載）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">質権の設定の登録を申請する場合において、先順位の質権の登録があるときは、申請書にその旨を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（課税標準の価格の記載）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録免許税法（昭和四十二年法律第三十五号）別表第一第十三号（三）及び（五）イに掲げる事項の登録を申請するときは、申請書に課税標準の価格を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（期間の延長の請求の様式等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令第三十条第二項又は第三項の規定による期間の<span>延長{'経過': 1}</span>の請求は、<span>様式{'提出': 1}</span>第十五によりしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令第三十条第三項の経済産業省令で定める期間は、同<span>条{'項': 1, '法': 2}</span>第一項の規定により特許庁長官が指定した期間の末日（当該期間の<span>末日{'中小企業信用保険法': 1}</span>が<span>特許法{'当該': 1}</span>第三条第二項の規定の適用を受けるときに<span>あつ{'除く': 1}</span>ては、同<span>項{'当該': 1}</span>の<span>規定{'当該': 1}</span>の<span>適用{'当該': 1}</span>がないものとした場合における当該期間の<span>末日{'期間': 1}</span>）の翌日から<span>二月{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_2">
+          <ArticleCaption>（手続補正書の提出期間）</ArticleCaption>
+          <ArticleTitle>第十三条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録令第三十八条第一項の経済産業省令で定める期間は、同項の規定による命令の日から二月とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_3">
+          <ArticleCaption>（手続補正書の様式）</ArticleCaption>
+          <ArticleTitle>第十三条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">手続の補正は、様式第十六によりしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_4">
+          <ArticleCaption>（弁明書の様式等）</ArticleCaption>
+          <ArticleTitle>第十三条の四</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許登録令第三十八条第四項の弁明を<span>記載{'証明': 1}</span>した書面の提出は、同<span>項{'法': 1}</span>の規定による通知の日から二月以内にしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の弁明を記載した<span>書面{'別紙': 1}</span>は、様式第十七により作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_5">
+          <ArticleCaption>（代理権の証明）</ArticleCaption>
+          <ArticleTitle>第十三条の五</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登録の申請をする者の<span>代理人{'信用協同組合': 1, '当該': 1}</span>の代理権は、書面をもつて証明しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特許法施行規則第四条の三第三項本文の規定は、<span>手続{'当該': 1}</span>をした者が新たな代理人により手続をする<span>場合{'当該': 1}</span>に<span>準用{'当該': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_6">
+          <ArticleCaption>（包括委任状）</ArticleCaption>
+          <ArticleTitle>第十三条の六</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>手続{'場合': 1, '当該': 1}</span>をする際の<span>前条{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>証明{'当該': 1}</span>については、<span>特例{'当該': 1}</span>法施行規則第六条第一項の規定によりあらかじめ<span>特許庁長官{'当該': 1}</span>に提出した事件を特定しない代理権を証明する書面を援用してすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特例法施行規則第六条第四項及び第七条の<span>規定{'提出': 1}</span>は、前項の<span>援用{'届出': 1}</span>に準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同規則第七条中「様式第七」とあるのは「様式第十八」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13_7">
+          <ArticleCaption>（モデル国際様式）</ArticleCaption>
+          <ArticleTitle>第十三条の七</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>手続{'主務': 1}</span>は、この<span>省令{'経済産業省令': 1}</span>で定める様式のほか、特許法条約に基づく規則２０（１）に規定するモデル国際<span>様式{'出願': 1}</span>によりすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　登録の手続</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（番号の記録等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許<span>登録{'当該': 1}</span>原簿に表示部について登録するときは、当該登録<span>事項{'当該': 1}</span>を<span>記録{'当該': 1}</span>した<span>順序{'当該': 1}</span>により、<span>表示{'記録': 1, '当該': 1}</span><span>番号{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>登録{'当該': 1}</span><span>事項{'当該': 1}</span>を記録する部分の前に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿に甲区、乙区及び丁区（以下「<span>事項{'当該': 1}</span>部」という。）について登録するときは、その登録が付記登録である場合、仮登録をしたものについての本登録である場合、仮登録の抹消の登録である場合、民事保全法（平成元年法律第九十一号）第五十四条において準用する同法第五十三条第二項の規定による仮処分による仮登録（以下「保全仮登録」という。）をしたものについての本登録である場合及び保全仮登録の抹消の登録である<span>場合{'申請': 1}</span>を除き、当該登録事項を<span>記録{'当該': 1}</span>した<span>順序{'事項': 1, '当該': 1}</span>により、<span>順位{'記録': 1, '当該': 1}</span><span>番号{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>登録{'当該': 1}</span><span>事項{'当該': 1}</span>を記録する部分の前に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿について、表示欄又は甲区の事項欄に登録をするときは表示<span>番号{'当該': 1}</span>欄に番号を、乙区の事項欄に登録をするときは順位番号欄に番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿又は特許信託原簿について、表示欄に登録をするときは表示番号欄に番号を、事項欄に登録をするときは順位番号欄に番号を<span>記載{'登録': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（付記登録の方法等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特許登録原簿について付記登録をするときは、主登録（主登録に付記登録があるときは、その付記登録の最後のもの）の次にその付記登録をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、付記の順序により、当該付記登録事項を記録する<span>部分{'事項': 1}</span>の<span>前{'規定': 1}</span>に付記番号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'変更': 1}</span>仮実施権原簿について付記登録をする場合において、付記登録の表示番号又は<span>順位{'登録': 1}</span>番号を記載するときは、主登録の<span>番号{'事項': 1}</span>を記載し、その下に付記の順序により付記番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿又は特許信託原簿について付記登録をする場合において、付記登録の順位番号を記載するときは、主登録の<span>番号{'事項': 1}</span>を記載し、その下に付記の順序により付記番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の場合においては、主登録の表示番号又は順位番号の下に略号を用いて付記番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（外国人の国籍の記録等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許原簿に外国人の氏名または名称および住所または居所を記録し、または記載するときは、その国籍も記録し、または記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（変更された登録事項等の<Ruby>抹<Rt>まつ</Rt>
+</Ruby>消記号の記録等）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿について変更又は更正の登録をしたときは、変更され、又は更正された登録事項について抹消記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許信託原簿について変更又は更正の登録をしたときは、変更され、又は更正された登録事項を朱<Ruby>抹<Rt>まつ</Rt></Ruby>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（抹消の登録の方法）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">特許登録原簿について抹消の登録をするときは、登録を抹消する旨を記録した後、抹消すべき登録について抹消記号を記録しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>職権{'登録': 1}</span>により抹消の登録をするときは、その原因及び年月日も記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>場合{'規定': 1}</span>において抹消に係る権利を目的とする第三者の権利に関する登録があるときは、事項部の相当区に当該抹消に係る権利の<span>登録{'事項': 1}</span>を抹消することによりその登録を抹消する旨を記録した後、当該登録について抹消記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許<span>信託{'登録': 1}</span><span>原簿{'登録': 1}</span>について抹消の登録をするときは、登録を抹消する旨を記載した後、抹消すべき登録を朱抹しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、職権により抹消の登録をするときは、その原因及び年月日も<span>記載{'記録': 2}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>場合{'規定': 1}</span>において、抹消に係る権利を目的とする第三者の権利に関する登録があるときは、登録用紙中の相当区の<span>事項{'規定': 1, '条': 1}</span>欄に当該抹消に係る権利の登録を抹消することによりその登録を抹消する旨を記載した後、当該登録を朱抹しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（回復の登録の方法）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許権の消滅の登録をした後、その特許権の回復の登録をするときは、その消滅前と同一の登録をした後、その表示部の<span>末尾{'当該': 1}</span>に回復の原因、年月日および登録を回復する旨を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定により特許権の回復の登録をしたときは、閉鎖特許原簿のその特許権の記録の表示部に登録の<span>回復{'場合': 1}</span>があつた旨<span>および{'及び': 1}</span>その年月日を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項に規定する場合を除き、<span>特許{'回復': 1}</span>登録原簿について回復の登録をするときは、その原因、年月日および登録を回復する旨を<span>記録{'記載': 1}</span>した後、<Ruby>抹<Rt>まつ</Rt></Ruby>消に係る登録と同一の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19_2">
+            <ArticleTitle>第十九条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第十二条第二項の規定により特許仮実施権原簿における仮専用実施権に関する登録を閉鎖特許原簿に移した後、<span>当該{'主務大臣': 1}</span>仮専用実施権の登録の回復の登録をするときは、新たな登録用紙を用い、表示欄に回復の原因、年月日及び登録を回復する旨を記載した後、抹消に係る登録と同一の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定により仮専用実施権の登録の回復の登録をしたときは、閉鎖特許原簿の目録中の<span>当該{'主務大臣': 1}</span>仮専用実施権の備考欄及び当該仮専用実施権の登録用紙の表示欄中の余白の部分に、登録の回復があつた旨及びその年月日を記載して、特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項に規定する場合を除き、特許仮実施権原簿について回復の登録をするときは、その原因、年月日及び登録を回復する旨を記載した後、抹消に係る登録と同一の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿または特許信託原簿について回復の登録をするときは、その原因、年月日および登録を回復する旨を記載した後、<Ruby>抹<Rt>まつ</Rt></Ruby>消に係る登録と同一の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（登録年月日の記録等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿に表示部又は事項部について職権により登録をしたときは、その末尾に登録年月日を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許庁長官が指定する職員は、特許登録原簿に登録をしたときは、登録事項記載書類を作成することによつて登録の確認を行なわなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿及び特許信託原簿の表示欄又は事項<span>欄{'登録': 1}</span>に職権により登録をしたときは、その末尾に登録年月日を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿及び特許信託原簿の表示欄又は事項欄に登録をしたときは、その末尾に特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（分界）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿に表示部又は事項部について登録をしたときは、その末尾（前条第一項の規定により登録年月日を記録したときは、当該登録年月日を記録した部分）に続けて<span>分界{'記録': 1}</span>記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'回路配置利用権': 1}</span>登録原簿に事項部の同一の区について同一の順位で特許権その他特許に関する権利の設定又は<span>移転{'実用新案': 1}</span>の登録及び信託の登録をしたときは、その末尾（前条第一項の規定により登録年月日を記録したときは、当該登録年月日を記録した部分）に続けて<span>分界{'記録': 1}</span>記号を記録して各<span>登録{'回路配置利用権': 1}</span>を分界しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿、特許関係拒絶審決再審請求原簿又は特許信託原簿について、表示欄に登録をしたときは表示番号欄<span>及び{'掲げる': 2, '定める': 1}</span><span>表示{'表': 1}</span>欄に、事項欄に登録をしたときは順位<span>番号{'別表': 1}</span>欄及び事項欄に横線を引いて余白と分界しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（特許信託番号の記録等）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿に信託の登録をするときは、特許信託番号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿に信託の<span>登録{'当該': 1}</span>をするときは、特許信託番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption>（記録する余地がない場合）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許庁長官は、特許登録原簿に関し、一特許権について磁気テープに記録した部分にあらたに記録する余地がないときは、その磁気テープに係る登録を別の磁気テープに移すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption>（閉鎖の記録等）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">消滅した特許権について閉鎖特許原簿に記録するときは、その記録した部分の<span>末尾{'規定': 1}</span>に閉鎖する旨およびその年月日を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿の登録用紙を閉鎖するときは、その表示欄の末尾に閉鎖する原因、閉鎖する旨及びその年月日を記載し、特許庁長官が指定する職員が印を押さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption>（登録用紙中に余白がない場合）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿の表題部又は甲区若しくは乙区に登録する余白がないときは、その登録用紙の次に新たな登録用紙をつづり込まなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿及び特許信託原簿の登録用紙中の表題部又は事項区に登録する余白がないときは、その登録用紙の次に新たな登録用紙をつづり込まなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　職権による登録の手続</SectionTitle>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption>（特許権の設定の登録の方法）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許権の設定の登録をするときは、特許番号記録部として特許番号を、表示部として特許出願の年月日、特許出願の番号、査定又は審決があつた旨及びその年月日、特許発明の名称並びに請求項の数を、甲区として特許権者の氏名又は名称及び住所又は<span>居所{'当該': 1}</span>を<span>記録{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>前項{'当該': 1}</span>の場合において、当該特許出願が<span>特許法{'施行規則': 1}</span>第四十一条第一項の規定による優先権の主張を伴うものであるときは、表示部に先の出願の年月日を、当該特許出願が同法第四十三条第一項、第四十三条の二第一項（同法第四十三条の三第三項において準用する場合を含む。）又は第四十三条の三第一項若しくは第二項の規定による優先権の主張を伴うものであるときは、表示部に当該優先権の主張の基礎とされた出願をした国の国名及び出願の年月日を記録しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該特許出願が二以上の優先権の主張を伴うものであるときは、当該優先権の主張の基礎とされた出願のうち最先のものがされた国の国名（その出願が同法第四十三条第一項、第四十三条の二第一項（同法第四十三条の三第三項において準用する場合を含む。）又は第四十三条の三第一項若しくは第二項の規定による優先権の主張の基礎とされたものである場合に限る。）及び当該最先の出願の年月日並びに主張されている優先権の件数を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の場合において、特許出願の願書又は特許法第三十四条第四項若しくは第五項の規定による届出書に特許法施行規則第二十七条第一項又は第二項に規定する事実が記載されているときは、<span>甲{'書面': 1}</span>区にその事実を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="28_2">
+            <ArticleCaption>（存続期間の延長登録の方法）</ArticleCaption>
+            <ArticleTitle>第二十八条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許権の存続期間の延長登録をするときは、表示部に延長登録出願の年月日、延長登録出願の番号、査定又は審決があつた旨及びその年月日、延長の期間並びに特許法第六十七条第二項の政令で定める処分の内容を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="31">
+            <ArticleCaption>（明細書、特許請求の範囲又は図面の訂正の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'規定': 1}</span>異議の申立て、特許無効審判若しくは訂正審判又はこれらの確定した決定若しくは確定審決に対する再審による明細書、特許請求の範囲又は図面の訂正の登録をする場合において、特許<span>発明{'登録': 1}</span>の名称に変更があつたときは、変更後の名称を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定により登録をする場合において当該特許権が信託財産に属するときは、同時に特許信託原簿に特許発明の名称の変更の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="32">
+            <ArticleCaption>（特許権の消滅の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許権の消滅（放棄によるものを除く。）の登録をするときは、その特許権の登録を<Ruby>抹<Rt>まつ</Rt></Ruby>消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="33">
+            <ArticleCaption>（設定されたものとみなされた専用実施権等の設定の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許法第三十四条の二第二項の規定により設定されたものとみなされた<span>専用{'当該': 1}</span>実施権の設定の登録をするときは、<span>当該{'申請': 1}</span>特許権の登録に乙区として設定すべき<span>専用{'登録': 1}</span><span>実施{'利用': 1}</span>権の範囲並びに専用実施権者の氏名又は名称及び住所又は居所その他当該設定されたものとみなされた専用実施権に関する事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="34">
+            <ArticleCaption>（混同又は取消しによる専用実施権等の消滅の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">混同による専用実施権、仮専用<span>実施権{'利用権': 1}</span>又は質権の消滅の登録をするときは、その専用実施権、仮専用実施権又は質権の登録を<Ruby>抹<Rt>まつ</Rt></Ruby>消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>規定{'施行': 1}</span>は、私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第百条第三項の規定による取消しによる専用実施権の消滅の登録をする<span>場合{'抹消': 1}</span>に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="35">
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="36">
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>削除{'準用': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="36_2">
+            <ArticleCaption>（設定されたものとみなされた仮専用実施権等の設定の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十六条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許法第三十四条の二第五項の規定により設定されたものとみなされた仮専用実施権の設定の登録をするときは、特許出願番号欄に当該仮専用<span>実施{'登録': 1}</span>権に係る特許出願の番号を、表示欄に当該仮専用<span>実施{'登録': 1}</span>権に係る特許出願の年月日その他当該仮専用実施権に係る特許出願の表示に関する事項を、甲区の事項欄に仮専用実施権に係る特許出願に係る特許を受ける権利を有する者の<span>氏名{'同一': 1}</span>又は名称及び住所又は居所を、<span>乙{'記載': 1}</span>区の事項欄に<span>設定{'特定': 1}</span>すべき仮<span>専用{'登録': 1}</span><span>実施{'利用': 1}</span>権の範囲並びに仮専用実施権者の氏名又は名称及び住所又は居所その他当該設定されたものとみなされた仮専用実施権に関する事項を<span>記載{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="36_3">
+            <ArticleCaption>（特許を受ける権利を有する者の変更の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十六条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">仮専用実施権に係る特許出願に係る特許を受ける権利について、特許法第三十四条第四項又は第五項の規定による届出がされた場合における当該特許を受ける権利を有する者の変更の登録をするときは、特許を受ける権利の承継人の氏名又は名称及び住所又は居所を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="36_4">
+            <ArticleCaption>（仮専用実施権等の消滅の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十六条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許法第三十四条の二第六項の規定による仮専用実施権の消滅の登録をするときは、その仮専用実施権の登録を抹消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="37">
+            <ArticleCaption>（確定審決等の登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許<span>異議{'規定': 1}</span>の申立てについての確定した決定、特許無効審判、延長登録無効審判若しくは訂正審判の確定審決又は再審の確定した決定若しくは確定審決の登録をするときは、表示部に<span>特許{'登録': 1}</span>異議、審判又は<span>再審{'登録': 1}</span>の番号、決定又は審決が確定した旨及びその年月日並びに確定した決定又は確定審決の概要を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">再審の確定審決の登録をするときは、これに反する確定審決の登録を抹消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="38">
+            <ArticleCaption>（予告登録の方法）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第三条第三号から第五号までに掲げる申立て又は請求について予告登録をするときは、表示部に特許異議の申立て又は<span>審判{'登録': 1}</span>若しくは再審の請求があつた年月日、<span>特許{'登録': 1}</span>異議、審判又は<span>再審{'登録': 1}</span>の番号及び特許異議の<span>申立て{'記載': 1}</span>に係る特許の表示又は審判若しくは再審の請求の趣旨を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="39">
+            <ArticleCaption>（同一の順位による信託の登録）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許権の設定の登録をする場合において、当該特許を受ける権利が<span>信託{'当該': 1}</span>財産に属するときは、その設定の登録と同一の順位で<span>信託{'設定': 1}</span>の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許法第三十四条の二第二項の規定により設定されたものとみなされた専用実施権の設定の登録をする場合において、当該仮専用実施権が<span>信託{'当該': 1}</span>財産に属するときは、その設定の登録と同一の順位で<span>信託{'設定': 1}</span>の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許法第三十四条の二第五項の規定により設定されたものとみなされた仮専用実施権の設定の登録をする場合において、もとの特許出願に係る仮専用実施権が信託財産に属するときは、その設定の登録と同一の順位で信託の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="40">
+            <ArticleCaption>（特許権の消滅等があつた場合の特許信託原簿の登録）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第三十二条、第三十四条若しくは第三十六条の四の規定により登録をした場合において当該特許権その他特許に関する権利が信託財産に属するとき又は前条の規定により登録をしたときは、同時に特許信託原簿にその登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="40_2">
+            <ArticleCaption>（登録済みの通知）</ArticleCaption>
+            <ArticleTitle>第四十条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第三十三条又は第三十六条の二の規定による登録を完了したときは、<span>特許{'登録': 1}</span>番号（第三十六条の二の規定による登録にあつては、特許出願の番号）、登録権利者の氏名又は<span>名称{'当該': 1}</span><span>及び{'行わ': 1}</span><span>住所{'当該': 1}</span>又は<span>居所{'当該': 1}</span>、<span>登録{'当該': 1}</span>の<span>目的{'当該': 1}</span>、登録の年月日並びに登録済みの旨を特許権者その他特許に関する権利を有する者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　命令および嘱託による登録の手続</SectionTitle>
+          <Article Delete="false" Hide="false" Num="41">
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="42">
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="43">
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="44">
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="45">
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿について特許登録令第三条<span>第一{'表': 1}</span>号又は第二号に掲げる訴えについて予告登録をするときは、事項部の相当区に登録の原因の無効若しくは取消しによる登録の抹消若しくは回復の<span>訴え{'申請': 1}</span>が提起された旨又は特許法第七十四条第一項の規定による請求に係る訴えが提起された旨及びその年月日を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿について特許<span>登録{'法律': 1}</span>令第三条第一号に掲げる訴えについて予告登録をするときは、登録用紙中の相当区の事項欄に登録の原因の無効若しくは取消しによる登録の抹消又は回復の<span>訴え{'登録': 1}</span>が提起された旨及びその年月日を<span>記載{'記録': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="45_2">
+            <ArticleCaption>（保全仮登録の方法）</ArticleCaption>
+            <ArticleTitle>第四十五条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第五十七条及び第五十八条の規定は、<span>保全{'当該': 1}</span>仮登録について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="46">
+            <ArticleCaption>（登録済みの通知）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">命令又は嘱託により登録を完了したときは、次条において準用する第六十条の規定により返還及び通知するほか、特許権その他特許に関する権利の表示、命令書又は嘱託書の受付の年月日、受付番号、登録権利者の氏名又は<span>名称{'当該': 1}</span><span>及び{'行わ': 1}</span><span>住所{'当該': 1}</span>又は<span>居所{'当該': 1}</span>、登録の目的並びに登録済みの旨を特許権者その他特許に関する権利を有する者（登録義務者を除く。）に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="47">
+            <ArticleCaption>（準用）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">申請による登録の手続に関する規定は、法令に別段の定めがある場合を除き、命令または嘱託による登録の手続に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　申請による登録の手続</SectionTitle>
+          <Article Delete="false" Hide="false" Num="48">
+            <ArticleCaption>（登録受付簿の記載）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">申請書の提出があつたときは、登録受付簿に受付の年月日、<span>受付{'登録': 1}</span>番号、特許番号（登録の目的が仮専用実施権に関するときは、当該仮専用実施権の登録の申請に係る特許出願の表示）、登録の目的、登録免許税として納付する額及び申請人の氏名又は名称を、申請書に受付の年月日及び受付番号を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の受付番号は、受付の順序により附さなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同一の特許権その他特許に関する権利に関して同時に二以上の申請があつたときは、同一の受付番号を附さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の規定により登録受付簿に申請人の氏名または名称を記載する場合において、申請人が二人以上であるときは、申請書に掲げた代表者または筆頭者の氏名または名称および他の申請人の数を記載するだけで足りる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="49">
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="50">
+            <ArticleCaption>（受付番号の更新）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">受付番号は、毎年更新しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="51">
+            <ArticleCaption>（同一の順位番号の記載）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿について第四十八条第二項ただし書の規定により同一の受付番号を<span>附し{'付し': 1}</span>た申請書により登録をする場合において、その登録事項が同一の<span>区{'当該': 1}</span>として登録をすべきものであるときは、同一の順位番号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿について第四十八条第二項ただし書の規定により同一の受付番号を<span>附し{'付し': 1}</span>た申請書により登録をする場合において、その登録事項が同一の事項<span>欄{'当該': 1}</span>に登録をすべきものであるときは、同一の<span>順位{'登録': 1}</span>番号を<span>記載{'登録': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="52">
+            <ArticleCaption>（表示部等の登録の方法）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録原簿の表示部に登録をするときは、申請書の受付の年月日、<span>受付{'登録': 1}</span>番号及び登録の<span>目的{'年月日': 1}</span>を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録原簿の事項部として登録をするときは、申請書の受付の年月日、受付番号、登録権利者の氏名又は<span>名称{'当該': 1}</span><span>及び{'行わ': 1}</span><span>住所{'当該': 1}</span>又は<span>居所{'当該': 1}</span>並びに登録の目的その他申請書に<span>掲げ{'掲げる': 1, '行わ': 1}</span>た事項のうち登録をすべき権利に関する事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録令第三十一条又は第五十九条第一項の規定による<span>申請{'登録': 1}</span>により特許登録原簿の事項部として登録をするときは、前項に規定する事項のほか、債権者、受益者又は委託者の氏名又は名称<span>及び{'行わ': 1}</span>住所又は居所並びに代位の原因を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿の表示欄に登録をするときは、申請書の受付の年月日、<span>受付{'登録': 1}</span>番号及び登録の目的を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮<span>実施権{'出願': 1}</span>原簿の事項欄に登録をするときは、申請書の受付の年月日、受付番号、登録権利者の氏名又は<span>名称{'当該': 1}</span><span>及び{'行わ': 1}</span><span>住所{'当該': 1}</span>又は<span>居所{'当該': 1}</span>並びに登録の目的その他申請書に<span>掲げ{'掲げる': 1, '行わ': 1}</span>た事項のうち登録をすべき権利に関する事項を<span>記載{'記録': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">仮専用実施権に係る特許出願について<span>特許{'当該': 1}</span>仮実施権原簿がない場合において、特許仮実施権原簿に登録をするときは、前項に規定するもののほか、<span>特許出願{'登録': 1}</span>番号欄に特許出願の番号を、表題部の表示欄に特許出願の年月日その他当該仮専用実施権に係る特許出願の表示に関する事項を、甲区の事項欄に当該仮専用実施権に係る特許出願に係る特許を受ける権利を有する者の<span>氏名{'同一': 1}</span>又は名称<span>及び{'行わ': 1}</span>住所又は居所を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7" OldStyle="false">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第三十一条又は第五十九条第一項の規定による申請により特許仮実施権原簿の事項欄に登録をするときは、前二項に規定する事項のほか、債権者、受益者又は委託者の氏名又は<span>名称{'当該': 1}</span><span>及び{'行わ': 1}</span><span>住所{'当該': 1}</span>又は<span>居所{'当該': 1}</span>並びに代位の原因を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="8" OldStyle="false">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿及び特許信託原簿の表示欄に登録をするときは、申請書の受付の年月日、<span>受付{'登録': 1}</span>番号及び登録の目的を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="9" OldStyle="false">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許関係拒絶審決再審請求原簿の事項欄に登録をするときは、申請書の受付の年月日、受付番号、登録権利者の氏名又は名称及び住所又は居所並びに登録の目的その他申請書に<span>掲げ{'掲げる': 1, '行わ': 1}</span>た事項のうち登録をすべき権利に関する事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="10" OldStyle="false">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許信託原簿の事項欄に登録をするときは、申請書の受付の年月日、受付番号、受託者の氏名又は名称及び住所又は<span>居所{'当該': 1}</span>並びに登録の目的その他申請書に<span>掲げ{'掲げる': 1, '行わ': 1}</span>た事項のうち登録をすべき権利に関する事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="11" OldStyle="false">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録令第三十一条、第五十九条第一項又は第六十八条第二項の規定による<span>申請{'規定': 1}</span>により特許信託原簿の<span>事項{'登録': 1}</span>欄に登録をするときは、前項に規定する事項のほか、債権者、受益者又は委託者の氏名又は名称<span>及び{'行わ': 1}</span>住所又は居所並びに代位の原因を<span>記載{'記録': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="53">
+            <ArticleCaption>（放棄による特許権の消滅の登録の方法）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">放棄による特許権の消滅の登録をするときは、その特許権の登録を<Ruby>抹<Rt>まつ</Rt></Ruby>消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="54">
+            <ArticleCaption>（質権の順位の譲渡等の場合における順位番号の記録）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">登録してある質権の順位の譲渡又は放棄による質権の変更の登録をしたときは、その質権の設定の登録の末尾に質権の<span>変更{'質': 1}</span>の登録の順位番号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="55">
+            <ArticleCaption>（二以上の権利を目的とする専用実施権等の設定又は消滅の登録の方法）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第二十八条の規定による申請により二以上の特許権、実用新案権若しくは意匠権についての専用実施権<span>又は{'若しくは': 1}</span>商標権についての専用使用権若しくは商標権若しくは専用使用権についての<span>通常{'専用': 1}</span>使用権の設定の登録をするときは、それぞれの特許権の登録の事項部の相当区としてその旨を記録し、かつ、その事項部の相当区に他の特許権、実用新案権、意匠権若しくは商標権又はこれらに関する権利の表示をし、これらの権利がともに専用実施権又は専用<span>使用権{'利用権': 1}</span>若しくは通常使用権の目的である旨を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第二十八条の規定による申請により二以上の特許権、実用新案権、意匠権若しくは商標権又はこれらに関する権利について質権の設定の登録をするときは、それぞれの特許権の登録の事項部の相当区としてその旨を記録し、かつ、その事項部の相当区に他の特許権、実用新案権、意匠権若しくは商標権又はこれらに関する権利の表示をし、これらの権利がともに質権の目的である旨を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'抹消': 1}</span>登録令第二十八条の規定による申請により二以上の特許を受ける権利に基づいて取得すべき特許権についての仮専用<span>実施{'使用権': 1}</span>権の設定の登録をするときは、それぞれの仮専用実施権の登録用紙中の相当区の事項<span>欄{'当該': 1}</span>にその旨を記載し、かつ、その相当区の事項<span>欄{'当該': 1}</span>に他の特許を受ける権利に基づいて取得すべき特許権の表示をし、これらの権利がともに仮専用実施権の<span>目的{'記録': 1}</span>である旨を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="56">
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第二十八条の規定による申請により二以上の特許権、実用新案権若しくは意匠権についての専用実施権若しくは商標権についての専用使用権若しくは商標権若しくは専用使用権についての<span>通常{'専用': 1}</span>使用権の設定の登録をした場合又は二以上の特許権、実用新案権、<span>意匠権{'登録': 1}</span>若しくは商標権<span>若しくは{'又は': 1}</span>これらに関する権利について質権の登録をした場合において、そのうち一の権利を目的とする専用実施権、専用使用権若しくは通常使用権又は質権の消滅の登録をしたときは、他の特許権の登録の事項部の相当区に当該権利の表示をし、当該権利を目的とする専用実施権、専用使用権若しくは通常使用権又は質権が消滅した旨を記録し、かつ、消滅に係る事項について<span>抹消{'記録': 1}</span>記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第二十八条の規定による申請により二以上の特許を受ける権利に基づいて取得すべき特許権についての仮専用実施権の設定の登録をした場合において、そのうち一の権利を目的とする仮専用実施権の消滅の登録をしたときは、他の仮専用実施権の登録用紙中の相当区の事項欄に当該権利の表示をし、当該<span>権利{'債権': 1}</span>を目的とする仮専用実施権が消滅した旨を記載し、かつ、消滅に係る事項を朱抹しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="57">
+            <ArticleCaption>（仮登録の方法）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録原簿への仮登録は、事項部の相当区として記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="58">
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許仮実施権原簿への仮登録は、登録用紙中の相当区の<span>事項{'規定': 1}</span>欄にしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許信託<span>原簿{'意匠': 1}</span>への仮登録は、登録用紙中の事項区の事項欄にしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定により仮登録をしたときは、事項欄だけに横線を引き、その下に本登録をすることができる相当の余白を残した上、順位番号欄および事項欄に横線を引かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="59">
+            <ArticleCaption>（仮登録後の本登録等）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特許登録原簿について仮登録をした後本登録の申請があつたときは、仮登録の次にその登録をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">仮登録の<Ruby>抹<Rt>まつ</Rt></Ruby>消の申請があつたときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特許仮実施権原簿又は特許信託原簿について仮登録をした後本登録の申請があつたときは、仮登録の下の余白にその登録をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">仮登録の<Ruby>抹<Rt>まつ</Rt></Ruby>消の申請があつたときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="59_2">
+            <ArticleCaption>（保全仮登録後の本登録等）</ArticleCaption>
+            <ArticleTitle>第五十九条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前条の規定は、<span>保全{'申請': 1}</span>仮登録について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="59_3">
+            <ArticleCaption>（申請の却下の処分の記載事項）</ArticleCaption>
+            <ArticleTitle>第五十九条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>特許{'場合': 1}</span>登録令第三十八条第一項の規定による<span>却下{'当該': 1}</span>の処分は、次に掲げる事項を記載した文書をもつて行わなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">受付の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">受付番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">特許番号（登録の目的が仮専用実施権に関するときは、当該仮専用実施権の登録の申請に係る特許出願の表示）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">申請人及びその代理人の<span>氏名{'住所': 1}</span>又は<span>名称{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">却下される<span>登録{'当該': 1}</span>の申請</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">処分の理由</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">処分の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="60">
+            <ArticleCaption>（登録済みの通知）</ArticleCaption>
+            <ArticleTitle>第六十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">登録を完了したときは、登録の原因を証明する書面に特許番号（登録の<span>目的{'当該': 1}</span>が仮専用実施権に関するときは、当該仮専用実施権の登録の申請に係る特許出願の番号）、申請書の受付の年月日、受付番号、<span>順位{'登録': 1}</span>番号<span>及び{'行わ': 1}</span>登録済みの旨を記載し、特許庁の印を押して、申請人（申請人が登録権利者及び登録義務者であるときは、登録権利者。以下この<span>項{'登録': 1}</span>において同じ。）に返還しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、申請書に登録の原因を証明する書面の<span>添付{'登録': 1}</span>がなかつた場合において、登録を<span>完了{'更新': 1}</span>したときは、申請人に登録の原因を証明する書面に記載すべき<span>事項{'登録': 1}</span>及び登録の目的を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特許登録令第三十一条、第五十九条第一項または第六十八条第二項の規定による申請による登録を完了したときは、登録権利者に前項ただし書に規定する事項および債権者、受益者または委託者の氏名または名称を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前二項の場合においては、登録義務者に特許番号（登録の目的が仮専用実施権に関するときは、当該仮専用実施権の登録の申請に係る特許出願の番号）、申請書の受付の年月日、受付番号、登録権利者の氏名又は名称、登録の<span>目的{'番号': 1}</span>及び登録済みの旨を通知しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、登録義務者が当該登録に係る特許権その他特許に関する権利の共有者の<span>一人{'当該': 1}</span>であるときは、他の共有者にもその旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="61">
+            <ArticleTitle>第六十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">受託者だけで申請を行つたときは、特許権その他特許に関する権利の表示、受託者の氏名又は名称及び住所又は<span>居所{'当該': 1}</span>、登録の目的並びに登録済みの旨を受益者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、特許法の施行の日（昭和三十五年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">特許登録令施行規則（大正十年農商務省令第三十九号。以下「旧規則」という。）は、廃止する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特許法（大正十年法律第九十六号）による特許権（<span>特許法{'管理': 1}</span>施行法（昭和三十四年法律第百二十二号）第二十条第一項の規定により従前の例により特許されたものを含み、以下「旧法による特許権」という。）についての登録用紙については、旧規則第十八条および第十九条の規定は、なおその効力を有する。</Sentence>
+          <Sentence Function="main" Num="3" WritingMode="vertical">この場合において、同規則第十八条第一項および第二項中「特許原簿」とあるのは、「特許<span>登録{'機構': 1}</span>原簿」と読み替えるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">旧法による特許権に関する登録については、第九条第二項中「表題部」とあるのは「信託財産欄」と、同条第三項中「事項区」とあるのは「信託の当事者及び条項欄」と、第十五条中「下」とあるのは「左側」と、第二十条第一項中「前条第一項に規定する場合を除き、回復の登録をするときは、」とあるのは「回復の登録をするときは、」と、第二十二条および第二十三条中「横線」とあるのは「縦線」と、第五十四条中「下」とあるのは「左側」と、第五十八条中「横線」とあるのは「縦線」と、「下」とあるのは「左側」と読み替えてこれらの規定を適用し、第一条第二項から第四項まで、第三条から第五条まで、第十九条、第二十五条および第二十六条の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">特許登録令（大正十年勅令第四百六十一号）による受付簿は、この省令による登録受付簿とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年一〇月一日通商産業省令第一一三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令による<span>改正{'当該': 1}</span>後の<span>規定{'前': 1}</span>は、この省令の施行前にされた<span>行政庁{'当該': 1}</span>の処分その他この省令の施行<span>前{'起算': 1}</span>に生じた<span>事項{'当該': 1}</span>についても、<span>適用{'当該': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この省令による改正前の規定に<span>よつ{'行わ': 1}</span>て生じた効力を妨げない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令の施行前にされた異議の申立その他の不服申立てについては、この省令の施行後も、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三九年一〇月二四日通商産業省令第一〇一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、特許法等の一部を改正する法律（昭和三十九年<span>法律{'一部': 2}</span>第百四十八号）の施行の日（昭和四十年<span>一月一日{'四月一日': 1, '当該': 1}</span>）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十条の改正規定ならびに第十条の二および第十条の三の新設規定は、昭和三十九年十一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>特許{'当該': 1}</span>登録令等の一部を改正する政令（昭和三十九年政令第三百二十四号）附則第二項の規定による特許登録原簿の改製は、同令による改正<span>前{'規定': 2}</span>の特許登録令による特許登録原簿に記載されている事項（特許登録令附則第三項の規定により同令による特許登録原簿とみなされたものについては、改製の際現に存する特許権に係る事項に限る。）を、特許登録令等の一部を改正する政令による改正後の<span>特許{'実用新案': 1, '規定': 1}</span>登録原簿に記録してするものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">前項の規定による特許登録原簿の改製を完了すべき期日は、<span>特許権{'実用新案権': 1}</span>ごとに、特許庁長官が<span>指定{'前項': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第二項の規定により特許登録原簿（特許登録令附則第三項の規定により同令による特許登録原簿とみなされたものを除く。）を改製したときは、改製前の特許登録原簿の登録用紙を閉鎖し、これを閉鎖特許原簿につづり込まなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="5" OldStyle="false">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第二項の規定により特許登録令附則第三項の規定により同令による特許登録原簿とみなされた特許登録令（大正十年勅令第四百六十一号）による特許原簿を改製したときは、改製前の特許登録原簿は閉鎖特許原簿になつたものとみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="6" OldStyle="false">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第四項の規定による閉鎖特許原簿および前項の規定により閉鎖特許原簿とみなされたものの保存期間は、改製の日から二十年とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="7" OldStyle="false">
+        <ParagraphNum>７</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令<span>施行{'当該': 1}</span>前に作成された閉鎖特許原簿<span>および{'発行': 1}</span>特許登録令等の一部を改正する政令附則第二項の規定により従前の例により作成された閉鎖<span>特許{'実用新案': 1}</span>原簿の保存期間ならびに登録の回復についてのこれらの閉鎖特許原簿への記載および押印については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四〇年七月一九日通商産業省令第八九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'当該': 1}</span>は、千九百年十二月十四日にブラッセルで、千九百十一年六月二日にワシントンで、千九百二十五年十一月六日にヘーグで、千九百三十四年六月二日に<span>ロンドン{'リスボン': 1}</span>で、及び千九百五十八年十月三十一日に<span>リスボン{'ストックホルム': 1}</span>で改正された工業所有権の保護に関する千八百八十三年三月二十日のパリ条約への加入の効力発生の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四二年九月二五日通商産業省令第一三一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行し、昭和四十二年八月一日から<span>適用{'施行': 2}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五〇年九月二三日通商産業省令第八六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、昭和五十一年一月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定中特許登録令施行規則第二十八条第二項の改定規定は、千九百年十二月十四日にブラッセルで、千九百十一年六月二日にワシントンで、千九百二十五年十一月六日にヘーグで、千九百三十四年六月二日にロンドンで、千九百五十八年十月三十一日にリスボンで及び千九百六十七年七月十四日にストックホルムで改正された工業所有権の保護に関する千八百八十三年三月二十日のパリ条約第二十条（2c</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五三年三月三一日通商産業省令第一五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五四年一二月二一日通商産業省令第一一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六〇年一〇月三〇日通商産業省令第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">）の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">定</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">よる</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六〇年一二月一一日通商産業省令第七四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六二年一二月二五日通商産業省令第八二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（追加の特許権がある場合の特許関係拒絶審決再審請求原簿の記載）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成元年四月二五日通商産業省令第一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">ら</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二年一二月二五日通商産業省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月八日通商産業省令第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">二</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特許登録令施行規則の改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年六月二七日通商産業省令第五七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">の規定の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年一二月二五日通商産業省令第七九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年一月八日通商産業省令第一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">生</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年三月一〇日通商産業省令第一四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年一一月二〇日通商産業省令第三五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年六月六日経済産業省令第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年一〇月二七日経済産業省令第一四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年三月二日経済産業省令第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">十年</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年三月四日経済産業省令第一四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">月</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月三一日経済産業省令第三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">日</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年三月二六日経済産業省令第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年九月二八日経済産業省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年一月三〇日経済産業省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年四月一日経済産業省令第二四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">十三</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年七月一日経済産業省令第四一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>四月一日{'公布': 1, '当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一二月二八日経済産業省令第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">の省令の施行の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（特許登録令施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">に存</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（実用新案登録令施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（意匠登録令施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">る</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（平成五年改正法の施行前にした実用新案登録出願についての経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">許</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年二月二〇日経済産業省令第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月二五日経済産業省令第三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年二月一二日経済産業省令第一二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical"></Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">は<span>特許{'登録': 1}</span></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（準備行為）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">が</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第一（第一条の三関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第一の二（第一条の三関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_002.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第二（第一条の三）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_003.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第三（第一条の三）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_004.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第四（第一条の三）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_005.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第五（第六条）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_006.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第六　削除</AppdxStyleTitle>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第七（第十条）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_007.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第七の二（第十条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_008.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第八（第十条）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_009.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第九（第十条）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_010.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十（第十条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_011.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十一（第十条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_012.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十二（第十条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_013.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十三（第十条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_014.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十四（第十条の五関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_015.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十五（第十三条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_016.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十六（第十三条の三関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_017.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十七（第十三条の四関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_018.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十八（第十三条の六関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S35F03801000033_2004031704_019.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

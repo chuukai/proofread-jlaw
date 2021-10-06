@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="379" Year="14">
+  <LawNum>平成十四年政令第三百七十九号</LawNum>
+  <LawBody>
+    <LawTitle>マンションの建替え等の円滑化に関する法律による不動産登記に関する政令</LawTitle>
+    <EnactStatement>内閣は、マンションの建替えの円滑化等に関する法律（平成十四年法律第七十八号）第九十三条の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令は、マンションの建替え等の円滑化に関する法律（以下「法」という。）第九十三条及び第百五十七条の<span>規定{'準用': 1}</span>による不動産登記法（平成十六年法律第百二十三号）の特例を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（代位登記）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">マンション建替事業（法第二条第一項第四号に規定するマンション建替事業をいう。以下同じ。）を施行する者又はマンション敷地売却事業（同項第九号に規定するマンション敷地売却事業をいう。以下この条において同じ。）を実施する者は、それぞれマンション建替事業の施行又はマンション敷地売却事業の実施のため必要があるときは、次の各号に<span>掲げる{'ある': 1}</span>登記を<span>それぞれ{'申請': 1}</span>当該各号に定める者に<span>代わっ{'ある': 1}</span>て申請することができる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>不動産{'子': 1, '規定': 1}</span>の<span>表題{'規定': 1}</span>登記</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">所有者</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">不動産の表題部の<span>登記事項{'手続': 1}</span>に関する<span>変更{'規定': 1}</span>の<span>登記{'規定': 1}</span>又は<span>更正{'規定': 1}</span>の<span>登記{'届出': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span>若しくは<span>所有権{'規定': 1}</span>の<span>登記名義人{'手続': 1}</span>又はこれらの<span>相続人{'規定': 1}</span>その他の<span>一般承継{'規定': 1}</span>人</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>所有権{'手続': 1}</span>、<span>地上権{'届出': 1}</span>又は<span>賃借権{'規定': 1}</span>の<span>登記名義人{'規定': 1}</span>の<span>氏名{'手続': 1}</span>若しくは<span>名称{'規定': 1}</span>又は<span>住所{'規定': 1}</span>についての<span>変更{'規定': 1}</span>の<span>登記{'記録': 1, '規定': 1}</span>又は<span>更正{'規定': 1}</span>の<span>登記{'届出': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>登記名義人{'届出': 1}</span>又はその<span>相続人{'規定': 1}</span>その他の<span>一般承継{'規定': 1}</span>人</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>所有権{'手続': 1}</span>の<span>保存{'規定': 1}</span>の<span>登記{'民法': 1, '規定': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span>又はその<span>相続人{'規定': 1}</span>その他の<span>一般承継{'手続': 1}</span>人</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>相続{'手続': 1}</span>その他の<span>一般承継{'場合': 1, '規定': 1}</span>による<span>所有権{'相続': 1, '規定': 1}</span>その他の<span>権利{'規定': 1}</span>の<span>移転{'規定': 1}</span>の<span>登記{'規定': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>相続人{'規定': 1}</span>その他の<span>一般承継{'規定': 1}</span>人</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（代位登記の登記識別情報）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>前条{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>申請{'手続': 1}</span>に<span>基づい{'ある': 1}</span>て同<span>条{'規定': 1}</span>第四号又は第五号に掲げる登記を完了したときは、速やかに、<span>登記権利者{'規定': 1}</span>のために登記識別情報を申請人に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定により登記識別情報の通知を受けた<span>申請{'嘱託': 1}</span>人は、遅滞なく、これを同<span>項{'手続': 1}</span>の登記権利者に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（権利変換手続開始の登記）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十五条第一項の規定による権利変換手続開始の登記の申請をする場合には、同項各号に<span>掲げる{'ある': 1}</span><span>公告{'場合': 1, '規定': 1}</span>が<span>あっ{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に提供しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十五条第五項の規定による権利<span>変換{'登記': 1, '規定': 1}</span>手続開始の登記の抹消の申請をする<span>場合{'手続': 1}</span>には、<span>法{'規定': 1}</span>第三十八条第六項、<span>法{'規定': 1}</span>第五十四条第三項において<span>準用{'規定': 2}</span>する<span>法{'規定': 1}</span>第四十九条第一項又は<span>法{'規定': 2}</span>第九十九条第三項の<span>公告{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（土地についての登記の申請）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第七十四条第一項の<span>規定{'手続': 1}</span>によってする<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span>は、<span>土地{'手続': 1}</span>ごとに、一の<span>申請{'規定': 1}</span><span>情報{'規定': 1}</span>によってしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>場合{'規定': 2}</span>において、二以上の<span>登記{'規定': 1}</span>の<span>登記事項{'規定': 1}</span>を<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>内容{'手続': 1}</span>とするには、<span>次に{'相当': 1}</span><span>掲げる{'取り消さ': 1}</span><span>順序{'事項': 1, '規定': 1}</span>に従って<span>登記事項{'手続': 1}</span>に<span>順序{'手続': 1}</span>を<span>付する{'ある': 1}</span>ものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>目的{'規定': 1}</span>を<span>同一{'規定': 1}</span>とする二以上の<span>担保権{'規定': 1}</span>等<span>登記{'手続': 1}</span>（<span>法{'手続': 1}</span>第七十三条の<span>規定{'手続': 1}</span>により<span>存する{'ある': 1}</span>ものとされた<span>権利{'規定': 1}</span>に関する<span>登記{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）については、その<span>登記{'規定': 1}</span>をすべき<span>順序{'規定': 1}</span>に従って<span>登記事項{'規定': 1}</span>に<span>順序{'手続': 1}</span>を<span>付する{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>所有権{'手続': 1}</span>の<span>移転{'規定': 1}</span>の<span>登記{'届出': 1}</span>の<span>申請{'手続': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>地上権{'規定': 1}</span>又は<span>賃借権{'規定': 1}</span>の<span>設定{'規定': 1}</span>又は<span>移転{'規定': 1}</span>の<span>登記{'規定': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>担保権{'規定': 1}</span>等<span>登記{'規定': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span>をする<span>場合{'手続': 1}</span>には、<span>不動産登記令{'規定': 1}</span>（平成十六年<span>政令{'規定': 1}</span>第三百七十九号）<span>第三条{'手続': 1}</span>各号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>法{'手続': 1}</span>第七十四条第一項の<span>規定{'手続': 1}</span>により<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span>をする旨を<span>申請{'規定': 1}</span>情報の内容とし、かつ、権利<span>変換{'規定': 1}</span><span>計画{'六条': 1}</span>及びその認可を証する情報をその<span>申請{'内容': 1, '規定': 1}</span>情報と併せて登記所に提供しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>マンション建替事業{'規定': 1}</span>を施行する者は、法第七十四条第一項の<span>登記{'規定': 1}</span>の<span>申請{'規定': 1}</span>と同時に、区分建物に関する敷地権の<span>登記{'手続': 1}</span>がある施行マンション（法第二条第一項第六号に規定する施行マンションをいう。次条第一項において同じ。）について、敷地権の<span>消滅{'登記': 1}</span>を原因とする建物の表題部の変更の登記の申請をしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">登記官は、法第七十四条第一項の<span>登記{'規定': 1}</span>をするときは、職権で、権利<span>変換{'規定': 1}</span>手続開始の登記を抹消しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（施行マンションの滅失の登記の申請）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">マンション建替事業を施行する者は、施行マンションが滅失したときは、遅滞なく、その滅失の登記を<span>申請{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の登記の申請をする場合には、権利<span>変換{'規定': 1}</span>計画及びその<span>認可{'規定': 1}</span>を証する情報をその<span>申請{'内容': 1, '規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（施行再建マンションに関する登記の申請）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八十二条第一項の規定によってする登記の申請は、一棟の建物及び<span>一棟{'附属': 1}</span>の建物に属する建物の全部について、一の申請<span>情報{'規定': 1}</span>によってしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>場合{'規定': 2}</span>において、二以上の<span>登記{'規定': 1}</span>の<span>登記事項{'規定': 1}</span>を申請情報の内容とするには、同項の一棟の建物及び<span>一棟{'附属': 1}</span>の建物に属する建物ごとに、次に掲げる<span>順序{'規定': 1}</span>に従って<span>登記事項{'手続': 1}</span>に<span>順序{'規定': 1}</span>を<span>付する{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">建物の表題登記の申請</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>共用部分{'規定': 1}</span>である旨の登記の申請</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">所有権の保存の登記の申請</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第八十八条第一項の<span>先取特権{'所有権': 1, '規定': 1}</span>の保存の登記の申請</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第七十一条第三項の規定による<span>借家権{'規定': 1}</span>に関する<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">担保権等登記の申請</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の登記の申請をする<span>場合{'手続': 1}</span>には、<span>不動産登記令{'手続': 1}</span><span>第三条{'規定': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>法{'手続': 1}</span>第八十二条第一項の<span>規定{'手続': 1}</span>により<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span>をする旨を<span>申請{'規定': 1}</span>情報の内容とし、かつ、権利<span>変換{'規定': 1}</span><span>計画{'六条': 1}</span>及びその認可を証する情報をその<span>申請{'内容': 1, '規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第二項<span>後段{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（借家権に関する登記等の登記原因）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条第二項第五号の<span>借家権{'規定': 1}</span>に関する登記においては、登記原因及びその日付として、権利変換前の<span>当該{'規定': 1}</span>借家権に関する<span>登記{'手続': 1}</span>の登記原因及びその日付（当該登記の<span>申請{'規定': 1}</span>の<span>受付{'手続': 1}</span>の<span>年月日{'規定': 1}</span>及び<span>受付{'規定': 1}</span><span>番号{'手続': 1}</span>を<span>含む{'ある': 1}</span>。以下この条において同じ。）並びに法による権利<span>変換{'登記': 1, '規定': 1}</span>があった旨及びその日付を<span>登記事項{'登記': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">担保権等<span>登記{'規定': 1}</span>においては、<span>登記{'規定': 1}</span><span>原因{'規定': 1}</span>及びその日付として、権利<span>変換{'手続': 1}</span>前の法第七十三条に規定する担保権等の<span>登記{'規定': 1}</span>の登記<span>原因{'規定': 1}</span>及びその日付並びに法による権利<span>変換{'登記': 1, '届出': 1, '規定': 1}</span>があった旨及びその日付を登記事項とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二項の登記の<span>申請{'手続': 1}</span>をする<span>場合{'規定': 1}</span>に<span>登記所{'情報': 1, '規定': 1}</span>に<span>提供{'規定': 1}</span>しなければならない<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>とする<span>登記{'規定': 1}</span><span>原因{'規定': 1}</span>及びその<span>日付{'規定': 1}</span>は、これらの<span>規定{'手続': 1}</span>に規定する事項とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（分配金取得手続開始の登記）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百四十条第一項の規定による<span>分配金{'規定': 1}</span>取得手続開始の登記の申請をする<span>場合{'手続': 1}</span>には、<span>法{'規定': 1}</span>第百二十三条第一項の<span>公告{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て登記所に提供しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百四十条第五項の規定による<span>分配金{'規定': 1}</span>取得手続開始の登記の抹消の<span>申請{'規定': 1}</span>をする<span>場合{'手続': 1}</span>には、<span>法{'規定': 1}</span>第百三十七条第五項の<span>公告{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（権利消滅期日後の登記の申請）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第百五十条第一項の<span>規定{'イ': 1, '手続': 1}</span>によってする<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span>は、<span>同一{'規定': 1}</span>の<span>登記所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>に<span>属する{'ある': 1}</span>ものの<span>全部{'手続': 1}</span>について、一の<span>申請{'規定': 1}</span><span>情報{'規定': 1}</span>によってしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'提供': 1, '規定': 1}</span>の<span>場合{'規定': 2}</span>において、二以上の<span>登記{'規定': 1}</span>の<span>登記事項{'規定': 1}</span>を<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>内容{'手続': 1}</span>とするには、<span>次に{'相当': 1}</span><span>掲げる{'取り消さ': 1}</span><span>順序{'事項': 1, '規定': 1}</span>に従って<span>登記事項{'手続': 1}</span>に<span>順序{'規定': 1}</span>を<span>付する{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>建物{'規定': 1}</span>の<span>表題{'規定': 1}</span><span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">所有権の<span>保存{'規定': 1}</span>の<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">所有権の<span>移転{'規定': 1}</span>の<span>登記{'届出': 1}</span>の<span>申請{'手続': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>地上権{'規定': 1}</span>又は<span>賃借権{'規定': 1}</span>の<span>移転{'規定': 1}</span>の<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>所有権{'規定': 1}</span>以外の<span>権利{'規定': 1}</span>の<span>登記{'規定': 1}</span>の<span>抹消{'手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>建物{'子': 1, '規定': 1}</span>の<span>表題{'規定': 1}</span>部の<span>変更{'規定': 1}</span>の<span>登記{'規定': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>建物{'規定': 1}</span>の<span>分割{'規定': 1}</span>の<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>建物{'規定': 1}</span>の<span>合併{'規定': 1}</span>の<span>登記{'認可': 1, '手続': 1}</span>の<span>申請{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span>をする<span>場合{'手続': 1}</span>には、<span>不動産登記令{'手続': 1}</span><span>第三条{'規定': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>法{'手続': 1}</span>第百五十条第一項の<span>規定{'手続': 1}</span>により<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span>をする旨を申請情報の内容とし、かつ、<span>分配金{'手続': 1}</span>取得計画及びその認可を証する<span>情報{'規定': 1}</span>をその<span>申請{'内容': 1, '規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の<span>登記{'手続': 1}</span>の<span>申請{'規定': 1}</span>をする<span>場合{'子': 1, '規定': 1}</span>において、<span>建物{'規定': 1}</span>の<span>表題{'規定': 1}</span><span>登記{'手続': 1}</span>の<span>登記事項{'手続': 1}</span>を<span>申請{'届出': 1}</span><span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>としたときは、<span>不動産登記令{'手続': 1}</span><span>別表{'規定': 1}</span>の二十一の<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>を<span>準用{'規定': 1}</span>する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、同項添付情報<span>欄{'提供': 1}</span>イ中「規約を廃止した」とあるのは、「規約の効力が失われた」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">登記官は、法第百五十条第一項の登記をするときは、職権で、<span>分配金{'手続': 1}</span>取得手続開始の<span>登記{'手続': 1}</span>を抹消しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（受付番号）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">登記官は、第五条第一項、第七条第一項及び<span>前条{'規定': 1}</span>第一項の<span>申請{'規定': 1}</span>ごとに、第五条第二項、第七条第二項<span>及び{'ただし': 1}</span><span>前条{'規定': 1}</span>第二項の<span>規定{'手続': 1}</span>により<span>付し{'ある': 1}</span>た<span>順序{'規定': 1}</span>に従って<span>受付{'規定': 1}</span><span>番号{'規定': 1}</span>を<span>付する{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（登記識別情報の通知）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、第五条第一項又は第七条第一項の登記を完了したときは、速やかに、<span>登記権利者{'規定': 1}</span>のために登記識別情報を申請人に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の<span>規定{'手続': 1}</span>により登記識別情報の通知を受けた<span>申請{'嘱託': 1}</span>人は、遅滞なく、これを同項の登記権利者に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（法務省令への委任）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令に定めるもののほか、この政令に規定する<span>登記{'規定': 1}</span>についての<span>登記簿{'規定': 1}</span>及び<span>登記記録{'規定': 1}</span>の<span>記録{'規定': 1}</span><span>方法{'規定': 1}</span>その他の<span>登記{'信託': 1, '手続': 1}</span>の<span>事務{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な事項は、法務省令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、マンションの建替えの円滑化等に関する法律の施行の日（平成十四年十二月十八日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415229" AmendLawNum="平成一五年五月二一日政令第二二九号" Id="9055cdf0-7309-4161-bc46-1a61a80a09d9">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、建物の区分所有等に関する法律及びマンションの建替えの円滑化等に関する法律の一部を改正する法律の施行の日（平成十五年<span>六月一日{'規定': 1}</span>）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417024" AmendLawNum="平成一七年二月一八日政令第二四号" Extract="true" Id="0f16e356-d3b4-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="426390" AmendLawNum="平成二六年一二月一二日政令第三九〇号" Id="1e9831a2-1927-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、マンションの建替えの円滑化等に関する<span>法律{'規定': 1}</span>の一部を改正する法律（平成二十六年法律第八十号）の<span>施行{'規定': 1}</span>の日（平成二十六年十二月二十四日）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="502057" AmendLawNum="令和二年三月二五日政令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>政令{'手続': 1}</span>は、<span>民法{'規定': 1}</span>及び<span>家事事件手続法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span><span>附則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第四号に掲げる規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

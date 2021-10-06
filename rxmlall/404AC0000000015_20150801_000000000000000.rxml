@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="15" Year="04">
+  <LawNum>平成四年法律第十五号</LawNum>
+  <LawBody>
+    <LawTitle>法人特別税法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　課税標準</ChapterTitle>
+        <ArticleRange>（第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　税額の計算</ChapterTitle>
+        <ArticleRange>（第十条・第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　申告及び納付等</ChapterTitle>
+        <ArticleRange>（第十二条―第十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十六条―第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第十九条―第二十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、我が国の財政の現状にかんがみ、臨時の措置として法人特別税を課税するため、その納税義務者、課税の対象、税額の計算の方法、申告及び納付の手続並びにその納税義務の適正な履行を確保するため必要な<span>事項{'財務省令': 2, '政令': 1}</span>を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'ほか': 1}</span>において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">内国<span>法人{'消費税': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法人税法（昭和四十年法律第三十四号）第二条第三号に規定する内国法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>外国法人{'条': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">内国法人以外の法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">人格のない社団等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法人税法第<span>二条{'法人': 1}</span>第八号に規定する人格のない社団等を<span>いう{'含む': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>指定{'次項': 1}</span>期間</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">平成四年<span>四月一日{'末日': 1}</span>から平成六年三月三十一日までの<span>期間{'規定': 1}</span>をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">事業年度</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法人税法第十三条及び第十四条に規定する事業年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>法人特別税{'中間': 1}</span>申告書</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第十二条第一項の規定による申告書（当該申告書に係る<span>国税通則法{'修正申告': 1}</span>（昭和三十七年法律第六十六号）第十八条第二項に<span>規定{'提出': 1}</span>する<span>期限{'中間': 1}</span>後申告書を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>修正申告{'条': 1}</span>書</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>国税通則法{'所得税法': 1}</span>第十九条第三項に規定する<span>修正申告{'適用': 1}</span>書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">更正<span>又は{'及び': 1}</span>決定</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>それぞれ{'通知': 1}</span>国税通則法第二十四条若しくは第二十六条の規定による更正又は<span>同法{'条': 1}</span>第二十五条の規定による決定をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（人格のない社団等に対する適用）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">人格のない社団等は、<span>法人{'額': 1}</span>とみなして、この法律の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（納税義務者）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人は、基準法人税額につき、この法律により、法人特別税を納める義務がある。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（課税の対象）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人の各課税<span>事業年度{'信託': 1}</span>の基準法人税額には、この法律により、<span>法人特別税{'地方法人税': 1}</span>を課する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（基準法人税額）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「基準法人税額」とは、法人の<span>法人税{'税額': 1}</span>の<span>課税標準{'額': 1}</span>である各事業年度の所得の<span>金額{'法人税': 2}</span>（<span>法人税法{'退職所得': 1}</span>第百二条第一項の規定による申告書を提出すべき<span>法人{'期限': 1}</span>の清算中の各事業年度の所得の<span>金額{'法人税': 5}</span>を含む。）につき、法人税法その他の<span>法人税{'規定': 4}</span>の<span>税額{'規定': 1, '額': 2}</span>の計算に関する<span>法令{'特例': 1}</span>の規定（同法第六十七条から第七十条の二まで及び第百四十四条の<span>規定{'次': 1}</span>並びに<span>租税特別措置法{'改正': 1}</span>（昭和三十二年<span>法律{'規定': 1}</span>第二十六号）第三章第五節及び第五節の三<span>並び{'改正': 3}</span>に第六十八条の二の規定を除く。）により計算した法人税の額（国税通則法第二条第四号に規定する<span>附帯税{'地方法人税': 1}</span>の額を除く。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（課税事業年度）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>課税{'規定': 1}</span>事業年度」とは、法人の<span>指定{'事業税': 1, '税額': 1}</span>期間内に終了する事業年度をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次{'項': 1, '次号': 1}</span>の各号に<span>掲げる{'みなし': 1}</span>法人の<span>課税{'当該': 1}</span>事業年度は、<span>前項{'法': 1}</span>の規定にかかわらず、<span>当該{'政令': 3}</span>各号に定める<span>事業年度{'期間': 1, '連結': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>事業年度{'支給': 1}</span>の変更その他の<span>事由{'開始': 1}</span>により、指定期間内に終了する<span>事業年度{'期間': 1}</span>の月数の<span>合計{'当該': 1}</span>が二十<span>四月{'当該': 1}</span>に満たない<span>法人{'場合': 1}</span>及び<span>当該{'事業年度': 1}</span>月数の合計が二十四月を超える法人（次号から第五号までに掲げる法人を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">これらの<span>法人{'当該': 1}</span>の指定期間内に最初に終了する<span>事業年度{'当該': 1}</span><span>開始{'終了': 2}</span>の日から同日以後二年を経過する日までの<span>期間内{'事業年度': 1}</span>の日を含む事業年度</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>指定{'該当': 1, '当該': 1}</span>期間内に新たに設立された法人（<span>次号{'範囲': 1}</span>から第五号までに掲げる<span>法人{'場合': 1}</span>を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">指定期間内の日を含む事業年度</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>法人税法{'法': 1}</span>第二条第六号に規定する公益法人等<span>及び{'又は': 1}</span>人格のない社団等で指定期間内に同条第十三号に規定する収益<span>事業{'分配': 1}</span>を開始したもの（次号及び第五号に掲げる<span>法人{'金額': 1}</span>を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その開始した日から指定期間の<span>末日{'指定': 1}</span>までの期間内の日を<span>含む{'属する': 1}</span>事業年度</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>指定{'開始': 1, '終了': 1}</span><span>期間内{'期間': 1}</span>に法人税法第百四十一条<span>第一{'規定': 1}</span>号から第三号までに掲げる外国法人又は同条第四号に掲げる外国法人（同号イ又は<span>ロ{'法人税法': 1}</span>に掲げる国内源泉所得を有するものに<span>限る{'掲げる': 1}</span>。）のいずれかに新たに該当することとなった外国法人（次号に<span>掲げる{'なっ': 1}</span><span>法人{'場合': 3}</span>を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その<span>該当{'基礎': 1}</span>することとなった日から指定期間の<span>末日{'定め': 1, '経過': 1}</span>までの期間内の日を含む<span>事業年度{'規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>指定{'終了': 1}</span><span>期間内{'合併': 1, '当該': 1}</span>に合併をした法人で合併後<span>存続{'法人': 3}</span>するもの及び指定<span>期間内{'当該': 1}</span>の合併により設立された法人</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第一号又は第二号に定める事業年度に準ずるものとして<span>政令{'財務省令': 2}</span>で定める<span>事業年度{'金額': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>月数{'規定': 3}</span>は、暦に従って計算し、一月に満たない端数を生じたときは、これを一月とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（納税地）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人の法人特別税の納税地は、当該法人の法人税法第一編第六章の規定による法人税の納税地とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　課税標準</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（各課税事業年度の法人特別税の課税標準）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人特別税の課税標準は、各課税事業年度の課税標準法人税額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">各課税事業年度の<span>課税標準{'所得': 1}</span>法人税額は、各課税事業年度の<span>基準{'所得': 1, '課税標準': 1}</span>法人税額から年四百万円を控除した<span>残額{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>課税{'当該': 3, '事業年度': 1}</span>事業年度が一年に満たない<span>法人{'場合': 2}</span>に対する<span>前項{'項': 1}</span>の規定の適用については、同項中「<span>年{'協同組合': 1}</span>四百万円」とあるのは、「四百万円を十二で<span>除{'場合': 1, '年': 1}</span>し、これに当該<span>課税{'連結': 2}</span><span>事業年度{'期間': 3}</span>の月数を乗じて計算した<span>金額{'規則': 1}</span>」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第七条第二項各号に掲げる<span>法人{'金額': 1}</span>の各<span>課税{'当該': 1}</span><span>事業年度{'信託': 2}</span>のうち<span>最後{'法人': 1}</span>の課税事業年度の<span>課税標準{'基準': 1}</span>法人<span>税額{'項': 1}</span>は、第二項の<span>規定{'地方法人税': 1}</span>にかかわらず、同項（前項の規定により読み替えて<span>適用{'準用': 1}</span>する場合を含む。）に<span>規定{'控除': 1, '項': 1}</span>する<span>残額{'場合': 1, '適用': 1}</span>を当該<span>最後{'金額': 1}</span>の課税<span>事業年度{'期間': 1}</span>の月数で除し、これに<span>次{'計算': 1}</span>の各号に掲げる<span>法人{'場合': 4}</span>の区分に応じ当該各号に定める期間の月数を乗じて計算した金額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第七条第二項<span>第一{'次': 1}</span>号に掲げる<span>法人{'金額': 4, '場合': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該最後の課税<span>事業年度{'期間': 2}</span><span>開始{'終了': 1}</span>の日から当該<span>法人{'承認': 1}</span>の指定期間内に最初に<span>終了{'当該': 1}</span>する<span>事業年度{'当該': 1}</span>開始の日以後二年を<span>経過{'規定': 1}</span>する日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第七条第二項第二号から第四号までに掲げる<span>法人{'金額': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該最後の課税<span>事業年度{'期間': 2}</span>開始の日から<span>指定{'課税': 1, '前日': 1}</span>期間の末日までの<span>期間{'法': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第七条第二項第五号に掲げる<span>法人{'期間': 1, '場合': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>前{'政令': 3}</span>二号に定める期間に準ずるものとして<span>政令{'財務省令': 2}</span>で定める<span>期間{'金額': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の月数は、暦に従って計算し、<span>一月{'期間': 1}</span>に満たない端数を生じたときは、これを一月とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　税額の計算</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（税率）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人特別税の額は、各課税事業年度の課税標準法人税額に百分の二・五の税率を乗じて計算した金額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（外国税額の控除）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人特別税{'当該': 1}</span>申告書を提出する内国法人が課税<span>事業年度{'信託': 3}</span>において<span>法人税法{'法': 1}</span>第六十九条第一項の規定の適用を<span>受ける{'ある': 1}</span>場合において、当該<span>課税{'適用': 1, '連結': 1}</span><span>事業年度{'期間': 1}</span>の同項に規定する控除対象<span>外国法人{'外国': 2}</span>税の額が同<span>項{'当該': 1}</span>の控除<span>限度{'金額': 1}</span>額を超えるときは、前条の規定を<span>適用{'控除': 1}</span>して計算した当該課税事業年度の<span>法人特別税{'所得税': 1, '法人税': 1}</span>の額のうち当該内国法人の当該<span>課税{'連結': 1}</span><span>事業年度{'源泉': 1}</span>の所得でその<span>源泉{'金額': 1, '法': 1}</span>が<span>国外{'所得': 2}</span>にあるものに対応するものとして<span>政令{'財務省令': 2}</span>で定めるところにより計算した金額を限度として、その超える金額を当該課税事業年度の<span>法人特別税{'法人税': 1}</span>の額から控除する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人税法第六十九条第六項、第七項及び第九項の規定は、<span>前項{'適用': 1}</span>の規定を適用する場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　申告及び納付等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（課税標準及び税額の申告）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>法人{'当該': 1, '前年': 1, '場合': 1, '規定': 1}</span>は、各<span>課税{'当該': 1}</span><span>事業年度{'信託': 1}</span><span>終了{'開始': 1}</span>の日の翌日から二月以内に、<span>税務署長{'経過': 2}</span>に対し、次に掲げる事項を記載した<span>申告{'書類': 1, '申請書': 2}</span>書を<span>提出{'規定': 1}</span>しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号に掲げる課税標準<span>法人{'所得': 1}</span>税額がない<span>場合{'地方法人税': 1, '計算': 1}</span>には、当該申告書を<span>提出{'記載': 1}</span>することを要しない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該<span>課税{'事業年度': 1}</span><span>事業年度{'物品': 1}</span>の<span>課税標準{'居住者': 1, '所得': 1}</span>である課税標準法人税額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号に掲げる<span>課税標準{'内国': 1}</span>法人税額につき前章の規定を適用して計算した<span>法人特別税{'所得税': 1, '法人税': 1, '地方法人税': 1}</span>の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前二号に掲げる金額の計算の基礎その他<span>財務省令{'政令': 1}</span>で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人税法{'法': 1}</span>第百四十五条において準用する<span>同法{'法': 1}</span>第七十四条第一項の規定は、外国法人の<span>前項{'条': 2}</span>の<span>規定{'中間': 1}</span>による申告書の提出<span>期限{'場合': 1}</span>について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人税法{'規則': 1, '場合': 1}</span>第七十五条及び第七十五条の二（これらの規定を<span>同法{'法': 1, '適用': 1}</span>第百四十五条において準用する場合を含む。）の規定は、<span>法人{'同法': 1}</span>の第一項の<span>規定{'当該': 1, '中間': 1}</span>による申告書の提出<span>期限{'場合': 1}</span>について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">租税特別措置法第六十六条の三の規定は、前項において準用する<span>法人税法{'場合': 3}</span>第七十五条の二（同法第百四十五条において準用する<span>場合{'同法': 1}</span>を含む。）の規定の適用を<span>受ける{'受けよ': 1, '受け': 2}</span><span>法人{'項': 1, '場合': 1}</span>の第一項の規定による<span>申告{'規定': 1}</span>書に係る課税事業年度の法人特別税について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（法人特別税の期限内申告による納付）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第一項の規定による申告書を提出した<span>法人{'場合': 2, '期限': 1}</span>は、<span>当該{'中間': 1, '相続税': 1}</span>申告書に<span>記載{'事業年度': 1}</span>した同項第二号に<span>掲げる{'定める': 1}</span><span>金額{'事項': 1}</span>があるときは、当該申告書の提出期限までに、当該金額に相当する<span>法人特別税{'所得税': 1, '法人税': 1, '金額': 3}</span>を国に納付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（更正の請求の特例）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人税法第八十二条の規定は、法人が次に掲げる<span>金額{'規定': 1}</span>につき<span>修正申告{'合計': 2}</span>書を提出し、又は更正<span>若しくは{'又は': 1}</span>決定を<span>受け{'あっ': 2}</span>た場合において、その<span>修正申告{'税関': 1, '当該': 2}</span>書の提出又は更正若しくは決定に伴い、その<span>修正申告{'国税通則法': 1}</span>書<span>若しくは{'又は': 2}</span>更正<span>若しくは{'又は': 1}</span>決定に係る<span>事業年度{'物品': 1}</span>後の課税事業年度の<span>法人特別税{'当該': 2, '地方法人税': 1}</span>申告書に記載した、又は決定を受けた<span>当該{'法人': 1}</span><span>課税{'連結': 1}</span><span>事業年度{'文書': 1}</span>に係る第十二条第一項第一号又は第二号に掲げる金額（当該金額につき<span>修正申告{'確定申告書': 1}</span>書の提出又は更正があった<span>場合{'当該': 1, '中間': 1}</span>には、その申告又は更正後の<span>金額{'事項': 1}</span>）が<span>過大{'過少': 1}</span>となるときについて<span>準用{'場合': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>法人税法{'法': 1, '同法': 1}</span>第二条第三十一号に規定する確定申告書に記載すべき<span>同法{'事項': 1, '法': 1}</span>第七十四条<span>第一{'規定': 1}</span>項第一号から第五号まで（同法第百四十五条において<span>準用{'改正': 1}</span>する場合を含む。）に掲げる金額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>法人特別税{'当該': 1}</span>申告書に記載すべき第十二条第一項第一号又は第二号に掲げる金額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（青色申告）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人が<span>法人税法{'法律': 1, '税額': 1}</span>第百二十<span>一条{'規定': 1}</span>第一項（同法第百四十六条において準用する場合を含む。）の承認を受けている場合には、<span>法人特別税{'当該': 1}</span>申告書及び当該申告書に係る修正申告書についても、<span>青色{'当該': 1, '中間': 1}</span>の申告書により提出することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人税法第百三十条第二項の規定は、<span>法人{'申告': 2}</span>が提出した前項の規定による青色の申告書に係る法人特別税について<span>準用{'提出': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（代表者等の自署押印）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人税法第百五十一条の規定は、法人の提出する法人特別税申告書及び当該申告書に係る修正申告書について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（当該職員の質問検査権）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>国税庁{'場合': 3}</span>の当該職員又は<span>法人{'居住者': 1}</span>の納税地を所轄する<span>税務署{'国税局': 1, '税務署長': 2}</span>若しくは国税局の当該職員は、法人特別税に関する調査について必要があるときは、法人に質問し、又はその帳簿書類その他の物件を検査することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国税庁の当該<span>職員{'物件': 1}</span>又は<span>法人{'居住者': 1}</span>の納税地を所轄する<span>税務署{'国税局': 1, '税務署長': 2}</span>若しくは国税局の当該職員は、法人特別税に関する調査について必要があるときは、法人に対し、金銭の<span>支払{'資産': 1}</span>若しくは物品の譲渡をする義務があると認められる者又は金銭の支払若しくは物品の譲渡を受ける権利があると認められる者に<span>質問{'要件': 1}</span>し、又はその事業に関する帳簿書類を<span>検査{'物件': 1, '項': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の規定は、<span>国税庁{'税関': 1, '適用': 1}</span>の当該職員及び納税地を所轄する<span>税務署{'税務署長': 4, '国税局': 1}</span>又は国税局の当該職員以外の当該職員のその所属する税務署又は国税局の所轄する区域内に本店、支店、工場、<span>営業所{'外国': 1}</span>その他これらに準ずるものを有する法人に対する質問又は検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国税庁、国税局又は税務署の当該職員は、第一項又は第二項（これらの<span>規定{'前項': 1}</span>を前項において準用する場合を含む。）の規定による質問又は検査をする場合には、その身分を示す証明書を携帯し、関係人の<span>請求{'提示': 1}</span>があったときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項<span>又は{'及び': 2}</span>第二項（これらの規定を第三項において<span>準用{'適用': 3}</span>する場合を含む。）の規定による質問又は検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（法人特別税に係る法人税法の適用の特例等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人特別税{'法律': 1}</span>に係る次の表の第一欄に掲げる<span>法律{'財務省令': 1}</span>の<span>適用{'規定': 4}</span>については、同表の第二欄に掲げる<span>規定{'字句': 1}</span>中同表の第三欄に掲げる字句は、それぞれ同表の第四欄に掲げる字句に読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第一<span>欄{'字句': 1, '表': 3}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二<span>欄{'記載': 1}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第三欄</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第四欄</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="9">
+                    <Sentence WritingMode="vertical"><span>法人税法{'国税通則法': 1, '規定': 1}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第<span>二条{'部分': 1}</span>第十八号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">除く。）として</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">除く。）及び<span>法人特別税{'規定': 1}</span>（附帯税を除く。）として</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <Sentence WritingMode="vertical">第三十八条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税の額</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税の額及び<span>法人特別税{'復興特別法人税': 1}</span>の額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">準用する<span>場合{'所得': 1}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">準用する場合及びこれらの規定を法人特別税法（平成四年法律第十五号）第十二条第三項（<span>法人特別税{'規定': 1}</span>の申告書の提出期限の延長）において準用する場合</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第六十七条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>金額{'施行': 1, '所得': 1}</span>）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">金額）及び当該事業年度の<span>法人特別税{'法': 1}</span>法に規定する課税標準法人税額につき同法第三章（税額の計算）の規定により計算した<span>法人特別税{'所得税': 1}</span>の<span>額{'規定': 1}</span></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第六十九条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">の控除限度額と</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">の控除限度額及び<span>法人特別税{'地方税': 1, '当該': 1, '規定': 1}</span>控除限度額として政令で定める金額と</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第八十二条</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">掲げる金額につき</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">掲げる金額又は法人特別税法第二条第六号（定義）に規定する法人特別税申告書に記載すべき同法第十二条第一項第一号若しくは第二号（<span>課税標準{'規定': 1}</span>及び<span>税額{'当該': 1}</span>の申告）に掲げる金額につき</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第九十三条第二項第三号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税並びに</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税及び同号に規定する法人特別税並びに</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <Sentence WritingMode="vertical">第九十四条第一号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税の</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税又は法人特別税の</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">所得に対する法人税</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">所得に対する<span>法人税{'金額': 1}</span>及び当該各事業年度の<span>法人特別税{'項': 1}</span>法に規定する課税標準法人税額に対する法人特別税</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
+                    <Sentence WritingMode="vertical">国税通則法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第十五条第二項第三号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税及び法人特別税</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二十一条第二項、第三十条第二項、第三十三条第二項及び第四十三条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税、法人特別税</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第六十五条第三項第二号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">加算した金額</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">加算した金額（法人特別税法（平成四年法律第十五号）第十一条（外国税額の控除）の規定による控除をされるべき<span>金額{'額': 1}</span>があるときは、<span>当該{'場合': 2, '控除': 1}</span>金額を<span>加算{'相当': 2}</span>した金額）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第七十五条第四項第一号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">又は法人税法</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">、<span>法人税法{'第一': 1}</span>又は<span>法人特別税{'計算': 1}</span>法</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第八十五条第一項及び第八十六条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>法人税{'規定': 1}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税、法人特別税</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+                    <Sentence WritingMode="vertical">地方税法（昭和二十五年<span>法律{'規定': 1}</span>第二百二十六号）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第五十三条第九項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">控除限度額</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">控除限度額と法人特別税法（平成四年法律第十五号）第十一条第一項に規定する政令で定めるところにより計算した金額との合計額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <Sentence WritingMode="vertical">第三百二十一条の八第九項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">控除<span>限度{'金額': 2, '復興特別所得税': 1, '残額': 1}</span>額及び</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">控除限度額及び<span>法人特別税{'法': 1}</span>法第十一条第一項に規定する政令で定めるところにより計算した<span>金額{'規定': 1}</span>と</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">政令で定めるもの</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>政令{'金額': 1}</span>で定めるものとの合計額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">地方自治法（昭和二十二年法律第六十七号）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二百六十条の二第十六項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税に</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税及び法人特別税に</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">建物の区分所有等に関する法律（昭和三十七年法律第六十九号）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第四十七条第十項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>法人税{'規定': 1}</span>に</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法人税及び法人特別税に</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項に定めるもののほか、法人税又は法人特別税に係る国税通則法の規定の適用については、次に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>国税通則法{'法人税法': 1}</span>第七十<span>一条{'二条': 1}</span>第一項第一号の規定の適用については、法人税及び<span>法人特別税{'当該': 1}</span>は、同一の税目に属する国税とみなす。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法人税又は法人特別税に係る国税通則法第五十八条第一項第一号イに規定する更正決定等（以下この号及び<span>次項{'法人税': 1}</span>において「更正決定等」という。）について不服申立てがされている場合において、当該法人税又は法人特別税と納税義務者及び事業年度が同一である他の法人特別税又は法人税についてされた更正決定等があるときは、同法第九十条第一項若しくは第二項、第百四条第二項又は第百十五条第一項第二号の規定の適用については、当該他の法人特別税又は法人税についてされた更正決定等は、当該法人税又は法人特別税の同法第十九条第一項に規定する課税標準等又は税額等についてされた他の更正決定等とみなす。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>租税特別措置法{'前条': 1}</span>第六十六条の四第十六項から第十八項までの規定は、法人税についてこれらの<span>規定{'申告': 1, '額': 2}</span>の適用がある課税事業年度の法人特別税に係る更正決定等及び国税の徴収権（国税通則法第七十二条第一項に規定する国税の徴収権をいう。）の時効について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、租税特別措置法第六十六条の四第十六項中「<span>課税{'震災': 1}</span>の特例）」」とあるのは「課税の特例）（法人特別税法（平成四年法律第十五号）第十八条第三項（法人特別税に係る<span>法人税法{'規定': 1}</span>の適用の特例等）において準用する場合を含む。</Sentence>
+              <Sentence Num="3" WritingMode="vertical"><span>次{'規定': 4}</span>条において同じ。</Sentence>
+              <Sentence Num="4" WritingMode="vertical">）」」と、「<span>生ず{'掲げる': 1}</span>べき法人税」とあるのは「生ずべき法人税若しくは法人特別税」と、「法人税の」とあるのは「法人税又は法人特別税の」と、「還付請求申告書に係る」とあるのは「還付<span>請求{'場合': 1}</span>申告書に係る<span>更正{'提出': 2}</span>又は当該更正に伴つてする法人特別税に係る」と、「<span>当該{'規定': 1}</span>法人税」とあるのは「当該法人税又は法人特別税」と、同条第十七項中「法人税」とあるのは「法人税又は<span>法人特別税{'租税特別措置法': 1}</span>」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項に定めるもののほか、第十一条第一項に規定する内国法人の指定期間内に最初に終了する<span>課税{'連結': 1}</span>事業年度に係る<span>法人臨時特別税{'所得税': 1, '地方法人税': 1}</span>の額がある場合における同項の規定により控除される金額の計算、<span>法人特別税{'当該': 1}</span>に係る税理士法（昭和二十六年<span>法律{'項': 1}</span>第二百三十七号）その他の法令の規定の技術的読替えその他この法律の規定の適用に関し必要な事項は、<span>政令{'財務省令': 1}</span>で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">偽りその他不正の行為により、第十二条第一項第二号に規定する法人特別税の額につき法人特別税を免れた場合には、法人の代表者（人格のない社団等の管理人を含む。以下この章において同じ。）、代理人、使用人その他の従業者でその違反行為をした者は、五年以下の懲役<span>若しくは{'又は': 1}</span>五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の免れた<span>法人特別税{'所得税': 2, '法人税': 1, '地価税': 1, '地方法人税': 1}</span>の額が五百万円を超えるときは、情状により、同項の罰金は、五百万円を超えその免れた<span>法人特別税{'所得税': 2, '法人税': 1, '印紙税': 1, '地方法人税': 1}</span>の額に相当する金額以下とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">正当な理由がなくて第十<span>二条{'確定申告': 1}</span>第一項の規定による申告書をその提出期限までに提出しなかった場合には、<span>法人{'当該': 1}</span>の代表者、代理人、<span>使用人{'法人': 1}</span>その他の従業者でその違反行為をした者は、一年以下の<span>懲役{'経過': 1}</span>又は二十万円以下の罰金に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、情状により、その刑を免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第十六条において準用する法人税法第百五十一条第一項から第三項までの規定に違反した者又はこれらの規定に違反する法人特別税申告書若しくは当該申告書に係る修正申告書の提出があった場合のその<span>行為{'当該': 1}</span>をした者は、一年以下の懲役又は二十万円以下の罰金に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、情状により、その刑を免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の懲役又は二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第十七条第一項<span>又は{'ただし': 1}</span>第二項（これらの規定を同条第三項において準用する場合を含む。）の規定による当該職員の質問に対して答弁せず、若しくは偽りの答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>前{'規定': 1}</span>号の<span>検査{'規定': 1}</span>に関し偽りの記載をした帳簿書類を提示した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人特別税の調査に関する事務に従事している者又は従事していた者が、その事務に関して知ることのできた秘密を漏らし、又は盗用したときは、これを二年以下の懲役又は三万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第十<span>九条{'法人': 1}</span>、第二十条又は第二十二条の違反行為をしたときは、その行為者を罰するほか、その法人又は人に対して当該各<span>条{'各項': 1, '法人': 1}</span>の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定により第十九条第一項の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、同<span>項{'規定': 3}</span>の罪についての時効の期間による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">人格のない社団等について第一項の規定の適用が<span>ある{'受ける': 1}</span>場合には、その代表者又は管理人がその訴訟行為につきその人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、平成四年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年三月三一日法律第二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'省令': 2, '政令': 3}</span>は、平成六年<span>四月一日{'六月一日': 1}</span>から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'規定': 1}</span>（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'規定': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（<span>核原料物質、核燃料物質及び原子炉の規制に関する法律{'国民年金法': 1}</span>の一部を改正する法律<span>附則{'法律': 1}</span>の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の<span>規定{'附則': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年五月三一日法律第九七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から<span>起算{'施行': 2}</span>して<span>六月{'三月': 1}</span>を超えない範囲内において<span>政令{'規定': 1}</span>で定める日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="64">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第六十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律（附則第<span>一条{'規定': 1}</span>ただし書の規定にあっては、<span>当該{'場合': 1}</span>規定）の<span>施行{'改正': 1, '適用': 1}</span>前に改正<span>前{'規定': 1}</span>のそれぞれの法律（これに基づく<span>命令{'承継': 1, '政令': 1}</span>を含む。以下この条において同じ。）の規定によって<span>した{'換地': 1}</span>処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の<span>規定{'金額': 1}</span>があるものは、この<span>附則{'規定': 1}</span>に別段の定めがあるものを除き、改正後のそれぞれの法律の<span>相当{'附則': 1}</span>の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="65">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'改正': 1}</span>（附則第一条ただし書の規定にあっては、<span>当該{'場合': 1}</span><span>規定{'事業': 1, '施行': 1}</span>）の施行前にした行為<span>及び{'並びに': 1}</span>この<span>附則{'前条': 1}</span>の規定によりなお従前の例によることとされる場合におけるこの<span>法律{'政令': 1}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="67">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第六十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'規則': 1}</span>に規定するもののほか、この法律の<span>施行{'規定': 1}</span>に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="68">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、この<span>法律{'規定': 1}</span>の施行後五年以内に、新資産流動化法、新投信法及び第八条の規定による改正後の宅地建物取引業法（以下この条において「新宅地建物取引業法」という。）の施行状況、社会経済情勢の変化等を勘案し、新資産流動化法及び新投信法の規定並びに新宅地建物取引業法第五十条の二第二項に規定する認可宅地建物取引業者に係る制度について検討を加え、必要があると認めるときは、その結果に<span>基づい{'応じ': 1}</span>て所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年三月三〇日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十三年三月三十一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる規定は、同年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>略{'改正': 2}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第四条から第十条までの規定並びに附則第十九条、第二十条、第二十六条、第二十七条及び第二十八条（会社更生法（昭和二十七年法律第百七十二号）第二百六十九条第三項に係る部分を除く。）の規定</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

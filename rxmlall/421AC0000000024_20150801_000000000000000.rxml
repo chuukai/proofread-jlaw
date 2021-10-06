@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="24" Year="21">
+  <LawNum>平成二十一年法律第二十四号</LawNum>
+  <LawBody>
+    <LawTitle>外国等に対する我が国の民事裁判権に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　外国等に対して裁判権が及ぶ範囲</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　免除の原則</SectionTitle>
+          <ArticleRange>（第四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　裁判手続について免除されない場合</SectionTitle>
+          <ArticleRange>（第五条―第十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　外国等の有する財産に対する保全処分及び民事執行の手続について免除されない場合</SectionTitle>
+          <ArticleRange>（第十七条―第十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　民事の裁判手続についての特例</ChapterTitle>
+        <ArticleRange>（第二十条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、外国等に対して我が国の民事裁判権（裁判権のうち刑事に係るもの以外のものをいう。第四条において同じ。）が及ぶ範囲及び外国等に係る民事の裁判<span>手続{'届出': 1}</span>についての<span>特例{'手続': 1}</span>を<span>定める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「外国等」とは、次に掲げるもの（以下「<span>国等{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）のうち、日本国及び日本国に係るものを除くものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国及びその政府の機関</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">連邦国家の州その他これに準ずる国の行政区画であって、主権的な権能を行使する権限を有するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前二号に掲げるもののほか、主権的な権能を行使する権限を付与された団体（当該権能の行使としての行為をする場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前三号に掲げるものの代表者であって、その資格に基づき行動するもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（条約等に基づく特権又は免除との関係）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'管財人': 1, '定款': 1}</span>の規定は、条約又は確立された国際法規に基づき<span>外国{'規定': 1}</span>等が享有する特権又は免除に影響を及ぼすものではない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　外国等に対して裁判権が及ぶ範囲</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　免除の原則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、この法律に別段の定めがある場合を除き、裁判権（我が国の民事裁判権をいう。以下同じ。）から免除されるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　裁判手続について免除されない場合</SectionTitle>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（外国等の同意）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、次に掲げるいずれかの方法により、特定の事項又は事件に関して裁判権に服することについての同意を明示的にした場合には、訴訟手続その他の裁判所における手続（外国等の<span>有する{'ある': 1}</span><span>財産{'規定': 1}</span>に対する<span>保全{'規定': 1}</span><span>処分{'手続': 1}</span><span>及び{'ただし': 1}</span><span>民事{'業務': 1, '規定': 1}</span><span>執行{'規定': 1}</span>の<span>手続{'規定': 1}</span>を<span>除く{'ある': 1}</span>。以下この<span>節{'規定': 1}</span>において「<span>裁判{'特別清算': 1, '規定': 1}</span><span>手続{'届出': 1}</span>」と<span>いう{'ある': 1}</span>。）のうち、<span>当該{'規定': 1}</span>特定の事項又は事件に関するものについて、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">条約その他の国際約束</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">書面による契約</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該裁判手続における<span>陳述{'手続': 1}</span>又は<span>裁判所{'規定': 1}</span>若しくは<span>相手方{'規定': 1}</span>に対する<span>書面{'規定': 1}</span>による<span>通知{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>外国{'筆界': 1, '規定': 1}</span>等が<span>特定{'規定': 1}</span>の<span>事項{'手続': 1}</span>又は<span>事件{'規定': 1}</span>に関して<span>日本国{'手続': 1}</span>の<span>法令{'規定': 1}</span>を適用することについて同意したことは、前項の同意と<span>解し{'ある': 1}</span>てはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（同意の擬制）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等が<span>次に{'第一': 1}</span>掲げる行為をした場合には、<span>前条{'規定': 1}</span>第一項の<span>同意{'規定': 1}</span>が<span>あっ{'得': 1, 'ある': 1}</span>たものと<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>訴え{'規定': 1}</span>の<span>提起{'手続': 1}</span>その他の<span>裁判{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>開始{'手続': 1}</span>の申立て</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">裁判手続への参加（裁判権からの免除を主張することを目的とするものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">裁判手続において異議を<span>述べ{'ある': 1}</span>ないで本案についてした弁論又は申述</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項第二号及び第三号の規定は、<span>当該{'規定': 1}</span>外国等がこれらの行為をする前に裁判権から免除される根拠となる<span>事実{'規定': 1}</span>があることを知ることができなかったやむを得ない事情がある場合であって、当該事実を<span>知っ{'ある': 1}</span>た後<span>当該{'手続': 1}</span><span>事情{'手続': 1}</span>を<span>速やか{'手続': 1}</span>に<span>証明{'規定': 1}</span>したときには、<span>適用{'規定': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>口頭弁論{'規定': 1}</span><span>期日{'規定': 1}</span>その他の<span>裁判{'規定': 1}</span><span>手続{'口頭弁論': 1, '規定': 1}</span>の<span>期日{'手続': 1}</span>において<span>外国{'規定': 1}</span>等が<span>出頭{'規定': 1}</span>しないこと及び<span>外国{'規定': 1}</span>等の<span>代表者{'規定': 1}</span>が<span>証人{'手続': 1}</span>として出頭したことは、前条第一項の同意と<span>解し{'ある': 1}</span>てはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等が訴えを提起した場合又は<span>当事者{'規定': 1}</span><span>として{'とともに': 1}</span><span>訴訟{'手続': 1}</span>に<span>参加{'手続': 1}</span>した<span>場合{'規定': 1}</span>において、<span>反訴{'手続': 1}</span>が<span>提起{'規定': 1}</span>されたときは、<span>当該{'規定': 1}</span><span>反訴{'訴訟': 1, '規定': 1}</span>について、第五条第一項の<span>同意{'手続': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>外国{'手続': 1}</span>等が<span>当該{'規定': 1}</span><span>外国{'手続': 1}</span>等を被告とする訴訟において反訴を提起したときは、<span>本訴{'規定': 1}</span>について、第五条第一項の同意があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（商業的取引）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、商業的取引（民事又は商事に係る物品の売買、役務の調達、金銭の貸借その他の事項についての契約又は取引（労働契約を除く。）をいう。<span>次項{'法律': 1}</span>及び第十六条において同じ。）のうち、<span>当該{'規定': 1}</span><span>外国{'手続': 1}</span>等と<span>当該{'規定': 1}</span><span>外国{'規定': 1}</span>等（<span>国{'規定': 1}</span>以外のものに<span>あっ{'ある': 1}</span>ては、それらが<span>所属{'規定': 1}</span>する<span>国{'規定': 1}</span>。以下この<span>項{'規定': 1}</span>において同じ。）以外の<span>国{'規定': 1}</span>の<span>国民{'規定': 1}</span>又は<span>当該{'規定': 1}</span>外国等以外の国若しくはこれに所属する<span>国等{'規定': 1}</span>の法令に基づいて設立された法人その他の団体との間のものに関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定は、次に掲げる<span>場合{'事項': 1}</span>には、<span>適用{'規定': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国等と当該外国等以外の国等との間の商業的取引である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該商業的取引の当事者が明示的に別段の合意をした場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（労働契約）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、当該外国等と個人との間の労働契約であって、日本国内において労務の全部又は一部が提供され、又は提供されるべきものに関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定は、次に掲げる<span>場合{'事項': 1}</span>には、<span>適用{'手続': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span>個人が次に掲げる者である場合</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">外交関係に関するウィーン条約第一条（ｅ）に規定する外交官</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">領事関係に関するウィーン条約第一条１（ｄ）に規定する領事官</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">国際機関に派遣されている常駐の使節団若しくは特別使節団の外交職員又は国際会議において当該外国等（国以外のものにあっては、それらが<span>所属{'場合': 1}</span>する国。以下この項において同じ。）を<span>代表{'規定': 1}</span>するために<span>雇用{'規定': 1}</span>されている者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">イからハまでに掲げる者のほか、外交上の免除を享有する者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げる場合のほか、<span>当該{'規定': 1}</span>個人が、当該外国等の安全、<span>外交上{'手続': 1}</span>の秘密その他の当該外国等の重大な利益に関する事項に係る任務を遂行するために雇用されている場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該個人の採用又は再雇用の契約の成否に関する訴え又は申立て（いずれも損害の賠償を求めるものを除く。）である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>解雇{'手続': 1}</span>その他の労働契約の終了の効力に関する訴え又は<span>申立て{'規定': 1}</span>（いずれも<span>損害{'手続': 1}</span>の<span>賠償{'規定': 1}</span>を求めるものを除く。）であって、当該外国等の元首、政府の長又は外務大臣によって当該訴え又は申立てに係る裁判手続が当該外国等の安全保障上の利益を害するおそれがあるとされた場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">訴えの<span>提起{'規定': 1}</span>その他の<span>裁判{'訴訟': 1, '規定': 1}</span><span>手続{'規定': 1}</span>の<span>開始{'規定': 1}</span>の<span>申立て{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た時において、<span>当該{'手続': 1}</span><span>個人{'手続': 1}</span>が<span>当該{'手続': 1}</span><span>外国{'手続': 1}</span>等の<span>国民{'規定': 1}</span>である<span>場合{'手続': 1}</span>。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>当該{'規定': 1}</span><span>個人{'規定': 1}</span>が<span>日本国{'規定': 1}</span>に<span>通常{'規定': 1}</span><span>居住{'規定': 1}</span>するときは、この限りでない。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">当該労働契約の当事者間に書面による<span>別段{'相当': 1}</span>の合意がある場合。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、労働者の保護の見地から、当該労働契約に関する訴え又は<span>申{'規定': 1}</span>立てについて日本国の裁判所が管轄権を有しないとするならば、<span>公の秩序{'規定': 1}</span>に反することとなるときは、この限りでない。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（人の死傷又は有体物の滅失等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、人の死亡若しくは傷害又は有体物の滅失若しくは<Ruby>毀<Rt>き</Rt></Ruby>損が、<span>当該{'規定': 1}</span>外国等が責任を負うべきものと主張される行為によって生じた場合において、当該行為の全部又は一部が<span>日本国内{'規定': 1}</span>で<span>行わ{'ある': 1}</span>れ、かつ、当該行為をした者が当該行為の時に<span>日本国内{'当時': 1, '手続': 1}</span>に所在していたときは、これによって生じた損害又は損失の金銭によるてん補に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（不動産に係る権利利益等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、日本国内にある不動産に係る次に掲げる事項に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>外国{'手続': 1}</span>等の<span>権利{'管財人': 1}</span>若しくは利益又は当該外国等による<span>占有{'規定': 1}</span>若しくは<span>使用{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>外国{'手続': 1}</span>等の<span>権利{'規定': 1}</span>若しくは<span>利益{'手続': 1}</span>又は<span>当該{'規定': 1}</span><span>外国{'届出': 1}</span>等による<span>占有{'規定': 1}</span>若しくは<span>使用{'規定': 1}</span>から<span>生ずる{'ある': 1}</span>当該外国等の義務</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>外国{'農業': 1}</span>等は、<span>動産{'規定': 1}</span>又は不動産について相続その他の一般承継、贈与又は無主物の取得によって生ずる<span>当該{'手続': 1}</span><span>外国{'規定': 1}</span>等の<span>権利{'規定': 1}</span>又は利益に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（裁判所が関与を行う財産の管理又は処分に係る権利利益）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、信託財産、破産財団に属する財産、清算中の会社の財産その他の<span>日本国{'規定': 1}</span>の裁判所が監督その他の関与を行う財産の管理<span>又は{'及び': 1}</span>処分に係る当該外国等の権利又は利益に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（知的財産権）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、次に掲げる事項に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国等が有すると主張している知的財産権（知的財産基本法（平成十四年法律第百二十二号）第二条第一項に規定する知的財産に関して日本国の法令により定められた権利又は日本国の<span>法律上{'規定': 1}</span><span>保護{'手続': 1}</span>される<span>利益{'規定': 1}</span>に係る<span>権利{'規定': 1}</span>を<span>いう{'ある': 1}</span>。<span>次号{'規定': 1}</span>において同じ。）の<span>存否{'規定': 1}</span>、<span>効力{'規定': 1}</span>、<span>帰属{'手続': 1}</span>又は内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該外国等が日本国内においてしたものと主張される知的財産権の侵害</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（団体の構成員としての資格等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、法人その他の団体であって次の各号のいずれにも該当するものの<span>社員{'規定': 1}</span>その他の構成員である場合には、その資格又はその資格に<span>基づく{'ある': 1}</span><span>権利{'行為': 1, '手続': 1}</span>若しくは義務に関する裁判手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">国等及び国際機関以外の者をその社員その他の構成員とするものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">日本国の法令に基づいて設立されたものであること、又は<span>日本国内{'規定': 1}</span>に主たる営業所若しくは事務所を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の<span>規定{'手続': 1}</span>は、<span>当該{'規定': 1}</span><span>裁判{'規定': 1}</span>手続の当事者間に当該外国等が裁判権から免除される旨の書面による合意がある場合又は当該団体の定款、<span>規約{'規定': 1}</span>その他これらに類する<span>規則{'定款': 1}</span>にその旨の定めがある場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（船舶の運航等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">船舶を所有し又は運航する外国等は、当該船舶の運航に関する紛争の原因となる事実が生じた時において当該船舶が政府の非<span>商業{'規定': 1}</span>的目的以外に使用されていた場合には、当該紛争に関する<span>裁判{'訴訟': 1}</span>手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定は、当該船舶が軍艦又は軍の支援船である場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">船舶を所有し又は運航する外国等は、当該船舶による貨物の運送に関する紛争の原因となる事実が生じた時において当該船舶が政府の非<span>商業{'規定': 1}</span>的目的以外に使用されていた場合には、当該紛争に関する<span>裁判{'訴訟': 1}</span>手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定は、当該貨物が、軍艦若しくは軍の支援船により運送されていたものである場合又は国等が所有し、かつ、政府の非商業的目的のみに使用され、若しくは使用されることが<span>予定{'規定': 1}</span>されているものである場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（仲裁合意）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">外国等は、当該外国等（<span>国{'規定': 1}</span>以外のものに<span>あっ{'ある': 1}</span>ては、それらが<span>所属{'規定': 1}</span>する<span>国{'規定': 1}</span>。以下この<span>条{'規定': 1}</span>において同じ。）以外の<span>国{'規定': 1}</span>の<span>国民{'手続': 1}</span>又は<span>当該{'規定': 1}</span>外国等以外の国若しくはこれに所属する<span>国等{'規定': 1}</span>の法令に基づいて設立された法人その他の団体との間の商業的<span>取引{'記載': 1}</span>に係る書面による仲裁合意に関し、当該仲裁合意の存否若しくは効力又は当該仲裁合意に基づく仲裁手続に関する裁判手続について、裁判権から免除されない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当事者間に書面による別段の<span>合意{'定め': 1}</span>がある場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　外国等の有する財産に対する保全処分及び民事執行の手続について免除されない場合</SectionTitle>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（外国等の同意等）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、次に<span>掲げる{'ある': 1}</span>いずれかの<span>方法{'規定': 1}</span>により、その<span>有する{'定め': 1, 'ある': 1}</span><span>財産{'規定': 1}</span>に対して<span>保全{'規定': 1}</span><span>処分{'手続': 1}</span>又は<span>民事{'業務': 1}</span>執行をすることについての同意を<span>明示{'得': 1, '規定': 1}</span>的にした場合には、当該保全<span>処分{'手続': 1}</span>又は<span>民事{'規定': 1}</span><span>執行{'規定': 1}</span>の<span>手続{'規定': 1}</span>について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">条約その他の国際約束</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">仲裁に関する合意</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">書面による契約</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該保全処分又は民事執行の手続における<span>陳述{'手続': 1}</span>又は<span>裁判所{'規定': 1}</span>若しくは<span>相手方{'規定': 1}</span>に対する<span>書面{'規定': 1}</span>による<span>通知{'規定': 1}</span>（<span>相手方{'規定': 1}</span>に対する<span>通知{'規定': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>保全{'規定': 1}</span>処分又は民事執行が<span>申し立て{'ある': 1}</span>られる原因となった権利関係に係る紛争が生じた後に<span>発出{'規定': 1}</span>されたものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、保全処分又は<span>民事{'規定': 1}</span><span>執行{'規定': 1}</span>の<span>目的{'規定': 1}</span>を<span>達する{'ある': 1}</span>ことができるように<span>指定{'規定': 1}</span>し又は<span>担保{'規定': 1}</span><span>として{'とともに': 1}</span><span>提供{'規定': 1}</span>した<span>特定{'規定': 1}</span>の<span>財産{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>には、<span>当該{'規定': 1}</span><span>財産{'規定': 1}</span>に対する<span>当該{'規定': 2}</span><span>保全{'手続': 1}</span><span>処分{'手続': 1}</span>又は民事執行の手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第五条第一項の同意は、第一項の同意と解してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（特定の目的に使用される財産）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国等は、当該外国等により政府の非商業的<span>目的{'方法': 1}</span>以外にのみ使用され、又は使用されることが<span>予定{'規定': 1}</span>されている当該外国等の有する財産に対する民事執行の手続について、裁判権から免除されない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">次に掲げる外国等の有する財産は、前項の財産に含まれないものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">外交使節団、領事機関、特別使節団、国際機関に派遣されている使節団又は国際機関の内部機関若しくは国際会議に派遣されている代表団の任務の遂行に当たって使用され、又は使用されることが<span>予定{'規定': 1}</span>されている財産</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">軍事的な性質を有する財産又は軍事的な任務の遂行に当たって使用され、若しくは使用されることが予定されている財産</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">次に掲げる財産であって、販売されておらず、かつ、販売されることが予定されていないもの</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">当該外国等に係る文化遺産</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">当該外国等が管理する公文書その他の記録</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">科学的、文化的又は歴史的意義を有する展示物</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定は、前条第一項及び第二項の規定の適用を妨げない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（外国中央銀行等の取扱い）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">日本国以外の国の中央銀行又はこれに準ずる金融当局（次項において「外国中央銀行等」という。）は、その有する財産に対する保全処分及び<span>民事{'業務': 1, '規定': 1}</span><span>執行{'規定': 1}</span>の<span>手続{'規定': 1}</span>については、第<span>二条{'手続': 1}</span><span>第一{'規定': 1}</span>号から第三号までに<span>該当{'規定': 2}</span>しない<span>場合{'規定': 1}</span>においても、これを<span>外国{'規定': 1}</span>等と<span>みなし{'ある': 1}</span>、第四条並びに第十七条第一項及び第二項の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">外国<span>中央銀行{'規定': 1}</span>等については、前条第一項の規定は適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　民事の裁判手続についての特例</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（訴状等の送達）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国等に対する訴状その他これに<span>類する{'ある': 1}</span><span>書類{'規定': 1}</span><span>及び{'ただし': 1}</span><span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>その他の裁判所における手続の最初の期日の<span>呼出{'規定': 1}</span>状（以下この条及び次条第一項において「訴状等」という。）の送達は、次に掲げる方法によりするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">条約その他の国際<span>約束{'法務省令': 1}</span>で定める方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号に掲げる方法がない<span>場合{'手続': 1}</span>には、<span>次{'規定': 1}</span>の<span>イ{'規定': 1}</span>又はロに掲げる方法</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">外交上の経路を通じてする方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該外国等が送達の方法として<span>受け入れる{'ある': 1}</span>その他の方法（民事訴訟法（平成八年法律第百九号）に規定する方法であるものに<span>限る{'ある': 1}</span>。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>第二号<span>イ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>方法{'規定': 1}</span>により<span>送達{'手続': 1}</span>をした<span>場合{'手続': 1}</span>においては、<span>外務省{'第一': 1, '規定': 1}</span>に<span>相当{'規定': 1}</span>する<span>当該{'手続': 1}</span><span>外国{'規定': 1}</span>等（<span>国{'規定': 1}</span>以外のものに<span>あっ{'ある': 1}</span>ては、それらが<span>所属{'規定': 1}</span>する<span>国{'振替': 2, '規定': 1}</span>）の<span>機関{'規定': 1}</span>が<span>訴状{'手続': 1}</span>等を<span>受領{'規定': 1}</span>した時に、<span>送達{'手続': 1}</span>があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国等は、異議を述べないで本案について弁論又は申述をしたときは、訴状等の送達の方法について異議を述べる<span>権利{'手続': 1}</span>を<span>失う{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項及び第二項に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、<span>外国{'規定': 1}</span>等に対する<span>訴状{'規定': 1}</span>等の<span>送達{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>は、<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（外国等の不出頭の場合の民事訴訟法の特例等）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国等が口頭弁論の期日に出頭せず、<span>答弁書{'規定': 1}</span>その他の準備書面を提出しない場合における当該外国等に対する<span>請求{'規定': 1}</span>を<span>認容{'規定': 1}</span>する<span>判決{'手続': 1}</span>の<span>言渡し{'規定': 1}</span>は、<span>訴状{'規定': 1}</span>等の<span>送達{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>日又{'場合': 1, '規定': 1}</span>は<span>前条{'手続': 1}</span>第二項の規定により送達があったものとみなされる日から<span>四月{'規定': 1}</span>を経過しなければすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第一項及び第二項の規定は、<span>前項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>判決{'規定': 1}</span>についての<span>判決{'規定': 1}</span>書又は<span>民事訴訟法{'規定': 1}</span>第二百五十四条第二項の<span>調書{'手続': 1}</span>（<span>次項{'手続': 1}</span>及び第四項において「<span>判決{'規定': 1}</span>書等」と<span>いう{'ある': 1}</span>。）の<span>当該{'規定': 1}</span><span>外国{'規定': 1}</span>等に対する<span>送達{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'規定': 1}</span>、<span>判決{'規定': 1}</span>書等の<span>送達{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>は、<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項に<span>規定{'手続': 1}</span>する<span>判決{'手続': 1}</span>に対して<span>外国{'手続': 1}</span>等がする<span>上訴{'規定': 1}</span>又は<span>異議{'規定': 1}</span>の<span>申立て{'手続': 1}</span>は、<span>民事訴訟法{'規定': 1}</span>第二百八十五条<span>本文{'規定': 1}</span>（<span>同法{'規定': 1}</span>第三百十三条（<span>同法{'規定': 1}</span>第三百十八条第五項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）又は第三百五十七条<span>本文{'規定': 2}</span>（<span>同法{'規定': 1}</span>第三百六十七条第二項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）若しくは第三百七十八条第一項<span>本文{'規定': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>判決{'規定': 1}</span>書等の<span>送達{'言渡し': 1, '規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>日又{'場合': 1, '規定': 1}</span>は第二項において<span>準用{'手続': 1}</span>する<span>前条{'規定': 1}</span>第二項の規定により送達があったものとみなされる日から<span>四月{'規定': 1}</span>の不変期間内に提起しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（<Ruby>勾<Rt>こう</Rt>
+</Ruby>引及び過料に関する規定の適用除外）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国等については、民事の<span>裁判{'規定': 1}</span><span>手続{'届出': 1}</span>においてされた<span>文書{'規定': 1}</span>その他の物件の提出命令、証人の<span>呼出し{'手続': 1}</span>その他の当該裁判手続上の命令に従わないことを理由とする<Ruby>勾<Rt>こう</Rt></Ruby>引及び過料に関する民事訴訟法その他の法令の規定は、<span>適用{'手続': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 2}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'六月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事件{'規定': 2}</span>については、<span>適用{'手続': 1}</span>しない。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に<span>申立て{'規定': 1}</span>が<span>あり{'ある': 1}</span>、又は<span>裁判所{'規定': 1}</span>が<span>職権{'規定': 1}</span>で<span>開始{'手続': 1}</span>した第五条第一項に<span>規定{'会社': 1, '手続': 1}</span>する<span>裁判{'規定': 1}</span><span>手続{'規定': 1}</span>に係る<span>事件{'手続': 1}</span></Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に<span>申立て{'規定': 1}</span>が<span>あり{'ある': 1}</span>、又は<span>裁判所{'規定': 1}</span>が<span>職権{'規定': 1}</span>で<span>開始{'手続': 1}</span>した<span>外国{'規定': 1}</span>等の<span>有する{'ある': 1}</span><span>財産{'規定': 1}</span>に対する<span>保全{'規定': 1}</span>処分及び民事執行に係る事件</Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

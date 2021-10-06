@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="006" Year="02">
+  <LawNum>令和二年原子力規制委員会規則第六号</LawNum>
+  <LawBody>
+    <LawTitle>加工施設の技術基準に関する規則</LawTitle>
+    <EnactStatement>原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）の一部の施行に伴い、及び核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第十六条の四の規定に基づき、加工施設の技術基準に関する規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　安全機能を有する施設</ChapterTitle>
+        <ArticleRange>（第四条―第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　重大事故等対処施設</ChapterTitle>
+        <ArticleRange>（第二十六条―第三十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第四十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」と<span>いう{'ある': 1}</span>。）において<span>使用{'規定': 2}</span>する<span>用語{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'でき': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>規則{'規定': 1}</span>において、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>用語{'規定': 1}</span>の<span>意義{'規定': 1}</span>は、<span>それぞれ{'手続': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>ところに<span>よる{'基づく': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>放射線{'届出': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>の<span>加工{'規定': 1}</span>の<span>事業{'手続': 1}</span>に関する<span>規則{'規定': 1}</span>（昭和四十<span>一年{'規定': 1}</span><span>総理府令{'規定': 1}</span>第三十七号。以下「<span>加工{'規定': 1}</span><span>規則{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）第<span>一条{'規定': 1}</span>第二項<span>第一{'規定': 1}</span>号に<span>規定{'手続': 1}</span>する<span>放射線{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>管理{'規定': 1}</span><span>区域{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>加工{'規定': 1}</span><span>規則{'手続': 1}</span>第<span>一条{'手続': 1}</span>第二項第二号に<span>規定{'手続': 1}</span>する<span>管理{'規定': 1}</span><span>区域{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>周辺{'規定': 1}</span><span>監視{'規定': 1}</span><span>区域{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>加工{'規定': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'手続': 1}</span>第二項第四号に<span>規定{'手続': 1}</span>する<span>周辺{'規定': 1}</span><span>監視{'規定': 1}</span><span>区域{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>放射性廃棄物{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>加工{'規定': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'届出': 1}</span>第二項第六号に<span>規定{'届出': 1}</span>する<span>放射性廃棄物{'届出': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>位置{'手続': 1}</span>、<span>構造{'規定': 1}</span>及び<span>設備{'規定': 1}</span>の<span>基準{'手続': 1}</span>に関する<span>規則{'規定': 1}</span>（平成二十五年<span>原子力規制委員会規則{'規定': 1}</span>第十七号。以下「<span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'規定': 1}</span><span>規則{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）第<span>一条{'規定': 1}</span>第二項<span>第一{'規定': 1}</span>号に<span>規定{'手続': 1}</span>する<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'規定': 1}</span>を<span>いう{'基づく': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第二項第二号に<span>規定{'手続': 1}</span>する<span>安全機能{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'手続': 1}</span>第<span>一条{'届出': 1}</span>第二項第三号に<span>規定{'手続': 1}</span>する<span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>を<span>いう{'基づく': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>安全{'規定': 1}</span>上<span>重要{'手続': 1}</span>な<span>施設{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'届出': 1}</span>第二項第四号に<span>規定{'届出': 1}</span>する<span>安全{'規定': 1}</span>上<span>重要{'規定': 1}</span>な<span>施設{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第二項<span>第五{'規定': 1}</span>号に<span>規定{'手続': 1}</span>する<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'届出': 1}</span>をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'規定': 1}</span><span>許可{'内容': 1, '規定': 1}</span><span>基準{'届出': 1}</span><span>規則{'手続': 1}</span>第<span>一条{'届出': 1}</span>第二項第六号に<span>規定{'届出': 1}</span>する<span>重大{'規定': 1}</span><span>事故{'規定': 1}</span>等<span>対処{'規定': 1}</span><span>設備{'手続': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>多様性{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第二項第七号に<span>規定{'手続': 1}</span>する<span>多様性{'規定': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（特殊な設計による加工施設）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特別{'規定': 1}</span>の<span>理由{'規定': 1}</span>により<span>原子力規制委員会{'規定': 1}</span>の<span>認可{'規定': 1}</span>を<span>受け{'ある': 1}</span>た<span>場合{'規定': 1}</span>は、この<span>規則{'手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>よら{'ある': 1}</span>ないで<span>加工{'規定': 1}</span><span>施設{'規定': 1}</span>を<span>設置{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>認可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする者は、その<span>理由{'規定': 1}</span>及び<span>設置{'規定': 1}</span><span>方法{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>申請書{'規定': 1}</span>に<span>関係{'規定': 1}</span><span>図面{'届出': 1}</span>を<span>添付{'手続': 1}</span>して<span>申請{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（廃止措置中の加工施設の維持）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'規定': 1}</span>第二十二条の八第二項の<span>認可{'規定': 1}</span>を<span>受け{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、<span>当該{'規定': 1}</span><span>認可{'規定': 1}</span>に係る<span>廃止{'手続': 1}</span><span>措置{'情報': 1, '規定': 1}</span><span>計画{'規定': 1}</span>（同<span>条{'法': 1, '場合': 1, '規定': 1}</span>第三項において<span>準用{'規定': 1}</span>する<span>法{'規定': 1}</span>第十二条の六第三項又は第五項の<span>規定{'手続': 1}</span>による<span>変更{'規定': 1}</span>の<span>認可{'規定': 1}</span><span>又は{'ただし': 1}</span><span>届出{'変更': 1, '規定': 1}</span>が<span>あっ{'ある': 1}</span>たときは、その<span>変更{'手続': 1}</span>後のもの。以下この<span>条{'規定': 1}</span>において同じ。）で<span>定める{'ある': 1}</span><span>性能{'規定': 1}</span><span>維持{'規定': 1}</span><span>施設{'規定': 1}</span>（<span>加工{'手続': 1}</span><span>規則{'規定': 1}</span><span>第九条{'手続': 1}</span>の四の二第十号の<span>性能{'規定': 2}</span><span>維持{'規定': 1}</span><span>施設{'手続': 1}</span>を<span>いう{'ある': 1}</span>。）については、<span>次{'規定': 1}</span><span>章{'規定': 1}</span>及び第三章の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>当該{'規定': 1}</span><span>認可{'手続': 1}</span>に係る<span>廃止{'手続': 1}</span><span>措置{'規定': 1}</span><span>計画{'手続': 1}</span>に<span>定める{'ある': 1}</span>ところにより、<span>当該{'手続': 1}</span><span>施設{'規定': 1}</span>を<span>維持{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　安全機能を有する施設</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（核燃料物質の臨界防止）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'届出': 1}</span>は、<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>の<span>取扱い{'規定': 1}</span>上の<span>一つ{'手続': 1}</span>の<span>単位{'手続': 1}</span>（<span>次項{'規定': 1}</span>において「<span>単一{'規定': 1}</span><span>ユニット{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）において、<span>通常{'規定': 1}</span>時に<span>予想{'規定': 1}</span>される<span>機械{'手続': 1}</span><span>若しくは{'ただし': 1}</span><span>器具{'規定': 1}</span>の<span>単一{'規定': 1}</span>の<span>故障{'規定': 1}</span>若しくはその<span>誤作動{'規定': 1}</span><span>又は{'ただし': 1}</span><span>運転{'規定': 1}</span>員の<span>単一{'規定': 1}</span>の<span>誤操作{'規定': 1}</span>が<span>起き{'ある': 1}</span>た<span>場合{'届出': 1}</span>に、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>が<span>臨界{'規定': 1}</span>に<span>達する{'ある': 1}</span>おそれがないよう、<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>を<span>収納{'規定': 1}</span>する<span>機器{'規定': 1}</span>の<span>形状{'手続': 1}</span><span>寸法{'手続': 1}</span>の<span>管理{'届出': 1}</span>、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span>、<span>質量{'規定': 1}</span>若しくは<span>同位体{'規定': 1}</span>の<span>組成{'規定': 1}</span>の<span>管理{'手続': 1}</span>若しくは<span>中性子{'規定': 1}</span><span>吸収{'規定': 1}</span>材の<span>形状{'規定': 1}</span><span>寸法{'規定': 1}</span>、<span>濃度{'規定': 1}</span><span>若しくは{'ただし': 1}</span><span>材質{'規定': 1}</span>の<span>管理{'規定': 1}</span>又はこれらの<span>組合せ{'規定': 1}</span>により<span>臨界{'規定': 1}</span>を<span>防止{'規定': 1}</span>するための<span>措置{'規定': 1}</span>その他の<span>適切{'規定': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>単一{'手続': 1}</span><span>ユニット{'手続': 1}</span>が<span>二つ{'手続': 1}</span>以上<span>存在{'手続': 1}</span>する<span>場合{'規定': 1}</span>において、<span>通常{'規定': 1}</span>時に<span>予想{'規定': 1}</span>される<span>機械{'手続': 1}</span>若しくは<span>器具{'規定': 1}</span>の<span>単一{'規定': 1}</span>の<span>故障{'規定': 1}</span>若しくはその<span>誤作動{'規定': 1}</span><span>又は{'ただし': 1}</span><span>運転{'規定': 1}</span>員の<span>単一{'規定': 1}</span>の<span>誤操作{'規定': 1}</span>が<span>起き{'ある': 1}</span>た<span>場合{'届出': 1}</span>に、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>が<span>臨界{'規定': 1}</span>に<span>達する{'ある': 1}</span>おそれがないよう、<span>単一{'手続': 1}</span><span>ユニット{'規定': 1}</span><span>相互{'規定': 1}</span>間の<span>適切{'手続': 1}</span>な<span>配置{'手続': 1}</span>の<span>維持{'規定': 1}</span><span>若しくは{'ただし': 1}</span><span>単一{'規定': 1}</span><span>ユニット{'規定': 1}</span>の<span>相互{'規定': 1}</span>間における<span>中性子{'手続': 1}</span>の<span>遮蔽{'規定': 1}</span>材の<span>使用{'手続': 1}</span>又はこれらの<span>組合せ{'規定': 1}</span>により<span>臨界{'規定': 1}</span>を<span>防止{'手続': 1}</span>するための<span>措置{'規定': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>臨界質量{'手続': 1}</span>以上の<span>ウラン{'手続': 1}</span>（<span>ウラン{'手続': 1}</span>二三五の<span>量{'規定': 1}</span>の<span>ウラン{'手続': 1}</span>の<span>総量{'規定': 1}</span>に対する<span>比率{'規定': 1}</span>が百分の五を<span>超える{'ある': 1}</span>ものに<span>限る{'ある': 1}</span>。）<span>又は{'ただし': 1}</span><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>臨界{'手続': 1}</span><span>警報{'規定': 1}</span><span>設備{'手続': 1}</span>その他の<span>臨界事故{'規定': 1}</span>を<span>防止{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（安全機能を有する施設の地盤）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>六条{'規定': 1}</span>第一項の<span>地震{'規定': 1}</span>力が<span>作用{'手続': 1}</span>した<span>場合{'届出': 1}</span>においても<span>当該{'規定': 1}</span><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>を十分に<span>支持{'手続': 1}</span>することができる<span>地盤{'手続': 1}</span>に<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（地震による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'届出': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'届出': 1}</span>は、これに<span>作用{'手続': 1}</span>する<span>地震{'手続': 1}</span>力（<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'手続': 1}</span>第七条第二項の<span>規定{'手続': 1}</span>により<span>算定{'規定': 1}</span>する<span>地震{'規定': 1}</span>力を<span>いう{'ある': 1}</span>。）による<span>損壊{'規定': 1}</span>により<span>公衆{'規定': 1}</span>に<span>放射線障害{'手続': 1}</span>を<span>及ぼす{'ある': 1}</span>ことがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>耐震{'規定': 1}</span><span>重要{'手続': 1}</span><span>施設{'手続': 1}</span>（<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第<span>六条{'手続': 1}</span>第一項に<span>規定{'手続': 1}</span>する<span>耐震{'規定': 1}</span><span>重要{'規定': 1}</span><span>施設{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）は、<span>基準地震動{'規定': 1}</span>による<span>地震{'手続': 1}</span>力（<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'規定': 1}</span><span>規則{'手続': 1}</span>第七条第三項に<span>規定{'手続': 1}</span>する<span>基準地震動{'規定': 1}</span>による<span>地震{'規定': 1}</span>力を<span>いう{'基づく': 1}</span>。以下同じ。）に対してその<span>安全性{'規定': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>耐震{'規定': 1}</span><span>重要{'手続': 1}</span><span>施設{'規定': 1}</span>は、<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'届出': 1}</span><span>規則{'規定': 1}</span>第七条第三項の<span>地震{'規定': 1}</span>により<span>生ずる{'取り消さ': 1}</span><span>斜面{'規定': 1}</span>の<span>崩壊{'規定': 1}</span>によりその<span>安全性{'規定': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（津波による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>基準{'手続': 1}</span><span>津波{'手続': 1}</span>（<span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'規定': 1}</span>第八条に<span>規定{'手続': 1}</span>する<span>基準{'規定': 1}</span><span>津波{'規定': 1}</span>を<span>いう{'ある': 1}</span>。第二十八条において同じ。）によりその<span>安全性{'規定': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（外部からの衝撃による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>は、<span>想定{'手続': 1}</span>される<span>自然現象{'手続': 1}</span>（<span>地震{'手続': 1}</span>及び<span>津波{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）によりその<span>安全性{'規定': 1}</span>を<span>損なう{'ある': 1}</span>おそれが<span>ある{'受ける': 1}</span><span>場合{'規定': 1}</span>において、<span>防護{'規定': 1}</span><span>措置{'手続': 1}</span>、<span>基礎{'規定': 1}</span><span>地盤{'手続': 1}</span>の<span>改良{'規定': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'届出': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>周辺{'手続': 1}</span><span>監視{'手続': 1}</span><span>区域{'規定': 1}</span>に<span>隣接{'規定': 1}</span>する<span>地域{'規定': 1}</span>に<span>事業所{'規定': 1}</span>、<span>鉄道{'規定': 1}</span>、<span>道路{'手続': 1}</span>その他の<span>外部{'手続': 1}</span>からの<span>衝撃{'規定': 1}</span>が<span>発生{'手続': 1}</span>するおそれが<span>ある{'取り消さ': 1}</span><span>要因{'手続': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'規定': 1}</span>において、<span>事業所{'規定': 1}</span>における<span>火災{'規定': 1}</span>又は<span>爆発事故{'規定': 1}</span>、<span>危険物{'規定': 1}</span>を<span>搭載{'手続': 1}</span>した<span>車両{'規定': 1}</span>、<span>船舶{'届出': 1}</span>又は<span>航空機{'規定': 1}</span>の<span>事故{'規定': 1}</span>その他の<span>敷地{'手続': 1}</span>及び<span>敷地{'規定': 1}</span><span>周辺{'手続': 1}</span>の<span>状況{'規定': 1}</span>から<span>想定{'規定': 1}</span>される<span>事象{'手続': 1}</span>であって<span>人為{'手続': 1}</span>によるもの（<span>故意{'届出': 1}</span>によるものを<span>除く{'ある': 1}</span>。）により<span>加工{'規定': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>が<span>損なわ{'ある': 1}</span>れないよう、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>航空機{'手続': 1}</span>の<span>墜落{'規定': 1}</span>により<span>加工{'届出': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>損なう{'ある': 1}</span>おそれが<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>において、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（加工施設への人の不法な侵入等の防止）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>を<span>設置{'手続': 1}</span>する<span>工場{'手続': 1}</span>又は<span>事業所{'規定': 1}</span>（以下この<span>章{'規定': 1}</span>において「<span>工場{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）は、<span>加工{'規定': 1}</span><span>施設{'規定': 1}</span>への<span>人{'手続': 1}</span>の<span>不法{'手続': 1}</span>な<span>侵入{'規定': 1}</span>、<span>加工{'規定': 1}</span><span>施設{'規定': 1}</span>に<span>不正{'手続': 1}</span>に<span>爆発{'規定': 1}</span>性<span>又は{'ただし': 1}</span><span>易{'規定': 1}</span><span>燃{'規定': 1}</span>性を<span>有する{'ある': 1}</span><span>物件{'規定': 1}</span>その<span>他人{'規定': 1}</span>に<span>危害{'規定': 1}</span>を<span>与え{'ある': 1}</span>、又は<span>他{'規定': 1}</span>の<span>物件{'規定': 1}</span>を<span>損傷{'手続': 1}</span>するおそれが<span>ある{'でき': 1}</span><span>物件{'手続': 1}</span>が<span>持ち込ま{'ある': 1}</span>れること及び<span>不正アクセス{'規定': 1}</span><span>行為{'規定': 1}</span>（<span>不正アクセス行為の禁止等に関する法律{'手続': 1}</span>（平成十一年<span>法律{'規定': 1}</span>第百二十八号）第<span>二条{'手続': 1}</span>第四項に<span>規定{'手続': 1}</span>する<span>不正アクセス{'規定': 1}</span><span>行為{'規定': 1}</span>を<span>いう{'ある': 1}</span>。）を<span>防止{'規定': 1}</span>するため、<span>適切{'規定': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（閉じ込めの機能）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところにより、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>又は<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>によって<span>汚染{'手続': 1}</span>された物（以下「<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>等」と<span>いう{'ある': 1}</span>。）を<span>限定{'手続': 1}</span>された<span>区域{'規定': 1}</span>に<span>閉じ込める{'ある': 1}</span><span>機能{'規定': 1}</span>を<span>保持{'手続': 1}</span>するように<span>設置{'回復': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>流体{'届出': 1}</span>状の<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>内包{'規定': 1}</span>する<span>容器{'届出': 1}</span><span>又は{'ただし': 1}</span><span>管{'規定': 1}</span>に<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>含ま{'ある': 1}</span>ない<span>流体{'規定': 1}</span>を<span>導く{'ある': 1}</span><span>管{'規定': 1}</span>を<span>接続{'回復': 1}</span>する<span>場合{'届出': 1}</span>には、<span>流体{'届出': 1}</span>状の<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>等が<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>含ま{'ある': 1}</span>ない<span>流体{'規定': 1}</span>を<span>導く{'ある': 1}</span><span>管{'規定': 1}</span>に<span>逆流{'手続': 1}</span>するおそれがない<span>構造{'規定': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">六<span>ふっ{'相当': 1}</span>化<span>ウラン{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>設備{'規定': 1}</span>であって、六<span>ふっ{'相当': 1}</span>化<span>ウラン{'届出': 1}</span>が<span>著しく{'なく': 1}</span><span>漏えい{'手続': 1}</span>するおそれが<span>ある{'取り消さ': 1}</span>ものは、<span>漏えい{'手続': 1}</span>の<span>拡大{'規定': 1}</span>を<span>適切{'手続': 1}</span>に<span>防止{'手続': 1}</span>し得る<span>構造{'手続': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>及びその<span>化合物{'規定': 1}</span><span>並び{'規定': 1}</span>にこれらの<span>物質{'手続': 1}</span>の<span>一又{'規定': 1}</span>は二以上を<span>含む{'ある': 1}</span><span>物質{'規定': 1}</span>（以下この<span>条{'規定': 1}</span>において「<span>プルトニウム{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）を<span>取り扱う{'ある': 1}</span><span>グローブボックス{'手続': 1}</span>は、その<span>内部{'規定': 1}</span>を<span>常時{'手続': 1}</span>負<span>圧{'規定': 1}</span><span>状態{'手続': 1}</span>に<span>維持{'規定': 1}</span>し得るものであり、かつ、<span>給{'手続': 1}</span><span>気{'手続': 1}</span>口及び<span>排気口{'規定': 1}</span>を<span>除き{'ある': 1}</span>、<span>密閉{'手続': 1}</span>することができる<span>構造{'届出': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>液体{'規定': 1}</span>状の<span>プルトニウム{'規定': 1}</span>等を<span>取り扱う{'ある': 1}</span><span>グローブボックス{'手続': 1}</span>は、<span>当該{'規定': 1}</span><span>物質{'届出': 1}</span>が<span>グローブボックス{'手続': 1}</span>外に<span>漏えい{'規定': 1}</span>するおそれがない<span>構造{'手続': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>密封{'届出': 1}</span>されていない<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>取り扱う{'ある': 1}</span><span>フード{'手続': 1}</span>は、その<span>開口部{'規定': 1}</span>の<span>風速{'規定': 1}</span>を<span>適切{'規定': 1}</span>に<span>維持{'手続': 1}</span>し得るものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>プルトニウム{'手続': 1}</span>等を<span>取り扱う{'ある': 1}</span><span>室{'手続': 1}</span>（<span>保管{'手続': 1}</span><span>廃棄{'規定': 1}</span>する<span>室{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）及び<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等による<span>汚染{'規定': 1}</span>の<span>発生{'手続': 1}</span>のおそれが<span>ある{'取り消さ': 1}</span><span>室{'手続': 1}</span>は、その<span>内部{'手続': 1}</span>を負<span>圧{'手続': 1}</span><span>状態{'規定': 1}</span>に<span>維持{'届出': 1}</span>し得るものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>液体{'手続': 1}</span>状の<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>取り扱う{'ある': 1}</span><span>設備{'届出': 1}</span>が<span>設置{'手続': 1}</span>される<span>施設{'届出': 1}</span>（<span>液体{'回復': 1}</span>状の<span>核{'届出': 1}</span><span>燃料{'手続': 1}</span><span>物質{'規定': 1}</span>等の<span>漏えい{'手続': 1}</span>が<span>拡大{'手続': 1}</span>するおそれが<span>ある{'受ける': 1}</span><span>部分{'手続': 1}</span>に<span>限る{'ある': 1}</span>。）は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>施設内{'規定': 1}</span>部の<span>床{'手続': 1}</span>面<span>及び{'ただし': 1}</span><span>壁面{'規定': 1}</span>は、<span>液体{'届出': 1}</span>状の<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等が<span>漏えい{'規定': 1}</span>し<span>難い{'なく': 1}</span>ものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical"><span>液体{'届出': 1}</span>状の<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>取り扱う{'ある': 1}</span><span>設備{'手続': 1}</span>の<span>周辺部{'届出': 1}</span>又は<span>施設{'規定': 1}</span>外に<span>通ずる{'ある': 1}</span><span>出入口{'手続': 1}</span>若しくはその<span>周辺部{'規定': 1}</span>には、<span>液体{'届出': 1}</span>状の<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等が<span>施設{'規定': 1}</span>外へ<span>漏えい{'手続': 1}</span>することを<span>防止{'手続': 1}</span>するための<Ruby><span>堰{'手続': 1}</span><Rt><span>せきが{'規定': 1}</span><span>設置{'手続': 1}</span></Rt></Ruby>されていること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>施設内{'規定': 1}</span>部の<span>床{'規定': 1}</span>面が<span>隣接{'規定': 1}</span>する<span>施設{'規定': 1}</span>の<span>床{'手続': 1}</span>面又は<span>地表{'規定': 1}</span>面<span>より{'とともに': 1}</span><span>低い{'なく': 1}</span><span>場合{'規定': 1}</span>であって、<span>液体{'届出': 1}</span>状の<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等が<span>施設{'規定': 1}</span>外へ<span>漏えい{'手続': 1}</span>するおそれがないときは、この限りでない。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical"><span>工場{'手続': 1}</span>等の<span>外{'手続': 1}</span>に<span>排水{'手続': 1}</span>を<span>排出{'規定': 1}</span>する<span>排水路{'手続': 1}</span>（<span>湧水{'規定': 1}</span>に係るものであって<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等により<span>汚染{'規定': 1}</span>するおそれが<span>ある{'取り消さ': 1}</span><span>管理{'手続': 1}</span><span>区域{'規定': 1}</span>内に<span>開口部{'規定': 1}</span>がないものを<span>除く{'ある': 1}</span>。）の上に<span>施設{'規定': 1}</span>の<span>床{'手続': 1}</span>面がないようにすること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>当該{'規定': 1}</span><span>排水{'届出': 1}</span>路に<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等により<span>汚染{'届出': 1}</span>された<span>排水{'手続': 1}</span>を<span>安全{'届出': 1}</span>に<span>廃棄{'手続': 1}</span>する<span>設備{'手続': 1}</span><span>及び{'ただし': 1}</span>第十九条第二号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>計測{'手続': 1}</span>する<span>設備{'規定': 1}</span>が<span>設置{'手続': 1}</span>されている<span>場合{'規定': 1}</span>は、この限りでない。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（火災等による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>は、<span>火災{'手続': 1}</span>又は<span>爆発{'規定': 1}</span>の<span>影響{'規定': 1}</span>を<span>受ける{'ある': 1}</span>ことにより<span>加工{'届出': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>に<span>著しい{'なく': 1}</span><span>支障{'規定': 1}</span>が<span>生ずる{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>において、<span>消火{'規定': 1}</span><span>設備{'規定': 1}</span>（<span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'届出': 1}</span><span>規則{'手続': 1}</span>第五条第一項に<span>規定{'手続': 1}</span>する<span>消火{'規定': 1}</span><span>設備{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）及び<span>警報{'規定': 1}</span><span>設備{'規定': 1}</span>（<span>警報{'規定': 1}</span><span>設備{'規定': 1}</span>に<span>あっ{'ある': 1}</span>ては<span>自動火災報知設備{'手続': 1}</span>、<span>漏電火災警報器{'規定': 1}</span>その他の<span>火災{'規定': 1}</span>の<span>発生{'規定': 1}</span>を<span>自動的{'手続': 1}</span>に<span>検知{'手続': 1}</span>し、<span>警報{'規定': 1}</span>を<span>発する{'ある': 1}</span>ものに<span>限る{'ある': 1}</span>。以下同じ。）が<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>消火{'規定': 1}</span><span>設備{'手続': 1}</span><span>及び{'ただし': 1}</span><span>警報{'規定': 1}</span><span>設備{'規定': 1}</span>は、その<span>故障{'規定': 1}</span>、<span>損壊{'手続': 1}</span><span>又は{'ただし': 1}</span><span>異常{'規定': 1}</span>な<span>作動{'規定': 1}</span>により<span>安全{'規定': 1}</span>上<span>重要{'手続': 1}</span>な<span>施設{'規定': 1}</span>の<span>安全機能{'手続': 1}</span>に<span>著しい{'なく': 1}</span><span>支障{'手続': 1}</span>を<span>及ぼす{'ある': 1}</span>おそれがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>であって、<span>火災{'手続': 1}</span>又は<span>爆発{'規定': 1}</span>により<span>損傷{'規定': 1}</span>を<span>受ける{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span>ものは、<span>可能{'規定': 1}</span>な限り<span>不燃{'規定': 1}</span>性又は難<span>燃{'規定': 1}</span>性の<span>材料{'規定': 1}</span>を<span>使用{'規定': 1}</span>するとともに、<span>必要{'手続': 1}</span>に<span>応じ{'ある': 1}</span>て<span>防火{'手続': 1}</span><span>壁{'規定': 1}</span>の<span>設置{'規定': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>水素{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>設備{'規定': 1}</span>（<span>爆発{'規定': 1}</span>の<span>危険性{'手続': 1}</span>がないものを<span>除く{'ある': 1}</span>。）は、<span>適切{'規定': 1}</span>に<span>接地{'届出': 1}</span>されているものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>水素{'規定': 1}</span>その他の<span>可燃性ガス{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>設備{'規定': 1}</span>（<span>爆発{'規定': 1}</span>の<span>危険性{'手続': 1}</span>がないものを<span>除く{'ある': 1}</span>。）を<span>設置{'規定': 1}</span>する<span>グローブボックス{'手続': 1}</span>及び<span>室{'規定': 1}</span>は、<span>当該{'手続': 1}</span><span>設備{'手続': 1}</span>から<span>可燃性ガス{'手続': 1}</span>が<span>漏えい{'手続': 1}</span>した<span>場合{'規定': 1}</span>においてもこれが<span>滞留{'手続': 1}</span>しない<span>構造{'規定': 1}</span>とすることその他の<span>爆発{'規定': 1}</span>を<span>防止{'規定': 1}</span>するための<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>焼結{'手続': 1}</span><span>設備{'手続': 1}</span>その他の<span>加熱{'手続': 1}</span>を<span>行う{'ある': 1}</span><span>設備{'手続': 1}</span>（<span>次項{'手続': 1}</span>において「<span>焼結{'規定': 1}</span><span>設備{'手続': 1}</span>等」と<span>いう{'ある': 1}</span>。）は、<span>当該{'規定': 1}</span><span>設備{'手続': 1}</span>の<span>熱{'規定': 1}</span>的<span>制限{'手続': 1}</span>値を<span>超え{'ある': 1}</span>て<span>加熱{'手続': 1}</span>されるおそれがないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>水素{'規定': 1}</span>その他の<span>可燃性ガス{'手続': 1}</span>を<span>使用{'手続': 1}</span>する<span>焼結{'規定': 1}</span><span>設備{'手続': 1}</span>等（<span>爆発{'規定': 1}</span>の<span>危険性{'手続': 1}</span>がないものを<span>除く{'ある': 1}</span>。）は、前三項に<span>定める{'ある': 1}</span>ところによる<span>ほか{'手続': 1}</span>、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところに<span>よら{'基づく': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>焼結{'規定': 1}</span><span>設備{'手続': 1}</span>等の<span>内部{'規定': 1}</span>において<span>空気{'手続': 1}</span>の<span>混入{'規定': 1}</span>により<span>可燃性ガス{'規定': 1}</span>が<span>爆発{'手続': 1}</span>することを<span>防止{'規定': 1}</span>するための<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>焼結{'手続': 1}</span><span>設備{'手続': 1}</span>等から<span>排出{'規定': 1}</span>される<span>可燃性ガス{'手続': 1}</span>を<span>滞留{'手続': 1}</span>すること<span>なく{'著しい': 1}</span><span>安全{'手続': 1}</span>に<span>排出{'規定': 1}</span>するための<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>焼結{'手続': 1}</span><span>設備{'手続': 1}</span>等の<span>内部{'手続': 1}</span>で<span>可燃性ガス{'手続': 1}</span>を<span>燃焼{'手続': 1}</span>させるものは、<span>燃焼{'規定': 1}</span>が<span>停止{'手続': 1}</span>した<span>場合{'規定': 1}</span>に<span>可燃性ガス{'規定': 1}</span>の<span>供給{'規定': 1}</span>を<span>自動的{'規定': 1}</span>に<span>停止{'届出': 1}</span>する<span>構造{'規定': 1}</span>とすること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（加工施設内における<Ruby>溢<Rt>いつ</Rt>
+</Ruby>水による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>は、<span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>内における<Ruby><span>溢{'手続': 1}</span><Rt>いつ</Rt></Ruby>水の<span>発生{'手続': 1}</span>によりその<span>安全性{'手続': 1}</span>を<span>損なう{'ある': 1}</span>おそれが<span>ある{'受ける': 1}</span><span>場合{'規定': 1}</span>において、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（安全避難通路等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>設備{'規定': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その<span>位置{'手続': 1}</span>を<span>明確{'規定': 1}</span>かつ<span>恒久{'手続': 1}</span>的に<span>表示{'手続': 1}</span>することにより<span>容易{'規定': 1}</span>に<span>識別{'規定': 1}</span>できる<span>安全{'規定': 1}</span><span>避難{'規定': 1}</span><span>通路{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>照明{'規定': 1}</span>用の<span>電源{'手続': 1}</span>が<span>喪失{'規定': 1}</span>した<span>場合{'規定': 1}</span>においても<span>機能{'規定': 1}</span>を<span>損なわ{'ある': 1}</span>ない<span>避難{'手続': 1}</span>用の<span>照明{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設計{'規定': 1}</span><span>基準{'手続': 1}</span><span>事故{'手続': 1}</span>が<span>発生{'手続': 1}</span>した<span>場合{'手続': 1}</span>に<span>用いる{'ある': 1}</span><span>照明{'届出': 1}</span>（<span>前{'手続': 1}</span>号の<span>避難{'規定': 1}</span>用の<span>照明{'規定': 1}</span>を<span>除く{'取り消さ': 1}</span>。）及びその<span>専用{'規定': 1}</span>の<span>電源{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（安全機能を有する施設）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>は、<span>通常{'手続': 1}</span>時及び<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'規定': 1}</span>時に<span>想定{'手続': 1}</span>される<span>全て{'規定': 1}</span>の<span>環境{'規定': 1}</span><span>条件{'規定': 1}</span>において、その<span>安全機能{'規定': 1}</span>を<span>発揮{'届出': 1}</span>することができるように<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'届出': 1}</span>は、<span>当該{'手続': 1}</span><span>安全機能{'届出': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>の<span>安全機能{'手続': 1}</span>を<span>確認{'手続': 1}</span>するための<span>検査{'届出': 1}</span>又は<span>試験{'規定': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>安全機能{'規定': 1}</span>を<span>健全{'手続': 1}</span>に<span>維持{'規定': 1}</span>するための<span>保守{'手続': 1}</span>又は<span>修理{'規定': 1}</span>ができるように<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'届出': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'届出': 1}</span>に<span>属する{'取り消さ': 1}</span><span>設備{'手続': 1}</span>であって、<span>クレーン{'規定': 1}</span>その他の<span>機器{'規定': 1}</span><span>又は{'ただし': 1}</span><span>配管{'規定': 1}</span>の<span>損壊{'規定': 1}</span>に<span>伴う{'ある': 1}</span><span>飛散{'規定': 1}</span>物により<span>損傷{'規定': 1}</span>を<span>受け{'ある': 1}</span>、<span>加工{'回復': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>損なう{'ある': 1}</span>ことが<span>想定{'規定': 1}</span>されるものは、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'基づく': 1}</span><span>施設{'手続': 1}</span>は、<span>他{'手続': 1}</span>の<span>原子力{'手続': 1}</span><span>施設{'規定': 1}</span>と<span>共用{'手続': 1}</span>し、又は<span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'届出': 1}</span>に<span>属する{'ある': 1}</span><span>設備{'規定': 1}</span>を一の<span>加工{'規定': 1}</span><span>施設{'規定': 1}</span>において<span>共用{'手続': 1}</span>する<span>場合{'規定': 1}</span>には、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>が<span>損なわ{'ある': 1}</span>れないように<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（材料及び構造）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>容器{'手続': 1}</span>及び<span>管{'規定': 1}</span>並びにこれらを<span>支持{'規定': 1}</span>する<span>構造物{'手続': 1}</span>のうち、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>する上で<span>重要{'手続': 1}</span>なもの（以下この<span>項{'手続': 1}</span>において「<span>容器{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）の<span>材料{'手続': 1}</span>及び<span>構造{'規定': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところに<span>よら{'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'手続': 1}</span>において、<span>第一{'手続': 1}</span>号及び第三号の<span>規定{'手続': 1}</span>については、<span>法{'手続': 1}</span>第十六条の三第二項に<span>規定{'手続': 1}</span>する<span>使用{'規定': 1}</span>前<span>事業者{'規定': 1}</span><span>検査{'規定': 1}</span>の<span>確認{'規定': 1}</span>を<span>行う{'ある': 1}</span>までの<span>間{'規定': 1}</span><span>適用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>容器{'規定': 1}</span>等に<span>使用{'規定': 1}</span>する<span>材料{'規定': 1}</span>は、その<span>使用{'規定': 1}</span>される<span>圧力{'規定': 1}</span>、<span>温度{'規定': 1}</span>、<span>荷重{'規定': 1}</span>その他の<span>使用{'規定': 1}</span><span>条件{'規定': 1}</span>に対して<span>適切{'規定': 1}</span>な<span>機械的{'手続': 1}</span><span>強度{'手続': 1}</span><span>及び{'ただし': 1}</span><span>化学{'規定': 1}</span>的<span>成分{'規定': 1}</span>を<span>有する{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>容器{'手続': 1}</span>等の<span>構造{'手続': 1}</span>及び<span>強度{'規定': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>設計{'手続': 1}</span>上<span>定める{'ある': 1}</span><span>条件{'手続': 1}</span>において、<span>全体{'規定': 1}</span>的な<span>変形{'規定': 1}</span>を<span>弾性{'規定': 1}</span>域に<span>抑える{'ある': 1}</span>こと。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>容器{'規定': 1}</span>等に<span>属する{'ある': 1}</span><span>伸縮継手{'届出': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>設計{'手続': 1}</span>上<span>定める{'ある': 1}</span><span>条件{'規定': 1}</span>で<span>応力{'規定': 1}</span>が<span>繰り返し{'ある': 1}</span><span>加わる{'ある': 1}</span><span>場合{'規定': 1}</span>において、<span>疲労{'規定': 1}</span><span>破壊{'届出': 1}</span>が<span>生じ{'ある': 1}</span>ないこと。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>設計{'手続': 1}</span>上<span>定める{'ある': 1}</span><span>条件{'規定': 1}</span>において、<span>座屈{'規定': 1}</span>が<span>生じ{'ある': 1}</span>ないこと。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>容器{'規定': 1}</span>等の<span>主要{'規定': 1}</span>な<span>溶接{'届出': 1}</span>部（<span>溶接{'手続': 1}</span><span>金属{'手続': 1}</span>部及び<span>熱影響部{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>不連続{'規定': 1}</span>で<span>特異{'規定': 1}</span>な<span>形状{'規定': 1}</span>でないものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>溶接{'規定': 1}</span>による<span>割れ{'規定': 1}</span>が<span>生ずる{'ある': 1}</span>おそれが<span>なく{'著しい': 1}</span>、<span>かつ{'ただし': 1}</span>、<span>健全{'規定': 1}</span>な<span>溶接{'規定': 1}</span>部の<span>確保{'手続': 1}</span>に<span>有害{'手続': 1}</span>な<span>溶{'手続': 1}</span>込み<span>不良{'手続': 1}</span>その他の<span>欠陥{'手続': 1}</span>がないことを<span>非破壊{'規定': 1}</span><span>試験{'規定': 1}</span>により<span>確認{'規定': 1}</span>したものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>適切{'手続': 1}</span>な<span>強度{'手続': 1}</span>を<span>有する{'ある': 1}</span>ものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>機械{'規定': 1}</span><span>試験{'規定': 1}</span>その他の<span>評価{'手続': 1}</span><span>方法{'手続': 1}</span>により<span>適切{'手続': 1}</span>な<span>溶接{'手続': 1}</span><span>施工{'手続': 1}</span>法及び<span>溶接{'規定': 1}</span><span>設備{'手続': 1}</span><span>並びに{'ただし': 1}</span><span>適切{'規定': 1}</span>な<span>技能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>溶接{'手続': 1}</span>士であることを<span>あらかじめ{'相当': 1}</span><span>確認{'規定': 1}</span>したものにより<span>溶接{'規定': 1}</span>したものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'手続': 1}</span>に<span>属する{'取り消さ': 1}</span><span>容器{'手続': 1}</span>及び<span>管{'規定': 1}</span>のうち、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>する上で<span>重要{'規定': 1}</span>なものは、<span>適切{'手続': 1}</span>な<span>耐圧{'規定': 1}</span><span>試験{'手続': 1}</span>又は<span>漏えい{'規定': 1}</span><span>試験{'規定': 1}</span>を<span>行っ{'ある': 1}</span>たとき、これに<span>耐え{'ある': 1}</span>、かつ、<span>著しい{'なく': 1}</span><span>漏えい{'手続': 1}</span>がないように<span>設置{'手続': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（搬送設備）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>を<span>搬送{'規定': 1}</span>する<span>設備{'規定': 1}</span>（<span>人{'手続': 1}</span>の<span>安全{'手続': 1}</span>に<span>著しい{'なく': 1}</span><span>支障{'手続': 1}</span>を<span>及ぼす{'生ずる': 1, 'ある': 1}</span>おそれがないものを<span>除く{'ある': 1}</span>。）は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>通常{'規定': 1}</span><span>搬送{'規定': 1}</span>する<span>必要{'手続': 1}</span>が<span>ある{'基づく': 1}</span><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>を<span>搬送{'規定': 1}</span>する<span>能力{'規定': 1}</span>を<span>有する{'ある': 1}</span>ものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'届出': 1}</span><span>物質{'規定': 1}</span>を<span>搬送{'手続': 1}</span>するための<span>動力{'規定': 1}</span>の<span>供給{'規定': 1}</span>が<span>停止{'手続': 1}</span>した<span>場合{'届出': 1}</span>に、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>を<span>安全{'規定': 1}</span>に<span>保持{'手続': 1}</span>しているものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（核燃料物質の貯蔵施設）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>を<span>貯蔵{'規定': 1}</span>する<span>設備{'手続': 1}</span>には、<span>必要{'手続': 1}</span>に<span>応じ{'ある': 1}</span>て<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'手続': 1}</span>の<span>崩壊熱{'規定': 1}</span>を<span>安全{'届出': 1}</span>に<span>除去{'手続': 1}</span>できる<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（警報設備等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、その<span>設備{'手続': 1}</span>の<span>機能{'手続': 1}</span>の<span>喪失{'手続': 1}</span>、<span>誤操作{'規定': 1}</span>その他の<span>要因{'手続': 1}</span>により<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>著しく{'なく': 1}</span><span>損なう{'ある': 1}</span>おそれが<span>生じ{'ある': 1}</span>たとき、<span>次{'手続': 1}</span>条<span>第一{'規定': 1}</span>号の<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span>が<span>著しく{'なく': 1}</span><span>上昇{'手続': 1}</span>したとき又は<span>液体{'規定': 1}</span>状の<span>放射性廃棄物{'届出': 1}</span>の<span>廃棄{'規定': 1}</span><span>施設{'規定': 1}</span>から<span>液体{'手続': 1}</span>状の<span>放射性物質{'手続': 1}</span>が<span>著しく{'なく': 1}</span><span>漏えい{'手続': 1}</span>するおそれが<span>生じ{'ある': 1}</span>たときに、これらを<span>確実{'規定': 1}</span>に<span>検知{'規定': 1}</span>して<span>速やか{'規定': 1}</span>に<span>警報{'規定': 1}</span>する<span>設備{'規定': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'届出': 1}</span><span>施設{'規定': 1}</span>には、その<span>設備{'手続': 1}</span>の<span>機能{'手続': 1}</span>の<span>喪失{'手続': 1}</span>、<span>誤操作{'規定': 1}</span>その他の<span>要因{'手続': 1}</span>により<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>著しく{'なく': 1}</span><span>損なう{'ある': 1}</span>おそれが<span>生じ{'ある': 1}</span>たときに、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>限定{'手続': 1}</span>された<span>区域{'手続': 1}</span>に<span>閉じ込める{'ある': 1}</span><span>能力{'規定': 1}</span>の<span>維持{'手続': 1}</span>、<span>熱{'手続': 1}</span>的、<span>化学{'手続': 1}</span>的若しくは<span>核{'規定': 1}</span>的<span>制限{'規定': 1}</span>値の<span>維持{'規定': 1}</span>又は<span>火災{'規定': 1}</span>若しくは<span>爆発{'規定': 1}</span>の<span>防止{'規定': 1}</span>のための<span>設備{'規定': 1}</span>の<span>作動{'規定': 1}</span>を<span>速やか{'規定': 1}</span>に、かつ、<span>自動的{'規定': 1}</span>に<span>開始{'手続': 1}</span>させる<span>回路{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleCaption>（放射線管理施設）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>工場{'手続': 1}</span>等には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>計測{'手続': 1}</span>する<span>放射線{'規定': 1}</span><span>管理{'規定': 1}</span><span>施設{'規定': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'手続': 1}</span>において、<span>当該{'手続': 1}</span><span>事項{'規定': 1}</span>を<span>直接{'手続': 1}</span><span>計測{'規定': 1}</span>することが<span>困難{'手続': 1}</span>な<span>場合{'手続': 1}</span>は、これを<span>間接的{'手続': 1}</span>に<span>計測{'規定': 1}</span>する<span>施設{'規定': 1}</span>を<span>もっ{'ある': 1}</span>て<span>代える{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>放射性廃棄物{'規定': 1}</span>の<span>排気口{'手続': 1}</span>又はこれに<span>近接{'届出': 1}</span>する箇所における<span>排気{'届出': 1}</span>中の<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>放射性廃棄物{'規定': 1}</span>の<span>排水口{'手続': 1}</span>又はこれに<span>近接{'規定': 1}</span>する箇所における<span>排水{'届出': 1}</span>中の<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>管理{'手続': 1}</span><span>区域{'規定': 1}</span>における<span>外部{'規定': 1}</span><span>放射線{'規定': 1}</span>に係る<span>原子力規制委員会{'手続': 1}</span>の<span>定める{'ある': 1}</span><span>線量当量{'手続': 1}</span>、<span>空気{'規定': 1}</span>中の<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span>及び<span>放射性物質{'規定': 1}</span>によって<span>汚染{'規定': 1}</span>された物の<span>表面{'手続': 1}</span>の<span>放射性物質{'届出': 1}</span>の<span>密度{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（廃棄施設）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'規定': 1}</span>する<span>設備{'規定': 1}</span>（<span>放射性廃棄物{'手続': 1}</span>を<span>保管{'規定': 1}</span><span>廃棄{'規定': 1}</span>する<span>設備{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>周辺{'規定': 1}</span><span>監視{'手続': 1}</span><span>区域{'届出': 1}</span>の<span>外{'規定': 1}</span>の<span>空気{'手続': 1}</span>中及び<span>周辺{'規定': 1}</span><span>監視{'手続': 1}</span><span>区域{'規定': 1}</span>の<span>境界{'規定': 1}</span>における<span>水中{'届出': 1}</span>の<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span>が、<span>それぞれ{'規定': 1}</span><span>原子力規制委員会{'手続': 1}</span>の<span>定める{'ある': 1}</span><span>濃度{'手続': 1}</span><span>限度{'規定': 1}</span>以下に<span>なる{'ある': 1}</span>ように<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>において<span>発生{'届出': 1}</span>する<span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'規定': 1}</span>する<span>能力{'規定': 1}</span>を<span>有する{'ある': 1}</span>ものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>放射性廃棄物{'届出': 1}</span>以外の<span>廃棄物{'届出': 1}</span>を<span>廃棄{'規定': 1}</span>する<span>設備{'規定': 1}</span>と<span>区別{'規定': 1}</span>して<span>設置{'届出': 1}</span>すること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>放射性廃棄物{'規定': 1}</span>以外の<span>流体{'規定': 1}</span>状の<span>廃棄物{'届出': 1}</span>を<span>流体{'届出': 1}</span>状の<span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'手続': 1}</span>する<span>設備{'規定': 1}</span>に<span>導く{'ある': 1}</span><span>場合{'届出': 1}</span>において、<span>流体{'届出': 1}</span>状の<span>放射性廃棄物{'規定': 1}</span>が<span>放射性廃棄物{'届出': 1}</span>以外の<span>流体{'規定': 1}</span>状の<span>廃棄物{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>設備{'手続': 1}</span>に<span>逆流{'届出': 1}</span>するおそれがないときは、この限りでない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>気体{'届出': 1}</span>状の<span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'手続': 1}</span>する<span>設備{'手続': 1}</span>は、<span>排気口{'届出': 1}</span>以外の箇所において<span>気体{'規定': 1}</span>状の<span>放射性廃棄物{'手続': 1}</span>を<span>排出{'届出': 1}</span>することがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>気体{'届出': 1}</span>状の<span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'手続': 1}</span>する<span>設備{'届出': 1}</span>に<span>ろ過{'手続': 1}</span><span>装置{'手続': 1}</span>を<span>設ける{'ある': 1}</span><span>場合{'届出': 1}</span>に<span>あっ{'基づく': 1}</span>ては、<span>ろ過{'届出': 1}</span><span>装置{'手続': 1}</span>の<span>機能{'規定': 1}</span>が<span>適切{'手続': 1}</span>に<span>維持{'回復': 1}</span>し得るものであり、<span>かつ{'ただし': 1}</span>、<span>ろ過{'届出': 1}</span><span>装置{'手続': 1}</span>の<span>核{'手続': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等による<span>汚染{'規定': 1}</span>の<span>除去{'回復': 1}</span>又は<span>ろ過{'規定': 1}</span><span>装置{'手続': 1}</span>の<span>取替え{'ある': 1}</span>が<span>容易{'規定': 1}</span>な<span>構造{'手続': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>液体{'届出': 1}</span>状の<span>放射性廃棄物{'届出': 1}</span>を<span>廃棄{'規定': 1}</span>する<span>設備{'規定': 1}</span>は、<span>排水口{'届出': 1}</span>以外の箇所において<span>液体{'規定': 1}</span>状の<span>放射性廃棄物{'手続': 1}</span>を<span>排出{'規定': 1}</span>することがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（核燃料物質等による汚染の防止）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>のうち<span>人{'手続': 1}</span>が<span>頻繁{'手続': 1}</span>に<span>出入り{'届出': 1}</span>する<span>建物{'規定': 1}</span><span>内部{'規定': 1}</span>の<span>壁{'規定': 1}</span>、<span>床{'回復': 1}</span>その他の<span>部分{'届出': 1}</span>であって、<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等により<span>汚染{'規定': 1}</span>されるおそれが<span>あり{'ある': 1}</span>、かつ、<span>人{'手続': 1}</span>が<span>触れる{'ある': 1}</span>おそれが<span>ある{'基づく': 1}</span>ものの<span>表面{'届出': 1}</span>は、<span>核{'規定': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等による<span>汚染{'規定': 1}</span>を<span>除去{'手続': 1}</span>し<span>やすい{'なく': 1}</span>ものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（遮蔽）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>安全機能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>施設{'規定': 1}</span>は、<span>通常{'手続': 1}</span>時において<span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>からの直<span>接線{'手続': 1}</span>及び<span>スカイ{'規定': 1}</span><span>シャイン{'手続': 1}</span>線による<span>工場{'規定': 1}</span>等<span>周辺{'規定': 1}</span>の<span>線量{'規定': 1}</span>が<span>原子力規制委員会{'手続': 1}</span>の<span>定める{'ある': 1}</span><span>線量限度{'手続': 1}</span>を十分<span>下回る{'ある': 1}</span>ように<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>工場{'手続': 1}</span>等内における<span>外部{'規定': 1}</span><span>放射線{'規定': 1}</span>による<span>放射線障害{'規定': 1}</span>を<span>防止{'手続': 1}</span>する<span>必要{'手続': 1}</span>が<span>ある{'基づく': 1}</span><span>場所{'手続': 1}</span>には、<span>放射線障害{'手続': 1}</span>を<span>防止{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>遮蔽{'届出': 1}</span><span>能力{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>遮蔽{'手続': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られたものでなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'届出': 1}</span>において、<span>当該{'手続': 1}</span><span>遮蔽{'規定': 1}</span><span>設備{'手続': 1}</span>に<span>開口部{'手続': 1}</span>又は<span>配管{'規定': 1}</span>その他の<span>貫通{'手続': 1}</span>部が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>であって<span>放射線障害{'規定': 1}</span>を<span>防止{'規定': 1}</span>するために<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>には、<span>放射線{'手続': 1}</span>の<span>漏えい{'規定': 1}</span>を<span>防止{'規定': 1}</span>するための<span>措置{'規定': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleCaption>（換気設備）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'回復': 1}</span><span>施設{'届出': 1}</span>内の<span>核{'回復': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等により<span>汚染{'手続': 1}</span>された<span>空気{'手続': 1}</span>による<span>放射線障害{'手続': 1}</span>を<span>防止{'手続': 1}</span>する<span>必要{'手続': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場所{'手続': 1}</span>には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところにより<span>換気設備{'規定': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>放射線障害{'手続': 1}</span>を<span>防止{'規定': 1}</span>するために<span>必要{'手続': 1}</span>な<span>換気{'手続': 1}</span><span>能力{'規定': 1}</span>を<span>有する{'ある': 1}</span>ものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等により<span>汚染{'手続': 1}</span>された<span>空気{'手続': 1}</span>が<span>逆流{'回復': 1}</span>するおそれがない<span>構造{'届出': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>ろ過{'手続': 1}</span><span>装置{'手続': 1}</span>を<span>設ける{'ある': 1}</span><span>場合{'届出': 1}</span>に<span>あっ{'基づく': 1}</span>ては、<span>ろ過{'届出': 1}</span><span>装置{'手続': 1}</span>の<span>機能{'規定': 1}</span>が<span>適切{'手続': 1}</span>に<span>維持{'回復': 1}</span>し得るものであり、<span>かつ{'ただし': 1}</span>、<span>ろ過{'届出': 1}</span><span>装置{'手続': 1}</span>の<span>核{'手続': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等による<span>汚染{'規定': 1}</span>の<span>除去{'回復': 1}</span>又は<span>ろ過{'規定': 1}</span><span>装置{'手続': 1}</span>の<span>取替え{'ある': 1}</span>が<span>容易{'規定': 1}</span>な<span>構造{'手続': 1}</span>であること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleCaption>（非常用電源設備）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>には、<span>外部{'手続': 1}</span><span>電源{'手続': 1}</span><span>系統{'手続': 1}</span>からの<span>電気{'手続': 1}</span>の<span>供給{'規定': 1}</span>が<span>停止{'手続': 1}</span>した<span>場合{'規定': 1}</span>において、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span>の<span>機能{'規定': 1}</span>を<span>維持{'手続': 1}</span>するために、<span>内燃機関{'手続': 1}</span>を<span>原動力{'規定': 1}</span>とする<span>発電設備{'手続': 1}</span><span>又は{'ただし': 1}</span>これと<span>同等{'規定': 1}</span>以上の<span>機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>非常用電源{'規定': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>するために<span>特に{'相当': 1}</span><span>必要{'規定': 1}</span>な<span>設備{'手続': 1}</span>には、<span>無停電電源装置{'手続': 1}</span>又はこれと<span>同等{'規定': 1}</span>以上の<span>機能{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleCaption>（通信連絡設備）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>工場{'規定': 1}</span>等には、<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>が<span>発生{'届出': 1}</span>した<span>場合{'規定': 1}</span>において<span>工場{'規定': 1}</span>等<span>内の人{'規定': 1}</span>に対し<span>必要{'規定': 1}</span>な<span>指示{'手続': 1}</span>ができるよう、<span>警報{'手続': 1}</span><span>装置{'規定': 1}</span>及び<span>多様性{'規定': 1}</span>を<span>確保{'手続': 1}</span>した<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>工場{'規定': 1}</span>等には、<span>設計{'算定': 1, '規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>が<span>発生{'回復': 1}</span>した<span>場合{'規定': 1}</span>において<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>外の<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>をする<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場所{'手続': 1}</span>と<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>ができるよう、<span>多様性{'手続': 1}</span>を<span>確保{'規定': 1}</span>した<span>専用{'手続': 1}</span><span>通信回線{'規定': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　重大事故等対処施設</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（重大事故等対処施設の地盤）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span>は、<span>次{'手続': 1}</span>の各号に<span>掲げる{'基づく': 1}</span><span>施設{'規定': 1}</span>の<span>区分{'手続': 1}</span>に<span>応じ{'ある': 1}</span>、<span>それぞれ{'手続': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>地盤{'届出': 1}</span>に<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>のうち<span>常設{'規定': 1}</span>のもの（<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>のうち可<span>搬型{'規定': 1}</span>のもの（以下「可<span>搬型{'手続': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>」と<span>いう{'ある': 1}</span>。）と<span>接続{'規定': 1}</span>するものに<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span>可<span>搬型{'規定': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>と<span>接続{'規定': 1}</span>するために<span>必要{'届出': 1}</span>な<span>プルトニウム{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>内の<span>常設{'手続': 1}</span>の<span>ケーブル{'手続': 1}</span>その他の<span>機器{'届出': 1}</span>を<span>含む{'ある': 1}</span>。以下「<span>常設{'規定': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>」と<span>いう{'基づく': 1}</span>。）であって、<span>耐震{'規定': 1}</span><span>重要{'手続': 1}</span><span>施設{'規定': 1}</span>に<span>属する{'ある': 1}</span><span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>に<span>対処{'手続': 1}</span>するための<span>設備{'手続': 1}</span>が<span>有する{'基づく': 1}</span><span>機能{'規定': 1}</span>を<span>代替{'手続': 1}</span>するもの（以下「<span>常設{'手続': 1}</span><span>耐震{'手続': 1}</span><span>重要{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>」と<span>いう{'ある': 1}</span>。）が<span>設置{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'回復': 1}</span><span>施設{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>基準地震動{'手続': 1}</span>による<span>地震{'手続': 1}</span>力が<span>作用{'手続': 1}</span>した<span>場合{'届出': 1}</span>においても<span>当該{'規定': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'回復': 1}</span><span>施設{'手続': 1}</span>を十分に<span>支持{'規定': 1}</span>することができる<span>地盤{'手続': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>常設{'手続': 1}</span><span>耐震{'手続': 1}</span><span>重要{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>以外の<span>常設{'規定': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'届出': 1}</span>が<span>設置{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'手続': 1}</span>第七条第二項の<span>規定{'手続': 1}</span>により<span>算定{'規定': 1}</span>する<span>地震{'規定': 1}</span>力が<span>作用{'手続': 1}</span>した<span>場合{'届出': 1}</span>においても<span>当該{'規定': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>施設{'手続': 1}</span>を十分に<span>支持{'規定': 1}</span>することができる<span>地盤{'手続': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（地震による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span>は、<span>次{'手続': 1}</span>の各号に<span>掲げる{'基づく': 1}</span><span>施設{'規定': 1}</span>の<span>区分{'手続': 1}</span>に<span>応じ{'ある': 1}</span>、<span>それぞれ{'届出': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>ところにより<span>設置{'手続': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>常設{'手続': 1}</span><span>耐震{'手続': 1}</span><span>重要{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'届出': 1}</span>が<span>設置{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'回復': 1}</span><span>施設{'届出': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>基準地震動{'手続': 1}</span>による<span>地震{'手続': 1}</span>力に対して<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>に<span>至る{'ある': 1}</span>おそれがある<span>事故{'手続': 1}</span>（<span>設計{'手続': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）又は<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>（以下「<span>重大{'手続': 1}</span><span>事故{'届出': 1}</span>等」と<span>総称{'手続': 1}</span>する。）に<span>対処{'規定': 1}</span>するために<span>必要{'届出': 1}</span>な<span>機能{'規定': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないものであること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>常設{'手続': 1}</span><span>耐震{'手続': 1}</span><span>重要{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>以外の<span>常設{'規定': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'届出': 1}</span>が<span>設置{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'手続': 1}</span><span>規則{'手続': 1}</span>第七条第二項の<span>規定{'手続': 1}</span>により<span>算定{'規定': 1}</span>する<span>地震{'規定': 1}</span>力に十分に<span>耐える{'ある': 1}</span>ものであること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>第一号の<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span>は、<span>事業{'手続': 1}</span><span>許可{'規定': 1}</span><span>基準{'届出': 1}</span><span>規則{'規定': 1}</span>第七条第三項の<span>地震{'規定': 1}</span>により<span>生ずる{'ある': 1}</span><span>斜面{'規定': 1}</span>の<span>崩壊{'規定': 1}</span>により<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'届出': 1}</span>な<span>機能{'届出': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないよう、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'回復': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（津波による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'回復': 1}</span><span>施設{'手続': 1}</span>は、<span>基準{'手続': 1}</span><span>津波{'手続': 1}</span>により<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'規定': 1}</span>な<span>機能{'届出': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないよう、<span>防護{'手続': 1}</span><span>措置{'手続': 1}</span>その他の<span>適切{'回復': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（火災等による損傷の防止）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span>は、<span>火災{'手続': 1}</span>又は<span>爆発{'規定': 1}</span>の<span>影響{'規定': 1}</span>を<span>受ける{'ある': 1}</span>ことにより<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>機能{'手続': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれが<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>において、<span>消火{'手続': 1}</span><span>設備{'手続': 1}</span>及び<span>警報{'規定': 1}</span><span>設備{'規定': 1}</span>が<span>設置{'手続': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'届出': 1}</span>の<span>消火{'規定': 1}</span><span>設備{'手続': 1}</span><span>及び{'ただし': 1}</span><span>警報{'規定': 1}</span><span>設備{'規定': 1}</span>は、<span>故障{'規定': 1}</span>、<span>損壊{'届出': 1}</span><span>又は{'ただし': 1}</span><span>異常{'規定': 1}</span>な<span>作動{'規定': 1}</span>により<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>機能{'手続': 1}</span>に<span>著しい{'なく': 1}</span><span>支障{'手続': 1}</span>を<span>及ぼす{'ある': 1}</span>おそれがないよう、<span>適切{'規定': 1}</span>な<span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>施設{'手続': 1}</span>であって、<span>火災{'手続': 1}</span>又は<span>爆発{'規定': 1}</span>により<span>損傷{'規定': 1}</span>を<span>受ける{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span>ものは、<span>可能{'規定': 1}</span>な限り<span>不燃{'規定': 1}</span>性又は難<span>燃{'規定': 1}</span>性の<span>材料{'規定': 1}</span>を<span>使用{'規定': 1}</span>するとともに、<span>必要{'手続': 1}</span>に<span>応じ{'ある': 1}</span>て<span>防火{'手続': 1}</span><span>壁{'規定': 1}</span>の<span>設置{'規定': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>防護{'回復': 1}</span><span>措置{'届出': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleCaption>（重大事故等対処設備）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等の<span>収束{'手続': 1}</span>に<span>必要{'手続': 1}</span>な<span>個数{'手続': 1}</span>及び<span>容量{'規定': 1}</span>を<span>有する{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'手続': 1}</span>した<span>場合{'手続': 1}</span>における<span>温度{'手続': 1}</span>、<span>放射線{'規定': 1}</span>、<span>荷重{'規定': 1}</span>その他の<span>使用{'規定': 1}</span><span>条件{'規定': 1}</span>において、<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>機能{'手続': 1}</span>を<span>有効{'手続': 1}</span>に<span>発揮{'規定': 1}</span>すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'手続': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'届出': 1}</span>した<span>場合{'届出': 1}</span>において<span>確実{'規定': 1}</span>に<span>操作{'規定': 1}</span>できること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>機能{'規定': 1}</span>を<span>確認{'手続': 1}</span>するための<span>検査{'届出': 1}</span>又は<span>試験{'規定': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>機能{'規定': 1}</span>を<span>健全{'手続': 1}</span>に<span>維持{'規定': 1}</span>するための<span>保守{'手続': 1}</span>又は<span>修理{'規定': 1}</span>ができること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>本来{'規定': 1}</span>の<span>用途{'規定': 1}</span>以外の<span>用途{'規定': 1}</span><span>として{'とともに': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>使用{'手続': 1}</span>する<span>設備{'規定': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>通常{'手続': 1}</span>時に<span>使用{'手続': 1}</span>する<span>系統{'規定': 1}</span>から<span>速やか{'規定': 1}</span>に<span>切り替え{'ある': 1}</span>られる<span>機能{'届出': 1}</span>を<span>備える{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>を<span>設置{'手続': 1}</span>する<span>工場{'届出': 1}</span>又は<span>事業所{'規定': 1}</span>（以下この<span>章{'規定': 1}</span>において「<span>工場{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）内の他の<span>設備{'規定': 1}</span>に対して<span>悪影響{'規定': 1}</span>を<span>及ぼさ{'ある': 1}</span>ないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'届出': 1}</span>した<span>場合{'規定': 1}</span>において<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>の<span>操作{'規定': 1}</span>及び<span>復旧作業{'規定': 1}</span>を<span>行う{'ある': 1}</span>ことができるよう、<span>線量{'手続': 1}</span>が<span>高く{'なく': 1}</span><span>なる{'ある': 1}</span>おそれが<span>少ない{'なく': 1}</span><span>設置場所{'規定': 1}</span>の<span>選定{'届出': 1}</span>、<span>設置場所{'手続': 1}</span>への<span>遮蔽{'手続': 1}</span>物の<span>設置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>常設{'手続': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>は、<span>前項{'手続': 1}</span>に<span>掲げる{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>共通{'規定': 1}</span><span>要因{'手続': 1}</span>（<span>事業{'規定': 1}</span><span>許可{'規定': 1}</span><span>基準{'規定': 1}</span><span>規則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第二項第七号に<span>規定{'手続': 1}</span>する<span>共通{'規定': 1}</span><span>要因{'手続': 1}</span>を<span>いう{'ある': 1}</span>。<span>次項{'規定': 1}</span>において同じ。）によって<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>に<span>対処{'届出': 1}</span>するための<span>設備{'規定': 1}</span>の<span>安全機能{'規定': 1}</span>と<span>同時に{'相当': 1}</span>その<span>機能{'手続': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないよう、<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">可<span>搬型{'手続': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>に関しては、第一項の<span>規定{'手続': 1}</span>による<span>ほか{'届出': 1}</span>、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>常設{'規定': 1}</span><span>設備{'手続': 1}</span>（<span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>と<span>接続{'手続': 1}</span>されている<span>設備{'手続': 1}</span><span>又は{'ただし': 1}</span><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>と<span>短時間{'手続': 1}</span>に<span>接続{'規定': 1}</span>することができる<span>常設{'規定': 1}</span>の<span>設備{'手続': 1}</span>を<span>いう{'ある': 1}</span>。以下この<span>項{'規定': 1}</span>において同じ。）と<span>接続{'規定': 1}</span>するものに<span>あっ{'ある': 1}</span>ては、<span>当該{'手続': 1}</span><span>常設{'規定': 1}</span><span>設備{'手続': 1}</span>と<span>容易{'規定': 1}</span>かつ<span>確実{'規定': 1}</span>に<span>接続{'規定': 1}</span>することが<span>でき{'ある': 1}</span>、かつ、二以上の<span>系統{'規定': 1}</span>が<span>相互{'規定': 1}</span>に<span>使用{'規定': 1}</span>することができるよう、<span>接続{'規定': 1}</span>部の<span>規格{'手続': 1}</span>の<span>統一{'規定': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>常設{'規定': 1}</span><span>設備{'手続': 1}</span>と<span>接続{'規定': 1}</span>するものに<span>あっ{'ある': 1}</span>ては、<span>共通{'手続': 1}</span><span>要因{'手続': 1}</span>によって<span>接続{'手続': 1}</span>することが<span>でき{'ある': 1}</span>なく<span>なる{'ある': 1}</span>ことを<span>防止{'規定': 1}</span>するため、可<span>搬型{'規定': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>（<span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>の<span>外{'手続': 1}</span>から<span>水{'届出': 1}</span>又は<span>電力{'規定': 1}</span>を<span>供給{'規定': 1}</span>するものに<span>限る{'ある': 1}</span>。）の<span>接続{'規定': 1}</span>口を<span>それぞれ{'手続': 1}</span><span>互いに{'相当': 1}</span><span>異なる{'ある': 1}</span><span>複数{'手続': 1}</span>の<span>場所{'届出': 1}</span>に<span>設ける{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'届出': 1}</span>した<span>場合{'規定': 1}</span>において可<span>搬型{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>を<span>設置場所{'規定': 1}</span>に<span>据え付け{'ある': 1}</span>、及び<span>常設{'規定': 1}</span><span>設備{'手続': 1}</span>と<span>接続{'規定': 1}</span>することができるよう、<span>線量{'規定': 1}</span>が<span>高く{'なく': 1}</span><span>なる{'ある': 1}</span>おそれが<span>少ない{'なく': 1}</span><span>設置場所{'規定': 1}</span>の<span>選定{'届出': 1}</span>、<span>設置場所{'手続': 1}</span>への<span>遮蔽{'手続': 1}</span>物の<span>設置{'手続': 1}</span>その他の<span>適切{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>地震{'手続': 1}</span>、<span>津波{'手続': 1}</span>その他の<span>自然現象{'手続': 1}</span>又は<span>故意{'規定': 1}</span>による<span>大型{'規定': 1}</span><span>航空機{'手続': 1}</span>の<span>衝突{'規定': 1}</span>その他の<span>テロリズム{'規定': 1}</span>による<span>影響{'規定': 1}</span>、<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'手続': 1}</span>に<span>対処{'手続': 1}</span>するための<span>設備{'手続': 1}</span>及び<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>の<span>配置{'規定': 1}</span>その他の<span>条件{'規定': 1}</span>を<span>考慮{'規定': 1}</span>した上で<span>常設{'規定': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>と<span>異なる{'ある': 1}</span><span>保管{'規定': 1}</span><span>場所{'届出': 1}</span>に<span>保管{'規定': 1}</span>すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>想定{'規定': 1}</span>される<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'届出': 1}</span>した<span>場合{'規定': 1}</span>において、可<span>搬型{'手続': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>を<span>運搬{'規定': 1}</span>し、又は<span>他{'規定': 1}</span>の<span>設備{'規定': 1}</span>の<span>被害状況{'手続': 1}</span>を<span>把握{'手続': 1}</span>するため、<span>工場{'手続': 1}</span>等内の<span>道路{'手続': 1}</span>及び<span>通路{'規定': 1}</span>が<span>確保{'規定': 1}</span>できるよう、<span>適切{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>共通{'届出': 1}</span><span>要因{'手続': 1}</span>によって、<span>設計{'規定': 1}</span><span>基準{'規定': 1}</span><span>事故{'規定': 1}</span>に<span>対処{'届出': 1}</span>するための<span>設備{'規定': 1}</span>の<span>安全機能{'規定': 1}</span>又は<span>常設{'規定': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>の<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>機能{'手続': 1}</span>と<span>同時に{'相当': 1}</span>可<span>搬型{'手続': 1}</span><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'届出': 1}</span><span>設備{'手続': 1}</span>の<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'届出': 1}</span>な<span>機能{'手続': 1}</span>が<span>損なわ{'ある': 1}</span>れるおそれがないよう、<span>適切{'手続': 1}</span>な<span>措置{'回復': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（材料及び構造）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>容器{'届出': 1}</span>及び<span>管{'規定': 1}</span>並びにこれらを<span>支持{'規定': 1}</span>する<span>構造物{'手続': 1}</span>のうち、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>する上で<span>重要{'手続': 1}</span>なもの（以下この<span>項{'手続': 1}</span>において「<span>容器{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）の<span>材料{'手続': 1}</span>及び<span>構造{'規定': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところに<span>よら{'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>第一{'規定': 1}</span>号（<span>容器{'規定': 1}</span>等の<span>材料{'規定': 1}</span>に係る<span>部分{'規定': 1}</span>に<span>限る{'ある': 1}</span>。）及び第二号の<span>規定{'手続': 1}</span>については、<span>法{'前項': 1, '手続': 1}</span>第十六条の三第二項に<span>規定{'手続': 1}</span>する<span>使用{'規定': 1}</span>前<span>事業者{'規定': 1}</span><span>検査{'規定': 1}</span>の<span>確認{'規定': 1}</span>を<span>行う{'ある': 1}</span>までの<span>間{'規定': 1}</span><span>適用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>容器{'規定': 1}</span>等がその<span>設計{'規定': 1}</span>上<span>要求{'規定': 1}</span>される<span>強度{'手続': 1}</span>及び<span>耐食性{'規定': 1}</span>を<span>確保{'規定': 1}</span>できるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>容器{'手続': 1}</span>等の<span>主要{'規定': 1}</span>な<span>溶接{'手続': 1}</span>部は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところによるものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>不連続{'規定': 1}</span>で<span>特異{'規定': 1}</span>な<span>形状{'規定': 1}</span>でないものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>溶接{'規定': 1}</span>による<span>割れ{'規定': 1}</span>が<span>生ずる{'ある': 1}</span>おそれが<span>なく{'著しい': 1}</span>、<span>かつ{'ただし': 1}</span>、<span>健全{'規定': 1}</span>な<span>溶接{'規定': 1}</span>部の<span>確保{'手続': 1}</span>に<span>有害{'手続': 1}</span>な<span>溶{'手続': 1}</span>込み<span>不良{'手続': 1}</span>その他の<span>欠陥{'手続': 1}</span>がないことを<span>非破壊{'規定': 1}</span><span>試験{'規定': 1}</span>により<span>確認{'規定': 1}</span>したものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>適切{'手続': 1}</span>な<span>強度{'手続': 1}</span>を<span>有する{'ある': 1}</span>ものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>機械{'規定': 1}</span><span>試験{'規定': 1}</span>その他の<span>評価{'手続': 1}</span><span>方法{'手続': 1}</span>により<span>適切{'手続': 1}</span>な<span>溶接{'手続': 1}</span><span>施工{'手続': 1}</span>法及び<span>溶接{'規定': 1}</span><span>設備{'手続': 1}</span><span>並びに{'ただし': 1}</span><span>適切{'規定': 1}</span>な<span>技能{'手続': 1}</span>を<span>有する{'ある': 1}</span><span>溶接{'手続': 1}</span>士であることを<span>あらかじめ{'相当': 1}</span><span>確認{'規定': 1}</span>したものにより<span>溶接{'手続': 1}</span>したものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>に<span>属する{'基づく': 1}</span><span>容器{'届出': 1}</span>及び<span>管{'規定': 1}</span>のうち、<span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>の<span>安全性{'手続': 1}</span>を<span>確保{'手続': 1}</span>する上で<span>重要{'規定': 1}</span>なものは、<span>適切{'手続': 1}</span>な<span>耐圧{'規定': 1}</span><span>試験{'手続': 1}</span>又は<span>漏えい{'規定': 1}</span><span>試験{'規定': 1}</span>を<span>行っ{'ある': 1}</span>たとき、これに<span>耐え{'ある': 1}</span>、かつ、<span>著しい{'なく': 1}</span><span>漏えい{'手続': 1}</span>がないように<span>設置{'規定': 1}</span>されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（臨界事故の拡大を防止するための設備）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>加工{'手続': 1}</span><span>規則{'手続': 1}</span>第二条の二第一号に<span>掲げる{'ある': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>の<span>拡大{'手続': 1}</span>を<span>防止{'規定': 1}</span>するために<span>必要{'手続': 1}</span>な<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'取り消さ': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>未臨界{'手続': 1}</span>に<span>移行{'手続': 1}</span>し、及び<span>未臨界{'規定': 1}</span>を<span>維持{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>臨界事故{'規定': 1}</span>の<span>影響{'手続': 1}</span>を<span>緩和{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleCaption>（閉じ込める機能の喪失に対処するための設備）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>加工{'手続': 1}</span><span>規則{'手続': 1}</span>第二条の二第二号に<span>掲げる{'ある': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>の<span>拡大{'手続': 1}</span>を<span>防止{'規定': 1}</span>するために<span>必要{'手続': 1}</span>な<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等<span>対処{'手続': 1}</span><span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等の<span>飛散{'手続': 1}</span>又は<span>漏えい{'規定': 1}</span>を<span>防止{'規定': 1}</span>し、<span>飛散{'手続': 1}</span>又は<span>漏えい{'規定': 1}</span>した<span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>回収{'規定': 1}</span>するために<span>必要{'規定': 1}</span>な<span>設備{'届出': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>核{'届出': 1}</span><span>燃料{'規定': 1}</span><span>物質{'規定': 1}</span>等を<span>閉じ込める{'ある': 1}</span><span>機能{'手続': 1}</span>を<span>回復{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（工場等外への放射性物質の拡散を抑制するための設備）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'手続': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>が<span>発生{'届出': 1}</span>した<span>場合{'規定': 1}</span>において<span>工場{'手続': 1}</span><span>等外{'規定': 1}</span>への<span>放射性物質{'手続': 1}</span>の<span>拡散{'規定': 1}</span>を<span>抑制{'手続': 1}</span>するために<span>必要{'規定': 1}</span>な<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（重大事故等への対処に必要となる水の供給設備）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等への<span>対処{'手続': 1}</span>に<span>必要{'手続': 1}</span>と<span>なる{'ある': 1}</span>十分な<span>量{'手続': 1}</span>の<span>水{'規定': 1}</span>を<span>有する{'ある': 1}</span><span>水源{'手続': 1}</span>を<span>確保{'手続': 1}</span>することに<span>加え{'ある': 1}</span>て、<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等への<span>対処{'手続': 1}</span>に<span>必要{'手続': 1}</span>と<span>なる{'ある': 1}</span>十分な<span>量{'手続': 1}</span>の<span>水{'規定': 1}</span>を<span>供給{'規定': 1}</span>するために<span>必要{'規定': 1}</span>な<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（電源設備）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>には、<span>外部{'手続': 1}</span><span>電源{'手続': 1}</span><span>系統{'手続': 1}</span>からの<span>電気{'手続': 1}</span>の<span>供給{'規定': 1}</span>が<span>停止{'手続': 1}</span>し、第二十四条の<span>規定{'手続': 1}</span>により<span>設置{'規定': 1}</span>される<span>非常用電源{'規定': 1}</span><span>設備{'規定': 1}</span>からの<span>電源{'規定': 1}</span>が<span>喪失{'規定': 1}</span>した<span>場合{'規定': 1}</span>において、<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>電力{'手続': 1}</span>を<span>確保{'規定': 1}</span>するために<span>必要{'手続': 1}</span>な<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（監視測定設備）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'手続': 1}</span>した<span>場合{'手続': 1}</span>に<span>工場{'手続': 1}</span>等及びその<span>周辺{'規定': 1}</span>（<span>工場{'規定': 1}</span>等の<span>周辺海域{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）において、<span>当該{'規定': 1}</span><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>から<span>放出{'手続': 1}</span>される<span>放射性物質{'規定': 1}</span>の<span>濃度{'規定': 1}</span>及び<span>線量{'規定': 1}</span>を<span>監視{'規定': 1}</span>し、及び<span>測定{'規定': 1}</span>し、並びにその<span>結果{'規定': 1}</span>を<span>記録{'規定': 1}</span>することができる<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'手続': 1}</span>した<span>場合{'手続': 1}</span>に<span>工場{'手続': 1}</span>等において、<span>風向{'規定': 1}</span>、<span>風速{'規定': 1}</span>その他の<span>気象{'手続': 1}</span><span>条件{'規定': 1}</span>を<span>測定{'規定': 1}</span>し、及びその<span>結果{'規定': 1}</span>を<span>記録{'規定': 1}</span>することができる<span>設備{'手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleCaption>（緊急時対策所）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'届出': 1}</span>した<span>場合{'届出': 1}</span>において<span>当該{'規定': 1}</span><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するための<span>適切{'手続': 1}</span>な<span>措置{'手続': 1}</span>が<span>講じ{'ある': 1}</span>られるよう、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ところにより<span>緊急時{'手続': 1}</span><span>対策{'手続': 1}</span>所が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>指示{'手続': 1}</span>を<span>行う{'ある': 1}</span><span>要員{'手続': 1}</span>が<span>とどまる{'ある': 1}</span>ことができるよう、<span>適切{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>プルトニウム{'届出': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'手続': 1}</span>の<span>内外{'手続': 1}</span>の<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>をする<span>必要{'手続': 1}</span>の<span>ある{'でき': 1}</span><span>場所{'手続': 1}</span>と<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>を<span>行う{'ある': 1}</span>ために<span>必要{'規定': 1}</span>な<span>設備{'手続': 1}</span>を<span>設ける{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>緊急時{'規定': 1}</span><span>対策{'規定': 1}</span>所は、<span>重大{'規定': 1}</span><span>事故{'手続': 1}</span>等に<span>対処{'手続': 1}</span>するために<span>必要{'手続': 1}</span>な<span>数{'手続': 1}</span>の<span>要員{'手続': 1}</span>を<span>収容{'手続': 1}</span>することができる<span>措置{'規定': 1}</span>が<span>講じ{'ある': 1}</span>られたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="39">
+          <ArticleCaption>（通信連絡を行うために必要な設備）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>プルトニウム{'規定': 1}</span>を<span>取り扱う{'ある': 1}</span><span>加工{'手続': 1}</span><span>施設{'規定': 1}</span>には、<span>重大{'手続': 1}</span><span>事故{'手続': 1}</span>等が<span>発生{'手続': 1}</span>した<span>場合{'届出': 1}</span>において<span>当該{'規定': 1}</span><span>加工{'規定': 1}</span><span>施設{'手続': 1}</span>の<span>内外{'手続': 1}</span>の<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>をする<span>必要{'手続': 1}</span>の<span>ある{'でき': 1}</span><span>場所{'手続': 1}</span>と<span>通信{'手続': 1}</span><span>連絡{'手続': 1}</span>を<span>行う{'ある': 1}</span>ために<span>必要{'規定': 1}</span>な<span>設備{'規定': 1, '手続': 1}</span>が<span>設け{'ある': 1}</span>られていなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="40">
+          <ArticleCaption>（電磁的記録媒体による手続）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第<span>二条{'手続': 1}</span>第二項の<span>申請書{'規定': 1}</span>の<span>提出{'規定': 1}</span>については、<span>当該{'手続': 1}</span><span>申請{'書面': 1, '規定': 1}</span>書の<span>提出{'手続': 1}</span>に<span>代え{'ある': 1}</span>て、<span>当該{'手続': 1}</span><span>申請{'手続': 1}</span>書に<span>記載{'手続': 1}</span>すべきこととされている<span>事項{'規定': 1}</span>を<span>記録{'手続': 1}</span>した<span>電磁的記録{'規定': 1}</span><span>媒体{'規定': 1}</span>（<span>電磁的記録{'規定': 1}</span>（<span>電子{'手続': 1}</span>的<span>方法{'規定': 1}</span>、<span>磁気{'手続': 1}</span>的<span>方法{'規定': 1}</span>その他の<span>人{'電子': 1, '手続': 1}</span>の<span>知覚{'手続': 1}</span>によって<span>認識{'規定': 1}</span>することが<span>でき{'ある': 1}</span>ない<span>方法{'方式': 1, '規定': 1}</span>で<span>作ら{'ある': 1}</span>れる<span>記録{'規定': 1}</span>であって、<span>電子計算機{'規定': 1}</span>による<span>情報処理{'規定': 1}</span>の<span>用{'規定': 1}</span>に<span>供{'手続': 1}</span>されるものを<span>いう{'ある': 1}</span>。）に係る<span>記録媒体{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）及び<span>別記{'規定': 1}</span><span>様式{'規定': 1}</span>の<span>電磁的記録{'規定': 1}</span><span>媒体{'規定': 1}</span><span>提出{'規定': 1}</span>票を<span>提出{'手続': 1}</span>することにより<span>行う{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>規則{'規定': 1}</span>は、<span>原子力{'規定': 1}</span><span>利用{'規定': 1}</span>における<span>安全対策{'規定': 1}</span>の<span>強化{'規定': 1}</span>のための<span>核原料物質、核燃料物質及び原子炉の規制に関する法律{'手続': 1}</span>等の<span>一部{'規定': 1}</span>を<span>改正{'規定': 1}</span>する<span>法律{'規定': 1}</span>第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第４０条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/R02F319006_2003271503_001.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

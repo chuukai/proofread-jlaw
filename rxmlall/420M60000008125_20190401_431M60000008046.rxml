@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="125" Year="20">
+  <LawNum>平成二十年総務省令第百二十五号</LawNum>
+  <LawBody>
+    <LawTitle>経済センサス基礎調査規則</LawTitle>
+    <EnactStatement>統計法（平成十九年法律第五十三号）第十八条及び統計法施行令（平成二十年政令第三百三十四号）別表第一の一の項の規定に基づき、並びに同法及び同令第四条第一項の規定を実施するため、経済センサス基礎調査規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>統計法（以下「法」という。）第二条第四項に規定する基幹統計である経済構造統計を作成するための調査のうち報告を求める事項を事業所及び企業の名称、所在地、事業の内容、従業者数その他の基本的事項に限定したもの（以下「経済センサス基礎調査」という。）の実施に関しては、この省令の定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（調査の目的）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済センサス基礎調査は、事業所の基本的な経済活動及び企業の基本的な経済活動の状態を調査し、全ての産業分野における事業所及び企業の活動からなる経済の構造を全国的及び地域別に明らかにする基幹統計を作成すること並びに各種統計調査実施のための事業所及び企業の名簿を得ることを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令において「事業所」とは、物の生産又はサービスの提供が事業として行われている一定の場所をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この省令において「企業」とは、法人（国、地方公共団体及び外国の法人を除く。）及び事業を経営する個人をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（調査日）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済センサス基礎調査は、平成二十六年七月一日（以下「調査日」という。）現在によって行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（調査の対象）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済センサス基礎調査は、法第二条第九項に規定する統計基準である日本標準産業分類に掲げる産業に属する事業所（調査困難地域内にある事業所を除く。）のうち、次の各号に掲げる事業所を除く事業所（以下「調査事業所」という。）について行う。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>大分類Ａ―農業、林業に属する事業所で個人の経営に係るもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>大分類Ｂ―漁業に属する事業所で個人の経営に係るもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>大分類Ｎ―生活関連サービス業、娯楽業のうち、中分類七九―その他の生活関連サービス業（小分類番号七九二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1">家事サービス業に限る。</Sentence>
+                <Sentence Num="2">）に属する事業所</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>大分類Ｒ―サービス業（他に分類されないもの）のうち、中分類九六―外国公務に属する事業所</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項に規定する「調査困難地域」とは、東日本大震災（平成二十三年三月十一日に発生した東北地方太平洋沖地震及びこれに伴う原子力発電所の事故による災害をいう。以下同じ。）の影響により経済センサス<span>基礎{'活動': 1}</span>調査の実施が困難な地域として総務大臣の定める地域をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（調査の種類）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済センサス基礎調査は、甲調査及び乙調査とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>甲調査は、調査事業所のうち、国及び地方公共団体の調査事業所以外の調査事業所について行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>乙調査は、国及び地方公共団体の調査事業所について行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（調査事項等）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済センサス基礎調査は、総務大臣が定める様式による調査票により、調査事業所に係る次に掲げる事項のうち、甲調査の場合には第一号イからチまで及び第二号に掲げる事項を、乙調査の場合には第一号イからニまで及びリに掲げる事項を調査する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>事業所に関する事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>名称及び電話番号</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>所在地</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>従業者数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>事業の種類</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>業態</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>開設時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>単独事業所・本所・支所の別</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>事業に係る売上金額、収入金額その他の収益の額の合計額</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>事業の委託先の名称、電話番号及び所在地</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>企業に関する事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>経営組織</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>資本金、出資金又は基金の額</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>外国資本比率</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>決算月</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>持株会社か否か</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>親会社の有無</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>親会社の名称及び電話番号</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>親会社の所在地</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>子会社の有無及びその数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>組織全体の常用雇用者数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>組織全体の主な事業の内容</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="12">
+              <Subitem1Title>ヲ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>組織全体の事業に係る売上金額、収入金額その他の収益の額の合計額</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="13">
+              <Subitem1Title>ワ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>支所の有無及びその数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="14">
+              <Subitem1Title>カ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>本所の名称</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="15">
+              <Subitem1Title>ヨ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>本所の所在地及び電話番号</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>総務大臣は、前項の様式を定めたときは告示する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（統計調査員）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十四条に規定する統計調査員として甲調査の事務に従事させるため都道府県に設置されるものは、次項に規定する事務を適正に執行する能力（第三項に規定する指導員にあっては、次項及び第三項に規定する事務を適正に執行する能力）を有する者（次の各号のいずれかに該当する者を除く。）とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>国税徴収法（昭和三十四年法律第百四十七号）第二条第十一号に規定する徴収職員<span>及び{'又は': 1}</span>地方税法（昭和二十五年法律第二百二十六号）第一条第一項第三号に規定する徴税吏員</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>警察法（昭和二十九年法律第百六十二号）第三十四条第一項及び第五十五条第一項に規定する警察官</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>統計調査員は、市町村長の調査実施上の指導を受けて、担当調査区（市町村長から指定された調査区をいう。以下同じ。）における調査票の配布及び取集、担当調査区内にある調査事業所に係る調査区内事業所名簿その他の関係書類の作成並びにこれらに附帯する事務を行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定にかかわらず、都道府県知事の指定する統計調査員（以下「指導員」という。）は、市町村長の調査実施上の指導を受けて、統計調査員（指導員を除く。以下「調査員」という。）に対する指導、調査票及び調査区内事業所名簿その他の関係書類の検査並びにこれらに附帯する事務を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項の規定にかかわらず、特別の事情により、調査員が第二項の事務の一部を行うことができないときは、市町村長の定めるところにより、指導員が当該事務を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県知事は、統計調査員を設置したときは、当該統計調査員の氏名その他総務大臣の定める事項を市町村長に通知し、及び総務大臣に報告するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（統計調査員の身分を示す証票）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>市町村長は、統計調査員に対し、都道府県知事の発行するその身分及び指導員又は調査員の別を示す証票を交付するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>統計調査員は、その事務を行うときは、前項の証票を携帯し、必要に応じてこれを提示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（調査区の設定及び修正）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>市町村長は、総務大臣の定めるところにより、当該市町村の区域を区分して調査区を設定するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>総務大臣は、市町村長が設定した調査区に基づき、調査区地図、調査区台帳その他の調査区関係書類（以下「調査区地図等」という。）を作成する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>市町村長は、第一項の規定により設定した調査区について、調査日までに市町村の境界変更が行われる場合又は調査日までに生じた総務大臣の定める事由により調査区の修正を要すると認める場合には、速やかにこれを修正するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>市町村長は、前項の規定により調査区を修正したときは、調査区地図等を修正し、都道府県知事に対し速やかに提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県知事は、前項の規定により提出された調査区地図等を審査し、総務大臣に対し速やかに提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（名簿等の作成）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>総務大臣は、経済センサス基礎調査において正確かつ円滑に調査票の配布又は送付を行うため、経済センサス基礎調査に先立って、法第二十七条第一項に規定する事業所母集団データベースに記録されている情報に基づいて調査事業所に関する経済センサス基礎調査事前名簿（以下「事前名簿」という。）を作成するとともに企業の本所となる調査事業所に企業構造の事前把握確認票を送付し、記入を求め、回収し、並びに事前名簿及び企業構造の事前把握確認票に基づいて調査事業所に関する経済センサス基礎調査調査用名簿（以下「調査用名簿」という。）を作成するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（調査の方法及び期間）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>次の表第一欄に掲げる調査事業所に係る甲調査は、同欄に掲げる調査事業所の区分に応じ、それぞれ同表第二欄に掲げる者が、それぞれ同表第三欄に掲げる方法により調査票を配布し又は送付し、及びそれぞれ同表第四欄に掲げる者が、それぞれ同表第五欄に掲げる方法により調査票を取集し又は回収することにより行う。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第一欄</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第二欄</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第三欄</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第四欄</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第五欄</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一　企業の調査事業所のうち次に掲げるもの、外国の法人の調査事業所及び法人以外の団体の調査事業所（いずれも指定地域（東日本大震災の影響により経済センサス基礎調査の実施に大きな支障が生じている地域として<span>総務大臣{'経済産業大臣': 1}</span>の定める地域をいう。以下同じ。）内にあるものを除く。）</Sentence>
+                  <Sentence>イ　調査用名簿に記載されていないもの</Sentence>
+                  <Sentence>ロ　次に掲げる全ての要件に該当するもの</Sentence>
+                  <Sentence>（1</Sentence>
+                  <Sentence>2）　</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>1となる調査事業所の</Sentence>
+                  <Sentence>2</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>する</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>の調査事業所と</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>て</Sentence>
+                  <Sentence>査用名簿に記載されていること。</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>企業</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>査</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                  <Sentence>簿に記載されている</Sentence>
+                  <Sentence>査事業所</Sentence>
+                  <Sentence>有する企業の</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>務大臣</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>する</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>の</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>1</Sentence>
+                  <Sentence>2。</Sentence>
+                  <Sentence>3</Sentence>
+                  <Sentence>4</Sentence>
+                  <Sentence>5</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>1）</Sentence>
+                  <Sentence>2調査事業所でないこと。</Sentence>
+                  <Sentence>3</Sentence>
+                  <Sentence>4　</Sentence>
+                  <Sentence>に掲げる全ての要件に該当するもの</Sentence>
+                  <Sentence>（1</Sentence>
+                  <Sentence>2）　</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>となる調査事業所</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>るか</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>は</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>1なる調査事業所</Sentence>
+                  <Sentence>2</Sentence>
+                  <Sentence>る</Sentence>
+                  <Sentence>1の別が不明であるものとして調査用名簿に記載されていること。</Sentence>
+                  <Sentence>（2</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence>1　</Sentence>
+                  <Sentence>2定企業の調査事業所で</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>こと。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>査</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="5">
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>八</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（期間の変更）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>項の規定により</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>査</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（報告の義務及び方法）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>を</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>の</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>、</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十四</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第一</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>及び</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>五条第一項に</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>じ。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>の</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>に</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（調査票等の提出等）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>る</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>査事業所に調査票を</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（結果の公表等）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（事業所及び企業の名簿の作成）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>する</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（調査区の管理）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>と。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>調査</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>の項</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（調査票等の保存）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（事業所・企業統計調査規則の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（事業所・企業統計調査規則の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="422013" AmendLawNum="平成二二年三月二日総務省令第一三号" Id="110c651a-1965-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年六月三日総務省令第五三号" Id="5acebf48-190d-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>る</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="425082" AmendLawNum="平成二五年八月二九日総務省令第八二号" Extract="true" Id="ffb674fe-1928-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="425120" AmendLawNum="平成二五年一二月二四日総務省令第一二〇号" Extract="true" Id="ffe5f42c-1928-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>業</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1">から</Sentence>
+          <Sentence Num="2">調査票を</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1"></Sentence>
+          <Sentence Num="2">する</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="426051" AmendLawNum="平成二六年五月二七日総務省令第五一号" Id="11dbbf54-1965-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

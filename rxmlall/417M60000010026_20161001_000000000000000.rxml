@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="026" Year="17">
+  <LawNum>平成十七年法務省令第二十六号</LawNum>
+  <LawBody>
+    <LawTitle>立木登記規則</LawTitle>
+    <EnactStatement>不動産登記法（平成十六年法律第百二十三号）及び不動産登記法の施行に伴う関係法律の整備等に関する法律（平成十六年法律第百二十四号）の施行に伴い、並びに立木に関する法律（明治四十二年法律第二十二号）第十五条第二項、第二十条第三項及び第二十一条第二項並びに不動産登記令（平成十六年政令第三百七十九号）第二十四条の規定に基づき、並びに同法の規定を実施するため、立木登記規則（明治四十三年司法省令第五号）の全部を改正する省令を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　樹種の記録の方法等</ChapterTitle>
+        <ArticleRange>（第三条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　立木の登記手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第七条・第八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　所有権の保存の登記</SectionTitle>
+          <ArticleRange>（第九条―第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　抵当権に関する登記</SectionTitle>
+          <ArticleRange>（第十三条―第十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　表題部の変更の登記等</SectionTitle>
+          <ArticleRange>（第十八条―第二十七条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第二十八条―第三十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（立木の登記記録）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>登記官は、立木について初めて登記をし、又は管轄転属によって移送を受けたときは、立木の登記記録の表題部に、これらの順序に従って不動産登記法第三十五条に規定する<span>地番{'規定': 1}</span>区域ごとに登記番号を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>立木の登記記録の権利部は、甲区及び乙区に区分し、甲区には所有権に関する登記の登記事項を記録するものとし、乙区には先取特権及び抵当権に関する登記の登記事項を記録するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（不動産登記規則の適用関係）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>立木の登記に係る不動産登記規則（平成十七年法務省令第十八号）の規定の適用については、同<span>令{'法': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>（同<span>令{'規定': 1}</span>第<span>一条{'規定': 1}</span>第九号を<span>除く{'ある': 1}</span>。）中「<span>不動産{'規定': 1}</span><span>所在{'規定': 1}</span><span>事項{'規定': 1}</span>」と<span>あり{'ある': 1}</span>、<span>及び{'ただし': 1}</span>同<span>令{'規定': 1}</span>第百八十<span>一条{'規定': 1}</span>第二項第四号中「<span>法{'規定': 1}</span>第三十四条第一項各号及び第四十四条第一項各号（第六号及び第九号を除く。）に掲げる事項」とあるのは、「<span>立木{'手続': 1}</span>の所在する市、区、郡、町、<span>村{'手続': 1}</span>、<span>字{'手続': 1}</span>及び土地の地番並びに樹木が一筆の土地の一部に生立するときは当該部分」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　樹種の記録の方法等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（調査した年度の記録）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>樹種、数量及び樹齢を立木登記簿に記録するときは、それらを調査した年度も記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（樹種の記録の方法）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>樹種を立木登記簿に記録するときは、平仮名を用いなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（樹木の数量の記録等の方法）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">樹木の数量を立木登記簿に記録するときは、樹木の種類ごとに材積及び本数を記録しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、三十年生以下の樹木にあっては、本数を記録すれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の材積の単位、呼称及び測定方法は、各地方の慣習に従うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（樹齢の記録の方法）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">樹齢を立木登記簿に記録するときは、樹木の種類ごとに何年生であるかを記録しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、植栽によって生立させられた樹木の集団でないものにあっては、樹木の種類ごとに何年生以上何年生以下であるかを記録すれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　立木の登記手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Num="7">
+            <ArticleCaption>（申請情報）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>立木に関する法律（以下「法」という。）第十五条第二項の法務省令で定める<span>事項{'手続': 1}</span>は、この<span>省令{'手続': 1}</span>に<span>特別{'別段': 1, '規定': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>不動産登記令{'手続': 1}</span>（平成十六年<span>政令{'手続': 1}</span>第三百七十九号）<span>第三条{'規定': 1}</span>各号（第八号及び第十一号<span>ヘ{'とともに': 1}</span>を<span>除く{'ある': 1}</span>。）に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>地上権{'手続': 1}</span>の<span>登記名義人{'規定': 1}</span>が<span>所有権{'手続': 1}</span>の<span>保存{'規定': 1}</span>の<span>登記{'届出': 1}</span>を申請するときは、地上権の順位番号</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>立木{'規定': 1}</span>の登記に係る不動産登記令の規定の適用については、同令<span>本則{'規定': 1}</span>中「第三条第七号及び第八号に掲げる事項」とあるのは、「<span>立木{'手続': 1}</span>の所在する市、区、郡、町、<span>村{'手続': 1}</span>及び<span>字{'規定': 1}</span>並びに<span>土地{'当該': 1, '手続': 1}</span>の<span>地番{'手続': 1}</span>、地目及び地積並びに樹木が一筆の土地の一部に生立するときは当該部分」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三条から前条までの規定は、<span>法{'手続': 1}</span>第十五条第二項の<span>規定{'手続': 1}</span>により同<span>条{'規定': 1}</span><span>第一{'規定': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>申請{'規定': 1}</span>情報の内容とする場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（登記の更正）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>立木{'場合': 1, '規定': 1}</span>の登記における不動産登記法第六十七条の規定の適用については、同条第一項中「権利に関する登記」とあるのは、「登記」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　所有権の保存の登記</SectionTitle>
+          <Article Num="9">
+            <ArticleCaption>（所有権の保存の登記の添付情報）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>立木{'規定': 1}</span>について所有権の保存の登記の申請をする場合には、次条に規定する<span>立木{'手続': 1}</span>図面をその申請情報と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>樹木の集団の範囲を定める件（昭和七年勅令第十二号）別表において掲げられていない樹種又は七種を超える種類の樹木をもって組成される樹木の集団について所有権の保存の登記の申請をする場合には、その集団が植栽によって生立させられた樹木の集団であることを証する主務官庁が作成した情報をその申請情報と併せて登記所に提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>法{'規定': 1}</span>第十六条第一項第二号（土地の登記記録の表題部に自己が<span>立木{'手続': 1}</span>の所在する土地の所有者として記録されている者に係る<span>部分{'手続': 1}</span>を<span>除く{'限る': 1, 'ある': 1}</span>。）、第三号及び第四号に<span>掲げる{'ある': 1}</span>者が<span>所有権{'規定': 1}</span>の<span>保存{'規定': 1}</span>の<span>登記{'手続': 1}</span>を<span>申請{'手続': 1}</span>する<span>場合{'手続': 1}</span>には、<span>当該{'規定': 1}</span>各号に<span>該当{'規定': 1}</span>する者であることを<span>証する{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span>情報と併せて登記所に提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（立木図面）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>立木{'規定': 1}</span>図面には、次に掲げる事項を記録するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>立木{'手続': 1}</span>の所在する市、区、郡、町、<span>村{'手続': 1}</span>及び<span>字{'規定': 1}</span>並びに<span>土地{'当該': 1, '手続': 1}</span>の<span>地番{'手続': 1}</span>、<span>地目{'手続': 1}</span>及び<span>地積{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>隣接{'手続': 1}</span>する<span>土地{'手続': 1}</span>の<span>地番{'手続': 1}</span>及び<span>地目{'字': 1, '規定': 1}</span>並びに所有者の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>樹木が一筆の土地の一部に生立するときは、その部分の位置及び地積並びに<span>当該{'規定': 1}</span><span>部分{'規定': 1}</span>を<span>表示{'手続': 1}</span>するための<span>名称{'規定': 1}</span>又は<span>番号{'規定': 1}</span>が<span>ある{'取り消さ': 1}</span>ときは<span>当該{'規定': 1}</span><span>名称{'手続': 1}</span>又は<span>番号{'規定': 1}</span>並びに他の部分の表示</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>立木{'規定': 1}</span>の所在する土地又は土地の部分の境界に道路、河川、湖海、沼池その他境界の目標となるものがあるときは、その名称及び<span>位置{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>隣接{'規定': 1}</span>する土地又は土地の部分に<span>生立{'土地': 1}</span>する<span>樹木{'手続': 1}</span>の所有者がこれらの土地の所有者と異なるときは、当該<span>樹木{'表題': 1}</span>の所有者の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>不動産登記規則第七十三条及び第七十四条第二項の規定は、<span>立木{'規定': 1}</span>図面について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（立木図面の管理）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、所有権の保存の登記をするときは、受付番号の順序に従って、<span>立木{'規定': 1}</span>図面つづり込み帳に立木図面（不動産登記法第十八条第一号の方法により提供された立木図面を用紙に出力したものを含む。以下同じ。）をつづり込み、これに<span>申請{'規定': 1}</span>の<span>受付{'手続': 1}</span>の<span>年月日{'規定': 1}</span>及び<span>受付{'規定': 1}</span><span>番号{'手続': 1}</span>並びに登記番号を記載し、かつ、<span>丁数{'規定': 1}</span>を付すものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（立木図面つづり込み帳の冊数等の記録）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、所有権の保存の登記をするときは、登記記録の表題部に、立木図面つづり込み帳の冊数及び丁数を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　抵当権に関する登記</SectionTitle>
+          <Article Num="13">
+            <ArticleCaption>（抵当権に関する登記の申請情報）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第二十一条第二項の法務省令で定める<span>事項{'手続': 1}</span>は、<span>不動産登記令{'手続': 1}</span><span>第三条{'規定': 1}</span>各号（第八号、第十号及び第十一号ヘを除く。）に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>立木について抵当権に関する登記の申請をする場合には、不動産登記令第三条第十三号に掲げる事項（<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>部分{'規定': 1}</span>に<span>限る{'ある': 1}</span>。）に<span>代え{'ある': 1}</span>て、<span>それぞれ{'手続': 1}</span><span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'手続': 1}</span>を<span>申請{'手続': 1}</span><span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>不動産登記令{'しない': 1, '手続': 1}</span><span>別表{'規定': 1}</span>の五十五の<span>項{'手続': 1}</span><span>申請{'規定': 2}</span>情報欄ハ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>一又は二以上の<span>立木{'規定': 1}</span>に関する権利を目的とする抵当権の設定の<span>登記{'規定': 1}</span>をした後、同一の債権の担保として他の一又は二以上の<span>立木{'不動産': 1}</span>に関する権利を目的とする抵当権の設定の<span>登記{'手続': 1}</span>を申請する場合は、前の登記に係る登記<span>番号{'規定': 1}</span>及び<span>順位{'規定': 1}</span><span>番号{'手続': 1}</span>（<span>申請{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>登記所{'手続': 1}</span>に<span>当該{'手続': 1}</span><span>前{'規定': 1}</span>の<span>登記{'手続': 1}</span>に係る<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'債権': 1, '手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>に<span>あっ{'含む': 1}</span>ては、<span>共同{'当該': 2, '手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'規定': 1}</span>の記号及び<span>目録{'規定': 1}</span><span>番号{'手続': 1}</span>）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>不動産登記令{'令': 1, '規定': 1}</span><span>別表{'規定': 1}</span>の五十六の項申請情報欄ニ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>一の立木に関する権利を目的とする根抵当権の設定の登記又は二以上の<span>立木{'不動産': 2}</span>に関する権利を目的とする根抵当権の設定の登記（民法第三百九十八条の十六の登記をしたものに限る。）をした後、<span>同一{'規定': 2}</span>の<span>債権{'手続': 1}</span>の担保として他の一又は二以上の<span>立木{'不動産': 2}</span>に関する権利を目的とする根抵当権の設定の登記及び同条の登記を<span>申請{'規定': 1}</span>する<span>場合{'手続': 1}</span>は、<span>前{'規定': 1}</span>の<span>登記{'規定': 1}</span>に係る<span>登記{'手続': 1}</span><span>番号{'規定': 1}</span>及び<span>順位{'規定': 1}</span><span>番号{'手続': 1}</span>並びに<span>申請{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>登記所{'規定': 1}</span>に<span>当該{'手続': 1}</span><span>前{'法人': 1, '規定': 1}</span>の<span>登記{'手続': 1}</span>に係る<span>共同{'手続': 1}</span><span>担保{'届出': 1}</span><span>目録{'債権': 1, '手続': 1}</span>が<span>ある{'でき': 1}</span>ときは<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'手続': 1}</span>の記号及び<span>目録{'規定': 1}</span><span>番号{'手続': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>不動産登記令{'令': 1, '規定': 1}</span><span>別表{'規定': 1}</span>の五十八の<span>項{'届出': 1}</span><span>申請{'規定': 1}</span>情報欄ハ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>一又は二以上の<span>立木{'規定': 1}</span>に関する権利を目的とする抵当権の設定の登記をした後、同一の債権の担保として他の一又は二以上の<span>立木{'不動産': 1}</span>に関する権利を目的とする抵当権の処分の登記を申請する場合は、前の登記に係る登記<span>番号{'規定': 1}</span>及び<span>順位{'規定': 1}</span><span>番号{'手続': 1}</span>（<span>申請{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>登記所{'手続': 1}</span>に<span>当該{'手続': 1}</span><span>前{'規定': 1}</span>の<span>登記{'手続': 1}</span>に係る<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'債権': 1, '手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>に<span>あっ{'含む': 1}</span>ては、<span>共同{'当該': 2, '手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'規定': 1}</span>の記号及び<span>目録{'規定': 1}</span><span>番号{'手続': 1}</span>）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence><span>不動産登記令{'令': 1, '規定': 1}</span><span>別表{'規定': 1}</span>の五十八の<span>項{'届出': 1}</span>申請情報欄ヘ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>一の立木に関する権利を目的とする根抵当権の設定の登記又は二以上の<span>立木{'不動産': 2}</span>に関する権利を目的とする根抵当権の設定の登記（民法第三百九十八条の十六の登記をしたものに限る。）をした後、<span>同一{'規定': 2}</span>の<span>債権{'手続': 1}</span>の担保として他の一又は二以上の<span>立木{'不動産': 1}</span>に関する権利を目的とする根抵当権の処分の登記及び同条の登記を申請する場合は、<span>前{'規定': 1}</span>の<span>登記{'規定': 1}</span>に係る<span>登記{'手続': 1}</span><span>番号{'規定': 1}</span>及び<span>順位{'規定': 1}</span><span>番号{'手続': 1}</span>並びに<span>申請{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>登記所{'規定': 1}</span>に<span>当該{'手続': 1}</span><span>前{'法人': 1, '規定': 1}</span>の<span>登記{'手続': 1}</span>に係る<span>共同{'手続': 1}</span><span>担保{'届出': 1}</span><span>目録{'債権': 1, '手続': 1}</span>が<span>ある{'でき': 1}</span>ときは<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span>目録の記号及び目録番号</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（施業方法書の提出）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>抵当権{'規定': 1}</span>の設定の登記の申請を<span>書面{'登記': 1}</span>申請によりするときは、申請人は、法第三条の<span>施{'規定': 1}</span>業方法を記載した別記第一号様式の書面（以下「施業方法書」という。）を提出することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>施業方法書には、申請人又はその代表者若しくは<span>代理人{'規定': 1}</span>（<span>委任{'手続': 1}</span>による<span>代理人{'規定': 1}</span>を除く。次項において同じ。）が記名押印しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>施{'手続': 1}</span>業方法書が二枚以上であるときは、申請人又はその代表者若しくは<span>代理人{'手続': 1}</span>は、各<span>用紙{'手続': 1}</span>に<span>当該{'手続': 1}</span>用紙が何枚目であるかを記載し、各用紙のつづり目に<span>契印{'届出': 1}</span>をしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、申請人又はその代表者若しくは<span>代理人{'規定': 1}</span>が<span>二人{'手続': 1}</span>以上あるときは、その一人がすれば足りる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（施業方法書の管理）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、<span>抵当権{'規定': 1}</span>の<span>設定{'当該': 1}</span>の登記をしたときは、受付番号の順序に従って施業方法書つづり込み簿に施業方法書をつづり込み、これに申請の受付の年月日及び<span>受付{'規定': 1}</span><span>番号{'規定': 1}</span>、<span>登記{'規定': 1}</span><span>番号{'原因': 1, '規定': 1}</span><span>並びに{'及び': 1}</span>順位番号を記録し、かつ、これに丁数を付すものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（施業方法書の提出があった旨の記録等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>登記{'手続': 1}</span>官は、施業方法書の提出があった場合において、抵当権の設定の登記をするときは、施業方法書の提出があった旨を記録し、かつ、当該登記の末尾に施業方法書をつづり込んだ施業方法書つづり込み簿の冊数及び丁数も記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>登記官が前項の記録をしたときは、当該記録に係る施業方法書の記載は、乙区にされたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（施業方法の変更の登記又は更正の登記）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、前条の場合において、施業方法の<span>変更{'手続': 1}</span>の登記又は更正の登記をしたときは、変更前又は更正前の<span>施{'手続': 1}</span>業方法書の変更又は更正に係る記載を朱抹し、かつ、これに変更後又は更正後の施業方法書をつづり込んだ施業方法書つづり込み簿の冊数及び丁数を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前三条の規定は、施業方法の変更の<span>登記{'手続': 1}</span>又は更正の登記について<span>準用{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　表題部の変更の登記等</SectionTitle>
+          <Article Num="18">
+            <ArticleCaption>（表題部の変更の登記の申請情報等）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>不動産登記法{'規定': 1}</span>第三十四条第一項各号又は<span>法{'規定': 1}</span>第十五条第一項各号に<span>掲げる{'ある': 1}</span><span>登記事項{'事項': 1, '規定': 1}</span>に関する<span>変更{'規定': 1}</span>の<span>登記{'規定': 1}</span>又は<span>更正{'規定': 1}</span>の<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span>をする<span>場合{'規定': 1}</span>に<span>登記所{'規定': 1}</span>に<span>提供{'手続': 1}</span>しなければならない<span>申請{'規定': 1}</span><span>情報{'規定': 1}</span>の<span>内容{'規定': 1}</span>は、<span>法{'手続': 1}</span>第十五条第一項各号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>及び第七条<span>第一{'規定': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'信託': 1, '手続': 1}</span>、<span>変更{'手続': 1}</span>後又は<span>更正{'規定': 1}</span>後の<span>登記事項{'手続': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>法{'手続': 1}</span>第十五条<span>第一{'規定': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>事項{'登記事項': 1, '規定': 1}</span>についての<span>変更{'規定': 1}</span>の<span>登記{'規定': 1}</span>又は<span>更正{'当該': 1, '規定': 1}</span>の<span>登記{'届出': 1}</span>の<span>申請{'手続': 1}</span>をする<span>場合{'手続': 1}</span>には、その<span>申請{'規定': 1}</span><span>情報{'規定': 1}</span>と併せて変更後又は更正後の<span>立木{'手続': 1}</span>図面を登記所に提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十一条及び第十二条の<span>規定{'手続': 1}</span>は、前項の登記をする場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（樹種の変更の登記の添付情報等）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>樹種の変更又は錯誤若しくは遺漏により立木が樹木の集団の範囲を定める件別表において掲げられていない樹種又は七種を超える種類の樹木をもって組成される樹木の集団となった場合において変更の登記又は<span>更正{'当該': 1, '規定': 1}</span>の<span>登記{'届出': 1}</span>の<span>申請{'敷地権': 1, '手続': 1}</span>をするときは、<span>変更{'手続': 1}</span>前又は更正前の<span>立木{'規定': 1}</span>が植栽によって生立させられた樹木の集団であることを証する主務官庁が作成した情報をその申請情報と併せて登記所に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（分割の登記の申請情報等）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>立木の分割の登記の<span>申請{'規定': 1}</span>をする場合に登記所に提供しなければならない申請<span>情報{'規定': 1}</span>の<span>内容{'規定': 1}</span>は、<span>法{'手続': 1}</span>第十五条第一項各号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>及び第七条<span>第一{'規定': 1}</span>項第一号に掲げる事項のほか、分割後の<span>立木{'手続': 1}</span>に係る不動産登記法第三十四条第一項各号に掲げる事項及び法第十五条第一項各号に掲げる事項とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（分割の登記における表題部の記録方法）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、甲<span>立木{'規定': 1}</span>から乙立木を分割する分割の登記をするときは、乙立木について新たな登記記録を作成し、当該登記記録の表題部に、登記第何号の立木から分割した旨を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>登記官は、前項の場合には、甲立木の登記記録に、立木の表題部の登記事項、登記第何号の立木を分割した旨及び従前の立木の表題部の登記事項の変更部分を抹消する記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（分割の登記における権利部の記録方法等）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">登記官は、<span>前条{'前項': 1}</span>の場合において、乙立木の登記記録の権利部の相当区に甲立木の登記記録から権利に関する登記を転写し、分割の登記に係る申請の受付の年月日及び受付<span>番号{'情報': 1}</span>を記録しなければならない。</Sentence>
+                <Sentence Num="2">この場合において、抵当権又は先取特権（以下「担保権」と総称する。）について既にその<span>担保{'届出': 1}</span>権についての共同担保<span>目録{'手続': 1}</span>が<span>作成{'手続': 1}</span>されているときを<span>除き{'ある': 1}</span>共同担保目録を作成し、<span>転写{'手続': 1}</span>した<span>担保権{'権利': 1}</span>の登記の末尾にその共同担保<span>目録{'規定': 1}</span>の記号及び<span>目録{'規定': 1}</span><span>番号{'手続': 1}</span>を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>登記官は、前項の場合において、<span>転写{'規定': 1}</span>する登記に係る権利が担保権であり、かつ、既に<span>当該{'規定': 1}</span><span>担保{'手続': 1}</span>権についての<span>共同{'規定': 1}</span><span>担保{'手続': 1}</span>目録が作成されているときは、同項の規定により転写された登記に係る乙立木に関する担保権を<span>当該{'規定': 1}</span>共同<span>担保{'手続': 1}</span>目録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>登記官は、甲立木の登記記録から乙立木の登記記録に担保権に関する登記を転写したときは、分割後の甲立木の登記記録の当該担保権に関する登記に、既に当該担保権についての<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'規定': 1}</span>が<span>作成{'手続': 1}</span>されているときを<span>除き{'ある': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>作成{'違反': 1, '手続': 1}</span>した<span>共同{'手続': 1}</span><span>担保{'手続': 1}</span><span>目録{'規定': 1}</span>の記号及び<span>目録{'規定': 1}</span><span>番号{'手続': 1}</span>を<span>記録{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>不動産登記法第四十条及び不動産登記規則第百四条第一項から第三項までの規定は、立木の分割の登記について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（合併の登記の申請情報等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>立木の合併の登記の申請をする場合に登記所に<span>提供{'規定': 1}</span>しなければならない<span>申請{'規定': 1}</span><span>情報{'規定': 1}</span>の<span>内容{'規定': 1}</span>は、<span>法{'手続': 1}</span>第十五条第一項各号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>及び第七条<span>第一{'規定': 1}</span>項第一号に掲げる事項のほか、<span>合併{'分割': 1}</span>後の<span>立木{'手続': 1}</span>に係る不動産登記法第三十四条第一項各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>及び法第十五条第一項各号に掲げる事項とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>所有権{'規定': 1}</span>の登記以外の権利に関する登記がある<span>立木{'手続': 1}</span>については、合併の登記は、することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（合併の登記の添付情報）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第十九条の規定は、合併により立木が七種を超える種類の樹木をもって組成される樹木の集団となった場合において合併の登記の申請をするときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（合併の登記における登記記録の記録方法）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登記官は、甲立木を乙立木に合併する合併の登記をするときは、乙立木の登記記録の表題部に、合併後の立木の表題部の登記事項及び登記第何号の立木を合併した旨並びに従前の立木の表題部の登記事項の変更部分を抹消する記号を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>登記官は、前項の場合には、甲立木の登記記録の表題部に登記第何号の立木に合併した旨及び従前の立木の表題部の登記事項を抹消する記号を記録し、当該登記記録を<span>閉鎖{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>不動産登記規則{'場合': 1}</span>第百七条第一項及び第六項の規定は、第一項の場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（分割及び合併の登記における登記記録の記録方法）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">登記官は、甲立木の一部を分割して、これを乙立木に合併する場合において、分割の登記及び合併の登記をするときは、乙立木の登記記録の表題部に、合併後の立木の表題部の登記事項及び登記第何号の立木の一部を合併した旨並びに従前の立木の表題部の登記事項の変更部分を抹消する記号を<span>記録{'手続': 1}</span>しなければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'手続': 1}</span>には、<span>前条{'手続': 1}</span>第一項及び第二項の<span>規定{'手続': 1}</span>は、<span>適用{'準用': 1, '規定': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">登記官は、前項に規定する登記をするときは、甲<span>立木{'土地': 1}</span>の登記記録の表題部に、残余部分の立木の表題部の登記事項、登記第何号の立木に一部を合併した旨及び従前の立木の表題部の登記事項の変更部分を抹消する記号を<span>記録{'手続': 1}</span>しなければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'手続': 1}</span>には、第二十一条の<span>規定{'手続': 1}</span>は、<span>適用{'規定': 1}</span>しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二十二条第四項及び<span>前条{'規定': 1}</span>第三項の<span>規定{'手続': 1}</span>は、第一項の<span>場合{'規定': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（滅失の登記）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">不動産登記規則第百九条及び第百十条の規定は、<span>立木{'規定': 1}</span>の滅失の登記について準用する。</Sentence>
+                <Sentence Num="2">この場合において、これらの規定中「土地」とあるのは「<span>立木{'規定': 1}</span>」と、同令第百十条中「不動産所在事項」とあるのは「<span>立木{'手続': 1}</span>の所在する市、区、郡、町、<span>村{'手続': 1}</span>、<span>字{'手続': 1}</span>及び土地の地番並びに樹木が一筆の土地の一部に生立するときは当該部分」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="28">
+          <ArticleCaption>（土地の登記記録への記録方法）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法{'手続': 1}</span>第十九条第一項の規定により立木の登記記録を表示するには、立木の登記の登記番号を記録する方法によってする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十九条第一項及び第二項の<span>登記{'規定': 1}</span>官を明らかにする措置は、登記記録に登記官の<span>識別番号{'手続': 1}</span>を記録する措置とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（土地の登記記録の転写等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不動産登記規則第百二条及び第百六十八条（第一項を除く。）の<span>規定{'手続': 1}</span>は、法第十八条の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（立木図面つづり込み帳等）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>登記所には、立木図面つづり込み帳及び施業方法書つづり込み簿を備えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（保存期間）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号に掲げる<span>書面{'規定': 1}</span>又は<span>情報{'規定': 1}</span>の保存期間は、当該各号に定めるとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>立木{'登記記録': 1}</span>図面</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>永久</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>施業方法書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>立木の登記記録を閉鎖した日から三十年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（登記識別情報の通知等）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不動産登記法第二十一条本文の規定により登記識別情報を通知するとき又は不動産登記規則第百八十一条第一項の規定により<span>登記{'規定': 1}</span>が<span>完了{'規定': 1}</span>した旨を通知するときは、登記番号も通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（登記事項証明書の交付の請求情報等）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>立木の登記記録についての登記事項証明書若しくは登記事項要約書の交付又は登記簿の<span>附属{'規定': 1}</span>書類の閲覧を請求する<span>場合{'利害関係': 1}</span>において、法第十五条<span>第一{'規定': 1}</span>項第一号に<span>規定{'手続': 1}</span>する<span>名称{'規定': 1}</span>又は<span>番号{'規定': 1}</span>が<span>登記{'規定': 1}</span>されているときは、<span>不動産登記規則{'記録': 1, '規定': 1}</span>第百九十三条第一項各号又は第二項各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>当該{'定め': 1, '規定': 1}</span><span>名称{'手続': 1}</span>又は番号を請求情報の内容としなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>立木の登記記録について登記事項証明書の交付の請求をする場合において、施業方法書に記載された事項について証明を求めるときは、<span>不動産登記規則{'手続': 1}</span>第百九十三条第一項各号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>当該{'規定': 1}</span><span>証明{'手続': 1}</span>を求める旨を請求情報の内容としなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（登記事項証明書の作成及び交付）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">立木の登記記録について作成する登記事項証明書は、次の各号の区分に応じ、当該各号に定める<span>様式{'手続': 1}</span>によるものとする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、登記記録に記録した事項の一部についての登記事項証明書については適宜の様式によるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>立木の登記記録</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>別記第二号様式</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>施{'手続': 1}</span>業方法書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>別記第一号様式</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>立木{'規定': 1}</span>の登記記録について登記事項証明書を作成する場合において、施業方法書に記載された事項について証明を求める旨が請求情報の内容とされていないときは、施業方法書に記載された事項の記載を省略するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（立木図面の写しの交付）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>立木の登記に関する不動産登記法第百二十一条及び不動産登記令第二十一条第一項の規定の適用については、同項中「土地所在図」とあるのは、「立木図面」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（登記の嘱託）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この省令中「<span>申請{'規定': 1}</span>」、「申請人」及び「申請<span>情報{'手続': 1}</span>」には、<span>それぞれ{'規定': 1}</span><span>嘱託{'規定': 1}</span>、<span>嘱託{'規定': 1}</span>者及び<span>嘱託{'規定': 1}</span><span>情報{'規定': 1}</span>を含むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">改正後の立木登記規則（以下「新令」という。）の規定は、この附則に特別の定めが<span>ある{'取り消さ': 1}</span><span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、この<span>省令{'法律': 1, '手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'手続': 1}</span>に<span>生じ{'取り消さ': 1}</span>た<span>事項{'規定': 1}</span>にも適用する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、改正前の<span>立木{'債権譲渡': 1, '不動産登記法': 1, '規定': 1}</span>登記規則（以下「旧令」という。）の規定により<span>生じ{'ある': 1}</span>た<span>効力{'規定': 1}</span>を<span>妨げ{'ある': 1}</span>ない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この<span>省令{'法律': 1, '手続': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした旧<span>令{'旧法': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>処分{'規定': 1}</span>、<span>手続{'規定': 1}</span>その他の<span>行為{'規定': 1}</span>は、この<span>附則{'規定': 1}</span>に<span>特別{'規定': 1}</span>の定めがある場合を除き、<span>新令{'規定': 1}</span>の相当規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行前にされた<span>立木{'規定': 1}</span>の登記の申請に係る登記に関する手続については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>登記所において現に保存する旧令第十四条ノ二の実測図面の謄本に係る同条の規定の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（未指定事務に係る旧登記簿）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>新令{'附則': 1, '規定': 1}</span>第一条及び第三十四条の規定は、不動産登記法附則<span>第三条{'規定': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>指定{'規定': 1}</span>（同<span>条{'規定': 1}</span>第三項の<span>規定{'手続': 1}</span>により<span>指定{'規定': 1}</span>を<span>受け{'ある': 1}</span>たものと<span>みなさ{'ある': 1}</span>れるものを<span>含む{'ある': 1}</span>。以下「<span>第三条{'規定': 1}</span><span>指定{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>受け{'ある': 1}</span>た<span>事務{'規定': 1}</span>について、その<span>第三条{'規定': 1}</span><span>指定{'規定': 2}</span>の日から<span>適用{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>第三条{'規定': 2}</span><span>指定{'規定': 2}</span>がされるまでの<span>間{'規定': 1}</span>は、<span>第三条{'規定': 1}</span><span>指定{'規定': 1}</span>を<span>受け{'ある': 1}</span>ていない<span>事務{'規定': 1}</span>（<span>不動産登記規則{'規定': 1}</span><span>附則{'規定': 1}</span><span>第三条{'規定': 1}</span>第一項<span>ただし書{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>登記簿{'規定': 1}</span>に関する<span>事務{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）に係る旧<span>登記簿{'規定': 1}</span>（<span>不動産登記法{'法律': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴う{'取り消さ': 1}</span>関係法律の整備等に関する法律（以下「<span>整備法{'法律': 1, '附則': 1, '規定': 1}</span>」という。）第十二条第二項の<span>規定{'施行': 1}</span>によりなおその効力を有することとされる<span>整備法{'規定': 1}</span>第十一条の規定による改正前の法第十四条に規定する<span>立木{'規定': 1}</span>登記簿をいい、不動産登記法附則第三条第四項の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる改正<span>前{'規定': 1}</span>の不動産登記法（明治三十二年法律第二十四号）第二十四条ノ二第一項に規定する閉鎖登記簿（立木登記簿に係る部分に限る。）を含む。以下同じ。）については、旧令第二条から第六条まで、第十七条ノ二及び第二十四条ノ三の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="2">この場合において、旧令第三条第二項中「不動産登記法施行<span>細則{'手続': 1}</span>第五十二条」とあるのは「不動産登記規則（平成十七年法務省令第十八号）附則第四条第二項ノ規定ニ依リ仍其ノ効力ヲ有スルモノトサレタル不動産登記法施行細則（明治三十二年司法省令第十一号。以下「旧細則」ト称ス）第五十二条」と、旧令第五条ノ四第二項中「不動産登記法施行細則第七条第二項及第三項」とあるのは「不動産登記規則附則第四条第二項ノ規定ニ依リ仍其ノ効力ヲ有スルモノトサレタル旧細則第七条第二項及第三項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第三条<span>指定{'規定': 1}</span>がされるまでの間における前項の事務についての新令の適用については、新令本則中「登記記録」とあるのは、「登記用紙」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第三条指定を<span>受け{'ある': 1}</span>ていない<span>事務{'規定': 1}</span>において<span>登記{'手続': 1}</span><span>用紙{'規定': 1}</span>に<span>記録{'手続': 1}</span>された<span>事項{'手続': 1}</span>を抹消する記号を記録するには、当該事項を朱抹するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第三条指定を受けていない事務において登記用紙に登記官の<span>識別番号{'ファイル': 1, '手続': 1}</span>を記録するには、登記用紙に<span>登記{'記録': 1}</span>官が登記<span>官印{'規定': 1}</span>を押印するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（第三条指定を受けている登記所からの移送）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>不動産登記規則附則第七条の規定は、立木の所在地が当該立木に係る事務について第三条指定を受けている甲登記所の管轄から当該事務について第三条指定を受けていない乙登記所の管轄に転属した場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（第三条指定を受けていない登記所からの移送）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>不動産登記規則第八条の規定は、立木の所在地が当該立木に係る事務について第三条指定を受けていない甲登記所の管轄から当該事務について第三条指定を受けている乙登記所の管轄に転属した場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（不動産登記法附則第六条の指定前の登記手続）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>立木の登記の事務について不動産登記法附則第六条の指定（以下「第<span>六条{'規定': 2}</span><span>指定{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>受け{'ある': 1}</span>ていない<span>登記所{'規定': 1}</span>の<span>登記{'規定': 1}</span><span>手続{'規定': 1}</span>に係る<span>登記{'手続': 1}</span>の<span>申請{'手続': 1}</span>をする<span>場合{'手続': 1}</span>における<span>不動産登記規則{'規定': 1}</span><span>附則{'規定': 2}</span>第十五条第二項の<span>適用{'規定': 1}</span>については、同<span>項{'規定': 1}</span>中「不動産所在事項」とあるのは、「<span>立木{'手続': 1}</span>の所在する市、区、郡、町、<span>村{'手続': 1}</span>、<span>字{'手続': 1}</span>及び土地の地番並びに樹木が一筆の土地の一部に生立するときは当該部分」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">旧令第十四条ノ三第五項の規定は、第<span>六条{'当該': 1}</span><span>指定{'規定': 1}</span>がされるまでの間は、第六条指定を<span>受け{'ある': 1}</span>ていない<span>登記{'規定': 1}</span><span>手続{'届出': 1}</span>について、なおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+            <Sentence Num="2">この<span>場合{'規定': 1}</span>において、同<span>項{'規定': 1}</span>中「<span>申請書{'規定': 1}</span>ノ副本」とあるのは、「不動産登記規則附則第十五条第二項ノ規定ニ依リ提出サレタル書面」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第<span>六条{'規定': 1}</span>指定がされるまでの間、各登記所の登記手続についての新令の<span>規定{'手続': 1}</span>の適用については、新令第三十二条中「不動産登記法第二十一条本文」とあるのは「不動産登記法附則第六条第三項の規定により読み替えて適用される同法第二十一条本文」と、「<span>登記識別情報{'規定': 2}</span>を通知するとき又は不動産登記規則第百八十一条第一項の規定により登記が完了した旨を通知する」とあるのは「<span>登記済証{'規定': 1}</span>を交付する」と、「<span>登記{'場合': 1, '手続': 1}</span><span>番号{'規定': 1}</span>も通知する」とあるのは「これに登記番号も<span>記載{'規定': 1}</span>する」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（民法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>民法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を改正する法律（平成十六年法律第百四十七号）の施行の日の前日までの間における新令第十三条第二項第二号及び第四号の規定の適用については、新令中「第三百九十八条の十六」とあるのは、「第三百九十八条ノ十六」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417063" AmendLawNum="平成一七年四月二〇日法務省令第六三号" Id="f1614c40-18eb-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令による改正後の<span>企業{'規定': 2}</span><span>担保{'債権譲渡': 1}</span>登記規則、不動産等の管轄登記所の指定に関する省令、<span>独立行政法人緑資源機構法{'規定': 1}</span>による不動産登記の手続に関する省令、工場抵当登記規則、立木登記規則、船舶登記規則、農業用動産抵当登記規則、建設機械登記規則並びに<span>不動産登記法{'規定': 2}</span>及び不動産登記法の<span>施行{'規定': 1}</span>に<span>伴う{'取り消さ': 1}</span><span>関係{'手続': 1}</span><span>法律{'規定': 1}</span>の<span>整備{'規定': 1}</span>等に関する<span>法律{'規定': 1}</span>の<span>施行{'法律': 1, '規定': 1}</span>に<span>伴う{'ある': 1}</span><span>法務省{'規定': 1}</span><span>関係{'規定': 1}</span><span>省令{'規定': 1}</span>の<span>整備{'規定': 1}</span>等に関する<span>省令{'手続': 1}</span>の規定は、不動産登記法（平成十六年法律第百二十三号）の施行の日（平成十七年<span>三月七日{'規定': 1}</span>）から<span>適用{'施行': 2}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417106" AmendLawNum="平成一七年一一月一一日法務省令第一〇六号" Extract="true" Id="87db420e-f352-11e6-941f-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、<span>不動産登記法{'住民基本台帳法': 1}</span>等の一部を改正する<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423005" AmendLawNum="平成二三年三月二五日法務省令第五号" Extract="true" Id="7c802e42-18c7-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>省令{'法律': 1, '規定': 1}</span>は、平成二十三年<span>四月一日{'規定': 1}</span>から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第<span>一条{'手続': 1}</span>中<span>不動産登記規則{'金融商品取引法': 1, '規定': 1}</span>第六十四条、第六十九条、第百八十<span>一条{'規定': 1}</span>第二項、第百八十二条、第百八十二条の二及び<span>別記{'規定': 1}</span>第六号の<span>改正{'手続': 1}</span>規定、第八条の規定、第九条の規定、第十条中<span>船舶登記{'規定': 1}</span>規則第四十九条の改正規定（同令第百九十五条を<span>削る{'ある': 1}</span>改正規定を除く。）、第十一条中農業用動産抵当登記規則第四十条の改正規定（同令第百九十五条を削る改正規定を除く。）、第十<span>二条{'改正': 1}</span>の規定<span>並び{'手続': 1}</span>に第十四条の<span>規定{'手続': 1}</span></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十三年六月二十七日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="428012" AmendLawNum="平成二八年三月二四日法務省令第一二号" Id="0dc8aa50-192c-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この<span>省令{'規定': 1}</span>は、<span>地方自治法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'手続': 1}</span>する<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日（平成二十八年<span>四月一日{'規定': 1}</span>）から<span>施行{'規定': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第<span>一条{'規定': 1}</span>中<span>不動産登記規則{'規定': 1}</span>第百七条、第百三十四条第一項及び第百三十九条の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span>並びに第三条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxNote>
+      <AppdxNoteTitle>別記第一号</AppdxNoteTitle>
+      <RelatedArticleNum>（第十四条第一項及び第三十四条第一項第二号関係）</RelatedArticleNum>
+      <NoteStruct>
+        <Note>
+          <Fig src="./pict/H17F12001000026-001.pdf"/>
+        </Note>
+      </NoteStruct>
+    </AppdxNote>
+    <AppdxNote>
+      <AppdxNoteTitle>別記第二号</AppdxNoteTitle>
+      <RelatedArticleNum>（第三十四条第一項第一号関係）</RelatedArticleNum>
+      <NoteStruct>
+        <Note>
+          <Fig src="./pict/H17F12001000026-002.pdf"/>
+        </Note>
+      </NoteStruct>
+    </AppdxNote>
+  </LawBody>
+</Law>

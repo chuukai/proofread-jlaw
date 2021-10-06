@@ -1,0 +1,2774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="427" Year="16">
+  <LawNum>平成十六年政令第四百二十七号</LawNum>
+  <LawBody>
+    <LawTitle>信託業法施行令</LawTitle>
+    <EnactStatement>内閣は、信託業法（平成十六年法律第百五十四号）第二条第三項第一号、第五条第二項第二号及び第六号並びに第七項第二号、第七条第三項及び第五項（これらの規定を同法第五十四条第二項において準用する場合を含む。）、第十条第一項第二号、第十一条第二項、第三項、第七項及び第十項、第二十六条第二項（同法第二十七条第二項及び第二十九条第四項において準用する場合を含む。）、第二十九条第二項第一号、第五十三条第六項第二号、第五十四条第六項第二号、第八十六条第三項及び第五項、第九十一条第二項、第三項、第七項及び第十項、第九十五条第二項並びに第百七条第一項及び第二項並びに附則第百二十三条の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令において「信託会社」、「<span>管理{'信託会社': 1}</span>型信託会社」、「<span>外国{'委託': 1, '受託': 1}</span>信託会社」、「管理型外国信託会社」又は「信託契約<span>代理店{'締結': 1}</span>」とは、それぞれ信託業法（以下「<span>法{'規定': 1}</span>」という。）第二条第二項、第四項、第六項、第七項又は第九項に<span>規定{'受託': 1}</span>する信託会社、管理型信託会社、外国信託会社、<span>管理{'信託会社': 1}</span>型<span>外国{'委託': 1, '受託': 1}</span><span>信託会社{'証券': 1}</span>又は信託<span>契約{'業務': 1}</span>代理店をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_2">
+        <ArticleCaption>（信託業の適用除外）</ArticleCaption>
+        <ArticleTitle>第一条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二条第一項に規定する<span>政令{'内閣府令': 4}</span>で定めるものは、次に掲げる行為であって、信託の引受けに<span>該当{'法人': 1}</span>するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>弁護士又は弁護士法人がその行う弁護士業務に必要な費用に充てる目的で依頼者から金銭の預託を受ける行為その他の委任契約における受任者がその行う委任事務に必要な費用に充てる目的で委任者から金銭の預託を受ける行為</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>請負契約における請負人がその行う仕事に必要な費用に充てる目的で<span>注文{'委任': 1}</span>者から金銭の預託を受ける行為</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号に掲げる<span>行為{'事項': 1}</span>に準ずるものとして<span>内閣府令{'金融庁長官': 1}</span>で定める行為</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（受託者と密接な関係を有する者の範囲）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二条第三項第一号に規定する<span>政令{'内閣府令': 3}</span>で定める者は、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>受託者の<span>役員{'信託会社': 1}</span>（取締役、執行役、会計参与（会計参与が法人であるときは、その職務を行うべき社員を含む。）、<span>監査役{'執行役': 1}</span>又はこれらに類する役職にある者を<span>いう{'含む': 1}</span>。以下同じ。）<span>又は{'若しくは': 1}</span>使用人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>受託者の子法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>受託{'法人': 1}</span>者を<span>子{'会社': 1}</span>法人等とする親法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>受託{'当該': 1}</span>者を<span>子{'法人': 1}</span>法人等とする親法人等の子<span>法人{'場合': 1}</span>等（当該<span>受託{'委託': 1, '保険会社': 1}</span>者及び前二号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>受託者の関連法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>受託{'当該': 2}</span>者を<span>子{'会社': 1}</span><span>法人{'関連': 1}</span>等とする親法人等の関連法人等（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>受託{'当該': 1, '信託会社': 1}</span>者の特定個人株主</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号に掲げる者に係る次に掲げる会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを<span>含み{'含む': 4}</span>、当該<span>受託{'場合': 1}</span>者を除く。以下この号及び第十二条の二第二項第八号において「法人等」という。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総株主又は総出資者の議決権（株式会社にあっては、株主総会において決議をすることができる事項の<span>全部{'株式': 1}</span>につき議決権を行使することができない<span>株式{'株主': 1}</span>についての議決権を除き、会社法（平成十七年法律第八十六号）第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。以下同じ。）の百分の五十を超える議決権を<span>保有{'議決権': 1}</span>する法人等（当該<span>法人{'他': 1}</span>等の子法人等及び<span>関連{'法人': 1}</span>法人等を含む。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総<span>株主{'事項': 1}</span>又は総出資者の議決権の百分の二十以上百分の五十以下の議決権を保有する法人等</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>前項{'法': 1}</span>に規定する「親法人等」とは、他の法人等（会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを含む。）をいう。以下この<span>項{'条': 2}</span>及び次項において同じ。）の財務及び営業又は事業の方針を決定する機関（株主総会その他これに準ずる機関をいう。以下この<span>項{'支配': 1}</span>において「意思決定機関」という。）を<span>支配{'対象': 1}</span>している<span>法人{'会社': 1}</span>等として内閣府令で定めるものを<span>いい{'いう': 1}</span>、前項及び次項に規定する「<span>子{'指定': 1, '転換': 1}</span><span>法人{'指定': 1}</span>等」とは、親法人等によりその<span>意思決定{'当該': 1}</span>機関を支配されている他の法人等をいう。</Sentence>
+            <Sentence Num="2">この場合において、親法人等及び子法人等又は子法人等が<span>他{'当該': 1}</span>の法人等の意思決定機関を支配している場合における当該他の法人等は、その親法人等の子法人等とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項に規定する「<span>関連{'法人': 1, '指定': 1}</span><span>法人{'関係': 1}</span>等」とは、法人等（当該法人等の子法人等を含む。）が<span>出資{'法人': 3}</span>、<span>取締役{'法人': 2}</span>その他これに準ずる役職への当該法人等の役員若しくは使用人である者<span>若しくは{'又は': 2}</span>これらであった者の就任、融資、債務の保証若しくは担保の提供、技術の提供又は営業上若しくは事業上の取引等を通じて、財務及び営業又は事業の方針の決定に対して重要な影響を与えることができる他の法人等（<span>子{'合算': 1, '支援': 1}</span>法人等を除く。）として<span>内閣府令{'金融庁長官': 1}</span>で定めるものをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項に<span>規定{'当該': 1}</span>する「<span>特定{'契約': 1}</span>個人株主」とは、その総株主又は総出資者の<span>議決権{'総額': 1}</span>の百分の五十を超える<span>対象{'議決権': 2, '場合': 1, '株主': 1}</span>議決権（法第五条第五項に規定する対象<span>議決{'議決権': 1}</span>権をいう。）を<span>保有{'条': 1}</span>する個人をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項第八号の場合において、同項第七号に掲げる者が<span>保有{'会社': 1, '事項': 1}</span>する議決権には、社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百四十七条第一項又は第百四十八条第一項（これらの規定を同法第二百二十八条第一項、第二百三十五条第一項、第二百三十九条第一項及び第二百七十六条（第二号に係る部分に限る。）において準用する場合を含む。）の規定により発行者に対抗することができない株式又は<span>出資{'持分': 1}</span>に係る議決権を含むものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（運用型信託会社の最低資本金の額）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五条第二項第二号に規定する<span>政令{'内閣府令': 4}</span>で定める金額は、一億円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（免許の基準となる法律の範囲）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五条第二項第六号に規定する<span>政令{'内閣府令': 1}</span>で定める法律は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>商品先物取引法（昭和二十五年法律第二百三十九号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>宅地建物取引業法（昭和二十七年法律第百七十六号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>出資の受入れ、預り金及び金利等の取締りに関する法律（昭和二十九年法律第百九十五号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>特許法（昭和三十四年法律第百二十一号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>実用新案法（昭和三十四年法律第百二十三号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>意匠法（昭和三十四年法律第百二十五号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>商標法（昭和三十四年法律第百二十七号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>割賦販売法（昭和三十六年法律第百五十九号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>著作権法（昭和四十五年法律第四十八号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>貸金業法（昭和五十八年法律第三十二号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence>半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence>特定商品等の預託等取引契約に関する法律（昭和六十一年法律第六十二号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>不動産特定共同事業法（平成六年法律第七十七号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence>種苗法（平成十年法律第八十三号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence>金融業者の貸付業務のための社債の発行等に関する法律（平成十一年法律第三十二号）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（特別の関係）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'第一': 1, '二条': 1}</span>第五条第七項第二号に規定する<span>政令{'内閣府令': 1}</span>で定める特別の関係は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める関係とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>対象議決権（法第五条第五項に規定する対象議決権を<span>いい{'いう': 4}</span>、同条第七項（第二号に係る<span>部分{'規定': 1}</span>に限る。）の<span>規定{'議決権': 1}</span>により保有しているものと<span>みなさ{'いう': 1}</span>れる<span>対象{'規定': 1}</span>議決権を除く。以下この号において同じ。）を保有している者又はその<span>被支配会社{'子会社': 1}</span>が対象議決権を保有している者</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>当該者と次に掲げる者との関係</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>対象<span>議決{'会社': 1}</span>権をその者と共同で保有し、又は対象議決権をその者と共同で<span>行使{'保有': 1}</span>することを合意している者（第三項において「共同保有者」という。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>その配偶者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>その被支配会社</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>その支配株主等</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>その支配株主等の他の被支配会社</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前号に掲げる者以外の者</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>当該者と同号イ又はロに掲げる者との<span>関係{'場合': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項第一号ニ及びホの「支配株主等」とは、<span>会社{'議決権': 3}</span>の総株主又は総出資者の議決権の百分の五十を超える<span>議決権{'場合': 1}</span>を保有している者をいい、同号の「被支配会社」とは、支配<span>株主{'議決権': 1}</span>等によりその総株主又は総出資者の議決権の百分の五十を超える議決権を<span>保有{'所有': 1}</span>されている会社をいう。</Sentence>
+            <Sentence Num="2">この場合において、支配株主等とその<span>被支配会社{'議決権': 1, '金額': 1}</span>が合わせて他の会社の総株主又は総<span>出資{'場合': 1}</span>者の議決権の百分の五十を超える議決権を保有している場合には、当該他の会社を当該支配株主等の被支配会社と、当該支配株主等を当該他の会社の<span>支配{'議決権': 1}</span>株主等とそれぞれみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>共同保有者と合わせて会社の総株主又は総出資者の議決権の百分の五十を超える議決権を保有している者が<span>ある{'なる': 1}</span>場合には、当該者をそれぞれ当該会社の<span>支配{'議決権': 3}</span>株主等（<span>前項{'令': 1}</span>に規定する支配<span>株主{'社員': 1}</span>等をいう。次項において同じ。）と、当該会社を当該者の被支配会社（前項に規定する被支配会社をいう。次項において同じ。）とそれぞれみなして、第一項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>配偶者と合わせて会社の総株主又は総出資者の議決権の百分の五十を超える議決権を保有している者が<span>ある{'なる': 2}</span>場合には、当該者を<span>当該{'他': 2}</span>会社の支配株主等と、当該会社を当該者の被支配会社とそれぞれみなして、第一項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第二条第五項の規定は、前三項の<span>場合{'改正': 1}</span>においてこれらの規定に<span>規定{'議決': 1}</span>する者が<span>保有{'対象': 1}</span>する議決権について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第五項中「第百四十七条第一項又は第百四十八条第一項（これらの規定を同法第二百二十八条第一項、第二百三十五条第一項、第二百三十九条第一項及び第二百七十六条（第二号に係る部分に限る。）において準用する場合を含む。）」とあるのは「第百四十七条第一項又は第百四十八条第一項」と、「株式又は<span>出資{'新株予約権': 1}</span>」とあるのは「株式」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（管理型信託会社等の登録の更新の申請期間）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'削除': 1, '信託会社': 1}</span>第七条第三項（<span>法{'附則': 1}</span>第五十条の二第二項及び第五十四条第二項において準用する場合を含む。以下同じ。）に規定する<span>政令{'内閣府令': 3}</span>で定める<span>期間{'場合': 1}</span>は、法第七条第一項、第五十条の二第一項又は第五十四条第一項の<span>登録{'規定': 4}</span>の<span>有効{'債権': 1}</span>期間の満了する日の前日の三月<span>前{'経過': 1}</span>の日から二月前の日までとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（管理型信託会社等の登録の更新の手数料）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第七条第五項（法第五十四条第二項において準用する場合を含む。）の手数料の額は、六万七千七百円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同<span>項{'違反': 1}</span>に規定する電子情報処理組織を使用して<span>法{'方法': 3}</span>第七条第三項の<span>登録{'規定': 4}</span>の<span>更新{'受け': 1}</span>の申請をする場合にあっては、六万七千五百円）とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第五十条の二第二項において準用する法第七条第五項の<span>手数料{'規定': 1}</span>の額は、六万六千四百円（<span>情報通信{'計算': 1}</span>技術を活用した行政の推進等に関する法律第<span>六条{'改正': 1}</span>第一項の規定により同項に規定する電子情報処理組織を使用して<span>法{'提出': 1, '方法': 5, '請求権': 1}</span>第五十条の二第二項において<span>準用{'規定': 2}</span>する<span>法{'金融商品取引法': 1}</span>第七条第三項の<span>登録{'規定': 6}</span>の<span>更新{'受け': 1}</span>の申請をする場合にあっては、六万六千二百円）とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項の手数料は、法第八条第一項、第五十条の二第一項又は第五十四条第三項に<span>規定{'登録': 1}</span>する申請書に手数料の額に相当する額の収入印紙を貼って納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（管理型信託会社の最低資本金の額）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十条第一項第二号に規定する政令で定める金額は、五千万円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（信託会社等の営業保証金の額）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十<span>一条{'二条': 1, '法': 1, '六条': 1, '附則': 1}</span>第二項に規定する<span>政令{'内閣府令': 4}</span>で定める<span>金額{'事由': 1}</span>は、次の各号に掲げる者の<span>区分{'場合': 2}</span>に応じ、<span>当該{'該各': 1}</span>各号に<span>定める{'掲げる': 1}</span>額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>管理{'受託': 1, '当該': 1}</span>型<span>信託会社{'農水産業協同組合': 1}</span>以外の信託会社及び管理型<span>外国{'農水産業協同組合': 1, '受託': 1}</span><span>信託会社{'法令': 1}</span>以外の<span>外国{'受託': 1}</span>信託会社</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>二千五百万円</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>管理型信託会社及び<span>管理{'当該': 1}</span>型<span>外国{'受託': 1}</span>信託会社</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>千万円</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>法第五十条の二第一項の登録を受けた者</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>千万円</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>承認<span>事業者{'受け': 2}</span>（法第五十二条第三項の規定により信託会社又は<span>管理{'受託': 1}</span>型信託会社とみなされる同条第一項に規定する承認事業者をいう。次条において同じ。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>千万円</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（信託会社等の営業保証金に代わる契約の内容）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>信託会社、外国信託会社、法第五十条の二第一項の登録を受けた者又は<span>承認{'当該': 1}</span>事業者（以下「<span>信託会社{'協会': 1}</span>等」という。）は、法第十<span>一条{'二条': 2}</span>第三項に規定する契約を締結する場合には、銀行法（昭和五十六年法律第五十九号）第<span>二条{'第三条': 1}</span>第一項に規定する銀行、<span>保険業法{'信託業法': 1}</span>（平成七年法律第百五号）第二条第二項に規定する保険会社、同条第七項に規定する外国<span>保険会社{'規定': 1}</span>等その他内閣府令で定める金融機関を相手方とし、その内容を次に掲げる<span>要件{'事項': 1, '基準': 1}</span>に<span>適合{'該当': 3}</span>するものとしなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十一条第四項の規定による金融庁長官の<span>命令{'認可': 1, '承認': 2, '指定': 1}</span>を受けたときは、当該信託会社等のために当該命令に係る<span>額{'施行': 1}</span>の営業保証金が遅滞なく供託されるものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>一年以上の期間にわたって有効な<span>契約{'定め': 1}</span>であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>金融庁長官の<span>承認{'認可': 1, '指定': 1}</span>を受けた場合を除き、契約を<span>解除{'全部': 1}</span>し、又は契約の<span>内容{'条件': 1}</span>を変更することができないものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（信託会社等の営業保証金に係る権利の実行の手続）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十<span>一条{'規定': 3}</span>第六項の<span>権利{'規定': 2}</span>（以下この条において「権利」という。）を有する者は、<span>金融庁長官{'当該': 1, '株式': 1}</span>に対し、その権利の実行の申立てをすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>金融庁長官は、前項の申立てがあった場合において、当該申立てを理由があると認めるときは、当該営業保証金につき権利を有する者に対し、六十日を下らない一定の<span>期間内{'権利': 1}</span>に権利の申出をすべきこと及びその期間内に申出をしないときは配当手続から除斥されるべきことを公示し、かつ、その旨を同項の<span>申立て{'規定': 1}</span>をした者（以下この条において「申立人」という。）及び供託者（<span>供託{'業務': 1}</span>者が法第十<span>一条{'規定': 4}</span>第四項の<span>命令{'規定': 2}</span>により同条第三項の<span>契約{'規定': 2}</span>に基づき信託会社等のために同条第一項の営業保証金の全部を供託している場合にあっては、当該信託会社等を含む。第四項及び第五項において同じ。）に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定による公示があった後は、申立人がその申立てを<span>取り下げ{'あっ': 1}</span>た場合においても、手続の進行は、妨げられない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">金融庁長官は、第二項の期間が経過した後、遅滞なく、権利の調査をしなければならない。</Sentence>
+            <Sentence Num="2">この場合において、金融庁長官は、あらかじめ期日及び場所を公示し、かつ、供託者に通知して、<span>申立{'場合': 1}</span>人、当該期間内に権利の申出をした者及び当該供託者に対し、権利の存否及びその権利によって担保される債権の額について証拠を提示し、及び意見を述べる機会を与えなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>金融庁長官は、前項の規定による調査の結果に基づき、遅滞なく配当表を<span>作成{'財産': 1}</span>し、これを公示し、かつ、<span>供託{'当該': 1}</span>者に<span>通知{'供託': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>配当は、前項の規定による公示をした日から百十日を経過した後、同項の<span>配当{'規定': 2}</span>表に従い実施するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">金融庁長官は、有価証券（社債、株式等の振替に関する法律第二百七十八条第一項に<span>規定{'法律': 1}</span>する振替債を<span>含む{'いう': 1}</span>。）が供託されている場合において、権利の実行に必要があるときは、これを換価することができる。</Sentence>
+            <Sentence Num="2">この場合において、換価の費用は、換価代金から控除する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（信託会社等の営業保証金の取戻し）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>信託会社{'金融商品取引業者': 1}</span>等若しくはその<span>承継人{'子会社': 1}</span>又は当該信託会社等のために営業保証金を供託した者は、当該<span>信託会社{'保険会社': 1}</span>等が次に掲げる<span>場合{'事項': 1}</span>に該当することとなったときは、その供託していた営業保証金の全部を、金融庁長官の承認を受けて取り戻すことができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託会社等の本店等（信託会社の本店、外国信託会社の主たる支店（法第五十三条第一項に規定する「主たる支店」をいう。）、法第五十条の二第一項の登録を受けた者の信託法（平成十八年法律第百八号）<span>第三条{'一条': 1}</span>第三号に掲げる<span>方法{'事務': 1}</span>によってする信託に係る<span>事務{'業務': 1}</span>を行う主たる営業所又は<span>承認{'事務所': 3, '他': 1}</span>事業者の主たる営業所<span>若しくは{'又は': 4}</span>事務所をいう。第二十条第一項から第三項まで及び第五項において同じ。）の位置の変更により法第十一条第一項に規定する供託所を変更し、かつ、当該変更後の供託所に営業保証金の全部を供託した場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>次のいずれかに該当し、かつ、<span>信託{'当該': 1}</span>財産の新受託者への譲渡又は帰属権利者への移転が終了した<span>場合{'事業年度': 1}</span></Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第七条第三項の登録の更新がされなかった場合</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第四十四条第一項の規定により法<span>第三条{'規定': 1}</span>の<span>免許{'登録': 1}</span>が取り消された場合</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第四十五条第一項の規定により<span>法{'規定': 1}</span>第七条第一項、第五十条の二第一項又は第五十二条第一項の登録が<span>取り消さ{'受け': 1}</span>れた場合</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第四十六条第一項の<span>規定{'役員': 1}</span>により法<span>第三条{'規定': 1}</span>若しくは第五十三条第一項の免許又は第七条第一項、第五十条の二第一項、第五十二条第一項若しくは第五十四条第一項の<span>登録{'規定': 1}</span>がその効力を失った場合</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第五十九条第一項の規定により法第五十三条第一項の免許が取り消された場合</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第六十条第一項の規定により法第五十四条第一項の<span>登録{'免許': 1}</span>が<span>取り消さ{'受け': 1}</span>れた<span>場合{'受託': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>信託会社等又は当該信託会社等のために営業保証金を供託した者は、当該信託会社等が次に掲げる場合に該当し、かつ、当該信託会社等に係る営業保証金の額（契約金額（法第十一条第三項に規定する契約金額をいう。以下この項において同じ。）を含む。）が同条第一項及び第二項の<span>規定{'次': 1}</span>により供託すべき<span>金額{'額': 2}</span>を超えることとなったときは、当該営業保証金の額から契約金額を<span>控除{'当該': 1}</span>した<span>額{'金額': 1}</span>の<span>範囲{'額': 1}</span>内において、その超える額の全部又は一部を、金融庁長官の承認を受けて取り戻すことができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十一条第三項の契約を<span>締結{'全部': 1}</span>し、<span>又は{'及び': 1}</span>当該契約の<span>内容{'終了': 1}</span>を変更し、その旨を金融庁長官に届け出た<span>場合{'法': 2}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十六条第二項の規定により<span>法{'適用': 1}</span>第三条又は第五十三条第一項の<span>免許{'規定': 1}</span>の効力が<span>失わ{'失っ': 2}</span>れた場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12_2">
+        <ArticleCaption>（委託者及び受託者と密接な関係を有する者）</ArticleCaption>
+        <ArticleTitle>第十二条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十三条第二項に規定する委託者と密接な関係を有する者として<span>政令{'内閣府令': 3}</span>で定める者は、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該<span>委託{'受託': 1}</span>者の役員又は使用人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該<span>委託{'登録金融機関': 1}</span>者の子法人等（第二条第二項に<span>規定{'関連': 1}</span>する子法人等をいう。以下この条<span>及び{'又は': 1}</span>第十四条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'法人': 2}</span><span>委託{'法人': 2}</span>者を子法人等とする親法人等（第<span>二条{'前項': 1}</span>第二項に規定する親法人等をいう。以下この条<span>及び{'又は': 1}</span>第十四条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'法人': 2}</span><span>委託{'法人': 4}</span>者を子法人等とする親法人等の子法人等（当該<span>委託{'受託': 1, '保険会社': 1}</span>者及び前二号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'場合': 1}</span>委託者の<span>関連{'会社': 1}</span>法人等（第二条第三項に規定する<span>関連{'清算': 1}</span>法人等をいう。以下この<span>条{'項': 1}</span><span>及び{'又は': 1}</span>第十四条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'法人': 2}</span><span>委託{'法人': 3}</span>者を子法人等とする親法人等の関連法人等（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該委託者の特定個人株主（第二条第四項に規定する特定個人株主をいう。以下この<span>条{'次': 1}</span>及び第十四条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>前{'次': 4}</span>号に掲げる者に係る次に掲げる会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを<span>含み{'含む': 3}</span>、当該<span>委託{'受託': 1}</span>者を<span>除く{'受け': 1}</span>。以下この号において「法人等」という。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総株主又は総出資者の議決権の百分の五十を超える<span>議決権{'場合': 1}</span>を保有する<span>法人{'場合': 1}</span>等（当該<span>法人{'他': 1}</span>等の子法人等及び<span>関連{'法人': 1}</span>法人等を含む。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総<span>株主{'事項': 1}</span>又は総出資者の議決権の百分の二十以上百分の五十以下の議決権を保有する法人等</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第二十三条第二項に規定する受託者と<span>密接{'会社': 1, '法人': 1}</span>な関係を有する者として<span>政令{'内閣府令': 3}</span>で定める者は、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該受託者の<span>役員{'会社': 1}</span>又は<span>使用人{'法人': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該受託者の子法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該<span>受託{'法人': 1}</span>者を<span>子{'会社': 1, '当該': 1}</span>法人等とする親法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該<span>受託{'法人': 3}</span>者を<span>子{'会社': 1, '法人': 1}</span><span>法人{'当該': 1}</span>等とする親法人等の子法人等（当該<span>受託{'委託': 1, '保険会社': 1}</span>者及び前二号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該受託者の<span>関連{'会社': 2}</span><span>法人{'有価証券': 1}</span>等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該受託者を<span>子{'会社': 1, '法人': 1}</span>法人等とする親法人等の関連法人等（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'前': 1}</span>受託者の<span>特定{'信託会社': 1}</span>個人株主</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号に掲げる者がその総株主又は総<span>出資{'議決権': 1}</span>者の議決権の百分の五十を超える<span>議決権{'場合': 1}</span>を保有する<span>法人{'場合': 1}</span>等（当該<span>法人{'他': 1}</span>等の子法人等及び<span>関連{'法人': 1}</span>法人等を含む。）<span>及び{'次に': 1}</span>同号に掲げる者がその総<span>株主{'事項': 1}</span>又は総出資者の議決権の百分の二十以上百分の五十以下の議決権を保有する<span>法人{'議決権': 1}</span>等</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第<span>二条{'法': 1}</span>第五項の規定は、第一項第八号又は前項第八号の場合において、第一項第七号に掲げる者又は<span>前項{'項': 1}</span>第七号に掲げる者が<span>保有{'事項': 1}</span>する議決権について<span>準用{'行使': 1, '受託': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_3">
+        <ArticleCaption>（情報通信の技術を利用した提供）</ArticleCaption>
+        <ArticleTitle>第十二条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>信託会社は、法第二十四条の二において<span>準用{'場合': 1}</span>する金融商品取引法（昭和二十三年<span>法律{'法': 2, '準用': 2}</span>第二十五号。以下「<span>準用{'規定': 1}</span>金融商品取引法」という。）第三十四条の二第四項（準用<span>金融商品取引法{'法': 1}</span>第三十四条の三第十二項（準用金融商品取引法第三十四条の四第六項において準用する場合を含む。）、第三十四条の四第三項及び第三十七条の三第二項において準用する場合を含む。以下この条において同じ。）の規定により準用<span>金融商品取引法{'場合': 1, '会社法': 1}</span>第三十四条の二第四項に規定する事項を<span>提供{'規定': 2}</span>しようとするときは、内閣府令で定めるところにより、あらかじめ、当該事項を提供する相手方に対し、その用いる同<span>項{'条': 1}</span>に規定する方法（以下この条において「電磁的方法」という。）の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>前項{'項': 1}</span>の規定による承諾を得た<span>信託会社{'金融商品取引業者': 1, '商工組合中央金庫': 1}</span>は、当該<span>相手方{'保険契約者': 1}</span>から書面又は電磁的方法により電磁的方法による<span>提供{'通知': 2}</span>を受けない旨の申出があったときは、当該<span>相手方{'法': 1}</span>に対し、準用金融商品取引法第三十四条の二第四項に規定する<span>事項{'承諾': 1}</span>の提供を電磁的方法によってしてはならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該相手方が再び<span>前項{'項': 1}</span>の規定による承諾をした場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_4">
+        <ArticleCaption>（情報通信の技術を利用した同意の取得）</ArticleCaption>
+        <ArticleTitle>第十二条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>信託会社{'法': 2, '商工組合中央金庫': 1}</span>は、準用金融商品取引法第三十四条の二第十二項（<span>準用{'規定': 1}</span>金融商品取引法第三十四条の三第三項（<span>準用{'規定': 1}</span><span>金融商品取引法{'法': 1}</span>第三十四条の四第六項において準用する場合を含む。）において準用する場合を含む。以下この条において同じ。）の規定により、準用<span>金融商品取引法{'会社法': 1}</span>第三十四条の二第十一項の規定による書面による同意に代えて同条第十二項に規定する内閣府令で定める<span>方法{'場合': 1}</span>（以下この<span>条{'表示': 1}</span>において「<span>電磁{'規定': 1}</span>的方法」という。）により同意を得ようとするときは、内閣府令で定めるところにより、あらかじめ、当該同意を得ようとする相手方に対し、その用いる電磁的方法の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>前項{'項': 1}</span>の規定による承諾を得た<span>信託会社{'金融商品取引業者': 1, '商工組合中央金庫': 1}</span>は、当該<span>相手方{'保険契約者': 1}</span>から書面又は電磁的方法により電磁的方法による同意を<span>行わ{'受け': 1}</span>ない旨の申出があったときは、当該相手方に対し、準用金融商品取引法第三十四条の二第十二項に規定する<span>同意{'承諾': 1}</span>の取得を電磁的方法によってしてはならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該相手方が再び<span>前項{'項': 1}</span>の規定による承諾をした場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_5">
+        <ArticleCaption>（顧客の判断に影響を及ぼす重要事項）</ArticleCaption>
+        <ArticleTitle>第十二条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>準用<span>金融商品取引法{'法': 1}</span>第三十七条第一項第三号に規定する<span>政令{'内閣府令': 4}</span>で定めるものは、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>特定<span>信託{'預金': 3}</span>契約（<span>法{'信託業法': 1}</span>第二十四条の二に規定する特定<span>信託{'預金': 2}</span>契約をいう。以下同じ。）に関して顧客が支払うべき手数料、<span>報酬{'額': 1}</span>その他の対価に関する事項であって内閣府令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>顧客が行う特定<span>信託{'預金': 4}</span>契約の締結について金利、通貨の<span>価格{'準用': 1}</span>、<span>金融商品取引法{'同法': 1, '法': 1}</span>第二条第十四項に規定する金融商品市場における相場その他の指標に係る変動を直接の原因として損失が生ずることとなるおそれがある場合にあっては、次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該指標</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該指標に係る変動により損失が生ずるおそれがある旨及びその理由</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号に掲げる事項に準ずるものとして内閣府令で定める<span>事項{'場合': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>準用<span>金融商品取引法{'法': 1}</span>第三十七条第一項に規定する行為を基幹放送事業者（放送法（昭和二十五年法律第百三十二号）第二条第二十三号に規定する基幹放送事業者をいい、日本放送協会及び放送大学学園（放送大学学園法（平成十四年法律第百五十六号）第三条に規定する放送大学学園をいう。）を除く。）の放送設備により放送をさせる方法その他これに準ずるものとして内閣府令で定める方法によりする場合における同項第三号に規定する<span>政令{'内閣府令': 4}</span>で定めるものは、前項の規定にかかわらず、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>顧客{'場合': 1}</span>が行う特定<span>信託{'預金': 4}</span>契約の締結について金利、通貨の価格、金融商品市場における相場その他の指標に係る変動を直接の原因として損失が生ずることとなるおそれがある場合にあっては、当該おそれがある旨</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号に掲げる事項に準ずるものとして内閣府令で定める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12_6">
+        <ArticleCaption>（金融商品取引法を準用する場合の読替え）</ArticleCaption>
+        <ArticleTitle>第十二条の六</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十四条の二の規定による技術的読替えは、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>読み替える<span>金融商品取引法{'信託法': 1, '法': 1, '会社法': 1}</span>の規定</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替えられる字句</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替える字句</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三十四条</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>同条第三十一項第四号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第二条第三十一項第四号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三十七条第一項第一号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>商号、名称又は氏名</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>商号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第四十条第二号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>前号に掲げるもの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託業法第二十四条第二項の規定に違反すると認められる状況</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（情報通信の技術を利用する方法）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>信託会社は、法第二十六条第二項の規定により同項に規定する<span>事項{'情報': 1}</span>を<span>提供{'規定': 3}</span>しようとするときは、内閣府令で定めるところにより、あらかじめ、当該委託者に対し、その用いる同項に規定する電磁的方法（以下この<span>条{'提供': 1}</span>において「電磁的方法」という。）の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>前項{'項': 1}</span>の規定による承諾を得た<span>信託会社{'金融商品取引業者': 1, '保険会社': 1, '商工組合中央金庫': 1}</span>は、当該<span>委託{'相手方': 3, '保険契約者': 1}</span>者から<span>書面{'受け': 1}</span>又は電磁的方法により電磁的方法による<span>提供{'通知': 2}</span>を受けない旨の申出があったときは、当該<span>委託{'相手方': 3, '顧客': 1}</span>者に対し、法第二十六条第二項に規定する事項の提供を電磁的方法によってしてはならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該<span>委託{'相手方': 3}</span>者が再び前項の規定による<span>承諾{'準用': 2}</span>をした場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前二項の規定は、法第二十七条第二項及び第二十九条第四項において法第二十六条第二項の<span>規定{'法': 1}</span>を準用する場合について準用する。</Sentence>
+            <Sentence Num="2">この<span>場合{'法': 1}</span>において、これらの規定中「委託者」とあるのは、「信託財産に係る<span>受益者{'計算': 1}</span>」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（信託会社と密接な関係を有する者の範囲）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十九条第二項<span>第一{'二条': 1}</span>号に規定する<span>政令{'内閣府令': 5}</span>で定める者は、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託会社の役員又は<span>使用人{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>信託会社{'当該': 1}</span>の子法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託会社を子法人等とする親法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>信託会社{'当該': 1}</span>を<span>子{'法人': 1}</span>法人等とする親法人等の子法人等（当該<span>信託会社{'委託': 1, '保険会社': 1}</span>及び前二号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託会社の関連法人等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>信託会社{'当該': 1}</span>を子法人等とする親法人等の関連法人等（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>信託会社{'当該': 1}</span>の特定個人株主</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号に掲げる者に係る次に掲げる会社、組合その他これに準ずる事業体（外国におけるこれらに相当するものを<span>含み{'含む': 3}</span>、信託会社を除く。以下この号において「法人等」という。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総株主又は総出資者の議決権の百分の五十を超える<span>議決権{'場合': 1}</span>を保有する<span>法人{'場合': 1}</span>等（当該<span>法人{'他': 1}</span>等の子法人等及び<span>関連{'法人': 1}</span>法人等を含む。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>前号に掲げる者がその総<span>株主{'事項': 1}</span>又は総出資者の議決権の百分の二十以上百分の五十以下の<span>議決権{'方法': 1}</span>を保有する<span>法人{'受託': 1}</span>等</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>信託会社{'準用': 1}</span>が法第二十二条第一項の規定により信託業務の委託をした場合における当該委託を受けた者についての前項の規定の適用については、同<span>項{'受託': 1}</span>中「信託会社」とあるのは、「信託会社から信託<span>業務{'規定': 1}</span>の委託を受けた者」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二条第五項の規定は、第一項第八号の場合において同項第七号に掲げる者が<span>保有{'事項': 1}</span>する<span>議決権{'該当': 1}</span>について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（信託会社が電子公告により公告をする場合について準用する会社法の規定の読替え）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十<span>一条{'二条': 1}</span>第六項の規定において信託会社が電子公告により法又は他の<span>法律{'法': 1}</span>の規定による<span>公告{'準用': 1}</span>（会社法の規定による公告を除く。）をする<span>場合{'準用': 1, '規定': 1}</span>について<span>会社法{'条': 1}</span>第九百四十条第三項の規定を<span>準用{'公告': 3}</span>する場合における<span>当該{'同法': 1}</span>規定に係る技術的読替えは、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>読み替える<span>会社法{'信託法': 1, '法': 1}</span>の規定</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替えられる字句</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替える字句</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="1" rowspan="2">
+                  <Sentence>第九百四十条第三項</Sentence>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>前二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第一項</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>これらの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>同項の</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="15_2">
+        <ArticleCaption>（多数の者が受益権を取得することができる場合）</ArticleCaption>
+        <ArticleTitle>第十五条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五十条の二第一項に規定する政令で定める<span>人数{'場合': 1}</span>は、五十名とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第五十条の二第一項<span>本文{'二条': 1}</span>及び第十項に規定する<span>政令{'内閣府令': 1}</span>で定める場合は、次の各号（同項に規定する<span>政令{'内閣府令': 2}</span>で定める場合にあっては、第三号及び第四号ロを除く。）のいずれかに該当する場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託法第三条第三号に掲げる<span>方法{'事項': 1}</span>によってする一の信託（以下この<span>条{'財産': 1}</span>において「<span>対象{'規定': 1}</span>信託」という。）のその効力が生ずる時における受益者の人数（次号ロ（１）から（３）までに掲げる者の<span>人数{'該当': 1}</span>を除く。以下この項において「<span>対象{'当該': 2}</span>信託受益者数」という。）が、<span>前項{'項': 1}</span>に規定する人数以上である場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>次に掲げる人数の合計数（以下この項において「<span>対象{'規定': 1}</span>信託受益者等合計数」という。）が前項に規定する人数以上である場合（前号に掲げる場合を除く。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>対象信託受益者数（<span>ロ{'合計': 1}</span>に規定する場合におけるロの利益享受組合員等に係るロ（４）の匿名組合契約の営業者及びロ（５）の有価証券の発行者の人数を除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該対象信託を<span>しよう{'受益権': 1}</span>とする者が次に掲げる者（以下この項において「<span>利益{'規定': 2}</span>享受組合員等」という。）に当該対象<span>信託{'財産': 1}</span>の<span>利益{'財産': 1}</span>を享受させる目的をもって当該<span>対象{'投資法人': 1}</span>信託を<span>しよう{'財産': 1}</span>とする場合において、<span>当該{'子会社': 1}</span>対象信託の<span>効力{'財産': 1}</span>が生ずる時における当該利益享受組合員等の人数</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>組合契約（民法（明治二十九年<span>法律{'二条': 1}</span>第八十九号）第六百六十七条第一項に規定する組合契約をいう。）の組合員</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>投資事業有限責任組合{'信託': 1}</span>契約（投資事業有限責任組合契約に関する法律（平成十年法律第九十号）<span>第三条{'二条': 1}</span>第一項に規定する投資事業有限責任組合契約をいう。）の組合員</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>有限責任事業組合契約（有限責任事業組合契約に関する法律（平成十七年法律第四十号）<span>第三条{'二条': 1}</span>第一項に規定する<span>有限責任事業組合{'投資事業有限責任組合': 1}</span>契約をいう。）の組合員</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="4">
+                <Subitem2Title>（４）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>匿名組合契約（商法（明治三十二年法律第四十八号）第五百三十五条に規定する匿名組合契約をいう。）の匿名組合員</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>（５）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>有価証券{'契約': 1}</span>（その取得者の保護を確保することが必要なものとして<span>内閣府令{'政令': 1}</span>で定めるものに限る。）の取得者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>ロに<span>規定{'付与': 1}</span>する<span>場合{'適用': 2}</span>以外の場合において、当該対象信託の<span>効力{'財産': 1}</span>が生ずる時における当該対象信託の<span>受益権{'契約': 1, '内容': 1}</span>がロ（１）から（３）までの契約に基づき数人の共有に属するときにおける<span>当該{'金融商品取引': 1}</span>契約の一ごとに当該数人を一人とみなした<span>人数{'場合': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該対象信託をしようとする者が、当該<span>対象{'信託': 1, '預金': 1}</span>信託の効力が生ずる時後にロ（１）から（３）までに掲げる者並びにロに規定する場合における利益享受組合員等に係るロ（４）の匿名組合契約の営業者及び<span>ロ{'当該': 1}</span>（５）の有価証券の発行者に該当する者以外の者が当該対象信託の受益権を<span>取得{'対象': 1}</span>することとなることを知って当該対象信託をしようとする場合における当該者の人数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該対象信託をしようとする者が、当該<span>対象{'預金': 1}</span>信託の効力が生ずる時後に利益享受組合員等に該当する者に当該対象信託の<span>利益{'財産': 1}</span>を享受させる目的をもって当該<span>対象{'投資法人': 1}</span>信託を<span>しよう{'財産': 1}</span>とする場合における当該利益享受組合員等に該当する者の人数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>ホに規定する場合以外の場合において、当該対象<span>信託{'会社': 1}</span>をしようとする者が、当該<span>対象{'信託': 1, '預金': 1}</span>信託の<span>効力{'財産': 1}</span>が生ずる時後にロ（１）から（３）までに掲げる者に<span>該当{'事項': 2}</span>する者が当該対象<span>信託{'会社': 1}</span>の<span>受益権{'財産': 1}</span>を<span>取得{'対象': 1}</span>することとなることを知って当該対象信託をしようとするときであって、当該<span>対象{'特定': 1}</span>信託の<span>受益権{'契約': 1}</span>が<span>ロ{'当該': 1}</span>（１）から（３）までの契約に基づき数人の共有に属することとなるときにおける当該契約の一ごとに当該数人を一人とみなした<span>人数{'場合': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該対象信託をしようとする者が、当該<span>対象{'信託': 1, '特定': 1}</span><span>信託{'財産': 1}</span>以外に、信託の<span>目的{'契約': 1}</span>、信託<span>財産{'業務': 1, '信託': 1}</span>の種類及び価額、<span>信託{'計算': 1}</span><span>期間{'財産': 3, '数量': 1}</span>、信託財産の管理<span>又は{'及び': 1}</span>処分の<span>方法{'受け': 1, '当該': 1}</span>その他の信託<span>行為{'約款': 1}</span>の内容に<span>照らし{'及び': 1}</span>当該対象<span>信託{'有価証券': 1}</span>と同一又は同種の<span>信託法{'令': 1}</span><span>第三条{'法律': 1}</span>第三号に掲げる方法によってする<span>信託{'場合': 1}</span>と<span>認め{'いう': 1}</span>られるもの（以下この条において「同種内容信託」という。）をしている場合において、次に掲げる<span>数{'額': 1}</span>の合計数が<span>前項{'法': 2}</span>に規定する人数以上であるとき（前二号に掲げる場合を除く。）。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>対象信託<span>受益者{'財産': 1}</span>等合計数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該<span>同種{'信託': 1}</span>内容信託を<span>前{'法': 1, '第九条': 1}</span>号に規定する対象信託とした場合における<span>対象{'当該': 5}</span>信託<span>受益者{'財産': 1}</span>等合計数に相当する数（次号ロにおいて「同種内容信託受益者等合計数」という。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>次のいずれかに該当する場合（前三号に掲げる場合を<span>除く{'あっ': 1}</span>。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該対象信託の受益権の個数が五十以上である場合（あらかじめ定められた方法に従った受益権の譲渡以外の譲渡ができない旨が<span>当該{'規定': 1}</span>信託<span>行為{'財産': 1}</span>において定められている場合において、当該定めにより対象信託受益者等合計数が前項に規定する人数以上となることがないときを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該対象信託を<span>しよう{'名称': 1}</span>とする者が、当該対象信託以外に、<span>同種{'契約': 1}</span>内容信託をしている場合における当該同種内容信託の受益権の個数と当該対象信託の受益権の個数との合計が五十以上である場合（あらかじめ定められた方法に従った受益権の譲渡以外の譲渡ができない旨が当該対象信託及び当該<span>同種{'信託': 1}</span>内容信託の各信託行為において定められている場合において、当該定めにより対象信託<span>受益者{'財産': 1}</span>等合計数と同種<span>内容{'当該': 1}</span>信託<span>受益者{'額': 1}</span>等合計数とを合計した数が前項に規定する<span>人数{'対象': 1}</span>以上となることがないとき及びイに掲げる場合を<span>除く{'あっ': 3}</span>。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該<span>対象{'特定': 1}</span>信託の信託<span>行為{'財産': 1}</span>に<span>受益権{'吸収': 1}</span>の分割を禁止する旨の定めがない場合（あらかじめ定められた方法に従った<span>受益権{'当該': 1}</span>の分割以外の分割ができない旨が当該<span>信託{'共同': 1}</span><span>行為{'財産': 1}</span>において<span>定め{'譲渡': 1}</span>られている場合において、当該定めにより対象信託受益者等合計数が前項に規定する人数以上となることがないとき並びにイ<span>及び{'又は': 1}</span>ロに掲げる場合を除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="15_3">
+        <ArticleCaption>（適用除外）</ArticleCaption>
+        <ArticleTitle>第十五条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五十条の二第一項<span>ただし書{'二条': 1}</span>に規定する<span>政令{'内閣府令': 6}</span>で定める場合は、次に掲げる場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>株式会社日本政策金融公庫が信託法第三条第三号に掲げる方法によって<span>信託{'該当': 1}</span>をする<span>場合{'財産': 1, '事務': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>株式会社国際協力銀行が信託法第三条第三号に掲げる<span>方法{'事項': 1}</span>によって信託をする場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>独立行政法人都市再生機構が独立行政法人都市再生機構法（平成十五年法律第百号）第三十六条又は第三十七条第一号の規定により、信託法第三条第三号に掲げる方法によって信託をする<span>場合{'財産': 1, '事務': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>独立行政法人住宅金融支援機構が独立行政法人住宅金融支援機構法（平成十七年法律第八十二号）第二十一条又は第二十二条第一号の規定により、信託法第三条第三号に掲げる<span>方法{'事項': 1}</span>によって<span>信託{'定め': 1}</span>をする<span>場合{'財産': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>特定金銭債権（債権管理回収業に関する特別措置法（平成十年<span>法律{'法': 1}</span>第百二十六号）第二条第一項に規定する特定金銭債権をいう。）の管理又は回収を行う者がこれらの行為に<span>付随{'保険': 1}</span>して管理する金銭その他これに類する財産（以下「金銭等」という。）を信託<span>財産{'受益権': 1}</span>として信託法第三条第三号に掲げる<span>方法{'有価証券': 1}</span>によって信託をする<span>場合{'事務': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>弁護士又は弁護士法人<span>がそ{'委託': 1, '業務': 1}</span>の行う弁護士業務に付随して管理する金銭等その他の委任契約における受任者がその行う委任事務に付随して管理する金銭等を信託財産として信託法第三条第三号に掲げる<span>方法{'有価証券': 1, '事項': 1}</span>によって信託をする場合（前号に掲げる場合を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>請負契約における請負人がその行う仕事に付随して管理する金銭等を信託財産として信託法第三条第三号に掲げる方法によって信託をする場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>他の者に代わり金銭の収受を行う者が当該金銭の収受に付随して管理する<span>金銭{'当該': 1}</span>等を信託財産として信託法第三条第三号に掲げる<span>方法{'有価証券': 1, '事項': 1}</span>によって信託をする場合（前三号に掲げる<span>場合{'行為': 1}</span>を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>前各号に掲げる<span>場合{'事項': 1}</span>に準ずるものとして<span>内閣府令{'金融庁長官': 1, '政令': 1}</span>で定める場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="15_4">
+        <ArticleCaption>（法第五十条の二第一項の登録に係る最低資本金の額）</ArticleCaption>
+        <ArticleTitle>第十五条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五十条の二第六項第二号に規定する<span>政令{'内閣府令': 5}</span>で定める<span>金額{'場合': 1}</span>は、三千万円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15_5">
+        <ArticleCaption>（信託財産に属する財産に関する事項の調査を行う者）</ArticleCaption>
+        <ArticleTitle>第十五条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'前条': 1}</span>第五十条の二第十項に規定する<span>政令{'内閣府令': 2}</span>で定めるものは、次に掲げる者とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>弁護士又は弁護士法人であって、次に掲げる者以外の者</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>弁護士にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>法第五十条の二第一項の登録を受けた者の役員<span>又は{'及び': 2}</span>使用人</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>弁護士法{'不動産の鑑定評価に関する法律': 1}</span>（昭和二十四年法律第二百五号）の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>弁護士法人にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>その社員のうちにイ（１）に掲げる者がある者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>弁護士法{'場合': 1, '公認会計士法': 1}</span>の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>公認会計士{'外国': 1}</span>（公認会計士法（昭和二十三年法律第百三号）第十六条の二第五項に規定する外国公認会計士を含む。以下同じ。）又は監査法人であって、次に掲げる者以外の者</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence><span>公認会計士{'事項': 1, '場合': 1}</span>にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>法第五十条の二第一項の登録を受けた者の役員<span>又は{'及び': 2}</span>使用人</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>公認会計士法の規定により、<span>法{'違反': 1, '前項': 1}</span>第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>監査法人にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>その社員のうちにイ（１）に掲げる者がある者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>公認会計士法{'場合': 1}</span>の規定により、法第五十条の二第十項の規定による<span>調査{'貸金業': 1}</span>に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>税理士又は税理士法人であって、次に掲げる者以外の者</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>税理士にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>法第五十条の二第一項の登録を受けた者の役員<span>又は{'及び': 1}</span>使用人</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>税理士法{'不動産の鑑定評価に関する法律': 1}</span>（昭和二十六年法律第二百三十七号）の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>税理士法人にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>その社員のうちにイ（１）に掲げる者がある者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>税理士法{'場合': 1, '公認会計士法': 1}</span>の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>不動産鑑定士であって、次に掲げる者以外の者（信託財産が<span>不動産{'当該': 1}</span>（土地若しくは建物又はこれらに関する所有権以外の権利をいう。以下この号において同じ。）及び不動産のみを<span>信託{'特定': 1}</span>する<span>信託{'財産': 1}</span>の受益権の場合に限る。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法第五十条の二第一項の<span>登録{'規定': 1}</span>を受けた者の役員又は使用人</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>不動産の鑑定評価に関する法律（昭和三十八年法律第百五十二号）の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>弁理士又は特許業務法人であって、次に掲げる者以外の者（信託財産が知的財産基本法（平成十四年法律第百二十二号）第二条第二項に規定する知的財産権（以下この号において同じ。）及び知的財産権のみを信託する信託の受益権の場合に限る。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>弁理士にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>法第五十条の二第一項の登録を受けた者の役員又は使用人</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>弁理士法{'不動産の鑑定評価に関する法律': 1}</span>（平成十二年法律第四十九号）の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>特許業務法人にあっては、次に掲げる者</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence>その社員のうちにイ（１）に掲げる者がある者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence><span>弁理士法{'場合': 1, '公認会計士法': 1}</span>の規定により、法第五十条の二第十項の規定による調査に係る業務をすることができない者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>前各号に掲げるもののほか、<span>信託{'投資信託': 1}</span><span>財産{'業務': 1}</span>に属する財産の状況その他の当該財産に関する事項に関し専門的知識を有する者として<span>内閣府令{'政令': 1}</span>で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（運用型外国信託会社の最低資本金の額）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五十三条第六項第二号に規定する<span>政令{'内閣府令': 3}</span>で定める金額は、一億円に<span>相当{'算定': 1}</span>する金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（管理型外国信託会社の最低資本金の額）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第五十四条第六項第二号に規定する<span>政令{'内閣府令': 3}</span>で定める金額は、五千万円に<span>相当{'算定': 1}</span>する金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（外国信託会社が電子公告により公告をする場合について準用する会社法の規定の読替え）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'条': 1}</span>第五十七条第六項の規定において外国<span>信託会社{'保険会社': 2}</span>が電子公告により法又は他の<span>法律{'法': 1}</span>の規定による<span>公告{'準用': 1}</span>（会社法の規定による公告を除く。）をする<span>場合{'準用': 1}</span>について会社法第九百四十条第三項及び第九百四十一条の規定を<span>準用{'適用': 1, '公告': 1}</span>する場合における当該規定に係る技術的読替えは、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>読み替える<span>会社法{'信託法': 1, '法': 1}</span>の規定</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替えられる字句</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替える字句</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第九百四十条第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>これらの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>同項の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第九百四十一条</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>この法律又は<span>他{'労働金庫法': 1}</span>の法律の規定による公告（第四百四十条第一項の規定による公告を除く。以下この節において同じ。）</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託業法{'法律': 1}</span>又は他の法律（会社法を除く。）の規定による公告</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="18_2">
+        <ArticleCaption>（外国信託会社についての金融商品取引法の準用）</ArticleCaption>
+        <ArticleTitle>第十八条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第六十三条の規定により外国信託会社に<span>適用{'準用': 1}</span>される法第二十四条の二の規定による技術的読替えは、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>読み替える<span>金融商品取引法{'信託法': 1, '法': 1, '会社法': 1}</span>の規定</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替えられる字句</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>読み替える字句</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三十四条</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>同条第三十一項第四号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第二条第三十一項第四号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三十七条第一項第一号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>商号、名称又は<span>氏名{'商号': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>支店の<span>名称{'所在地': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第四十条第二号</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>前号に掲げるもの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託業法第二十四条第二項の規定に違反すると認められる状況</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="18_3">
+        <ArticleCaption>（紛争解決等業務に相当する業務に係る他の法律の規定による指定）</ArticleCaption>
+        <ArticleTitle>第十八条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十五条の二第一項第二号及び第四号ニ、第八十五条の六並びに第八十五条の二十三第三項に規定する<span>政令{'内閣府令': 5}</span>で定めるものは、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>金融商品取引法第百五十六条の三十九第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>第十八条の五各号に掲げる指定</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="18_4">
+        <ArticleCaption>（異議を述べた信託会社等の数の信託会社等の総数に占める割合）</ArticleCaption>
+        <ArticleTitle>第十八条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十五条の二第一項第八号に規定する<span>政令{'内閣府令': 1}</span>で定める割合は、三分の一とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18_5">
+        <ArticleCaption>（名称の使用制限の適用除外）</ArticleCaption>
+        <ArticleTitle>第十八条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十五条の十七に規定する<span>政令{'内閣府令': 1}</span>で定めるものは、次に掲げる指定のいずれかを受けた者とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>無尽業法（昭和六年法律第四十二号）第三十五条の二第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>金融機関の信託業務の兼営等に関する法律{'農業協同組合法': 1}</span>（昭和十八年法律第四十三号）第十二条の二第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>農業協同組合法（昭和二十二年法律第百三十二号）第九十二条の六第一項の規定による<span>指定{'認定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>水産業協同組合法{'中小企業等協同組合法': 1}</span>（昭和二十三年法律第二百四十二号）第百十八条第一項の規定による<span>指定{'認定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>中小企業等協同組合法（昭和二十四年<span>法律{'施行規則': 1}</span>第百八十一号）第六十九条の二第一項の規定による<span>指定{'認定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>信用金庫法（昭和二十六年法律第二百三十八号）第八十五条の十二第一項の<span>規定{'廃止': 1}</span>による<span>指定{'認定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>長期信用銀行法（昭和二十七年法律第百八十七号）第十六条の八第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>労働金庫法（昭和二十八年法律第二百二十七号）第八十九条の十三第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>銀行法第五十二条の六十二第一項の<span>規定{'施行規則': 1}</span>による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>貸金業法第四十一条の三十九第一項の<span>規定{'施行規則': 1}</span>による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence>保険業法第三百八条の二第一項の<span>規定{'施行規則': 1}</span>による<span>指定{'改正': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence>農林中央金庫法（平成十三年法律第九十三号）第九十五条の六第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>資金決済に関する法律（平成二十一年法律第五十九号）第九十九条第一項の規定による指定</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（金融庁長官へ委任される権限から除かれる権限）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十七条第一項に規定する<span>政令{'内閣府令': 2}</span>で定めるものは、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法<span>第三条{'一条': 1, '第一': 1}</span>及び第五十三条第一項の規定による免許</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十四条第一項及び第五十九条第一項の規定による法第三条及び第五十三条第一項の<span>免許{'規定': 1, '法': 1}</span>の取消し</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（信託会社等に関する権限の財務局長への委任）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十七条第一項の規定により<span>金融庁長官{'免許': 1}</span>に委任された権限及びこの政令による金融庁長官の権限（以下「長官権限」という。）のうち次に掲げるものは、<span>信託会社{'書類': 1}</span>等の本店等の所在地を管轄する財務局長（財務支局長を含む。以下同じ。）に委任する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第八条第一項（<span>法{'規定': 1}</span>第五十二条第二項において準用する場合を含む。）、第五十条の二第三項及び第五十四条第三項の規定による<span>登録{'違反': 1}</span>の申請書の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第九条第一項（法第五十二条第二項において準用する場合を含む。）、第十二条第三項、<span>第五{'第一': 1}</span>十条の二第八項、第五十四条第九項及び第五十六条第三項の規定による登録並びに法第七条第三項の規定による登録の更新</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第九条第二項（法第五十二条第二項において準用する場合を含む。）、第五十条の二第九項及び第五十四条第十項の規定による公衆への縦覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>法{'供': 1}</span>第十条第一項（法第五十二条第二項において準用する場合を含む。）、第五十条の二第六項及び第五十四条第六項の規定による登録（法第七条第三項の<span>登録{'規定': 2}</span>の更新を含む。）の拒否</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十七条の規定による登録の抹消</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">長官権限のうち次に掲げるもの（金融庁長官の指定する信託会社<span>及び{'又は': 1}</span><span>外国{'受託': 1}</span>信託会社に係るものを除く。）は、信託会社等の本店等の所在地を管轄する<span>財務局{'管轄': 1}</span>長に<span>委任{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第六号及び第七号（<span>管理{'受託': 1}</span>型<span>信託会社{'金融機関': 1, '権限': 1}</span>に係るものを除く。）に掲げる権限は、金融庁長官が自ら行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第六条及び第十三条第一項の規定による認可</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十一条第三項、第五項及び第八項、第十二条第一項及び第二項、第十三条第二項、第四十一条第一項、第二項及び第四項、第五十六条第一項及び第二項並びに第五十七条第一項、第二項及び第四項の規定による届出の<span>受理{'法': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十一条第四項、第四十五条第二項及び第六十条第二項の規定による命令</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十六条第一項並びに第二十一条第二項及び第四項（これらの規定を法第六十三条第二項において準用する場合を含む。）の規定による承認</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第二十一条第三項（<span>法{'規定': 1, '同法': 1}</span>第六十三条第二項において準用する場合を含む。）及び第三十三条の<span>規定{'添付': 1}</span>による<span>書類{'届出': 2}</span>の<span>受理{'準用': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十二条第一項（法第五十条第三項（法第六十二条第二項において準用する場合を含む。）において準用する場合を含む。）及び第五十八条第一項の規定による報告及び資料の提出の命令並びに質問及び立入検査</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十三条の規定による命令</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十五条第一項及び第六十条第一項の規定による登録の取消し及び業務の全部又は一部の停止の命令</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十八条の<span>規定{'違反': 1}</span>による<span>公告{'適用': 1}</span>（法第四十四条第一項又は第五十九条第一項の規定による法第三条又は第五十三条第一項の<span>免許{'規定': 2, '登録': 1}</span>の取消しの処分に係るもの並びに第四十四条第一項及び第五十九条第一項の規定による<span>業務{'事業': 1}</span>の全部又は一部の停止の命令を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十九条第一項（<span>法{'二条': 1}</span>第四十四条第一項の<span>規定{'準用': 1}</span>による<span>法{'命令': 1}</span>第三条の<span>免許{'規定': 2}</span>の取消しに係る<span>部分{'場合': 2}</span>を<span>除き{'限る': 1}</span>、法第六十一条において準用する場合を含む。）の規定により読み替えて<span>適用{'準用': 1}</span>する<span>信託法{'法': 1, '一般社団法人及び一般財団法人に関する法律': 1}</span>第五十八条第四項（同法第七十条において準用する場合を含む。）の規定による申立て並びに法第四十九条第二項（法第四十四条第一項の<span>規定{'準用': 1}</span>による法第三条の<span>免許{'規定': 2}</span>の取消しに係る<span>部分{'場合': 2}</span>を<span>除き{'限る': 1}</span>、法第六十一条において準用する場合を含む。）の規定により読み替えて<span>適用{'準用': 1}</span>する<span>信託法{'場合': 1}</span>第六十二条第二項及び第四項並びに第六十三条第一項の規定による催告及び申立て</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第五十条第一項及び第六十二条第一項の規定による<span>依頼{'届出': 1}</span>の受理並びに法第五十条第二項（<span>法{'規定': 1}</span>第六十二条第二項において準用する場合を含む。）の規定による意見の<span>陳述{'聴取': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence>第十条第三号並びに第十二条第一項及び第二項の規定による承認</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>第十一条の<span>規定{'受け': 1}</span>による申立ての<span>受理{'手続': 1}</span>、公示、通知、調査、意見を述べる機会の付与、配当表の作成及び換価</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項第六号に掲げる権限（同項に規定する金融庁長官の指定する信託会社及び<span>外国{'受託': 1}</span>信託会社に係るものを除く。）で信託会社等の本店等以外の支店その他の営業所<span>若しくは{'又は': 4}</span><span>事務所{'役職': 1}</span>、当該信託会社等とその業務に関して取引をする者又は<span>当該{'受託': 1, '外国': 1}</span>信託会社等を子会社（法第五条第六項に規定する子会社をいう。）とする同条第二項<span>第九{'第一': 1}</span>号に規定する持株会社（以下この条において「<span>支店{'子会社': 1}</span>等」という。）に関するものについては、<span>前項{'条': 1}</span>に規定する財務局長のほか、当該支店等の所在地（当該取引をする者が個人の場合に<span>あっ{'限る': 1}</span>ては、その住所又は<span>居所{'名称': 1, '所在地': 1}</span>）を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">第二項第六号に掲げる権限で同項に規定する金融庁長官の指定する信託会社及び<span>外国{'受託': 1}</span>信託会社の支店等に関するものについては、当該支店等の所在地（<span>当該{'受託': 1}</span><span>信託会社{'保険会社': 1}</span>又は<span>外国{'代理': 1, '当該': 1}</span>信託会社と取引をする者が個人の場合にあっては、その住所又は<span>居所{'所在地': 3}</span>）を管轄する財務局長に委任する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、金融庁長官が自らその権限を行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項の規定により、支店等に対して報告若しくは資料の提出の<span>命令{'求め': 5}</span>又は質問若しくは<span>立入検査{'規定': 1}</span>（以下この項において「検査等」という。）を行った<span>財務局{'場合': 1}</span>長は、<span>当該{'長又': 1}</span>検査等の結果、当該信託会社等の本店等又は<span>当該{'事務所': 1}</span>支店等以外の支店等に対して検査等の必要を認めたときは、本店等又は<span>当該{'事務所': 2}</span>支店等以外の支店等に対し、検査等を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">金融庁長官は、第二項の指定をした場合には、その旨を告示するものとする。</Sentence>
+            <Sentence Num="2">これを取り消したときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（信託会社の主要株主に関する権限の財務局長への委任）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>長官{'内容': 1}</span>権限のうち次に掲げるものは、居住者（外国為替及び外国貿易法（昭和二十四年法律第二百二十八号）第六条第一項第五号に規定する居住者をいう。以下この<span>条{'場合': 1}</span>、次条及び第二十三条第一項において同じ。）に関するものにあっては当該居住者の主たる営業所又は事務所の所在地（個人の場合にあってはその<span>住所{'個人': 1}</span>又は居所とし、外国会社であって<span>本店{'営業所': 2}</span>又は主たる事務所が<span>外国{'所在地': 1}</span>にある場合にあっては<span>国内{'当該': 1}</span>における<span>営業所{'代表者': 1}</span>の所在地とする。次条第一項において同じ。）を管轄する財務局長に、非居住者（同法第六条第一項第六号に規定する非居住者をいう。次条及び第二十三条第一項において同じ。）に関するものにあっては<span>関東財務局{'当該': 1}</span>長に<span>委任{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第二号に掲げる権限は、金融庁長官が自ら行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十七条第一項（法第二十条において準用する場合を含む。）の規定による対象議決権保有届出書の受理<span>及び{'並びに': 1}</span>法第十九条（法第二十条において準用する場合を含む。）の規定による届出の<span>受理{'項': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十二条第二項の規定による報告及び資料の提出の命令並びに質問及び立入検査</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>長官{'権限': 1}</span>権限のうち法第十八条（法第二十条において準用する場合を含む。）の規定による命令の権限（<span>金融庁長官{'規定': 1}</span>の<span>指定{'受託': 1}</span>する信託会社に係るものを除く。）は、信託会社の本店の所在地を管轄する財務局長に委任する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項第二号に掲げる権限は、同項に<span>規定{'管轄': 1}</span>する<span>財務局{'権限': 1}</span>長のほか、信託会社の本店の所在地を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項第二号に掲げる権限のうち、法人である居住者の主たる営業所又は事務所以外の<span>営業所{'所在地': 1}</span>又は事務所（以下この<span>項{'ロ': 1}</span>において「従たる<span>営業所{'事務所': 3}</span>等」という。）における質問及び立入検査の権限は、第一項及び前項に規定する財務局長のほか、当該従たる<span>営業所{'事務所': 2}</span>等の所在地を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">金融庁長官は、第二項の指定をした場合には、その旨を告示するものとする。</Sentence>
+            <Sentence Num="2">これを取り消したときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（信託会社の委託先に関する権限の財務局長への委任）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">長官権限のうち<span>法{'改正': 1, '前項': 1}</span>第四十二条第三項の規定による報告及び資料の提出の命令並びに<span>質問{'検査': 1}</span>及び立入検査は、居住者に関するものにあっては当該居住者の主たる<span>営業所{'本店': 1}</span>又は事務所の所在地を管轄する財務局長に、非居住者に関するものにあっては関東財務局長に<span>委任{'提出': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>金融庁長官{'委員会': 1}</span>が自らその権限を行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項に<span>規定{'委員会': 1}</span>する権限は、同<span>項{'前項': 1}</span>に規定する財務局長のほか、信託会社の本店の所在地を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項に規定する権限のうち、法人である居住者の主たる営業所又は事務所以外の<span>営業所{'所在地': 1}</span>又は事務所（以下この<span>項{'ロ': 1}</span>において「従たる<span>営業所{'事務所': 3}</span>等」という。）における質問及び立入検査の<span>権限{'前項': 2}</span>は、前二項に規定する財務局長のほか、当該従たる<span>営業所{'事務所': 2}</span>等の所在地を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（同一の会社集団に属する者の間における信託の受託者に関する権限の財務局長への委任）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">長官権限のうち次に掲げるものは、居住者である法第五十<span>一条{'規定': 4}</span>第一項の<span>信託{'規定': 2}</span>の<span>受託{'規定': 1}</span>者に関するものにあっては当該受託者の主たる<span>営業所{'有価証券': 1}</span>又は事務所（以下この条において「主たる営業所等」という。）の所在地を管轄する財務局長に、非<span>居住{'当該': 1}</span>者である同項の信託の<span>受託{'場合': 1}</span>者に関するものにあっては関東財務局長に委任する。</Sentence>
+            <Sentence Function="proviso" Num="2"><span>ただし{'次に': 2}</span>、第三号に掲げる権限は、金融庁長官が自ら行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第五十一条第二項及び第五項の規定による届出の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第五十一条第四項の規定による命令</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第五十一条第六項の規定による報告及び資料の提出の命令並びに質問及び立入検査</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'権限': 1}</span>第三号に掲げる権限で法第五十<span>一条{'規定': 2, '準用': 1}</span>第一項の<span>信託{'規定': 2}</span>の<span>受託{'規定': 2}</span>者の主たる営業所等以外の営業所又は事務所（以下この項及び次項において「従たる<span>営業所{'事務所': 1}</span>等」という。）に関するものについては、前項に規定する財務局長のほか、当該従たる<span>営業所{'事務所': 2}</span>等の所在地を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により、<span>従{'指定金融機関': 1}</span>たる営業所等に対して報告若しくは資料の提出の<span>命令{'求め': 5}</span>又は質問若しくは<span>立入検査{'規定': 1}</span>（以下この項において「検査等」という。）を行った<span>財務局{'場合': 1}</span>長は、<span>当該{'長又': 2}</span>検査等の結果、当該受託者の主たる営業所等又は当<span>該従{'事務所': 2, '当該': 1}</span>たる営業所等以外の従たる営業所等に対して検査等の必要を認めたときは、主たる営業所等又は当<span>該従{'事務所': 2}</span>たる営業所等以外の従たる<span>営業所{'事務所': 1}</span>等に対し、<span>検査{'事務所': 1}</span>等を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（信託契約代理店に関する権限の財務局長への委任）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">長官権限のうち次に掲げるものは、信託契約代理店の主たる営業所又は事務所（以下この条において「主たる営業所等」という。）の所在地を管轄する財務局長に<span>委任{'提出': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2"><span>ただし{'次に': 3}</span>、第七号に掲げる権限は、金融庁長官が自ら行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第六十八条第一項の規定による登録の<span>申請書{'申請': 2}</span>の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第六十九条第一項及び第七十一条第二項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第六十九条第二項及び第七十七条第二項の規定による公衆への縦覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第七十条の規定による登録の拒否</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第七十一条第一項及び第三項並びに第七十九条の規定による届出の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第七十七条第一項の規定による<span>報告書{'届出': 1}</span>の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第八十条第一項の<span>規定{'業務': 1}</span>による報告及び資料の提出の命令並びに質問及び立入検査</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第八十一条及び第八十二条の規定による<span>登録{'命令': 1, '適用': 1}</span>の取消し及び命令</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第八十四条の規定による登録の抹消</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項第七号に掲げる<span>権限{'事項': 1}</span>で信託<span>契約{'労働金庫': 1}</span>代理店の主たる営業所等以外の営業所<span>若しくは{'又は': 2}</span>事務所又は当該信託契約<span>代理{'信託': 1}</span>店とその業務に関して取引をする者（以下この<span>条{'状況': 1}</span>において「<span>従{'規定': 3}</span>たる営業所等」という。）に関するものについては、前項に規定する財務局長のほか、当該従たる<span>営業所{'事務所': 1}</span>等の所在地（当該取引をする者が個人の場合に<span>あっ{'限る': 1}</span>ては、その住所又は<span>居所{'名称': 1, '所在地': 1}</span>）を管轄する財務局長も行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により、<span>従{'指定金融機関': 1}</span>たる営業所等に対して報告若しくは資料の提出の<span>命令{'求め': 5}</span>又は質問若しくは<span>立入検査{'規定': 1}</span>（以下この項において「検査等」という。）を行った<span>財務局{'場合': 1}</span>長は、<span>当該{'長又': 1}</span>検査等の結果、当該信託<span>契約{'銀行': 1}</span>代理店の主たる営業所等又は当<span>該従{'事務所': 1}</span>たる営業所等以外の営業所等に対して検査等の必要を認めたときは、主たる営業所等又は当<span>該従{'事務所': 2}</span>たる営業所等以外の従たる<span>営業所{'事務所': 1}</span>等に対し、<span>検査{'事務所': 1}</span>等を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'規定': 2}</span>は、法の施行の日（平成十六年十二月三十日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>長官権限のうち、<span>法{'改正': 2}</span>附則第十六条第五項の規定による<span>書類{'届出': 1}</span>の受理及び同条第六項の規定による登録の権限は、<span>法{'法律': 1}</span>の<span>施行{'規定': 4}</span>の際現に法<span>附則{'二条': 1}</span>第十五条の規定による<span>改正{'廃止': 1}</span>前の金融機関の信託業務の兼営等に関する法律第五条第二項の規定による認可を受けて設置されている信託業務に係る代理店の本店又は主たる事務所の所在地を管轄する財務局長に<span>委任{'当該': 1, '提出': 2}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>法{'法律': 2}</span>の<span>施行{'規定': 2}</span>の際現に法第二条第十項に規定する信託受益権販売業を<span>営ん{'いう': 1}</span>でいる者は、法の<span>施行{'規定': 1}</span>の日から三十日間（当該期間内に法第八十九条の規定による登録の拒否の<span>処分{'場合': 2}</span>があったときは、<span>当該{'間': 1}</span>処分があった日までの間）は、法第八十六条第一項の規定にかかわらず、引き続き信託受益権販売業を営むことができる。</Sentence>
+            <Sentence Num="2">その者がその期間内に法第八十七条第一項の<span>登録{'規定': 2}</span>の申請をした場合において、その期間を<span>経過{'登録': 2}</span>したときは、その<span>申請{'当該': 1}</span>について<span>登録{'許可': 1}</span>又は登録の<span>拒否{'申請': 1}</span>の処分があるまでの間も、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月一九日政令第一七四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、会社法の施行の日（平成十八年五月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年七月一三日政令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'府令': 1}</span>は、<span>信託法{'六月一日': 1}</span>の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年八月三日政令第二三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、改正法の<span>施行{'規定': 1}</span>の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'一条': 1}</span>第二十二条及び第三十五条から第四十六条までの規定は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（金融機関の範囲）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法<span>附則{'規定': 1}</span>第十七条第一項及び第二項、第二十八条第三項、第五十四条第一項、第百四十七条第一項、第百四十八条第一項、第百四十九条第一項及び第二項、第百五十四条第二項、第百五十六条第一項及び第二項、第百五十七条第一項<span>及び{'並びに': 1}</span>第二項、第二百条第一項、第二百一条第一項、第二百二条第一項及び第二項、第二百十条、第二百十一条、第二百十二条第一項<span>及び{'並びに': 1}</span>第三項、第二百十三条第一項及び第二項並びに第二百十四条第一項及び第二項並びに整備法第七条第三項、第六十条第一項、第六十一条第一項、第六十二条第一項から第四項まで並びに第八十二条第一項及び第二項に規定する<span>政令{'内閣府令': 3}</span>で定める金融機関は、新金融商品取引法施行令第一条の九各号に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（営業保証金の取戻し）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>みなし<span>登録{'規定': 1}</span><span>第二種{'運用': 1}</span><span>業者{'金融商品取引業': 1}</span>（<span>改正{'法': 1}</span>法附則第二百条第二項に規定するみなし登録第二種業者を<span>いい{'いう': 2}</span>、個人である<span>場合{'受け': 1}</span>を除く。）は、<span>改正{'法': 1}</span>法附則第二百三条第二項の規定により供託したものとみなされる営業保証金の全部を、金融庁長官の<span>承認{'指定': 1}</span>を受けて取り戻すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>みなし登録第二種業者であって、<span>かつ{'又は': 1}</span>、みなし<span>登録{'投資': 1}</span><span>助言{'労働金庫': 1}</span>・代理業者である者（個人である場合に限る。）は、<span>改正{'法律': 1}</span>法<span>附則{'規定': 2}</span>第二百三条第二項及び整備法第四十条第一項の規定により供託したものとみなされる営業保証金の額（契約金額（改正法附則第二百十七条の<span>規定{'準用': 1}</span>により新金融商品取引法第三十一条の二第三項の規定による届出をしたものと<span>みなさ{'行う': 1}</span>れる改正法第二十条の規定による改正前の<span>信託業法{'証券取引法等の一部を改正する法律': 1}</span>（平成十六年<span>法律{'規定': 1}</span>第百五十四号。<span>附則{'条': 2}</span>第四十七条及び第四十八条において「旧信託業法」という。）第九十一条第三項に規定する契約（施行日において効力を有するものに限る。）において供託されることとなっている金額又は<span>整備法{'条': 1}</span>第二百十六条の規定により新金融商品取引法第三十一条の二第三項の規定による届出をしたものとみなされる旧<span>証券{'通知': 1}</span>投資顧問業法第十条第三項に<span>規定{'信託': 1}</span>する契約（<span>施行日{'条件': 1}</span>において効力を有するものに限る。）において供託されることとなっている金額をいう。以下この項において同じ。）を含む。以下この項において同じ。）の合計額が新金融商品取引法施行令第十五条の十二に定める額を超えることとなったときは、当該営業保証金の額の<span>合計{'当該': 1}</span>額から<span>契約金{'控除': 1}</span>額を控除した<span>額{'金額': 1}</span>の範囲内において、その超える額の全部又は一部を、金融庁長官の承認を受けて取り戻すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（財務局長等への権限の委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法附則第二百十六条第一項及び整備法第二百十五条の規定により金融庁長官に委任された権限（以下この条において「長官権限」という。）のうち次の各号に掲げるものは、当該各号に規定する書類の提出をする者（以下この項において「提出者」という。）の本店その他の主たる営業所又は事務所（外国法人又は外国に<span>住所{'保険会社': 1}</span>を有する個人にあっては、国内における主たる営業所又は事務所。以下この条及び附則第六十二条において「本店等」という。）の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては福岡財務支局長、<span>当該{'規定': 1}</span><span>提出{'金融商品取引業者': 1}</span>者が国内に<span>営業所{'会社': 1}</span>又は事務所を有しない場合にあっては関東財務局長）に<span>委任{'提出': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>改正{'法': 2}</span>法附則第十八条第二項の規定による<span>書類{'届出': 1}</span>の<span>受理{'項': 1}</span>及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第五十四条第二項の規定による<span>書類{'届出': 1}</span>の受理及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第百四十七条第二項の規定による<span>書類{'届出': 1}</span>の受理及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第百四十八条第二項の規定による<span>書類{'届出': 1}</span>の受理及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第百五十九条第二項の規定による<span>書類{'届出': 1}</span>の受理及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第二百条第二項の規定による<span>書類{'届出': 1}</span>の受理及び同<span>条{'第九条': 1, '改正': 1}</span>第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第二百一条第二項の規定による書類の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>整備法第<span>二条{'一条': 1, '改正': 1}</span>第二項の規定による書類の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>整備法{'改正': 1}</span>第三十七条第二項の規定による<span>書類{'届出': 2}</span>の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>整備法{'改正': 1}</span>第六十条第二項の規定による<span>書類{'届出': 2}</span>の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>整備法{'改正': 1}</span>第六十<span>一条{'改正': 1}</span>第二項の規定による<span>書類{'届出': 1}</span>の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>整備法{'改正': 1}</span>第百五十<span>一条{'改正': 1}</span>第二項の規定による<span>書類{'届出': 1}</span>の受理及び同条第三項の規定による登録</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>長官権限のうち次に掲げるものは、改正法附則第二十二条第二項に規定する者又は整備法第五条第二項に規定する者の本店等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては、<span>福岡財務支局{'当該': 1}</span>長）に<span>委任{'規定': 1, '提出': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>改正{'法': 1}</span>法<span>附則{'規定': 1}</span>第二十二条第二項及び整備法第五条第二項の規定による<span>書類{'届出': 1}</span>の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法<span>附則{'規定': 4}</span>第二十二条第三項及び整備法第五条第三項の規定による認可を受けた旨の付記</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>長官{'法律': 1}</span>権限のうち、<span>改正{'法': 2}</span>法附則第四十八条第二項の規定による<span>届出{'書類': 1}</span>の受理は、同<span>項{'改正': 1}</span>に規定する特例投資運用業務を<span>行う{'いう': 2}</span>者の<span>本店{'事務所': 1}</span>等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては福岡財務支局長、<span>当該{'規定': 1}</span>者が国内に営業所又は事務所を有しない場合にあっては関東財務局長）に委任する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>長官権限のうち次に掲げるものは、整備法第二十七条第二項に規定する者の本店等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては福岡財務支局長、<span>当該{'規定': 1}</span>者が国内に営業所又は事務所を有しない場合にあっては関東財務局長）に<span>委任{'提出': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>整備法第二十七条第二項の規定による書面の受理</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>整備法第二十七条第三項の規定による許可を受けた旨の付記</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>長官権限のうち、<span>改正{'法': 1}</span>法<span>附則{'規定': 1}</span>第二十八条第一項から第三項まで及び第五項並びに第四十八条第四項及び第六項並びに整備法第七条第一項から第三項まで及び第五項の規定による届出の受理（新<span>金融商品取引法施行令{'改正': 1}</span>第四十二条第二項の規定により金融庁長官の指定する金融商品取引業者（新<span>金融商品取引法{'法': 1}</span>第二条第九項に規定する金融商品取引業者をいう。以下同じ。）及び特例<span>業務{'規定': 1}</span>届出者（新金融商品取引法第六十三条第三項に規定する特例業務届出者をいう。）<span>並び{'二条': 1}</span>に新金融商品取引法施行令第四十三条第二項の規定により金融庁長官の指定する登録金融機関（新金融商品取引法第二条第十一項に規定する登録金融機関をいう。）に係るものを除く。）は、当該届出をする者（当該者が金融商品取引業者又は改正法附則第十七条第一項の規定により施行日以後引き続き金融商品取引業（新金融商品取引法第<span>二条{'法律': 1}</span>第八項に規定する金融商品取引業をいう。以下同じ。）を行っている者の取締役、<span>会計参与{'執行役': 1}</span>（会計参与が法人であるときは、その職務を行うべき社員を含む。）、監査役若しくは執行役又は使用人である場合にあっては、当該金融商品取引業者又は当該金融商品取引業を行っている者。以下この項において同じ。）の本店等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては福岡財務支局長、<span>当該{'規定': 1}</span><span>届出{'金融商品取引業者': 1, '提出': 3}</span>をする者が国内に<span>営業所{'会社': 1}</span>又は事務所を有しない場合にあっては関東財務局長）に<span>委任{'提出': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="46">
+        <ArticleCaption>（信託業法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法第二十条の規定による改正後の<span>信託業法{'金融機関の信託業務の兼営等に関する法律': 1, '規定': 2}</span>（以下この条において「新信託業法」という。）第二十四条の二（新保険業法第九十九条第八項（新保険業法第百九十九条において準用する場合を含む。）において準用する場合を含む。以下この条において同じ。）において<span>準用{'規定': 2}</span>する新<span>金融商品取引法{'信託法': 1, '法': 1}</span>第三十四条の二第一項の規定による申出を<span>しよう{'改正': 1}</span>とする者は、施行日前においても、同項の規定の例により、その<span>申出{'申請': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の<span>申出{'認可': 1}</span>を受けた者は、<span>施行日{'申出': 1}</span>前においても、新<span>信託業法{'銀行法': 1}</span>第二十四条の二において準用する新金融商品取引法第三十四条の二第三項の規定の<span>例{'規定': 1}</span>により、書面の交付をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項の場合において、第一項の申出をした者が施行日において特定投資家に<span>該当{'顧客': 1}</span>するときは、当該申出及び前項の<span>書面{'規定': 1}</span>の交付は、施行日において新<span>信託業法{'長期信用銀行法': 1, '兼営': 1}</span>第二十四条の二において準用する新金融商品取引法第三十四条の二第一項及び第三項の規定によりされたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="47">
+        <ArticleTitle>第四十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日<span>前{'準用': 1}</span>に旧信託業法第九十一条第十項に規定する営業保証金を取り戻すことができる事由が発生している者についての当該営業保証金の取戻しについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="48">
+        <ArticleTitle>第四十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧<span>信託業法{'前項': 1}</span>第九十七条の規定により作成した帳簿書類の保存については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="62">
+        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleTitle>第六十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第七条から<span>第九条{'一条': 1, '二条': 1}</span>まで及び第二十七条の規定による金融庁長官の<span>権限{'提出': 1}</span>は、みなし登録第二種業者、みなし<span>登録{'規定': 1}</span><span>助言{'労働金庫': 1, '規定': 1}</span>・代理業者又は同<span>条{'法': 1}</span>第一項に<span>規定{'記載': 1}</span>する者（以下この<span>条{'行政庁': 1}</span>において「提出者」と<span>総称{'会社': 1}</span>する。）の本店等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては福岡財務支局長、<span>当該{'規定': 1}</span><span>提出{'金融商品取引業者': 1}</span>者が国内に<span>営業所{'会社': 1}</span>又は事務所を有しない場合にあっては関東財務局長）に<span>委任{'提出': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="63">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第六十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>施行日{'改正': 1, '略': 1}</span>前にした旧証券取引法施行令、第三条の規定による改正前の投資信託及び投資法人に関する法律<span>施行令{'法律': 1}</span>、第十六条の規定による改正前の<span>信託業法{'貸金業法': 1}</span><span>施行令{'規定': 2}</span>、旧<span>外国{'政令': 1, '受益': 1}</span><span>証券{'保険': 1}</span>業者法施行令、第十七条第二号の<span>規定{'法律': 1}</span>による<span>廃止{'改正': 1}</span>前の有価証券に係る<span>投資顧問業{'法律': 1}</span>の<span>規制{'法律': 1}</span>等に関する法律<span>施行令{'施行規則': 1}</span>、旧<span>抵当証券{'政令': 1, '規定': 1}</span>業規制法施行令、同条第四号の規定による<span>廃止{'改正': 1}</span>前の金融先物取引法<span>施行令{'法律': 1}</span>若しくは第五十一条の規定による改正<span>前{'前払式証票の規制等に関する法律': 1, '規定': 1}</span>の商品投資に係る事業の規制に関する法律施行令又はこれらに基づく命令の<span>規定{'違反': 1}</span>によってした処分、手続その他の行為であって、新<span>金融商品取引法施行令{'金融商品取引法': 1}</span>の規定に相当の規定があるものは、改正法<span>附則{'規定': 3}</span>、<span>整備法{'規定': 1}</span>又はこの<span>附則{'規定': 1}</span>に別段の定めがあるものを除き、新<span>金融商品取引法施行令{'金融商品取引法': 1, '旧法': 1, '府令': 1}</span>の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="64">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年一一月七日政令第三二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'府令': 1}</span>は、<span>貸金業の規制等に関する法律{'金融商品取引法': 1}</span>等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十九年十二月十九日。以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'府令': 2, '法律': 1, '命令': 1, '四月一日': 1}</span>の施行前にした行為及びこの政令の<span>附則{'規定': 1}</span>において従前の例によることとされる場合におけるこの<span>政令{'法律': 2}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年七月四日政令第二一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年九月一九日政令第二九七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'府令': 1}</span>は、平成二十年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年一二月二八日政令第三〇三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>政令{'一部': 1}</span>は、改正法の施行の日（平成二十二年四月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中<span>金融商品取引法施行令{'金融商品取引法': 1}</span>第五章の三の次に一章を加える改正規定（同令第十九条の九第九号に係る部分に限る。）、第三条中中小企業等協同組合法<span>施行令{'一条': 1}</span>第二十八条の次に五条を加える改正規定（同令第二十八条の四第九号に係る部分に限る。）及び同令第三十三条第一項第一号の<span>改正{'規定': 1}</span>規定、第五条中農業協同組合法<span>施行令{'一条': 1}</span>第五条の七の次に<span>五条{'一条': 1}</span>を加える改正規定（同令第五条の十第九号に係る部分に限る。）、第七条中信用金庫法<span>施行令{'施行規則': 1}</span>第十三条の三の次に一条を加える改正規定（同令第十三条の四第九号に係る部分に限る。）、第九条中銀行法<span>施行令{'施行規則': 1}</span>第十六条の八の次に三条を<span>加える{'掲げる': 1}</span>改正規定（同令第十六条の十一第九号に係る部分に限る。）、第十<span>一条{'規定': 1}</span>中長期信用銀行法<span>施行令{'施行規則': 2}</span>第六条の五の次に一条を加える改正規定（同令第六条の五の二第九号に係る部分に限る。）、第十三条中<span>労働金庫法{'信託業法': 1}</span>施行令第七条の二の次に一条を加える改正規定（同令第七条の二の二第九号に係る部分に限る。）、第十五条中<span>貸金業法{'令': 1}</span><span>施行令{'令': 1}</span>第四条の次に三条を加える改正規定（同令第四条の四第十三号に係る部分を<span>除く{'限る': 4}</span>。）、第十六条の規定、第十<span>七条中{'改正': 3}</span>金融機関の信託業務の兼営等に関する法律<span>施行令{'施行規則': 3}</span>第十二条の次に<span>四条{'一条': 2}</span>を加える改正規定（同令第十五条第九号に係る部分に限る。）、第十<span>九条{'規定': 1}</span>中<span>水産業協同組合法{'令': 1}</span><span>施行令{'一条': 1}</span>第二十四条の六の次に五条を加える改正規定（同令第二十四条の九第九号に係る<span>部分{'規定': 1}</span>に限る。）、第二十一条中<span>保険業法{'令': 1}</span><span>施行令{'施行規則': 1, '令': 1}</span>第三章の次に一章を加える改正規定（同令第四十四条の九第十号に係る部分に限る。）、第二十三条中<span>農林中央金庫法{'令': 1}</span><span>施行令{'令': 1}</span>第四十八条の次に三条を加える改正規定（同令第五十条第十号に係る部分に限る。）、第二十五条中信託業法<span>施行令{'施行規則': 1}</span>第十八条の二の次に三条を加える改正規定（同令第十八条の五第十号に係る部分に<span>限る{'及び': 1}</span>。）並びに第二十八条中証券取引法等の一部を改正する法律及び<span>証券取引法等の一部を改正する法律{'規定': 1}</span>の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備等に関する政令第十八条第一項の<span>規定{'施行': 1}</span>によりなおその効力を有するものとされる同令第十七条の規定による廃止前の抵当証券業の<span>規制{'法律': 1}</span>等に関する法律<span>施行令{'施行規則': 3, '法律': 1}</span>第四条の次に三条を加える改正規定（同令第七条第十号に係る部分に<span>限る{'及び': 1}</span>。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法<span>附則{'規定': 2}</span>第一条第四号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中金融商品取引法施行令第五章の三の次に一章を加える改正規定（同令第十九条の九第十三号に係る部分に限る。）、第三条中中小企業等協同組合法<span>施行令{'一条': 1}</span>第二十八条の次に五条を加える改正規定（同令第二十八条の四第十三号に係る部分に限る。）、第五条中農業協同組合法施行令第五条の七の次に五条を加える改正規定（同令第五条の十第十三号に係る部分に限る。）、第七条中信用金庫法<span>施行令{'施行規則': 1}</span>第十三条の三の次に一条を加える改正規定（同令第十三条の四第十三号に係る部分に限る。）、第九条中銀行法<span>施行令{'施行規則': 1}</span>第十六条の八の次に三条を<span>加える{'掲げる': 1}</span>改正規定（同令第十六条の十一第十三号に係る部分に限る。）、第十一条中長期信用銀行法施行令第六条の五の次に一条を加える改正規定（同令第六条の五の二第十三号に係る部分に限る。）、第十三条中<span>労働金庫法{'信託業法': 1}</span>施行令第七条の二の次に一条を加える改正規定（同令第七条の二の二第十三号に係る部分に限る。）、第十七条中金融機関の信託業務の兼営等に関する法律<span>施行令{'施行規則': 3}</span>第十二条の次に<span>四条{'一条': 1}</span>を加える<span>改正{'第一': 1}</span>規定（同令第十五条第十三号に係る部分に限る。）、第十九条中水産業協同組合法<span>施行令{'施行規則': 1}</span>第二十四条の六の次に五条を加える改正規定（同令第二十四条の九第十三号に係る<span>部分{'規定': 1}</span>に限る。）、第二十一条中<span>保険業法{'令': 1}</span><span>施行令{'施行規則': 1, '令': 1}</span>第三章の次に一章を加える改正規定（同令第四十四条の九第十三号に係る部分に限る。）、第二十三条中<span>農林中央金庫法{'令': 1}</span><span>施行令{'令': 1}</span>第四十八条の次に三条を加える改正規定（同令第五十条第十三号に係る部分に限る。）、第二十五条中信託業法<span>施行令{'施行規則': 1}</span>第十八条の二の次に三条を加える改正規定（同令第十八条の五第十三号に係る部分に限る。）及び第二十八条中証券取引法等の一部を改正する法律及び<span>証券取引法等の一部を改正する法律{'規定': 2}</span>の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備等に関する政令第十八条第一項の<span>規定{'施行': 1}</span>によりなおその効力を有するものとされる同令第十七条の規定による廃止前の抵当証券業の<span>規制{'法律': 1}</span>等に関する法律<span>施行令{'施行規則': 3, '法律': 1}</span>第四条の次に三条を加える改正規定（同令第七条第十四号に係る部分に<span>限る{'及び': 1}</span>。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法<span>附則{'規定': 2}</span>第一条第五号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（金融商品取引法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>次の表の上欄に掲げる<span>規定{'事項': 1}</span>の<span>申請{'適用': 1}</span>をしようとする者が、改正法（<span>改正{'規定': 1, '附則': 1}</span>法第十一条の規定による改正後の貸金業法（昭和五十八年法律第三十二号）第四十一条の三十九第一項の申請をしようとする者にあっては、改正法<span>附則{'規定': 1}</span>第一条第四号に掲げる規定）の施行前に同表の中欄に掲げる規定の例により、当該規定に規定する業務規程の内容の説明、これについて異議がないかどうかの意見（異議がある場合には、その理由を含む。）の<span>聴取{'資産': 1}</span><span>又は{'及び': 3}</span>その結果を記載した書類の作成を行った場合には、当該説明、<span>聴取{'書類': 1}</span>又は<span>作成{'事業年度': 1}</span>をそれぞれ当該規定により行った説明、聴取又は作成とみなして、それぞれ同表の下欄に掲げる法律の規定を<span>適用{'準用': 1, '改正': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>新<span>金融商品取引法{'当該': 1}</span>第百五十六条の三十九第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>新金融商品取引法第百五十六条の三十九第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>新<span>金融商品取引法{'法律': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>改正法第二条の規定による改正後の無尽業法（昭和六年法律第四十二号）第三十五条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法第二条の規定による改正後の無尽業法第三十五条の二第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 1, '法律': 1}</span>法第二条の規定による改正後の<span>無尽業法{'規定': 3}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行': 1}</span>法<span>第三条{'規定': 1}</span>の規定による改正後の金融機関の信託業務の兼営等に関する法律（昭和十八年<span>法律{'施行規則': 3, '一部': 1}</span>第四十三号）第十二条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法<span>第三条{'規定': 2}</span>の規定による改正後の<span>金融機関の信託業務の兼営等に関する法律{'規定': 2}</span>第十二条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 5}</span>法<span>第三条{'規定': 1}</span>の規定による改正後の金融機関の信託業務の兼営等に関する法律</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 5}</span>法第四条の規定による改正後の農業協同組合法第九十二条の六第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第四条の規定による<span>改正{'適用': 1}</span>後の農業協同組合法第九十二条の六第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第四条の規定による<span>改正{'適用': 1}</span>後の農業協同組合法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第五条の規定による<span>改正{'適用': 1}</span>後の<span>水産業協同組合法{'農業協同組合法': 1}</span>第百二十一条の六第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第五条の規定による<span>改正{'適用': 1}</span>後の水産業協同組合法第百二十一条の六第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第五条の規定による<span>改正{'適用': 1}</span>後の<span>水産業協同組合法{'中小企業等協同組合法': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第六条の規定による改正後の中小企業等協同組合法第六十九条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'法律': 1}</span>法第六条の規定による改正後の中小企業等協同組合法第六十九条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 1, '法律': 1}</span>法第六条の規定による改正後の中小企業等協同組合法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 1, '法律': 1}</span>法第七条の規定による改正後の信用金庫法（昭和二十六年<span>法律{'施行規則': 2}</span>第二百三十八号）第八十五条の四第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法第七条の規定による改正後の<span>信用金庫法{'規定': 1}</span>第八十五条の四第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第七条の規定による改正後の信用金庫法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第八条の規定による改正後の長期信用銀行法（昭和二十七年<span>法律{'施行規則': 2}</span>第百八十七号）第十六条の八第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'六条': 1}</span>法第八条の規定による改正後の長期信用銀行法第十六条の八第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第八条の規定による改正後の<span>長期信用銀行法{'規定': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法<span>第九条{'改正': 1}</span>の規定による改正後の労働金庫法第八十九条の五第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第九条の規定による改正後の労働金庫法第八十九条の五第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第九条の規定による改正後の労働金庫法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第十条の規定による改正後の銀行法（昭和五十六年<span>法律{'施行規則': 1}</span>第五十九号）第五十二条の六十二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法第十条の規定による改正後の銀行法第五十二条の六十二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第十条の規定による改正後の<span>銀行法{'規定': 1, '貸金業法': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 4}</span>法第十一条の規定による改正後の<span>貸金業法{'規定': 1, '銀行法': 1}</span>第四十一条の三十九第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3}</span>法第十一条の規定による改正後の貸金業法第四十一条の三十九第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3}</span>法第十一条の規定による改正後の貸金業法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第十二条の規定による改正後の保険業法（平成七年<span>法律{'施行規則': 3}</span>第百五号）第三百八条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法第十二条の規定による改正後の<span>保険業法{'規定': 1}</span>第三百八条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第十二条の規定による改正後の保険業法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第十三条の規定による改正後の農林中央金庫法第九十五条の六第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 2}</span>法第十三条の規定による改正後の農林中央金庫法第九十五条の六第三項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3}</span>法第十三条の規定による改正後の農林中央金庫法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第十四条の規定による改正後の信託業法（平成十六年<span>法律{'施行規則': 2}</span>第百五十四号）第八十五条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>改正法第十四条の規定による改正後の<span>信託業法{'規定': 1}</span>第八十五条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 4}</span>法第十四条の規定による<span>改正{'適用': 1}</span>後の信託業法</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 1}</span>法第十七条の規定による<span>改正{'適用': 2}</span>後の<span>証券取引法等の一部を改正する法律{'規定': 1}</span>の施行に伴う関係法律の整備等に関する法律（平成十八年<span>法律{'附則': 1}</span>第六十六号）第五十七条第二項の<span>規定{'施行': 2}</span>によりなおその効力を有するものとされる同法第<span>一条{'附則': 1}</span>の規定による<span>廃止{'改正': 1}</span>前の抵当証券業の<span>規制{'法律': 1}</span>等に関する法律（昭和六十二年<span>法律{'施行規則': 2, '目次': 1}</span>第百十四号）第四十三条の二第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'二条': 3}</span>法第十七条の規定による改正後の証券取引法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律第五十七条第二項の<span>規定{'法律': 1}</span>によりなおその効力を有するものとされる同法第<span>一条{'附則': 1}</span>の規定による<span>廃止{'改正': 1}</span>前の抵当証券業の<span>規制{'法律': 1}</span>等に関する法律第四十三条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>改正{'施行規則': 3, '法律': 1}</span>法第十七条の<span>規定{'二条': 1}</span>による改正後の証券取引法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律第五十七条第二項の<span>規定{'法律': 1}</span>によりなおその効力を有するものとされる同法第<span>一条{'附則': 1}</span>の規定による<span>廃止{'改正': 1}</span>前の抵当証券業の<span>規制{'法律': 1}</span>等に関する法律</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'法律': 2, '施行規則': 3}</span>（<span>附則{'二条': 1}</span>第一条第二号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年五月一九日政令第一三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>政令{'法律': 1, '府令': 1}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年九月一〇日政令第一九六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、<span>改正{'公布': 1, '四月一日': 1}</span>法の施行の日（平成二十三年一月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（信託業法施行令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧<span>海外{'政令': 1}</span>商品先物取引法の<span>規定{'一部': 1}</span>（改正法<span>附則{'前': 1}</span>第三条の規定によりなおその効力を有することとされる場合及び改正法附則第二十五条の規定によりなお従前の例によることとされる場合における旧海外商品先物取引法の規定を含む。）に違反して罰金の刑に処せられた者については、第十<span>二条{'金融商品取引法施行令': 1}</span>の規定による改正後の信託業法<span>施行令{'施行規則': 1}</span>第四条の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日政令第一八一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'命令': 1, '府令': 1}</span>は、<span>放送法{'犯罪による収益の移転防止に関する法律': 1, '金融商品取引法': 1}</span>等の一部を改正する法律（平成二十二年<span>法律{'施行': 1}</span>第六十五号。以下「放送法等改正法」という。）の施行の日（平成二十三年六月三十日。以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'府令': 2, '法律': 1, '四月一日': 1}</span>の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一二月二六日政令第四二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'法律': 1}</span>は、平成二十四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一一月二六日政令第三九二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、<span>行政不服審査法{'改正': 1}</span>の施行の日（平成二十八年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>行政庁の処分その他の行為又は不作為についての不服申立てであってこの<span>政令{'法律': 2}</span>の施行前にされた行政庁の処分その他の行為又はこの政令の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（公認会計士法施行令等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>略{'附則': 2}</span></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二条<span>第五{'改正': 1}</span>号の規定による改正後の<span>信託業法{'前': 1}</span><span>施行令{'施行規則': 1}</span>第十<span>一条{'改正': 2}</span>第六項の規定は、同<span>条{'改正': 1}</span>第五項の規定により施行日以後に行う公示に係る配当について適用し、同号の規定による改正前の<span>信託業法{'銀行法': 1, '金融機関の信託業務の兼営等に関する法律': 1, '保険業法': 1}</span><span>施行令{'施行規則': 1, '法律': 1}</span>第十一条第五項の規定により施行日前に行った公示に係る配当については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月三〇日政令第一七三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、<span>銀行法{'貸金業の規制等に関する法律': 1, '金融商品取引法': 1}</span>等の一部を改正する法律（以下「改正法」という。）の施行の日（平成三十年六月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（<span>次{'法律': 1, '施行': 1}</span>条において「改正法」という。）の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月八日政令第二一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'規定': 2}</span>は、<span>改正{'施行': 2}</span>法<span>施行日{'施行': 3}</span>（令和二年十二月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>政令{'法律': 1}</span>の施行前にした行為及び<span>附則{'政令': 1}</span>第二条の規定によりなおその効力を有することとされる場合におけるこの<span>政令{'法律': 5}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

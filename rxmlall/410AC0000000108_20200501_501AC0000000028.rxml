@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="108" Year="10">
+  <LawNum>平成十年法律第百八号</LawNum>
+  <LawBody>
+    <LawTitle>金融機関等が行う特定金融取引の一括清算に関する法律</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、金融機関等が行う特定金融<span>取引{'指標': 1}</span>の一括清算についての破産手続等における取扱いを確定することにより、金融機関等が行う特定金融取引の決済の安定性の確保とこれによる特定金融取引の活性化を図り、もって我が国の金融の機能に対する内外の<span>信頼{'健全': 1}</span>の向上と国民経済の健全な発展に資することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「特定金融取引」とは、金利、通貨の価格、金融商品市場（金融商品取引法（昭和二十三年法律第二十五号）第二条第十四項に規定する金融商品市場をいう。）における相場その他の指標に係る変動、市場間の格差等（以下この<span>項{'規定': 1}</span>において「金利変動等」という。）に基づいて算出される金銭の授受を約する取引その他の<span>金利{'相場': 1}</span>変動等を利用して行われる取引のうち、同<span>条{'法': 1}</span>第二十二項に規定する店頭デリバティブ取引その他の内閣府令で定めるものをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「金融機関等」とは、次に掲げる<span>法人{'指定': 1}</span>をいう。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行<span>又は{'及び': 1}</span>長期信用銀行法（昭和二十七年法律第百八十七号）第二条に規定する長期信用銀行</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融商品取引法第二条第九項に規定する金融商品取引業者（同法第二十八条第一項に規定する第一種金融商品取引業を行う者（同法第二十九条の四の二第九項に規定する第一種少額電子募集取扱<span>業者{'業務': 2}</span>を除く。）に限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他我が国の<span>法令{'当該': 1}</span>により営業<span>若しくは{'又は': 3}</span>事業の免許、登録等を受けている法人又は特別の法律により<span>設立{'規定': 1}</span>された法人であって、自己又は顧客の計算において特定金融取引を相当の<span>規模{'業務': 1}</span>で行うものとして政令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「破産手続等」とは、<span>破産手続{'開始': 1}</span>、再生手続又は更生手続をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「<span>一括{'施行': 1}</span>清算<span>事由{'開始': 1}</span>」とは、破産手続<span>開始{'場合': 1}</span>、再生手続開始<span>又は{'若しくは': 1}</span>更生手続<span>開始{'終了': 1}</span>の申立てをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「<span>基本{'規定': 1}</span>契約書」とは、特定<span>金融{'店頭デリバティブ': 1}</span><span>取引{'指標': 1}</span>を行おうとする金融機関等とその相手方との間において二以上の特定金融<span>取引{'指標': 1}</span>を継続して行うために<span>作成{'取引': 1}</span>される契約書で、契約の当事者間において行われる特定<span>金融{'店頭デリバティブ': 1}</span>取引に係る債務についてその履行の方法その他当該特定金融<span>取引{'指標': 1}</span>に関する基本的事項を定めるものをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「一括清算」とは、基本契約書に基づき特定金融取引を行っている当事者の一方に一括清算事由が生じた場合には、当該<span>当事者{'事項': 1}</span>の双方の意思にかかわらず、<span>当該{'規定': 1}</span>一括清算事由が生じた時において、当該基本契約書に<span>基づい{'基づき': 1}</span>て行われている全ての特定金融<span>取引{'指標': 1}</span>についてその時における当該<span>特定{'取引': 1}</span>金融<span>取引{'指標': 1}</span>の<span>それぞれ{'規定': 1}</span>につき<span>内閣府令{'当該': 1}</span>で定めるところにより算出した<span>評価額{'額': 3}</span>を合算して得られる純合計額が、当該当事者間における一の債権又は一の債務となることをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（一括清算と破産手続等との関係）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">破産手続開始の決定、<span>再生{'更生': 1}</span>手続開始の決定又は<span>更生{'再生': 1}</span>手続開始の決定（以下この<span>条{'受け': 1}</span>において「破産手続開始決定等」という。）がされた者が、一括清算の約定をした基本契約書に基づき特定金融取引を行っていた金融機関等又はその相手方である場合には、当該基本契約書に基づいて行われていた全ての特定金融<span>取引{'指標': 1}</span>についてこれらの者が有する次の各号に掲げる法律に規定する<span>当該{'内閣府令': 2}</span>各号に定める財産又は債権は、当該<span>破産手続開始決定{'事業年度': 1}</span>等に係る一括清算事由が生じたことにより、それぞれ、当該破産手続開始決定等がされた者が当該約定に基づき有することとなった一の債権又はその相手方が当該約定に基づき有することとなった一の債権とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">破産法（平成十六年法律第七十五号）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">破産財団に属する財産又は破産債権</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">民事再生法（平成十一年法律第二百二十五号）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">再生手続開始の時に再生<span>債務者{'受け': 1}</span>に属する財産又は再生債権</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">会社更生法（平成十四年法律第百五十四号）又は金融機関等の更生手続の特例等に関する法律（平成八年<span>法律{'規定': 1}</span>第九十五号）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>更生{'規定': 1}</span>手続開始の時に株式会社若しくは同法第二条第二項に規定する<span>協同組織金融機関{'同法': 1}</span>若しくは同条第六項に規定する相互会社に属する財産又は会社更生法第二条第十二項<span>本文{'第一': 1}</span>若しくは金融機関等の更生手続の特例等に関する法律第四条第十二項本文<span>若しくは{'又は': 1}</span>第百六十九条第十二項<span>本文{'同法': 1}</span>に規定する<span>更生{'適用': 1}</span>債権等</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>更生手続開始の決定がされ<span>た者{'受け': 2}</span>（一括清算の<span>約定{'手続': 1}</span>をした基本契約書に基づき特定金融取引を行っていた金融機関等又はその相手方に限る。以下この条において同じ。）の特定金融取引の相手方が、前条の規定により一の債権（以下この条において「<span>一括{'規定': 2}</span>清算後<span>債権{'法人': 1}</span>」という。）を有することとなる場合において、当該更生<span>手続{'計画': 1}</span>開始の決定がされた者と当該相手方との間において更生手続開始の申立て<span>前{'契約': 1}</span>に<span>締結{'規定': 1}</span>された担保権の設定を目的とする契約（その<span>契約{'締結': 1}</span>条項中において、<span>基本{'貸付け': 1, '当該': 1}</span>契約書に基づき特定金融取引を行っている<span>当事者{'行為': 1}</span>の一方に更生手続開始の<span>申立て{'決定': 1}</span>があった<span>場合{'当該': 1}</span>は、<span>担保権{'当該': 1}</span>者に弁済として担保権の目的である財産を帰属させることができることを約定しているものに限る。）に基づく一括<span>清算{'当該': 1}</span>後債権に係る担保権を有するときは、当該担保権の目的である財産（特定金融<span>取引{'間': 1}</span>を行う当事者が相手方に対し債務の履行を担保するために預託する有価証券その他の内閣府令で定めるものに限る。以下この条において「<span>一括{'規定': 2}</span>清算対象財産」という。）は、当該更生手続開始の<span>申立て{'決定': 1}</span>があった時において当該<span>相手方{'保有': 1}</span>に帰属する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">前項の場合において、当該相手方に帰属する一括清算対象財産の評価額（内閣府令で定めるところにより算出した額をいう。次項において同じ。）が一括清算後債権の額を超えるときは、当該相手方は、当該更生<span>手続{'出資': 1}</span>開始の<span>決定{'当該': 1}</span>がされた者に対して、その<span>超える{'あっ': 1, '掲げる': 1, '受け': 1}</span>額に相当する<span>金銭{'金額': 1}</span>を遅滞なく支払わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該一括清算対象財産の一部をもって、当該金銭の全部又は一部に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の規定により<span>一括{'作成': 1}</span>清算対象財産が更生手続開始の決定がされた者の<span>相手方{'受け': 2}</span>に帰属するときは、<span>一括{'当該': 1}</span>清算対象財産の評価額（その額が<span>一括{'当該': 1}</span>清算後債権の額を超えるときは、<span>一括{'当該': 2}</span><span>清算{'額': 1}</span>後債権の額）を一括清算後債権の額から控除するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前三項（第二項ただし書を除く。）の規定は、更生手続開始の決定がされた者とその<span>特定{'受け': 2}</span>金融取引の相手方との間において、更生手続開始の申立て前に担保権の設定を<span>目的{'信託': 1}</span>とする契約（その契約条項中において、<span>基本{'貸付け': 1, '当該': 1}</span>契約書に基づき特定金融取引を行っている<span>当事者{'行為': 1}</span>の一方に更生手続開始の<span>申立て{'決定': 1}</span>が<span>あっ{'行っ': 2}</span>た<span>場合{'当該': 1}</span>は、<span>担保権{'保有': 1}</span>者に担保権の<span>目的{'信託': 1}</span>である財産を処分させることができることを約定しているものに限る。）が締結されている場合に準用する。</Sentence>
+            <Sentence Num="2">この場合において、第一項中「当該更生手続開始の<span>申立て{'決定': 1}</span>が<span>あっ{'行っ': 1}</span>た時」とあるのは「当該相手方が更生手続開始の申立て以後<span>更生{'再生': 1}</span>手続<span>開始{'終了': 1}</span>前に第三者に譲渡した時」と、「当該相手方に」と<span>ある{'行う': 1}</span>のは「<span>当該{'場合': 1}</span>第三者に」と、第二項中「当該相手方に」とあるのは「当該第三者に」と、「<span>評価額{'規定': 1}</span>（内閣府令で定めるところにより算出した額をいう」とあるのは「<span>譲渡{'場合': 1}</span>価額（その額が内閣府令で定めるところにより算出した<span>評価額{'額': 1}</span>に照らして不当に低いときは、当該評価額」と、前項中「<span>更生{'規定': 1}</span>手続<span>開始{'保険者': 1}</span>の<span>決定{'申立て': 1}</span>がされた者の<span>相手方{'受け': 2}</span>」とあるのは「第三者」と、「評価額」とあるのは「譲渡価額」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、平成十年十二月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'規定': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（<span>核原料物質、核燃料物質及び原子炉の規制に関する法律{'金融商品取引法': 1}</span>の一部を改正する法律附則の改正規定に係る部分に<span>限る{'いう': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'改正': 2}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三章（<span>第三条{'部分': 1}</span>を除く。）及び次条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成十二年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第二二五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から<span>起算{'施行': 2}</span>して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年五月三一日法律第九二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から<span>起算{'施行': 2, '附則': 1}</span>して<span>三月{'一年': 2}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="30">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'法律': 1, '銀行法': 1}</span>第二条から第十七条まで及び前条に定めるもののほか、この法律の施行に際し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>会社更生法{'会社法': 1}</span>（平成十四年法律第百五十四号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、破産法（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新破産法」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、平成十八年<span>証券取引法{'一部': 1}</span>改正法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年五月三〇日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、<span>公布{'施行': 1}</span>の日から<span>起算{'施行': 1}</span>して<span>一年{'三月': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中金融商品取引法第八十七条の二第一項ただし書の改正規定並びに附則第十七条及び第十八条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'改正': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'施行': 1}</span>第二条から第六条まで及び前条に定めるもののほか、この<span>法律{'府令': 1}</span>の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、<span>公布{'施行': 1}</span>の日から<span>起算{'施行': 1}</span>して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、<span>公布{'適用': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（金融機関等が行う特定金融取引の一括清算に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第十三条の規定による改正後の<span>金融機関{'規定': 2}</span>等が行う特定金融<span>取引{'指標': 1}</span>の一括清算に関する法律第四条の<span>規定{'施行': 3}</span>は、施行日以後に<span>更生{'招集': 1}</span>手続開始の申立てがあった者により設定されている担保権の目的である財産について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この<span>条{'一部': 1}</span>において「改正後の各<span>法律{'規定': 1}</span>」という。）の施行の<span>状況{'規定': 1}</span>等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

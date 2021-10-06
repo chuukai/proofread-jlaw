@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="60">
+  <LawNum>昭和六十年通商産業省令第十一号</LawNum>
+  <LawBody>
+    <LawTitle>経済産業大臣の所管に属する公益信託の引受けの許可及び監督に関する規則</LawTitle>
+    <EnactStatement>信託法（大正十一年法律第六十二号）第六十六条から第七十三条までの規定を実施するため、通商産業大臣の所管に属する公益信託の引受けの許可及び監督に関する規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（引受けの許可の申請）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>公益信託ニ関スル法律（以下「法」という。）第二条第一項の規定により経済産業大臣の所管に属する公益信託の引受けの許可を受けようとする者は、申請書に次の各号に掲げる書類を添えて<span>経済産業大臣{'財務大臣': 1}</span>に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定趣意書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>委託者となるべき者及び受託者となるべき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（その者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>公益信託契約書（付属書類を含む。以下同じ。）の案</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託財産に<span>属する{'ある': 1}</span><span>財産{'規定': 1}</span>と<span>なる{'ある': 1}</span>べきものの<span>種類{'手続': 1}</span>及び<span>価額{'規定': 1}</span>の<span>総額{'状況': 1, '規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span>並びに<span>当該{'規定': 1}</span><span>信託{'規定': 1}</span><span>財産{'規定': 1}</span>に<span>属する{'ある': 1}</span>財産となるべきものの<span>権利{'種類': 1}</span>及び<span>価格{'規定': 1}</span>を証する<span>書面{'書類': 2, '情報': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>信託{'添付': 1}</span>管理人を<span>置く{'なる': 1}</span><span>場合{'規定': 1}</span>には、<span>信託{'手続': 1}</span><span>管理{'規定': 1}</span>人と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（その者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）並びにその就任承諾書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>運営委員会その他の当該公益信託を適正に運営するために必要な機関（以下「運営委員会等」という。）を置く場合には、その名称、構成員の<span>数{'手続': 1}</span>並びにその<span>構成{'規定': 1}</span>員と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を記載した<span>書面{'書類': 2}</span>並びにその<span>就任{'規定': 1}</span>承諾書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>設定当初の<span>信託{'規定': 1}</span><span>事務{'規定': 1}</span><span>年度{'規定': 1}</span>及び次の<span>信託{'規定': 1}</span><span>事務{'規定': 1}</span>年度（信託事務年度の定めのないものにあつては、設定後二年間）の事業計画書及び収支予算書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>前各号に掲げるもののほか、<span>経済産業大臣{'環境大臣': 1, '金融庁長官': 1, '防衛大臣': 1, '手続': 1}</span>が特に必要と認める書類</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（報告等）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>受託者等は、<span>次{'関係': 1}</span>の表の<span>区分{'記載': 1}</span>により書類を<span>経済産業大臣{'登記所': 1}</span>に<span>提出{'規定': 1}</span>するものとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>提出義務者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>提出すべき場合</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>提出すべき書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>添付すべき書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>提出期限</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一　公益信託の引受けを許可された受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>遅滞なく前条第四号の<span>書面{'書類': 1, '規定': 1}</span>に<span>記載{'規定': 1}</span>された<span>財産{'規定': 1}</span>の<span>移転{'規定': 1}</span>を<span>受け{'ある': 1}</span>、その<span>移転{'規定': 1}</span>を<span>終了{'登記所': 1, '規定': 1}</span>したとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を<span>報告{'一月': 1, '手続': 1}</span>する<span>書類{'手続': 1}</span>及びこれを<span>証する{'ある': 1}</span><span>書類{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>移転{'手続': 1}</span>を<span>終了{'規定': 1}</span>した後<span>一月{'規定': 1}</span>以内</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二　<span>受託{'手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>毎<span>信託{'手続': 1}</span>事務年度（信託行為に<span>別段{'規定': 1}</span>の定めがないときは、毎年四月一日から<span>翌年{'施行': 1, '破産手続': 1}</span>三月三十一日までとする。以下同じ。）が開始したとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該<span>信託{'登記': 1}</span>事務<span>年度{'規定': 1}</span>の事業計画書及び収支予算書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>毎信託事務年度開始前</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>三　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>事業計画書又は収支予算書を変更したとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>変更後の事業計画書及び収支予算書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>遅滞なく</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>四　<span>受託{'当該': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託事務年度が<span>終了{'手続': 1}</span>したとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該信託事務年度の<span>事業報告書{'事業計画書': 1}</span>及び収支決算書並びに当該信託事務年度末の財産目録</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>毎信託事務年度<span>終了{'手続': 1}</span>後<span>三月{'規定': 1}</span>以内</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>五　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理者{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>（平成十八年<span>法律{'規定': 1}</span>第百八号）第六十六条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>による<span>保存{'規定': 1}</span><span>行為{'規定': 1}</span>等の<span>範囲{'規定': 1}</span>を<span>超える{'ある': 1}</span><span>行為{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする<span>行為{'規定': 1}</span>の<span>概要{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>六　<span>受託{'手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第五条第一項の<span>規定{'手続': 1}</span>による<span>特別{'規定': 1}</span>の<span>事情{'手続': 1}</span>が<span>生じ{'ある': 2}</span>たと<span>認める{'ある': 1}</span>とき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申立{'規定': 1}</span>書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 1}</span>の<span>変更{'規定': 1}</span>を<span>必要{'規定': 1}</span>とする<span>理由{'手続': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence>ロ　信託の変更案及び<span>新旧{'規定': 1}</span>対照表</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>特別の事情が<span>生じ{'ある': 2}</span>たと認めるとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>七　<span>受託{'手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第六条の<span>規定{'手続': 1}</span>による<span>信託{'規定': 1}</span>の<span>変更{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 1}</span>の<span>変更{'規定': 1}</span>を<span>必要{'規定': 1}</span>とする<span>理由{'手続': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>信託{'規定': 2}</span>の<span>変更{'手続': 1}</span>をする<span>根拠{'規定': 1}</span>となる信託法の規定（同法第百四十九条第四項の<span>別段{'規定': 1}</span>の定めがある場合には、当該定めの<span>内容{'持分': 1, '手続': 1}</span>を<span>含む{'ある': 1}</span>。）を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, 'イ': 1, '規定': 1}</span></Sentence>
+                  <Sentence>ハ　信託の変更案及び<span>新旧{'規定': 1}</span>対照表</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該許可を受けようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>八　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第六条の<span>規定{'手続': 1}</span>による<span>信託{'届出': 1}</span>の<span>併合{'規定': 1}</span>の<span>許可{'手続': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 1}</span>の<span>併合{'規定': 1}</span>を<span>必要{'手続': 1}</span>とする<span>理由{'事項': 1, '手続': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 2, '届出': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>信託{'届出': 1}</span>の<span>併合{'手続': 1}</span>をする<span>根拠{'手続': 1}</span>と<span>なる{'ある': 1}</span>信託法の規定（同法第百五十一条第三項の<span>別段{'規定': 1}</span>の定めがある場合には、当該定めの<span>内容{'持分': 1, '手続': 1}</span>を<span>含む{'ある': 1}</span>。）を記載した<span>書面{'書類': 2}</span></Sentence>
+                  <Sentence><span>ハ{'信託': 1}</span>　信託の<span>併合後{'財産': 1, '規定': 1}</span>の信託行為の内容を記載した<span>書面{'書類': 2}</span>及び新旧対照表</Sentence>
+                  <Sentence>ニ　信託法第百五十二条第二項の公告及び催告又は同<span>条{'規定': 1}</span>第三項の<span>公告{'規定': 1}</span>をしたことその他<span>信託{'法務省令': 1, '手続': 1}</span>法の<span>定める{'ある': 1}</span><span>信託{'手続': 1}</span>の<span>併合{'規定': 1}</span>の<span>手続{'届出': 1}</span>を<span>経{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>九　<span>受託{'法': 1, '手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第六条の<span>規定{'手続': 1}</span>による<span>吸収{'規定': 1}</span><span>信託{'規定': 1}</span><span>分割{'変更': 1, '規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>吸収{'規定': 1}</span><span>信託{'新設': 1, '規定': 1}</span><span>分割{'規定': 1}</span>を<span>必要{'手続': 1}</span>とする<span>理由{'事項': 1, '手続': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>吸収{'規定': 1}</span><span>信託{'規定': 1}</span><span>分割{'手続': 1}</span>をする<span>根拠{'信託': 1, '規定': 1}</span>となる信託法の規定（<span>同法{'定款': 1}</span>第百五十六条第三項の<span>別段{'規定': 1}</span>の定めがある場合には、当該定めの<span>内容{'持分': 1, '手続': 1}</span>を<span>含む{'ある': 1}</span>。）を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                  <Sentence><span>ハ{'手続': 1}</span>　<span>吸収{'規定': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>後の<span>信託{'規定': 1}</span><span>行為{'規定': 1}</span>の内容を記載した<span>書面{'書類': 2}</span>及び新旧対照表</Sentence>
+                  <Sentence>ニ　信託法第百五十六条第二項の公告及び催告又は同<span>条{'規定': 2}</span>第三項の<span>公告{'規定': 1}</span>をしたことその他<span>信託{'法務省令': 1, '手続': 1}</span>法の<span>定める{'ある': 1}</span><span>吸収{'規定': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>の<span>手続{'信託': 1, '規定': 1}</span>を<span>経{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span>許可を受けようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第六条の規定により<span>新規{'規定': 1}</span>信託<span>分割{'申請': 1}</span>の許可を受けようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>申請書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>イ　<span>新規{'規定': 1}</span><span>信託{'新設': 1}</span>分割を必要とする理由を記載した<span>書面{'書類': 2}</span></Sentence>
+                  <Sentence>ロ　<span>新規{'規定': 1}</span>信託分割をする根拠となる信託法の規定（<span>同法{'定款': 1}</span>第百五十九条第三項の<span>別段{'規定': 1}</span>の定めがある場合には、当該定めの<span>内容{'持分': 1, '手続': 1}</span>を含む。）を記載した<span>書面{'書類': 2}</span></Sentence>
+                  <Sentence><span>ハ{'信託': 1}</span>　<span>新規{'規定': 1}</span>信託分割後の信託行為の内容を記載した<span>書面{'書類': 2}</span>及び新旧対照表</Sentence>
+                  <Sentence>ニ　信託法第百六十条第二項の公告及び催告又は、同<span>条{'規定': 2}</span>第三項の<span>公告{'規定': 1}</span>をしたことその他<span>信託{'法務省令': 1, '手続': 1}</span>法の<span>定める{'ある': 1}</span><span>吸収{'規定': 1}</span><span>信託{'分割': 1, '規定': 1}</span><span>分割{'規定': 1}</span>の<span>手続{'信託': 1, '規定': 1}</span>を<span>経{'ある': 1}</span>たことを<span>証する{'ある': 1}</span><span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十一　<span>受託{'手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>法第七条の<span>規定{'手続': 1}</span>により<span>辞任{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>辞任{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>申請{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>収支{'規定': 1}</span>の<span>現況{'届出': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '規定': 1}</span></Sentence>
+                  <Sentence>ハ　申請時の財産目録</Sentence>
+                  <Sentence><span>ニ{'手続': 1}</span>　新たな受託者の選任に関する意見を記載した<span>書面{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'手続': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十二　<span>委託{'規定': 1}</span>者又は<span>信託{'規定': 1}</span><span>管理人{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>第四十六条第一項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>検査{'規定': 1}</span>役の<span>選任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>選任{'規定': 1}</span>を<span>請求{'手続': 1}</span>しようとする<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>検査{'規定': 1}</span>役の<span>選任{'規定': 1}</span>に関する<span>意見{'手続': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'届出': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>選任{'規定': 1}</span>を<span>請求{'手続': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十三　<span>委託{'手続': 1}</span>者又は<span>信託{'規定': 1}</span><span>管理人{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>第五十八条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>受託{'規定': 1}</span>者の<span>解任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>解任{'規定': 2}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>新た{'規定': 2}</span>な<span>受託{'規定': 1}</span>者の<span>選任{'規定': 1}</span>に関する<span>意見{'手続': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'届出': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>解任{'手続': 1}</span>を<span>請求{'手続': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十四　<span>利害関係{'手続': 1}</span>人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>第六十二条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>新た{'規定': 1}</span>な<span>受託{'規定': 1}</span>者の<span>選任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>選任{'規定': 1}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'受託': 1, '手続': 1}</span>　<span>新た{'規定': 1}</span>な<span>受託{'規定': 1}</span>者と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（その者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）並びにその就任承諾書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該選任を請求しようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十五　利害関係人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託法第六十三条第一項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理者{'規定': 1}</span>による<span>管理{'規定': 1}</span>を<span>命ずる{'ある': 1}</span><span>処分{'規定': 1}</span>（以下この号において「<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>を<span>請求{'規定': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'規定': 1}</span>者の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>処分{'手続': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十六　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理者{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'規定': 1}</span>第七十条において<span>読み替え{'ある': 1}</span>て<span>準用{'規定': 1}</span>する<span>同法{'規定': 1}</span>第五十七条第二項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>辞任{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>辞任{'規定': 1}</span>しようとする<span>理由{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>収支{'規定': 1}</span>の<span>現況{'届出': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ハ{'手続': 1}</span>　<span>新た{'届出': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'規定': 1}</span>者の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 1, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十七　<span>委託{'規定': 1}</span>者又は<span>信託{'規定': 1}</span><span>管理人{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'一条': 1, '手続': 1}</span>第七十条において<span>準用{'規定': 2}</span>する<span>同法{'規定': 1}</span>第五十八条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'規定': 1}</span>者の<span>解任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>解任{'規定': 2}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'手続': 1}</span><span>管理{'規定': 1}</span>者の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 1, '届出': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>解任{'手続': 1}</span>を<span>請求{'手続': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十八　<span>利害関係{'手続': 1}</span>人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>第七十四条第二項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>信託{'規定': 1}</span>財産法人管理人による管理を<span>命じる{'ある': 1}</span>処分（以下この号において「信託財産法人管理<span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>法人{'規定': 1}</span><span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>を<span>請求{'規定': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>管理{'手続': 1}</span><span>法人{'規定': 1}</span><span>管理{'手続': 1}</span>人の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 1, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>処分{'手続': 1}</span>を<span>請求{'手続': 1}</span>するとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>十九　<span>利害関係{'規定': 1}</span>人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'規定': 1}</span>第百二十三条第四項又は<span>同法{'規定': 1}</span>第二百五十八条第六項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>管理{'規定': 1}</span>人の<span>選任{'規定': 1}</span>を<span>請求{'規定': 1}</span>するとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>選任{'規定': 1}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'新た': 1, '手続': 1}</span>　<span>信託{'規定': 1}</span><span>管理{'規定': 1}</span>人と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（その者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）並びにその就任承諾書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該請求をしようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十　信託管理人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'規定': 1}</span>第百二十八条第二項において<span>準用{'規定': 2}</span>する<span>同法{'規定': 1}</span>第五十七条第二項及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>辞任{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>申請書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>辞任{'規定': 1}</span>しようとする<span>理由{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>収支{'規定': 1}</span>の<span>現況{'届出': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ハ{'手続': 1}</span>　<span>新た{'手続': 1}</span>な<span>信託{'規定': 1}</span><span>管理{'手続': 1}</span>人の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'規定': 1}</span><span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十一　<span>委託{'規定': 1}</span>者又は<span>他{'規定': 1}</span>の<span>信託{'規定': 1}</span><span>管理人{'手続': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'規定': 1}</span>第百二十八条第二項において<span>準用{'規定': 1}</span>する<span>同法{'規定': 1}</span>第五十八条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>信託{'規定': 1}</span><span>管理{'規定': 1}</span>人の<span>解任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとするとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>解任{'規定': 2}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>新た{'規定': 1}</span>な<span>信託{'裁判所': 1, '規定': 1}</span><span>管理{'手続': 1}</span>人の<span>選任{'規定': 1}</span>に関する<span>意見{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'交付': 1, '規定': 1}</span><span>請求{'手続': 1}</span>を<span>しよう{'手続': 1}</span>とするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十二　<span>利害関係{'手続': 1}</span>人</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'規定': 1}</span>第百二十九条第一項において<span>準用{'規定': 1}</span>する<span>同法{'規定': 1}</span>第六十二条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>管理{'規定': 1}</span>人の<span>選任{'規定': 1}</span>を<span>請求{'規定': 1}</span>するとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>選任{'規定': 1}</span>を<span>請求{'手続': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'規定': 1}</span>　<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>管理{'手続': 1}</span>人と<span>なる{'ある': 1}</span>べき者の<span>氏名{'手続': 1}</span>、<span>住所{'規定': 1}</span>及び<span>略歴{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（その者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）並びにその就任承諾書</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>当該請求をしようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十三　委託者、受託者又は<span>信託{'社債': 1, '規定': 1}</span><span>管理人{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>信託法{'手続': 1}</span>第百六十五条第一項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>信託{'規定': 1}</span>の<span>終了{'規定': 1}</span>を<span>請求{'規定': 1}</span>するとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>請求書{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>イ{'規定': 1}</span>　<span>信託{'規定': 2}</span>の<span>終了{'規定': 1}</span>を<span>請求{'規定': 1}</span>する<span>理由{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'書類': 1, '手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>収支{'規定': 1}</span>の<span>現況{'届出': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'規定': 1}</span></Sentence>
+                  <Sentence>ハ　<span>残余{'規定': 1}</span>財産の処分の<span>見込み{'手続': 1}</span>に関する書面</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>当該{'受託': 1}</span>請求をしようとするとき。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十四　<span>受託{'手続': 1}</span>者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>受託者の<span>住所{'届出': 1}</span>又は<span>職業{'規定': 1}</span>（<span>受託{'手続': 1}</span>者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>、主たる<span>事務所{'規定': 1}</span>の所在地又は<span>定款{'業務': 2}</span>若しくは<span>寄附行為{'規定': 1}</span>の内容）に変更があつたとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を<span>報告{'場合': 1}</span>する書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>遅滞{'規定': 1}</span><span>なく{'やむを得ない': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十五　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託管理人又は<span>運営委員会{'規定': 1}</span>等の構成員に変更があつたとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を<span>報告{'場合': 1}</span>する書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>第<span>一条{'手続': 1}</span>第五号又は第六号に<span>掲げる{'ある': 1}</span><span>書類{'規定': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>遅滞{'規定': 1}</span><span>なく{'やむを得ない': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十六　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>信託管理人又は<span>運営委員会{'規定': 1}</span>等の構成員の住所又は職業（信託<span>管理人{'財産': 1, '手続': 1}</span>が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>に<span>あつ{'ある': 1}</span>ては、その<span>名称{'当該': 1, '規定': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>、主たる<span>事務所{'規定': 1}</span>の所在地又は<span>定款{'業務': 2}</span>若しくは<span>寄附行為{'規定': 1}</span>の内容）に変更があつたとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を<span>報告{'場合': 1}</span>する書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>遅滞なく</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十七　受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>公益信託{'信託': 1, '手続': 1}</span>が終了したと認めるとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を報告する書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>イ　<span>信託{'規定': 1}</span><span>終了{'規定': 1}</span>の<span>事由{'事項': 1, '規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+                  <Sentence><span>ロ{'手続': 1}</span>　<span>残余{'規定': 2, '信託': 1}</span>財産の<span>処分{'手続': 1}</span>案</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>遅滞なく</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二十八　清算受託者</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>公益信託{'信託': 1}</span>の清算が結了したとき。</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>その旨を報告する書類</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>イ　信託の清算が結了した日の属する信託<span>事業年度{'事務': 1}</span>の事業状況報告書及び収支決算書</Sentence>
+                  <Sentence>ロ　信託の<span>清算{'事務': 1}</span>結了時における財産目録</Sentence>
+                  <Sentence>ハ　残余財産の処分に関する<span>書面{'手続': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>遅滞{'手続': 1}</span><span>なく{'やすい': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'手続': 1}</span>の<span>表{'規定': 1}</span>第六号及び第七号の信託条項の変更が当該<span>公益信託{'会社': 1, '規定': 1}</span>の事業の内容の変更に係るものである場合には、同号に<span>掲げる{'あっ': 1}</span>書類のほか、事業計画書及び収支予算書の変更案及び新旧対照表を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項の表第八号及び第十号の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする<span>受託{'規定': 1}</span>者は、第<span>一条{'法': 1, '手続': 1}</span>第四号から第八号までの<span>規定{'手続': 1}</span>を<span>準用{'規定': 1}</span>する。</Sentence>
+            <Sentence Num="2">この<span>場合{'規定': 1}</span>において、同<span>条{'規定': 1}</span>第七号中「<span>設定{'規定': 1}</span>」と<span>ある{'取り消さ': 1}</span>のは、<span>前項{'手続': 1}</span>の表第八号に関しては「信託の併合」と、同表第十号に関しては「<span>新規{'手続': 1}</span><span>信託{'新設': 1}</span>分割」とそれぞれ読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の<span>表{'規定': 1}</span>第十五号の<span>規定{'手続': 1}</span>は、<span>信託法{'手続': 1}</span>第七十四条第六項において<span>準用{'規定': 1}</span>する<span>同法{'規定': 1}</span>第六十六条第四項及び<span>法{'規定': 1}</span>第八条の<span>規定{'手続': 1}</span>により<span>保存{'規定': 1}</span><span>行為{'規定': 1}</span>等の<span>範囲{'規定': 1}</span>を<span>超える{'ある': 1}</span><span>行為{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>法人{'規定': 1}</span><span>管理{'手続': 1}</span>人について<span>準用{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>前項{'規定': 1}</span>の<span>表{'規定': 1}</span>第十六号の<span>規定{'手続': 1}</span>は<span>信託法{'規定': 1}</span>第七十四条第六項において<span>準用{'規定': 1}</span>する<span>同法{'規定': 1}</span>第七十条及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>辞任{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>法人{'規定': 1}</span><span>管理{'手続': 1}</span>人について<span>準用{'規定': 1}</span>する。</Sentence>
+            <Sentence Num="2">この<span>場合{'規定': 1}</span>において、同号中「<span>新た{'前項': 1, '規定': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'信託': 1, '規定': 1}</span><span>管理者{'規定': 1}</span>」と<span>ある{'でき': 1}</span>のは、「<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'手続': 1}</span><span>法人{'規定': 1}</span><span>管理人{'手続': 1}</span>」と<span>読み替える{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>前項{'規定': 1}</span>の<span>表{'規定': 2}</span>第十七号の<span>規定{'手続': 1}</span>は<span>信託法{'手続': 1}</span>第七十四条第六項において<span>準用{'規定': 1}</span>する<span>同法{'不動産登記法': 1, '規定': 1}</span>第七十条及び<span>法{'規定': 1}</span>第八条の<span>規定{'準用': 1, '手続': 1}</span>により<span>信託{'規定': 1}</span><span>財産{'規定': 1}</span><span>法人{'規定': 1}</span><span>管理{'手続': 1}</span>人の<span>解任{'規定': 1}</span>を<span>請求{'規定': 1}</span>しようとする<span>委託{'手続': 1}</span>者又は<span>信託{'社債': 1, '規定': 1}</span><span>管理{'手続': 1}</span>人について<span>準用{'規定': 1}</span>する。</Sentence>
+            <Sentence Num="2">この<span>場合{'規定': 1}</span>において、同号中「<span>新た{'前項': 1, '規定': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'信託': 1, '規定': 1}</span><span>管理者{'規定': 1}</span>」と<span>ある{'でき': 1}</span>のは、「<span>新た{'規定': 1}</span>な<span>信託{'規定': 1}</span><span>財産{'手続': 1}</span><span>法人{'規定': 1}</span><span>管理人{'手続': 1}</span>」と<span>読み替える{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（公告）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>受託{'規定': 1}</span>者は、<span>前条{'就任': 1, '手続': 1}</span>第一項の<span>表{'規定': 1}</span>第四号の<span>書類{'規定': 1}</span>を<span>提出{'規定': 1}</span>した後<span>遅滞{'規定': 1}</span><span>なく{'やすい': 1}</span>前<span>信託{'規定': 1}</span><span>事務{'規定': 1}</span><span>年度{'規定': 1}</span>の<span>事業{'手続': 1}</span>の<span>概要{'規定': 1}</span>及び財産の状況を公告しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（書類及び帳簿の備付け）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>受託者は、<span>公益信託{'信託': 1, '規定': 1}</span>の事務を行う事務所に当該公益信託に係る次の各号に掲げる書類及び帳簿を備え付けなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>公益信託契約書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>委託者<span>又は{'及び': 1}</span>その相続人、受託者、信託管理人及び<span>運営委員会{'規定': 1}</span>等の構成員の氏名、住所及び略歴を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2, '手続': 1}</span>（これらの者が<span>法人{'手続': 1}</span>である<span>場合{'手続': 1}</span>には、その<span>名称{'手続': 1}</span>、<span>代表者{'規定': 1}</span>の<span>氏名{'手続': 1}</span>及び主たる<span>事務所{'住所': 1, '規定': 1}</span>の<span>所在地{'規定': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'書類': 2}</span>並びに定款又は寄附行為）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>許可、<span>報告{'手続': 1}</span>等に関する<span>書面{'書類': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>運営委員会等の議事に関する書面</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>収入及び支出に関する帳簿及び証拠書類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産及び負債の状況を示す<span>書面{'書類': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（業務の監督）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、法第三条及び第四条第一項の規定により受託者に対し、報告<span>若しくは{'ただし': 1}</span><span>資料{'規定': 1}</span>の<span>提出{'規定': 1}</span>を<span>求め{'ある': 1}</span>、又はその<span>職員{'規定': 1}</span>に<span>信託{'規定': 1}</span><span>事務{'規定': 1}</span>の<span>処理{'手続': 1}</span>及び信託<span>財産{'事務': 1}</span>の状況を検査させることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、前項の検査の結果、公益信託の業務の適正な遂行を確保するため必要が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>受託{'規定': 1}</span>者に対し、<span>財産{'規定': 1}</span>の<span>供託{'規定': 1}</span>その他の<span>処分{'規定': 1}</span>を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の<span>規定{'手続': 1}</span>により<span>職員{'規定': 1}</span>が検査をする場合には、別記様式による<span>身分証明書{'規定': 1}</span>を携帯し、かつ、関係者の請求があるときは、これを<span>提示{'手続': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年六月三日通商産業省令第二九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年三月三〇日通商産業省令第三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>省令{'規定': 1}</span>は、平成十年<span>四月一日{'公布': 3, '規定': 1}</span>から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年三月二八日通商産業省令第四五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成十二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年九月一九日通商産業省令第一七二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成十三年<span>一月六日{'規定': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年三月一九日経済産業省令第三三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年二月三日経済産業省令第九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、<span>行政{'規定': 1}</span><span>手続{'規定': 1}</span>等における<span>情報通信{'手続': 1}</span>の技術の利用に関する法律の施行の日（平成十五年二月三日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月二四日経済産業省令第一二〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成十七年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年九月二八日経済産業省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、信託法の施行の日（平成十九年九月三十日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle>別紙様式（第五条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="13">
+  <LawNum>平成十三年内閣府・財務省・農林水産省令第三号</LawNum>
+  <LawBody>
+    <LawTitle>農林中央金庫法第八十五条第二項に規定する区分等を定める命令</LawTitle>
+    <EnactStatement>農林中央金庫法（平成十三年法律第九十三号）第八十五条第二項の規定に基づき、農林中央金庫法第三十一条第二項に規定する区分等を定める命令（平成十二年総理府・大蔵省・農林水産省令第十七号）の全部を改正する命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（自己資本の充実の状況に係る区分及びこれに応じた命令）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">農林中央金庫法（以下「法」という。）第八十五条第二項の主務省令で定める<span>農林中央金庫{'措置': 1}</span>の自己資本の充実の状況に係る区分及び当該区分に応じ主務省令で定める命令は、次条及び第三条に定める場合を除き、次の各号に掲げる区分に応じ、当該各号に<span>掲げる{'定める': 2}</span><span>表{'額': 1}</span>のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">単体自己資本比率（第三項に規定する単体自己資本比率をいう。次条第一項において同じ。）を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                    <Sentence WritingMode="vertical">自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>命令{'表': 1}</span></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">非対象区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"><span>単体{'連結': 1}</span>自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める範囲</Sentence>
+                    <Sentence WritingMode="vertical">イ　単体普通出資等Ｔｉｅｒ１比率　四・五パーセント以上</Sentence>
+                    <Sentence WritingMode="vertical">ロ　単体Ｔｉｅｒ１比率　六パーセント以上</Sentence>
+                    <Sentence WritingMode="vertical">ハ　単体総自己資本比率　八パーセント以上</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">                    </Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める範囲</Sentence>
+                    <Sentence WritingMode="vertical">イ　単体普通出資等Ｔｉｅｒ１比率　二・二五パーセント以上四・五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　単体Ｔｉｅｒ１比率　三パーセント以上六パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　単体総自己資本比率　四パーセント以上八パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">経営の健全性を確保するための<span>合理{'必要': 1}</span>的と認められる改善計画（原則として資本の<span>増強{'整理': 1}</span>に係る措置を含むものとする。）の提出の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める範囲</Sentence>
+                    <Sentence WritingMode="vertical">イ　単体普通出資等Ｔｉｅｒ１比率　一・一三パーセント以上二・二五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　単体Ｔｉｅｒ１比率　一・五パーセント以上三パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　単体総自己資本比率　二パーセント以上四パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">次に掲げる自己資本の充実に資する措置に係る命令</Sentence>
+                    <Sentence WritingMode="vertical">イ　資本の増強に係る合理的と認められる計画の提出及びその実行</Sentence>
+                    <Sentence WritingMode="vertical">ロ　総資産の圧縮又は増加の抑制</Sentence>
+                    <Sentence WritingMode="vertical">ハ　取引の通常の条件に照らして不利益を<span>被る{'与える': 1}</span>ものと認められる条件による農林債の発行又は預金若しくは定期積金の受入れの禁止又は抑制</Sentence>
+                    <Sentence WritingMode="vertical">ニ　一部の事務所における業務の縮小</Sentence>
+                    <Sentence WritingMode="vertical">ホ　一部の従たる事務所の廃止</Sentence>
+                    <Sentence WritingMode="vertical">ヘ　法第五十四条第一項から第三項までの<span>規定{'代理': 1}</span>により営む業務に付随する同条第四項各号に掲げる<span>業務{'行為': 1}</span>その他の業務又は同条第七項の<span>規定{'業務': 1}</span>により営む業務の縮小又は新規の取扱いの禁止</Sentence>
+                    <Sentence WritingMode="vertical">ト　その他農林水産大臣及び金融庁長官が必要と認める措置</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二区分の二</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める範囲</Sentence>
+                    <Sentence WritingMode="vertical">イ　単体普通出資等Ｔｉｅｒ１比率　〇パーセント以上一・一三パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　単体Ｔｉｅｒ１比率　〇パーセント以上一・五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　単体総自己資本比率　〇パーセント以上二パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">自己資本の充実、大幅な業務の縮小又は業務の一部の廃止等の措置のいずれかを<span>選択{'場合': 1}</span>した上当該選択に係る措置を実施することの命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第三区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める範囲</Sentence>
+                    <Sentence WritingMode="vertical">イ　単体普通出資等Ｔｉｅｒ１比率　〇パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　単体Ｔｉｅｒ１比率　〇パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　単体総自己資本比率　〇パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">業務の全部又は一部の停止の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第四項に規定する単体資本バッファー比率を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                    <Sentence WritingMode="vertical">自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本<span>バッファー{'状況': 1, '区分': 1}</span>非対象区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体資本バッファー比率が最低単体資本バッファー比率以上である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">                    </Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">本バッファー第一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体資本バッファー比率が最低単体資本バッファー比率の四分の三の比率以上最低単体資本バッファー比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の六十パーセントの額から、その事業年度において既に支出した外部流出額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む単体資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体資本バッファー比率が最低単体資本バッファー比率の二分の一の比率以上最低単体資本バッファー比率の四分の三の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の四十パーセントの額から、その事業年度において既に支出した外部流出額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む単体資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第三区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体資本バッファー比率が最低単体資本バッファー比率の四分の一の比率以上最低単体資本バッファー比率の二分の一の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の二十パーセントの額から、その事業年度において既に支出した外部流出額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む単体資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第四区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体資本バッファー比率が最低単体資本バッファー比率の四分の一の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額を零に制限する内容を含む単体資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">単体レバレッジ比率（第八項に規定する単体レバレッジ比率をいう。次条第一項において同じ。）を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <TableStructTitle WritingMode="vertical"/>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                    <Sentence WritingMode="vertical">自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">レバレッジ非対象区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体レバレッジ比率が三パーセント以上である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"/>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">レバレッジ第一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体レバレッジ比率が一・五パーセント以上三パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">経営の健全性を確保するための合理的と認められる改善計画（原則として資本の<span>増強{'整理': 1}</span>に係る措置を含むものとする。）の提出の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">レバレッジ第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体レバレッジ比率が〇・七五パーセント以上一・五パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">次に掲げる自己資本の充実に資する措置に係る命令</Sentence>
+                    <Sentence WritingMode="vertical">イ　資本の増強に係る合理的と認められる計画の提出及びその実行</Sentence>
+                    <Sentence WritingMode="vertical">ロ　総資産の圧縮又は増加の抑制</Sentence>
+                    <Sentence WritingMode="vertical">ハ　取引の通常の条件に照らして不利益を<span>被る{'与える': 1}</span>ものと認められる条件による農林債の発行又は預金若しくは定期積金の受入れの禁止又は抑制</Sentence>
+                    <Sentence WritingMode="vertical">ニ　一部の事務所における業務の縮小</Sentence>
+                    <Sentence WritingMode="vertical">ホ　一部の従たる事務所の廃止</Sentence>
+                    <Sentence WritingMode="vertical">ヘ　法第五十四条第一項から第三項までの<span>規定{'代理': 1}</span>により営む業務に付随する同条第四項各号に掲げる<span>業務{'行為': 1}</span>その他の業務又は同条第七項の<span>規定{'業務': 1}</span>により営む業務の縮小又は新規の取扱いの禁止</Sentence>
+                    <Sentence WritingMode="vertical">ト　その他農林水産大臣及び金融庁長官が必要と認める措置</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">レバレッジ第二区分の二</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体レバレッジ比率が〇パーセント以上〇・七五パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">自己資本の充実、<span>大幅{'状況': 1}</span>な業務の縮小又は業務の一部の廃止等の措置のいずれかを<span>選択{'場合': 1}</span>した上、当該選択に係る措置を実施することの命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">レバレッジ第三区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">単体レバレッジ比率が〇パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">業務の全部又は一部の停止の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八十五条第二項の主務省令で定める<span>農林中央金庫{'商工組合中央金庫': 1}</span>及びその子会社等（法第五十六条第二号に規定する子会社等をいう。以下同じ。）の自己資本の充実の状況に係る区分及び当該区分に応じ主務省令で定める命令は、次条及び第三条に定める場合を除き、次の各号に掲げる区分に応じ、<span>当該{'該各': 1}</span>各号に<span>掲げる{'定める': 4}</span>表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第九項に規定する連結自己資本比率を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                    <Sentence WritingMode="vertical">自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">非<span>対象{'規定': 1}</span>区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める<span>範囲{'当該': 1, '事項': 1}</span></Sentence>
+                    <Sentence WritingMode="vertical">イ　連結普通出資等Ｔｉｅｒ１比率　四・五パーセント以上</Sentence>
+                    <Sentence WritingMode="vertical">ロ　連結Ｔｉｅｒ１比率　六パーセント以上</Sentence>
+                    <Sentence WritingMode="vertical">ハ　連結総自己資本比率　八パーセント以上</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical"/>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める<span>範囲{'当該': 1, '事項': 1}</span></Sentence>
+                    <Sentence WritingMode="vertical">イ　連結普通出資等Ｔｉｅｒ１比率　二・二五パーセント以上四・五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　連結Ｔｉｅｒ１比率　三パーセント以上六パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　連結総自己資本比率　四パーセント以上八パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">経営の健全性を確保するための合理的と認められる改善計画（原則として資本の<span>増強{'整理': 1}</span>に係る措置を含むものとする。）の提出の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める<span>範囲{'当該': 1, '事項': 1}</span></Sentence>
+                    <Sentence WritingMode="vertical">イ　連結普通出資等Ｔｉｅｒ１比率　一・一三パーセント以上二・二五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　連結Ｔｉｅｒ１比率　一・五パーセント以上三パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　連結総自己資本比率　二パーセント以上四パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">次に掲げる自己資本の充実に資する措置に係る命令</Sentence>
+                    <Sentence WritingMode="vertical">イ　資本の増強に係る合理的と認められる計画の提出及びその実行</Sentence>
+                    <Sentence WritingMode="vertical">ロ　総資産の圧縮又は増加の抑制</Sentence>
+                    <Sentence WritingMode="vertical">ハ　取引の通常の条件に照らして不利益を<span>被る{'与える': 1}</span>ものと認められる条件による農林債の発行又は預金若しくは定期積金の受入れの禁止又は抑制</Sentence>
+                    <Sentence WritingMode="vertical">ニ　一部の事務所における業務の縮小</Sentence>
+                    <Sentence WritingMode="vertical">ホ　一部の従たる事務所の廃止</Sentence>
+                    <Sentence WritingMode="vertical">ヘ　子会社等の業務の縮小</Sentence>
+                    <Sentence WritingMode="vertical">ト　子会社等の株式又は持分の処分</Sentence>
+                    <Sentence WritingMode="vertical">チ　法第五十四条第一項から第三項までの規定により営む業務に付随する同条第四項各号に掲げる<span>業務{'行為': 1}</span>その他の業務又は同条第七項の<span>規定{'業務': 1}</span>により営む業務の縮小又は新規の取扱いの禁止</Sentence>
+                    <Sentence WritingMode="vertical">リ　その他農林水産大臣及び金融庁長官が必要と認める<span>措置{'事項': 1, '場合': 1}</span></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第二<span>区分{'必要': 1}</span>の二</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める<span>範囲{'当該': 1, '事項': 1}</span></Sentence>
+                    <Sentence WritingMode="vertical">イ　連結普通出資等Ｔｉｅｒ１比率　〇パーセント以上一・一三パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　連結Ｔｉｅｒ１比率　〇パーセント以上一・五パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　連結総自己資本比率　〇パーセント以上二パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">自己資本の充実、大幅な業務の縮小又は業務の一部の廃止等の措置のいずれかを<span>選択{'場合': 1}</span>した上、当該選択に係る措置を実施することの命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第三<span>区分{'施行': 1}</span></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結自己資本比率のうち次のイからハまでに掲げる<span>比率{'場合': 2}</span>の区分に応じ、当該イからハまでに定める<span>範囲{'当該': 1, '事項': 1}</span></Sentence>
+                    <Sentence WritingMode="vertical">イ　連結普通出資等Ｔｉｅｒ１比率　〇パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ロ　連結Ｔｉｅｒ１比率　〇パーセント未満</Sentence>
+                    <Sentence WritingMode="vertical">ハ　連結総自己資本比率　〇パーセント未満</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">業務の全部又は一部の停止の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第十項に規定する連結<span>資本{'自己資本比率': 1}</span>バッファー比率を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                    <Sentence WritingMode="vertical">自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本<span>バッファー{'状況': 1}</span>非対象区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結<span>資本{'自己資本比率': 1}</span>バッファー比率が最低連結<span>資本{'自己資本比率': 1}</span>バッファー比率以上である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">                    </Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">本バッファー第一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結<span>資本{'合計': 1}</span>バッファー比率が最低連結<span>資本{'自己資本比率': 1}</span>バッファー比率の四分の三の比率以上最低連結資本バッファー比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の六十パーセントの額から、その連結会計年度（連結財務諸表の作成に係る期間をいう。以下同じ。）において既に支出した外部<span>流出{'額': 1}</span>額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む連結資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結資本バッファー比率が最低連結<span>資本{'自己資本比率': 1}</span>バッファー比率の二分の一の比率以上最低連結資本バッファー比率の四分の三の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の四十パーセントの額から、その連結会計年度において既に支出した外部流出額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む連結資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第三区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結資本バッファー比率が最低連結<span>資本{'自己資本比率': 1}</span>バッファー比率の四分の一の比率以上最低連結資本バッファー比率の二分の一の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額の制限に係る内容（調整税引後利益の二十パーセントの額から、その連結会計年度において既に支出した外部流出額を控除した額（当該額が零を下回る場合には、零とする。）を上限として外部流出額を制限する内容をいう。）を含む連結資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の<span>求め{'財務大臣': 1}</span>及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">資本バッファー第四区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">連結資本バッファー比率が最低連結<span>資本{'自己資本比率': 1}</span>バッファー比率の四分の一の比率未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">外部流出制限計画（外部流出額を零に制限する内容を含む連結資本バッファー比率を回復するための合理的と認められる改善計画をいう。）の<span>提出{'貸付': 1}</span>の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">連結レバレッジ比率（第十四項に規定する連結<span>レバレッジ比率{'自己資本比率': 1}</span>をいう。次条第一項において同じ。）を指標とする区分</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
+                    <Sentence>自己資本の充実の状況に係る区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>レバレッジ非対象区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>連結<span>レバレッジ比率{'自己資本比率': 1}</span>が三パーセント以上である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence/>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>レバレッジ第一区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>連結レバレッジ比率が一・五パーセント以上三パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>経営の健全性を確保するための合理的と認められる改善計画（原則として資本の<span>増強{'整理': 1}</span>に係る措置を含むものとする。）の提出の求め及びその実行の命令</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>レバレッジ第二区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>連結<span>レバレッジ比率{'自己資本比率': 1}</span>が〇・七五パーセント以上一・五パーセント未満である場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence/>
+                    <Sentence>次に掲げる自己資本の充実に資する措置に係る命令</Sentence>
+                    <Sentence>イ　資本の増強に係る合理的と認められる計画の提出及びその実行</Sentence>
+                    <Sentence>ロ　総資産の圧縮又は増加の抑制</Sentence>
+                    <Sentence>ハ　取引の通常の条件に照らして不利益を<span>被る{'与える': 1}</span>ものと認められる条件による農林債の発行又は預金若しくは定期積金の受入れの禁止又は抑制</Sentence>
+                    <Sentence>ニ　一部の事務所における業務の縮小</Sentence>
+                    <Sentence>ホ </Sentence>
+                    <Sentence> </Sentence>
+                    <Sentence> </Sentence>
+                    <Sentence> の</Sentence>
+                    <Sentence> </Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>務</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence>止</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">等の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="11">
+          <ParagraphNum>１１</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="12">
+          <ParagraphNum>１２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">社等の</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">又は</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="13">
+          <ParagraphNum>１３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>チ{'法': 1}</span></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="14">
+          <ParagraphNum>１４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">条第一項から</Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">項ま</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">む</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">務に</Sentence>
+            <Sentence Num="2" WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">する</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二八日内閣府・財務省・農林水産省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年一二月一一日内閣府・財務省・農林水産省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年八月七日内閣府・財務省・農林水産省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">項</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="8">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"><span>業務{'行為': 1}</span></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="8">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"><span>規定{'業務': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical"></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一一月二六日内閣府・財務省・農林水産省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月一五日内閣府・財務省・農林水産省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

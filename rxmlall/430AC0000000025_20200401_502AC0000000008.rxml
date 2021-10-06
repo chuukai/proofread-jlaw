@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="025" Year="30">
+  <LawNum>平成三十年法律第二十五号</LawNum>
+  <LawBody>
+    <LawTitle>生産性向上特別措置法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　革新的事業活動の促進</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　革新的事業活動実行計画</SectionTitle>
+          <ArticleRange>（第六条・第七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　新技術等実証の促進</SectionTitle>
+          <ArticleRange>（第八条―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　革新的データ産業活用の促進</SectionTitle>
+          <ArticleRange>（第二十一条―第三十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　革新的事業活動評価委員会</SectionTitle>
+          <ArticleRange>（第三十一条―第三十五条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　先端設備等導入の促進</ChapterTitle>
+        <ArticleRange>（第三十六条―第四十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第四十三条―第五十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第五十四条―第五十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、近年の情報技術の分野における急速な技術革新の進展により産業構造及び国際的な競争条件が著しく変化する中で、我が国産業の生産性の向上を短期間に実現するための措置が早急にとられなければ、我が国産業の国際競争力が大きく低下するおそれがあることに鑑み、新技術等実証の促進、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用の促進その他の革新的事業活動による短期間での生産性の向上に関する施策を集中的かつ一体的に講ずること等により、我が国産業の国際競争力の維持及び強化を図り、もって<span>国民{'当該': 1}</span><span>生活{'当該': 1}</span>の<span>向上{'当該': 1}</span>及び<span>国民経済{'当該': 1}</span>の<span>健全{'当該': 1}</span>な<span>発展{'当該': 1}</span>に<span>寄与{'当該': 1}</span>することを<span>目的{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律において「革新的事業活動」とは、我が国において国際競争力を早急に強化すべき事業分野に属する事業活動であって、当該事業分野において革新的な技術又は手法を用いて行うものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「新技術等<span>実証{'基準': 1, '当該': 1}</span>」とは、<span>次{'当該': 1}</span>の各号のいずれにも<span>該当{'当該': 1}</span>するものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>新技術等（革新的事業活動において用いようとする技術又は手法であって、当該革新的事業活動の属する事業分野において著しい新規性を有するとともに、当該革新的事業活動で用いられることにより、高い付加価値を創出する可能性があるものをいう。以下同じ。）の実用化の可能性について行う実証であって、その実施期間及び当該実証に<span>参加{'当該': 1}</span>する者（当該実証により権利利益を害されるおそれがある者があるときは、その者を含む。以下「参加者等」という。）の<span>範囲{'当該': 1}</span>を<span>特定{'当該': 1}</span>し、<span>当該{'主務大臣': 1}</span><span>参加者{'当該': 1}</span>等の<span>同意{'当該': 1}</span>を<span>得る{'行わ': 1}</span>ことその他<span>当該{'主務大臣': 1}</span><span>実証{'当該': 1}</span>を<span>適切{'当該': 1}</span>に<span>実施{'当該': 1}</span>するために<span>必要{'当該': 1}</span>と<span>なる{'行わ': 1}</span>措置を講じて行うものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>新技術等の実用化に当たって当該新技術等に関する<span>規制{'当該': 1}</span>について分析する場合にあっては、当該新技術等を実用化するための規制の在り方を含めた課題についての分析及びその結果の検討を行うものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「規制の特例措置」とは、法律により規定された規制についての<span>別{'当該': 1}</span>に法律で定める法律の<span>特例{'施行': 1}</span>に関する措置及び<span>政令{'当該': 1}</span>又は<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>（以下この<span>項{'当該': 1}</span>において「政令等」という。）により規定された規制についての<span>別{'当該': 1}</span>に政令等で定める<span>政令{'特許庁長官': 1}</span>等の特例に関する措置であって、第十三条第二項に<span>規定{'当該': 1}</span>する<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に従って<span>実施{'当該': 1}</span>する新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>について<span>適用{'当該': 1}</span>されるものを<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'当該': 1}</span>において「<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>」とは、<span>革新的{'当該': 1}</span>事業活動のうち、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。）に記録された情報（国の安全を損ない、公の秩序の維持を妨げ、又は公衆の安全の保護に支障を来すことになるおそれがあるものを除く。以下「<span>データ{'当該': 1}</span>」という。）を、革新的な技術又は手法を用いて収集し、<span>産業{'当該': 1}</span>活動において活用するものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>革新的事業活動による生産性の向上は、近年の情報技術の分野における急速な技術革新の進展により産業構造及び国際的な競争条件が著しく変化する中で、我が国産業の生産性の向上を短期間に実現するための措置が早急にとられなければ、我が国産業の国際競争力が大きく低下するおそれがあることに鑑み、事業者が、<span>経営{'公共サービス': 1}</span>改革を迅速かつ適切に推進しつつ、新技術等実証、革新的データ産業活用、革新的事業活動に資する<span>研究開発{'当該': 1}</span>及び人材の確保その他の革新的事業活動による<span>短期間{'当該': 1}</span>での生産性の向上のための取組を自主的かつ<span>積極的{'当該': 1}</span>に<span>行う{'行わ': 1}</span>ことを基本とし、国が、生産性の向上が短期間に実現するよう、事業者に対する支援<span>措置{'事業': 1}</span>の実施、規制の見直しその他の必要な事業環境の整備を計画実行<span>期間{'前項': 1}</span>（第八条第一項に規定する計画実行期間をいう。次条において同じ。）内に集中的に行うことを<span>旨{'当該': 1}</span><span>として{'とともに': 1}</span>、<span>行わ{'でき': 1}</span>れなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国{'当該': 1}</span>は、<span>前条{'当該': 1}</span>の<span>基本{'主務大臣': 1}</span>理念にのっとり、<span>革新的{'創出': 1}</span>事業活動による<span>短期間{'当該': 1}</span>での生産性の向上に関する施策を計画実行期間内に集中的かつ一体的に推進し、迅速かつ確実に実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国は、革新的事業活動による短期間での生産性の向上に関する施策の推進に当たっては、事業者による新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用、革新的事業活動に資する<span>研究開発{'当該': 1}</span>及び人材の確保その他の革新的事業活動による<span>短期間{'当該': 1}</span>での生産性の向上のための取組が自主的かつ積極的に行われるよう、事業者に対する支援措置の実施、規制の見直しその他の必要な事業環境の整備を計画実行期間内に集中的に行うこととする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（事業者の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>事業者は、第三条の<span>基本{'主務大臣': 1}</span><span>理念{'産業': 1}</span>に<span>のっとり{'行わ': 1}</span>、<span>当該{'法': 1}</span><span>事業者{'当該': 1}</span>の<span>属する{'行わ': 1}</span><span>事業{'当該': 1}</span>分野における商品若しくは役務に関する<span>需給{'当該': 1}</span>の動向又は事業者間の競争の状況その他の当該事業者の事業を取り巻く環境を踏まえて、経営改革を迅速かつ適切に推進しつつ、新技術等実証、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用、革新的事業活動に資する<span>研究開発{'当該': 1}</span>及び人材の確保その他の革新的事業活動による<span>短期間{'当該': 1}</span>での生産性の向上のための取組を自主的かつ<span>積極的{'当該': 1}</span>に<span>行う{'行わ': 1}</span>よう<span>努め{'行わ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　革新的事業活動の促進</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　革新的事業活動実行計画</SectionTitle>
+          <Article Num="6">
+            <ArticleCaption>（革新的事業活動実行計画）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>政府{'当該': 1}</span>は、新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>その他の<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span>の<span>促進{'当該': 1}</span>に関する<span>施策{'当該': 1}</span>（<span>次項{'当該': 1}</span>において「<span>革新的{'当該': 1}</span>事業活動関連施策」という。）の集中的かつ一体的な推進及び迅速かつ確実な実施を図るため、革新的事業活動に関する<span>実行{'当該': 1}</span>計画（以下「革新的事業活動<span>実行{'当該': 1}</span>計画」という。）を作成するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>革新的事業活動実行計画は、次に掲げる事項について定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>計画実行期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>革新的事業活動関連施策についての基本的な<span>方針{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新技術等実証の促進に関する施策についての次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>施策{'当該': 1}</span>の<span>目標{'当該': 1}</span>及び内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>施策の実施期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>担当大臣{'当該': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>革新的データ産業活用の促進に関する<span>施策{'当該': 1}</span>についての<span>次{'当該': 1}</span>に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>施策{'当該': 1}</span>の<span>目標{'当該': 1}</span>及び内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>施策の実施期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>担当大臣{'当該': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前二号に規定する施策以外の革新的事業活動関連施策について<span>重点的{'当該': 1}</span>に講ずべき<span>施策{'当該': 1}</span>ごとの次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>施策の<span>目標{'当該': 1}</span>及び内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>施策の実施期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>担当大臣{'当該': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他革新的事業活動関連施策の集中的かつ一体的な推進及び迅速かつ確実な実施を図るために必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項第三号ハ、第四号ハ及び第五号ハの「担当大臣」とは、革新的事業活動実行計画に定められた同項第三号から第五号までに規定する施策（以下この条及び次条において「<span>重点{'当該': 1}</span>施策」と総称する。）に係る事務を分担管理する内閣法（昭和二十二年法律第五号）にいう主任の大臣をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>内閣総理大臣は、革新的事業活動<span>実行{'当該': 1}</span>計画の案を作成し、閣議の決定を求めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>政府は、革新的事業活動実行計画を作成したときは、これを公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>政府は、平成三十年度<span>以降{'当該': 1}</span>の各年度において少なくとも一回、重点施策の進捗及び実施の状況を取りまとめ、重点施策の進捗及び実施の効果に関する評価を行い、その評価の結果及び経済事情の変動を勘案し、革新的事業活動実行計画に検討を加え、必要があると<span>認める{'行わ': 1}</span>ときは、これを<span>変更{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項及び第五項の規定は、革新的事業活動<span>実行{'当該': 1}</span>計画の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>政府は、第六項の規定による評価を行ったときは、同項の重点施策の進捗及び実施の状況並びに評価の結果を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>政府は、第六項の重点施策の進捗及び実施の状況並びに評価の結果に関して、各年度ごとに、報告書を作成し、これを国会に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（担当大臣の責務）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>担当大臣（前条第三項に規定する担当大臣をいう。）は、重点施策を、その実施期間内に、実施するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　新技術等実証の促進</SectionTitle>
+          <Article Num="8">
+            <ArticleCaption>（新技術等実証の実施に関する基本的な方針）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>政府は、計画<span>実行{'当該': 1}</span>期間（第六条第二項第一号に掲げる計画<span>実行{'当該': 1}</span>期間を<span>いう{'行わ': 1}</span>。以下同じ。）内において新技術等実証の総合的かつ効果的な推進を図るための基本的な方針（以下この条及び第十一条第四項<span>第一{'規定': 1}</span>号において「基本方針」という。）を<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>基本方針{'当該': 1}</span>には、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>について<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'基準': 1, '当該': 1}</span>の<span>意義{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>の<span>推進{'当該': 1}</span>のために政府が実施すべき施策に関する基本的な<span>方針{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十一条第一項に規定する新技術等実証計画の<span>認定{'当該': 1}</span>に関する<span>基本{'当該': 1}</span>的な<span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に関する重要事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>内閣総理大臣は、基本方針の案を作成し、<span>閣議{'変更': 1}</span>の決定を求めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>政府{'経済産業大臣': 1}</span>は、前項の規定による閣議の決定があったときは、遅滞なく、基本方針を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>政府は、経済事情の<span>変動{'当該': 1}</span>その他の情勢の推移により必要が生じたときは、基本方針を<span>変更{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三項及び第四項の<span>規定{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'主務大臣': 1}</span>による<span>基本方針{'内容': 1, '当該': 1}</span>の<span>変更{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（新技術等実証に係る新たな規制の特例措置の求め）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>適用{'当該': 1}</span>を<span>受け{'行わ': 1}</span>て新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>実施{'当該': 1}</span>しようとする者は、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>に対し、<span>当該{'主務大臣': 1}</span><span>新た{'措置': 1, '当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>整備{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>踏まえ{'行わ': 1}</span>た<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ことが<span>必要{'当該': 1}</span>かつ<span>適当{'当該': 1}</span>であると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 2}</span>なく、その旨及び<span>講ずる{'行わ': 1}</span>こととする<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>内容{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するとともに、<span>講ずる{'行わ': 1}</span>こととする<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>内容{'当該': 1}</span>を<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>踏まえ{'行わ': 1}</span>た<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ことが<span>必要{'当該': 1}</span>でないと<span>認める{'行わ': 1}</span>とき、又は<span>適当{'当該': 1}</span>でないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、その旨及びその<span>理由{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>について新たな規制の特例措置を講ずるか<span>否{'当該': 1}</span>かを判断するに当たっては、革新的事業活動評価委員会（第三十一条に規定する革新的事業活動委員会をいう。以下この節及び次節において同じ。）の意見を聴くものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（解釈及び適用の確認）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>新技術等実証を実施しようとする者は、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>に対し、その<span>実施{'当該': 1}</span>しようとする新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span>（<span>当該{'主務大臣': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等に関する<span>規制{'当該': 1}</span>について<span>規定{'当該': 1}</span>する<span>法律{'当該': 1}</span>及び法律に基づく命令（<span>告示{'当該': 1}</span>を含む。以下同じ。）の規定をいう。以下同じ。）の解釈及び<span>当該{'主務大臣': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に対する<span>当該{'主務大臣': 1}</span>新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span>の<span>適用{'当該': 1}</span>の<span>有無{'当該': 1}</span>について、その<span>確認{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>回答{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（新技術等実証計画の認定）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>実施{'当該': 1}</span>しようとする者は、その<span>実施{'当該': 1}</span>しようとする新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に関する<span>計画{'当該': 1}</span>（以下「新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>作成{'当該': 1}</span>し、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>に<span>提出{'当該': 1}</span>して、その<span>認定{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>二以上の者が新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>共同{'当該': 1}</span>して<span>実施{'当該': 1}</span>しようとする<span>場合{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、<span>当該{'主務大臣': 1}</span>二以上の者は<span>共同{'当該': 1}</span>して新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>を<span>作成{'当該': 1}</span>し、<span>前項{'当該': 1}</span>の<span>認定{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>には、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>の<span>目標{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>次に<span>掲げる{'行わ': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>の<span>内容{'当該': 1}</span></Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>新<span>技術{'当該': 1}</span>等及び<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span>の<span>内容{'当該': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第<span>二条{'当該': 1}</span>第二項<span>第一{'当該': 1}</span>号に<span>規定{'当該': 1}</span>する<span>実証{'当該': 1}</span>の<span>内容{'当該': 1}</span>及びその実施方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第二条第二項第二号に規定する<span>分析{'当該': 1}</span>の内容及びその実施方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新技術等<span>実証{'当該': 1}</span>の<span>実施期間{'当該': 1}</span>及び実施場所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>参加者等の<span>具体{'当該': 1}</span>的な範囲及び当該参加者等の同意の<span>取得{'当該': 1}</span><span>方法{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>の<span>実施{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>資金{'当該': 1}</span>の<span>額{'当該': 1}</span>及びその<span>調達{'当該': 1}</span><span>方法{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第<span>二条{'当該': 1}</span>第二項第二号に<span>規定{'当該': 1}</span>する<span>規制{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十五条の<span>規定{'当該': 1}</span>による<span>政令{'当該': 1}</span>又は<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>規定{'当該': 1}</span>された<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>適用{'当該': 1}</span>を<span>受けよ{'行わ': 1}</span>うとする<span>場合{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、<span>当該{'主務大臣': 1}</span><span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>の<span>内容{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他新<span>技術{'当該': 1}</span>等<span>実証{'基準': 1, '当該': 1}</span>の<span>実施{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>主務大臣{'当該': 1}</span>は、第一項の<span>認定{'当該': 1}</span>の<span>申請{'当該': 1}</span>が<span>あっ{'行わ': 1}</span>た<span>場合{'当該': 1}</span>において、その新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>が<span>次{'当該': 1}</span>の各号のいずれにも<span>適合{'当該': 1}</span>するものであると<span>認める{'行わ': 1}</span>ときは、その<span>認定{'当該': 1}</span>をするものとする。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、<span>主務大臣{'当該': 1}</span>は、<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span><span>評価委員会{'当該': 1}</span>の<span>意見{'当該': 1}</span>を<span>聴く{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span>新<span>技術{'当該': 1}</span>等実証計画が革新的事業活動<span>実行{'当該': 1}</span>計画及び基本方針に照らし適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>（<span>前項{'当該': 1}</span>第四号に<span>規定{'当該': 1}</span>する<span>同意{'当該': 1}</span>の取得を含む。）が円滑かつ<span>確実{'当該': 1}</span>に実施されると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該新技術等実証<span>計画{'当該': 1}</span>の<span>内容{'当該': 1}</span>がこの<span>法律{'当該': 1}</span>及びこの<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>並びに<span>前項{'当該': 1}</span>第六号に<span>掲げる{'行わ': 1}</span>新<span>技術{'当該': 1}</span>等<span>関係{'利用': 1, '当該': 1}</span><span>規定{'当該': 1}</span>に<span>違反{'当該': 1}</span>するものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'規定': 1, '当該': 1}</span>は、第一項の<span>認定{'当該': 1}</span>をしたときは、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>内容{'当該': 1}</span>を<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、第一項の<span>認定{'当該': 1}</span>をしないときは、<span>申請{'当該': 1}</span>者に対し、<span>速やか{'当該': 1}</span>に、その旨及び<span>理由{'当該': 1}</span>を<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（認定証の交付等）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'規定': 1, '当該': 1}</span>は、<span>前条{'当該': 1}</span>第一項の<span>認定{'規定': 1, '当該': 1}</span>をしたときは、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>速やか{'当該': 1}</span>に、同<span>項{'主務大臣': 1, '当該': 1}</span>の<span>認定{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者（以下「<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者」と<span>いう{'行わ': 1}</span>。）に対し、<span>認定証{'当該': 1}</span>を<span>交付{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>認定証{'当該': 1}</span>には、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>認定{'当該': 1}</span>の<span>年月日{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者の<span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>及び<span>住所{'当該': 1}</span>並びに<span>法人{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、その<span>代表{'当該': 1}</span>者の<span>氏名{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>内容{'当該': 1}</span>及び<span>実施期間{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'振興': 1, '当該': 1}</span><span>計画{'当該': 1}</span>が<span>前条{'当該': 1}</span>第四項各号のいずれにも<span>適合{'当該': 1}</span>する旨</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'主務大臣': 1}</span>者は、<span>参加者{'当該': 1}</span>等の<span>同意{'当該': 1}</span>を<span>求める{'行わ': 1}</span><span>場合{'当該': 1}</span>には、第一項の<span>認定証{'当該': 1}</span>を<span>提示{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者は、<span>前条{'当該': 1}</span>第三項第四号に<span>規定{'当該': 1}</span>する<span>同意{'当該': 1}</span>を<span>取得{'当該': 1}</span>したときは、その旨を<span>主務大臣{'当該': 1}</span>に<span>報告{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（新技術等実証計画の変更等）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者は、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>を<span>変更{'当該': 1}</span>しようとするときは、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る<span>認定証{'主務大臣': 1, '当該': 1}</span>を<span>提出{'当該': 1}</span>して、<span>主務大臣{'当該': 1}</span>の<span>認定{'当該': 1}</span>を<span>受け{'行わ': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者が<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>（<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>変更{'当該': 1}</span>の<span>認定{'当該': 1}</span>が<span>あっ{'行わ': 1}</span>たときは、その<span>変更{'当該': 1}</span>後のもの。以下「<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）に従って新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>実施{'当該': 1}</span>していないと<span>認める{'行わ': 1}</span>ときは、その<span>認定{'規定': 1, '当該': 1}</span>を<span>取り消す{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>主務大臣{'当該': 1}</span>は、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>が第十<span>一条{'当該': 1}</span>第四項各号のいずれかに<span>適合{'当該': 1}</span>しないものと<span>なっ{'行わ': 1}</span>たと<span>認める{'行わ': 1}</span>ときは、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者に対して、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>変更{'当該': 1}</span>を<span>指示{'当該': 1}</span>し、又はその<span>認定{'当該': 1}</span>を<span>取り消す{'行わ': 1}</span>ことができる。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、<span>主務大臣{'当該': 1}</span>は、<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span><span>評価委員会{'当該': 1}</span>の<span>意見{'当該': 1}</span>を<span>聴く{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、前二項の<span>規定{'当該': 1}</span>により第十<span>一条{'当該': 1}</span>第一項の<span>認定{'当該': 1}</span>を<span>取り消し{'行わ': 1}</span>たときは、その旨を、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するとともに、<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者は、第二項又は第三項の<span>規定{'当該': 1}</span>により第十<span>一条{'当該': 1}</span>第一項の<span>認定{'当該': 1}</span>を<span>取り消さ{'行わ': 1}</span>れたときは、<span>速やか{'当該': 1}</span>に、<span>認定証{'当該': 1}</span>を<span>主務大臣{'当該': 1}</span>に<span>返納{'法律': 1, '当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十<span>一条{'当該': 1}</span>第四項から第六項まで及び<span>前条{'当該': 1}</span>の<span>規定{'当該': 1}</span>は、第一項の<span>認定{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（情報の提供等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者が新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>実施{'当該': 1}</span>している<span>間{'当該': 1}</span>、<span>必要{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者に対し必要な情報の提供及び<span>助言{'当該': 1}</span>を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（政令等で規定された規制の特例措置）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>実施者が認定新技術等実証<span>計画{'当該': 1}</span>に従って<span>実施{'当該': 1}</span>する新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>については、<span>政令{'当該': 1}</span>により<span>規定{'当該': 1}</span>された<span>規制{'当該': 1}</span>に係るものに<span>あっ{'行わ': 1}</span>ては<span>政令{'当該': 1}</span>で、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>により<span>規定{'当該': 1}</span>された<span>規制{'当該': 1}</span>に係るものに<span>あっ{'行わ': 1}</span>ては<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で、<span>それぞれ{'当該': 1}</span>定めるところにより、規制の特例措置を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>中小企業信用保険法（昭和二十五年法律第二百六十四号）第三条第一項に規定する普通保険（以下「普通保険」という。）、<span>同法{'当該': 1}</span><span>第三条{'当該': 1}</span>の二第一項に規定する無担保保険（以下「無担保保険」という。）又は同法<span>第三条{'当該': 1}</span>の三第一項に規定する特別小口保険（以下「特別小口保険」という。）の保険関係であって、新技術等実証関連保証（同法第三条第一項、第三条の二第一項又は<span>第三条{'当該': 1}</span>の三第一項に<span>規定{'当該': 1}</span>する<span>債務{'当該': 1}</span>の<span>保証{'当該': 1}</span>であって、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に従って<span>実施{'当該': 1}</span>する新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>資金{'当該': 1}</span>に係るものを<span>いう{'行わ': 1}</span>。以下この条において同じ。）を受けた中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの<span>規定{'それぞれ': 1}</span>中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence>第三条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>生産性向上特別措置法（平成三十年<span>法律{'当該': 1}</span>第二十五号）第十六条第一項に<span>規定{'当該': 1}</span>する新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>関連{'当該': 1}</span><span>保証{'当該': 1}</span>（以下「新<span>技術{'当該': 1}</span>等実証関連保証」という。）に係る<span>保険{'当該': 1}</span>関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence><span>第三条{'当該': 1}</span>の二第一項及び<span>第三条{'規定': 1}</span>の三第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>新技術等実証関連保証に係る保険関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" rowspan="2">
+                      <Sentence>第三条の二第三項及び<span>第三条{'規定': 1}</span>の三第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence><span>当該{'主務大臣': 1}</span><span>借入金{'当該': 1}</span>の<span>額{'当該': 1}</span>のうち</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>関連{'当該': 1}</span><span>保証{'当該': 1}</span>及びその他の<span>保証{'当該': 1}</span>ごとに、<span>それぞれ{'当該': 1}</span>当該借入金の額のうち</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence>当該<span>債務者{'当該': 1}</span></Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>新技術等実証関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>普通保険の保険関係であって、新技術等実証関連保証に係るものについての<span>中小企業信用保険法{'当該': 1}</span>第三条第二項及び第五条の規定の適用については、同法第三条第二項中「百分の七十」とあり、及び同法第五条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害<span>防止{'関係': 1}</span>保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の八十」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、新技術等実証関連保証に係るものについての保険料の額は、<span>中小企業信用保険法{'当該': 1}</span>第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める率を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（中小企業投資育成株式会社法の特例）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>中小企業投資育成株式会社は、中小企業投資育成株式会社法（昭和三十八年法律第百一号）第五条第一項各号に<span>掲げる{'行わ': 1}</span><span>事業{'当該': 1}</span>のほか、次に掲げる事業を<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>中小企業者{'当該': 1}</span>が<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者が<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に従って新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を実施するために資本金の額が三億円を超える株式会社を設立する際に発行する<span>株式{'当該': 1}</span>の引受け及び当該引受けに係る株式の<span>保有{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>中小企業者のうち資本金の額が三億円を超える<span>株式会社{'当該': 1}</span>が認定新技術等<span>実証{'当該': 1}</span>計画に従って新技術等実証を<span>実施{'当該': 1}</span>するために必要とする資金の調達を図るために発行する株式、新株予約権（新株予約権付社債に付されたものを除く。）又は新株予約権付社債等（中小企業投資育成株式会社法第五条第一項第二号に規定する新株予約権付社債等をいう。以下この号及び次項において同じ。）の引受け及び<span>当該{'主務大臣': 1}</span>引受けに係る<span>株式{'当該': 1}</span>、新株予約権（その行使により発行され、又は移転された株式を含む。）又は新株予約権付社債等（新株予約権付社債等に付された<span>新株予約権{'番号': 1}</span>の行使により発行され、又は移転された株式を含む。）の保有</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項第一号の<span>規定{'変更': 1}</span>による株式の<span>引受け{'項': 1, '当該': 1}</span>及び<span>当該{'主務大臣': 1}</span><span>引受け{'当該': 1}</span>に係る<span>株式{'当該': 1}</span>の<span>保有{'当該': 1}</span>並びに同項第二号の規定による株式、新株予約権（新株予約権付社債に付されたものを除く。）又は新株予約権付社債等の引受け及び当該引受けに係る株式、新株予約権（その行使により発行され、又は移転された株式を含む。）又は新株予約権付社債等（新株予約権付社債等に付された<span>新株予約権{'番号': 1}</span>の行使により発行され、又は移転された株式を含む。）の保有は、中小企業投資育成株式会社法の適用については、それぞれ同法第五条第一項第一号及び第二号の<span>事業{'当該': 1}</span>と<span>みなす{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（独立行政法人中小企業基盤整備機構の行う新技術等実証円滑化業務）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>独立行政法人{'当該': 1}</span><span>中小企業基盤整備機構{'当該': 1}</span>（第二十五条及び第四十九条において「<span>中小企業基盤整備機構{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）は、新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>を<span>円滑{'当該': 1}</span>化するため、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>実施{'当該': 1}</span>者が<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に従って新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span>の実施に必要な資金を調達するために発行する社債（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第六十六条第一号に規定する短期社債を除く。第二十五条において同じ。）及び<span>当該{'規定': 1}</span>資金の<span>借入れ{'当該': 1}</span>に係る債務の保証の業務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（規制の特例措置の見直し）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>主務大臣（<span>第九条{'当該': 1}</span>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に係る<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>に係る<span>法律{'当該': 1}</span>及び<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>を<span>所管{'規定': 1, '当該': 1}</span>する<span>大臣{'当該': 1}</span>に<span>限る{'行わ': 1}</span>。）は、第五十条第一項の<span>報告{'当該': 1}</span>を<span>踏まえ{'行わ': 1}</span>、<span>当該{'主務大臣': 1}</span><span>報告{'当該': 1}</span>に係る<span>規制{'場合': 1, '当該': 1}</span>の特例措置について、必要があると認めるときは、その<span>見直し{'当該': 1}</span>その他必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（規制改革の推進）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>主務大臣（<span>第九条{'前項': 1}</span>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に係る<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>、第十条第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span>又は第十<span>一条{'当該': 1}</span>第三項第六号の新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span>に係る<span>法律{'当該': 1}</span>及び<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>を<span>所管{'当該': 1}</span>する大臣に限る。）は、新技術等に関する規制の<span>在り方{'当該': 1}</span>について、規制の特例措置の整備及び適用の<span>状況{'当該': 1}</span>、諸外国における規制の状況、技術の<span>進歩{'取引': 1, '当該': 1}</span>の状況その他の事情を踏まえて検討を加え、その結果に基づき、必要な規制の撤廃又は緩和のための法制上の措置その他の措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　革新的データ産業活用の促進</SectionTitle>
+          <Article Num="21">
+            <ArticleCaption>（革新的データ産業活用に関する指針）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>総務大臣及び経済産業大臣は、官民データ活用推進基本法（平成二十八年法律第百三号）の<span>趣旨{'規定': 1}</span>を踏まえ、計画実行期間内における革新的データ産業活用に関する<span>指針{'当該': 1}</span>（以下この<span>条{'当該': 1}</span>及び<span>次{'当該': 1}</span>条第四項<span>第一{'当該': 1}</span>号において「<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>においては、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>の<span>方法{'当該': 1}</span>、<span>データ{'当該': 1}</span>の<span>安全{'当該': 1}</span><span>管理{'当該': 1}</span>の<span>方法{'当該': 1}</span>その他<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'主務大臣': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十六条第一項に<span>規定{'当該': 1}</span>する<span>特定{'当該': 1}</span>革新的データ産業活用について<span>重点的{'当該': 1}</span>に実施すべき分野に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>総務大臣及び経済産業大臣は、経済事情の<span>変動{'変更': 1}</span>その他の情勢の推移により必要が生じたときは、革新的<span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>を<span>変更{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>総務大臣{'当該': 1}</span>及び<span>経済産業大臣{'当該': 1}</span>は、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>を<span>定め{'行わ': 1}</span>、又はこれを<span>変更{'当該': 1}</span>しようとするときは、<span>あらかじめ{'更に': 1}</span>、<span>関係{'当該': 1}</span>行政機関の長（当該<span>行政機関{'関係': 1}</span>が<span>合議制{'当該': 1}</span>の機関である場合にあっては、当該行政機関。以下同じ。）に<span>協議{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>総務大臣{'当該': 1}</span>及び<span>経済産業大臣{'当該': 1}</span>は、<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>を<span>定め{'行わ': 1}</span>、又はこれを<span>変更{'当該': 1}</span>したときは、<span>遅滞{'当該': 1}</span>なく、これを<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（革新的データ産業活用計画の認定）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>を<span>実施{'当該': 1}</span>しようとする<span>事業者{'当該': 1}</span>は、その<span>実施{'当該': 1}</span>しようとする<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>に関する<span>計画{'当該': 1}</span>（以下「<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>作成{'当該': 1}</span>し、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>に<span>提出{'当該': 1}</span>して、その<span>認定{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>二以上の<span>事業者{'当該': 1}</span>が<span>革新的{'情報': 1, '当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'主務大臣': 1}</span>を<span>共同{'当該': 1}</span>して<span>実施{'当該': 1}</span>しようとする<span>場合{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、<span>当該{'主務大臣': 1}</span>二以上の<span>事業者{'当該': 1}</span>は<span>共同{'当該': 1}</span>して<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>を<span>作成{'当該': 1}</span>し、<span>前項{'当該': 1}</span>の<span>認定{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>には、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>革新的{'技術': 1, '当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'主務大臣': 1}</span>の<span>目標{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>の<span>内容{'当該': 1}</span>及びその<span>実施{'当該': 1}</span><span>時期{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>資金{'当該': 1}</span>の<span>額{'当該': 1}</span>及びその<span>調達{'当該': 1}</span><span>方法{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>の<span>実施{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>主務大臣{'当該': 1}</span>は、第一項の<span>認定{'当該': 1}</span>の<span>申請{'当該': 1}</span>が<span>あっ{'行わ': 1}</span>た<span>場合{'当該': 1}</span>において、その<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>が<span>次{'当該': 1}</span>の各号のいずれにも<span>適合{'当該': 1}</span>するものであると<span>認める{'行わ': 1}</span>ときは、その<span>認定{'承認': 1, '当該': 1}</span>をするものとする。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、<span>主務大臣{'当該': 1}</span>は、<span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span><span>評価委員会{'当該': 1}</span>の<span>意見{'当該': 1}</span>を<span>聴く{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用計画が革新的事業活動<span>実行{'当該': 1}</span>計画及び革新的データ産業<span>活用{'当該': 1}</span><span>指針{'当該': 1}</span>に<span>照らし{'行わ': 1}</span><span>適切{'当該': 1}</span>なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span>産業活用が円滑かつ<span>確実{'当該': 1}</span>に実施されると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>主務大臣は、第一項の認定に当たり必要が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>申請{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>が<span>前項{'当該': 1}</span>各号のいずれにも<span>適合{'規定': 1, '当該': 1}</span>するかどうかについての書面による調査又は<span>実地{'当該': 1}</span>の調査を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>主務大臣は、第一項の認定をしようとする<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>申請{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>計画において用いられるデータに個人情報（<span>個人情報の保護に関する法律{'当該': 1}</span>（平成十五年法律第五十七号）第二条第一項に規定する個人情報をいう。）が含まれる場合であって、当該データの性質、利用方法及び管理方法その他の<span>事情{'当該': 1}</span>を<span>勘案{'当該': 1}</span>して<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>もの<span>として{'とともに': 1}</span><span>政令{'経済産業省令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span><span>場合{'当該': 1}</span>に<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る<span>申請書{'当該': 1}</span>の<span>写し{'当該': 1}</span>を<span>個人情報保護委員会{'当該': 1}</span>に<span>送付{'当該': 1}</span>するとともに、<span>あらかじめ{'更に': 1}</span><span>個人情報保護委員会{'当該': 1}</span>に<span>協議{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>及び<span>個人情報保護委員会{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>協議{'当該': 1}</span>に当たっては、<span>データ{'当該': 1}</span>の<span>活用{'当該': 1}</span>を<span>促進{'当該': 1}</span>することの必要性に鑑み、所要の手続の迅速かつ的確な実施を図るため、相互に密接に連絡するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>主務大臣は、第一項の認定をしたときは、主務省令で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>概要{'当該': 1}</span>を<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（革新的データ産業活用計画の変更等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>前条{'当該': 1}</span>第一項の<span>認定{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>事業者{'当該': 1}</span>（以下「<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）は、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>を<span>変更{'当該': 1}</span>しようとするときは、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>の<span>認定{'当該': 1}</span>を<span>受け{'行わ': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>が<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span>に係る<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>（<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>変更{'当該': 1}</span>の<span>認定{'当該': 1}</span>が<span>あっ{'行わ': 1}</span>たときは、その<span>変更{'当該': 1}</span>後のもの。以下「<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>」と<span>いう{'行わ': 2}</span>。）に従って<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>を<span>実施{'当該': 1}</span>していないと<span>認める{'行わ': 1}</span>ときは、その<span>認定{'当該': 1}</span>を<span>取り消す{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>主務大臣{'当該': 1}</span>は、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>が<span>前条{'当該': 1}</span>第四項各号のいずれかに<span>適合{'当該': 1}</span>しないものと<span>なっ{'行わ': 1}</span>たと<span>認める{'行わ': 1}</span>ときは、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>に対して、<span>当該{'主務大臣': 1}</span><span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>変更{'当該': 1}</span>を<span>指示{'当該': 1}</span>し、又はその<span>認定{'当該': 1}</span>を<span>取り消す{'行わ': 1}</span>ことができる。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、<span>主務大臣{'当該': 1}</span>は、<span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span><span>評価委員会{'当該': 1}</span>の<span>意見{'当該': 1}</span>を<span>聴く{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、前二項の<span>規定{'当該': 1}</span>により<span>前条{'当該': 1}</span>第一項の<span>認定{'当該': 1}</span>を<span>取り消し{'行わ': 1}</span>たときは、その旨を<span>公表{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第四項から第八項までの規定は、第一項の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、革新的データ産業活用関連保証（<span>中小企業信用保険法{'当該': 1}</span>第三条第一項、第三条の二第一項又は第三条の三第一項に規定する<span>債務{'当該': 1}</span>の<span>保証{'当該': 1}</span>であって、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に従って<span>行わ{'でき': 1}</span>れる<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>資金{'当該': 1}</span>に係るものを<span>いう{'行わ': 1}</span>。以下この条において同じ。）を<span>受け{'及び': 1}</span>た中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの<span>規定{'それぞれ': 1}</span>中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence>第三条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>生産性向上特別措置法（平成三十年<span>法律{'当該': 1}</span>第二十五号）第二十四条第一項に<span>規定{'当該': 1}</span>する<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>関連{'当該': 1}</span><span>保証{'当該': 1}</span>（以下「<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用関連保証」という。）に係る<span>保険{'当該': 1}</span>関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence><span>第三条{'当該': 1}</span>の二第一項及び第三条の三第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>革新的データ産業活用関連保証に係る保険関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" rowspan="2">
+                      <Sentence>第三条の二第三項及び第三条の三第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence><span>当該{'主務大臣': 1}</span><span>借入金{'当該': 1}</span>の<span>額{'当該': 1}</span>のうち</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>関連{'当該': 1}</span><span>保証{'当該': 1}</span>及びその他の<span>保証{'当該': 1}</span>ごとに、<span>それぞれ{'当該': 1}</span>当該借入金の額のうち</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top">
+                      <Sentence>当該<span>債務者{'当該': 1}</span></Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>革新的データ産業活用関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>普通保険の保険関係であって、革新的データ産業活用関連保証に係るものについての<span>中小企業信用保険法{'当該': 1}</span>第三条第二項及び第五条の規定の適用については、同法第三条第二項中「百分の七十」とあり、及び同法第五条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害<span>防止{'関係': 1}</span>保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の八十」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、革新的データ産業活用関連保証に係るものについての保険料の額は、<span>中小企業信用保険法{'当該': 1}</span>第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める率を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（中小企業基盤整備機構の行う革新的データ産業活用円滑化業務）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>中小企業基盤整備機構は、革新的データ産業<span>活用{'当該': 1}</span>を<span>円滑{'当該': 1}</span>化するため、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>が<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に従って<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>の実施に必要な資金を調達するために<span>発行{'当該': 1}</span>する社債及び当該資金の借入れに係る債務の保証の業務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（国の機関等に対するデータの提供の求め）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>認定<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に従って<span>実施{'当該': 1}</span>される<span>革新的{'当該': 1}</span>データ産業活用のうち、データを収集及び整理をし、他の<span>事業者{'情報': 1}</span>に提供するもの（以下この項及び<span>次項{'当該': 1}</span>第一号において「<span>特定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'主務大臣': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>行お{'行わ': 1}</span>うとする<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>であって、<span>総務大臣{'当該': 1}</span>及び<span>経済産業大臣{'当該': 1}</span>が<span>定める{'行わ': 1}</span><span>データ{'当該': 1}</span>の<span>安全{'当該': 1}</span><span>管理{'当該': 1}</span>に係る<span>基準{'当該': 1}</span>に<span>適合{'当該': 1}</span>することについて<span>主務大臣{'当該': 1}</span>の<span>確認{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者（第二十八条第三項において「<span>特定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）は、<span>特定{'当該': 1}</span>革新的データ産業活用を<span>効果的{'当該': 1}</span>かつ効率的に実施するため、国の機関又は公共機関等（<span>独立行政法人通則法{'当該': 1}</span>（平成十一年法律第百三号）第二条第一項に規定する独立行政法人その他これに<span>準ずる{'いう': 1}</span>者で<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ものを<span>いう{'行わ': 1}</span>。以下この<span>条{'当該': 1}</span>及び<span>次{'当該': 1}</span>条において同じ。）の<span>保有{'当該': 1}</span>する<span>データ{'当該': 1}</span>を<span>必要{'当該': 1}</span>とするときは、<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'方法': 1, '当該': 1}</span>に対し、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>求め{'通知': 1, '当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>自ら{'当該': 1}</span><span>保有{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>について<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれにも<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>をした者に提供するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該データの<span>収集{'当該': 1}</span>が、特定革新的データ産業活用の効果的かつ効率的な実施に不可欠なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該データの提供が、他の法令に<span>違反{'当該': 1}</span>し、又は違反するおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該データを提供することにより、公益を害し、又はその所掌事務若しくは事業の遂行に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の規定による求めを受けた<span>主務大臣{'場合': 1}</span>は、<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>について同<span>項{'当該': 1}</span>各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれかに<span>該当{'当該': 1}</span>しないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>た<span>提供{'当該': 1}</span>を<span>行わ{'でき': 1}</span>ない旨及びその<span>理由{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'事項': 1, '当該': 1}</span>者に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>をその<span>所管{'当該': 1}</span>する<span>公共機関{'当該': 2}</span>等、<span>他{'当該': 1}</span>の<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長又{'長': 1, '当該': 1}</span>は<span>他{'当該': 1}</span>の<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>の<span>所管{'当該': 1}</span>する<span>公共機関{'当該': 1}</span>等が<span>保有{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>について第二項<span>第一{'当該': 1}</span>号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>に<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>保有{'当該': 1}</span>するその<span>所管{'当該': 1}</span>の<span>公共機関{'当該': 1}</span>等又は<span>他{'当該': 1}</span>の<span>関係{'国': 1, '当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>（その<span>所管{'当該': 1}</span>する<span>公共機関{'当該': 1}</span>等が<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>保有{'当該': 1}</span>する<span>場合{'当該': 1}</span>の<span>当該{'主務大臣': 1}</span><span>他{'当該': 1}</span>の<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。<span>次項{'当該': 1}</span>、第八項及び第九項において同じ。）に対し、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>要請{'当該': 1}</span>するとともに、その旨を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>が第二項<span>第一{'項': 1, '当該': 1}</span>号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>に<span>該当{'当該': 1}</span>しないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>保有{'当該': 1}</span>するその<span>所管{'当該': 1}</span>の<span>公共機関{'当該': 1}</span>等又は<span>他{'当該': 1}</span>の<span>関係{'国': 1, '当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>に対して<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>要請{'当該': 1}</span>しない旨及びその<span>理由{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項の<span>規定{'当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'場合': 1, '当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>自ら{'当該': 1}</span><span>保有{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>について第二項各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれにも<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>提供{'当該': 1}</span>するとともに、<span>主務大臣{'当該': 1}</span>にその旨を<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項の<span>規定{'当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>について第二項各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれかに<span>該当{'当該': 1}</span>しないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>た<span>提供{'当該': 1}</span>を<span>行わ{'でき': 1}</span>ない旨及びその<span>理由{'当該': 1}</span>を<span>主務大臣{'当該': 1}</span>に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項の<span>規定{'当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>をその<span>所管{'当該': 1}</span>する<span>公共機関{'当該': 1}</span>等が<span>保有{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>について第二項<span>第一{'当該': 1}</span>号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>に<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>保有{'当該': 1}</span>するその<span>所管{'当該': 1}</span>の<span>公共機関{'当該': 1}</span>等に対し、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>要請{'当該': 1}</span>するとともに、その旨を<span>主務大臣{'当該': 1}</span>に<span>通知{'前項': 1, '当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項の<span>規定{'主務大臣': 1, '当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>について第二項<span>第一{'当該': 1}</span>号に<span>掲げる{'行わ': 1}</span><span>事由{'事項': 1, '当該': 1}</span>に<span>該当{'当該': 1}</span>しないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>て<span>前項{'当該': 1}</span>の<span>公共機関{'規定': 1, '当該': 1}</span>等に<span>要請{'当該': 1}</span>を<span>行わ{'でき': 1}</span>ない旨及びその<span>理由{'当該': 1}</span>を<span>主務大臣{'当該': 1}</span>に<span>通知{'法律': 1, '当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項又は第八項の<span>規定{'当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>公共機関{'当該': 1}</span>等は、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>について第二項各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれにも<span>該当{'当該': 1}</span>すると<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>提供{'当該': 1}</span>するとともに、<span>当該{'主務大臣': 1}</span><span>公共機関{'当該': 1}</span>等を<span>所管{'当該': 1}</span>する<span>主務大臣{'当該': 1}</span>又は<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>にその旨を<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>通知{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、その旨を<span>主務大臣{'当該': 1}</span>に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四項又は第八項の<span>規定{'当該': 1}</span>による<span>要請{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>公共機関{'当該': 1}</span>等は、<span>当該{'主務大臣': 1}</span><span>要請{'当該': 1}</span>に係る<span>求め{'当該': 1}</span>について第二項各号に<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>のいずれかに<span>該当{'当該': 1}</span>しないと<span>認める{'行わ': 1}</span>ときは、<span>遅滞{'当該': 1}</span>なく、その旨及びその<span>理由{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>公共機関{'当該': 1}</span>等を<span>所管{'当該': 1}</span>する<span>主務大臣{'当該': 1}</span>又は<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="13">
+              <ParagraphNum>１３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>通知{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、その旨を<span>主務大臣{'当該': 1}</span>に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="14">
+              <ParagraphNum>１４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第七項から第九項まで、第十二項及び<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>通知{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>主務大臣{'当該': 1}</span>は、<span>遅滞{'当該': 1}</span>なく、その<span>通知{'当該': 1}</span>の<span>内容{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>通知{'当該': 1}</span>に係る第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>を<span>した{'当該': 1}</span>者に<span>通知{'当該': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="15">
+              <ParagraphNum>１５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>国{'当該': 1}</span>の<span>機関{'当該': 1}</span>及び公共機関等は、第一項の<span>規定{'当該': 1}</span>による求めがあったときは、官民<span>データ{'当該': 1}</span>活用推進基本法の趣旨にのっとり、積極的な<span>データ{'機会': 1}</span>の提供に努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（手数料）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>前条第二項又は第六項の規定により<span>データ{'情報': 1}</span>の提供を受ける者は、政令で定めるところにより、<span>実費{'当該': 1}</span>の<span>範囲{'勘案': 1}</span>内において政令で定める額の手数料を<span>納め{'行わ': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第二項の規定により<span>データ{'情報': 1}</span>の<span>提供{'業務': 1}</span>を行う<span>主務{'当該': 1}</span><span>大臣{'当該': 1}</span>又は同<span>条{'当該': 1}</span>第六項の<span>規定{'当該': 1}</span>により<span>データ{'情報': 1, '当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>一定{'当該': 1}</span>の<span>開示{'当該': 1}</span>の<span>実施{'当該': 1}</span>の<span>方法{'当該': 1}</span>により<span>一般{'当該': 1}</span>の<span>利用{'当該': 1}</span>に<span>供する{'行わ': 1}</span>ことが<span>適当{'当該': 1}</span>であると<span>認める{'行わ': 1}</span>ときは、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>前項{'当該': 1}</span>の<span>手数料{'当該': 1}</span>を<span>減額{'軽減': 1, '当該': 1}</span>し、又は<span>免除{'当該': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前条{'当該': 1}</span>第十項の<span>規定{'当該': 1}</span>による<span>データ{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>者は、<span>当該{'主務大臣': 1}</span><span>公共機関{'当該': 1}</span>等の定めるところにより、当該<span>提供{'当該': 1}</span>に係る手数料を納めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の手数料の額は、実費の範囲内において、第一項の手数料の額を参酌して、公共機関等が定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第十項の規定によりデータの提供を<span>行う{'行わ': 1}</span><span>公共機関{'当該': 1}</span>等は、<span>当該{'主務大臣': 1}</span><span>データ{'当該': 1}</span>を<span>一定{'当該': 1}</span>の<span>開示{'当該': 1}</span>の<span>実施{'当該': 1}</span>の<span>方法{'当該': 1}</span>により<span>一般{'当該': 1}</span>の<span>利用{'当該': 1}</span>に<span>供する{'行わ': 1}</span>ことが<span>適当{'当該': 1}</span>であると<span>認める{'行わ': 1}</span>ときは、<span>公共機関{'当該': 1}</span>等が<span>定める{'行わ': 1}</span>ところにより、第三項の<span>手数料{'当該': 1}</span>を<span>減額{'当該': 1}</span>し、又は<span>免除{'当該': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（独立行政法人情報処理推進機構等の行う業務等）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>独立行政法人{'当該': 1}</span><span>情報処理推進機構{'法律': 1, '当該': 1}</span>（<span>次項{'当該': 1}</span>において「<span>情報処理推進機構{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）は、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'主務大臣': 1}</span>の<span>依頼{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>て、その<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span>の<span>実施{'当該': 1}</span>に当たっての<span>データ{'当該': 1}</span>の<span>安全{'当該': 1}</span>管理に関する情報の提供その他必要な<span>協力{'当該': 1}</span>の業務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>主務大臣は、第二十二条第五項（第二十三条第五項において準用する場合を<span>含む{'行わ': 1}</span>。）の<span>調査{'当該': 1}</span>及び第二十六条第一項の<span>確認{'当該': 1}</span>をするために<span>必要{'当該': 1}</span>な<span>調査{'当該': 1}</span>を、<span>情報処理推進機構{'業務': 1}</span>その他データの安全管理に関する<span>対策{'当該': 1}</span>について十分な技術的能力及び専門的な知識経験を有するとともに、当該調査を確実に実施することができるものとして<span>政令{'経済産業省令': 1}</span>で定める法人（<span>次項{'当該': 1}</span>及び第四項並びに第三十条第一項において「<span>情報処理推進機構{'当該': 1}</span>等」と<span>いう{'行わ': 1}</span>。）に<span>行わ{'なっ': 1}</span>せることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>においてデータの安全の確保に係る重大な<span>事態{'当該': 1}</span>が生じた場合において、必要があると認めるときは、情報処理推進機構等に、その<span>原因究明{'国際': 1, '当該': 1}</span>のための調査を行わせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>情報処理推進機構等は、前二項の調査を行ったときは、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>遅滞{'当該': 1}</span>なく、<span>当該{'主務大臣': 1}</span><span>調査{'当該': 1}</span>の<span>結果{'当該': 1}</span>を<span>主務大臣{'当該': 1}</span>に<span>通知{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項又は第三項の<span>規定{'国際': 1, '当該': 1}</span>により<span>調査{'当該': 1}</span>の<span>委託{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>法人{'当該': 1}</span>の役員若しくは職員又はこれらの<span>職{'当該': 1}</span>にあった者は、正当な理由がなく、当該委託に係る事務に関して知り得た秘密を漏らし、又は盗用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項又は第三項の規定により調査の委託を受けた<span>法人{'当該': 1}</span>の<span>役員{'当該': 1}</span>又は<span>職員{'当該': 1}</span>であって当該委託に係る調査に<span>従事{'業務': 1}</span>するものは、<span>刑法{'当該': 1}</span>（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（報告及び検査）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>主務大臣は、この法律の施行に必要な限度において、<span>情報処理推進機構{'当該': 1}</span>等に対し、第二十八条第二項及び第三項に<span>規定{'当該': 1}</span>する<span>業務{'当該': 1}</span>に関し<span>報告{'当該': 1}</span>を<span>求め{'当該': 1}</span>、又はその<span>職員{'当該': 1}</span>に、<span>情報処理推進機構{'当該': 1}</span>等の<span>事務所{'業務': 1, '当該': 1}</span>に<span>立ち入り{'行わ': 1}</span>、<span>帳簿{'当該': 1}</span>、<span>書類{'当該': 1}</span>その他の物件を検査させ、若しくは関係者に<span>質問{'当該': 1}</span>させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により立入検査をする職員は、その身分を<span>示す{'行わ': 1}</span><span>証明{'産業': 1}</span>書を<span>携帯{'主務大臣': 1}</span>し、<span>関係者{'関係': 1, '法': 1}</span>に<span>提示{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>規定{'当該': 1}</span>による<span>立入検査{'当該': 1}</span>の<span>権限{'当該': 1}</span>は、<span>犯罪{'当該': 1}</span><span>捜査{'当該': 1}</span>のために<span>認め{'行わ': 1}</span>られたものと解釈してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　革新的事業活動評価委員会</SectionTitle>
+          <Article Num="31">
+            <ArticleCaption>（革新的事業活動評価委員会）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>次に掲げるものを行うため、<span>内閣府{'当該': 1}</span>に、革新的事業活動評価委員会（以下「委員会」という。）を<span>置く{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新技術等<span>実証{'取引': 1}</span>に係る新たな規制の特例措置が及ぼす経済全般への効果に関する評価</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>新技術等実証計画が及ぼす経済全般への効果に関する評価</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>革新的データ産業活用計画が及ぼす経済全般への<span>効果{'基本': 1}</span>に関する評価</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前三号に掲げる評価を行うために<span>必要{'当該': 1}</span>な<span>調査{'当該': 1}</span>その他の<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（所掌事務）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>委員会は、この<span>法律{'前項': 1}</span>の規定によりその権限に<span>属さ{'行わ': 1}</span>せられた事項を処理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>委員会は、前項の規定によりその権限に<span>属さ{'行わ': 1}</span>せられた事項に関し、内閣総理大臣を通じて主務大臣に対し、必要な<span>勧告{'当該': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>委員会{'当該': 1}</span>は、<span>前項{'主務大臣': 1, '当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>勧告{'当該': 1}</span>をしたときは、<span>遅滞{'当該': 1}</span>なく、その<span>勧告{'当該': 1}</span>の<span>内容{'当該': 1}</span>を<span>公表{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>主務大臣{'当該': 1}</span>は、第二項の<span>規定{'当該': 1}</span>による<span>勧告{'当該': 1}</span>に<span>基づき{'行わ': 1}</span><span>講じ{'行わ': 1}</span>た<span>措置{'場合': 1}</span>について委員会に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（委員）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>委員会{'場合': 1}</span>の委員は、内外の社会経済情勢及び革新的事業活動の動向に関して優れた識見を有する者のうちから、内閣総理大臣が任命する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（報告の徴収等）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>委員会は、その所掌事務を遂行するため<span>必要{'器具': 1}</span>な限度において、主務大臣又は新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>若しくは<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>を<span>提出{'当該': 1}</span>した者に対して、<span>報告{'当該': 1}</span>又は<span>資料{'当該': 1}</span>の<span>提出{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（政令への委任）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この<span>法律{'当該': 1}</span>に<span>定める{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、<span>委員会{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>事項{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　先端設備等導入の促進</ChapterTitle>
+        <Article Num="36">
+          <ArticleCaption>（導入促進指針）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'当該': 1}</span>は、<span>中小企業者{'当該': 1}</span>（<span>中小企業等経営強化法{'当該': 1}</span>（平成十一年<span>法律{'当該': 1}</span>第十八号）第二条第一項に規定する中小企業者をいう。以下同じ。）の先端設備等（従来の処理量に比して大量の情報の処理を可能とする技術その他の先端的な技術を活用した施設、設備、機器、装置又はプログラム（情報処理の促進に関する法律（昭和四十五年法律第九十号）第二条第二項に規定するプログラムをいう。）であって、それを早急に導入することが中小企業者の生産性の向上に不可欠なものとして経済産業省令で定めるものをいう。以下同じ。）の導入の促進に関する指針（以下「導入促進指針」という。）を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>導入促進指針においては、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の導入の促進の目標の設定に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の導入の促進に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他先端設備等の導入の促進に際し配慮すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、経済事情の<span>変動{'産業': 1}</span>その他情勢の推移により必要が生じたときは、導入<span>促進{'変更': 1}</span><span>指針{'規定': 1}</span>を変更するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、導入促進指針を定め、又はこれを変更しようとするときは、<span>あらかじめ{'更に': 1}</span>、<span>関係{'当該': 1}</span>行政機関の長に協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、<span>導入{'当該': 1}</span>促進指針を定め、又はこれを変更したときは、遅滞なく、これを<span>公表{'当該': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（導入促進基本計画）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>市町村（特別区を含む。以下同じ。）は、導入促進指針に基づき、先端設備等の導入の促進に関する基本的な計画（以下「導入促進基本計画」という。）を作成し、経済産業省令で定めるところにより経済産業大臣に<span>協議{'提出': 1}</span>し、その<span>同意{'当該': 1}</span>を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>導入促進基本計画においては、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の導入の促進の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の導入の促進の内容に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の導入の促進に際し配慮すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、導入促進基本計画が次の各号のいずれにも該当するものであると認めるときは、その同意をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該導入促進基本計画が導入促進指針に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該導入促進基本計画に係る先端設備等の導入が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>当該{'主務大臣': 1}</span>導入促進基本計画の実施が当該市町村に所在する企業の生産性の向上に資するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>市町村は、導入促進<span>基本計画{'法律': 1}</span>が前項の同意を<span>得{'行わ': 1}</span>たときは、遅滞なく、これを<span>公表{'特定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（導入促進基本計画の変更等）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>市町村は、前条第三項の同意を得た<span>導入{'区域': 1}</span>促進基本計画を変更しようとするときは、経済産業省令で定めるところにより<span>経済産業大臣{'当該': 1}</span>に協議し、その同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'場合': 1, '当該': 1}</span>は、市町村が前条第三項の同意を得た導入促進基本計画（前項の<span>規定{'当該': 1}</span>による変更の同意があったときは、その変更後のもの。以下「同意導入促進基本計画」という。）に従って先端設備等の導入の促進を実施していないと認めるときは、その同意を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、同意導入促進基本計画が<span>前条{'当該': 1}</span>第三項各号のいずれかに該当しないものとなったと認めるときは、<span>同意{'当該': 1}</span>導入促進基本計画を作成した<span>市町村{'場合': 1}</span>に対し、当該同意導入促進基本計画の変更を指示し、又はその同意を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、前二項の規定により前条第三項の<span>同意{'規定': 1}</span>を<span>取り消し{'行わ': 1}</span>たときは、その旨を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前条第三項及び第四項の規定は、第一項の導入促進<span>基本計画{'内容': 1}</span>の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（市町村に対する情報の提供等）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、市町村による導入促進基本計画の作成及び同意導入促進基本計画の達成に資するため、地域の経済動向に関する情報並びに当該市町村による先端設備等の導入の促進を図るために必要な情報の<span>収集{'提供': 1}</span>、整理、分析及び提供並びにこれらの<span>情報{'当該': 1}</span>の収集、整理及び分析を可能とする<span>手段{'情報': 1}</span>の提供を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国は、同意<span>導入{'基本計画': 1}</span>促進基本計画に係る市町村に対し、当該同意導入促進基本計画の円滑かつ確実な実施に関し必要な助言を<span>行う{'及び': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（先端設備等導入計画の認定）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>同意導入促進基本計画に基づく先端設備等の導入（以下「先端設備等導入」という。）をしようとする中小企業者は、その実施しようとする先端設備等導入に関する計画（以下この条及び次条において「先端設備等導入計画」という。）を作成し、経済産業省令で定めるところにより、その導入する先端設備等の所在地を管轄する特定市町村（同意導入促進<span>基本計画{'計画': 1}</span>を作成した市町村をいう。以下同じ。）に提出して、その認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>二以上の中小企業者が<span>先端{'当該': 1}</span>設備等導入を共同で行おうとする場合にあっては、当該二以上の中小企業者は共同して先端設備等導入計画を作成し、前項の認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>先端{'場合': 1}</span>設備等導入計画においては、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等の種類及び導入時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等導入の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端設備等導入に必要な資金の額及びその調達<span>方法{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特定{'当該': 1}</span><span>市町村{'当該': 1}</span>は、第一項の認定の申請があった場合において、その先端設備等導入計画が次の各号のいずれにも適合すると認めるときは、その認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該先端設備等導入計画が導入促進指針及び当該特定市町村の同意導入促進基本計画に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該先端設備等導入計画に係る先端設備等導入が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定<span>市町村{'下請': 1}</span>は、第一項の認定をしたときは、<span>経済産業大臣{'当該': 1}</span>に対し、<span>遅滞{'当該': 1}</span>なく、その旨を<span>通知{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（先端設備等導入計画の変更等）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>前条{'経済産業大臣': 1, '当該': 1}</span>第一項の<span>認定{'当該': 1}</span>を受けた<span>中小企業者{'当該': 1}</span>（以下「認定先端設備等導入事業者」という。）は、当該認定に係る先端設備等導入計画を変更しようとするときは、経済産業省令で定めるところにより、当該認定をした<span>特定{'当該': 1}</span><span>市町村{'当該': 1}</span>の<span>認定{'当該': 1}</span>を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定市町村は、<span>認定{'当該': 1}</span>先端設備等導入事業者が当該認定に係る先端設備等導入計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定先端設備等導入計画」と<span>いう{'行わ': 1}</span>。）に従って先端設備等導入を行っていないと認めるときは、その認定を<span>取り消す{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特定{'当該': 1}</span><span>市町村{'当該': 1}</span>は、認定先端設備等導入計画が前条第四項各号のいずれかに適合しないものとなったと認めるときは、その認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定市町村は、前二項の<span>規定{'当該': 1}</span>により<span>前条{'当該': 1}</span>第一項の<span>認定{'確認': 1, '当該': 1}</span>を<span>取り消し{'行わ': 1}</span>たときは、その旨を<span>経済産業大臣{'当該': 1}</span>に<span>通知{'主務大臣': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前条{'当該': 1}</span>第四項及び第五項の規定は、第一項の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、先端設備等導入関連保証（中小企業信用保険法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、<span>認定{'受け': 1}</span>先端設備等導入計画に従って行われる先端設備等導入に必要な資金に係るものをいう。以下この条において同じ。）を<span>受け{'及び': 1}</span>た中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの<span>規定{'それぞれ': 1}</span>中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>生産性向上特別措置法（平成三十年法律第二十五号）第四十二条第一項に規定する<span>先端{'業務': 1}</span>設備等導入関連保証（以下「先端設備等<span>導入{'事項': 1}</span>関連保証」という。）に係る保険関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条の二第一項及び<span>第三条{'規定': 1}</span>の三第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>先端設備等導入関連保証に係る保険関係の保険価額の合計額とその他の保険関係の<span>保険{'書類': 1}</span>価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第三条の二第三項及び<span>第三条{'規定': 1}</span>の三第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>先端設備等導入関連保証及びその他の保証ごとに、それぞれ当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>当該債務者</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>先端設備等導入関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>普通保険の保険関係であって、先端設備等導入関連保証に係るものについての中小企業信用保険法第三条第二項及び第五条の規定の適用については、同法第三条第二項中「百分の七十」とあり、及び同法第五条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害<span>防止{'関係': 1}</span>保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の八十」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、先端設備等導入関連保証に係るものについての<span>保険料{'相当': 1}</span>の額は、中小企業信用保険法第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める<span>率{'割合': 1}</span>を乗じて得た額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="43">
+          <ArticleCaption>（資金の確保）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、認定新技術等実証<span>実施{'当該': 1}</span>者、<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用事業者又は<span>認定{'当該': 1}</span>先端設備等導入事業者が認定新技術等実証計画、認定<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span>活用計画又は認定先端設備等導入計画を短期間に円滑に実施するために必要な資金の確保に<span>努める{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleCaption>（経営改革の促進のための措置）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、事業者において、革新的事業活動による短期間での生産性の向上のための取組の積極的な実施に向けた機動的かつ的確な経営判断が行われるよう、事業者における意思決定の過程の透明性及び客観性を実効的に確保するための体制の構築その他の経営<span>改革{'向上': 1}</span>を促進するために必要な措置を計画実行期間内に集中的に講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleCaption>（研究開発の推進等に係る事業環境の整備）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、革新的事業活動を促進するため、研究開発の推進及びその成果の円滑な実用化に必要な事業環境の整備を計画実行期間内に集中的に行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleCaption>（人材の確保の円滑化のための施策）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、<span>多様{'当該': 1}</span>かつ高度な<span>能力{'知識': 1}</span>及び経験を有する人材が我が国<span>産業{'当該': 1}</span>における革新的事業活動の重要な担い手であることに鑑み、大学、高等専門学校、大学共同利用機関及び事業者と緊密な連携協力を図り、事業者におけるその人材の確保の円滑化のために必要な施策を計画実行期間内に集中的に講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleCaption>（革新的事業活動の促進に資する社会資本の整備）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、革新的データ産業<span>活用{'当該': 1}</span>その他の革新的事業活動の促進に資する電気通信システムその他の社会資本が計画実行期間内に集中的に整備されるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleCaption>（経済社会の持続的な発展に向けた取組への投資についての配慮）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、革新的事業活動の促進に資する環境の保全、エネルギーの使用の合理化その他の経済社会の持続的な発展に向けた取組への投資が計画実行期間内に促されるよう配慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleCaption>（中小企業者に対する施策の総合的推進）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国、地方公共団体及び中小企業基盤整備機構は、<span>我が国{'当該': 1}</span><span>産業{'当該': 1}</span>の<span>生産性{'当該': 1}</span>の向上に当たって中小企業者の生産性の向上が<span>不可欠{'当該': 1}</span>であることから、新技術等<span>実証{'当該': 1}</span>、革新的データ産業活用その他の革新的事業活動又は先端設備等導入を<span>実施{'当該': 1}</span>しようとする中小企業者に対し、必要な経営方法又は技術に関する助言、研修又は情報提供その他必要な施策を総合的に推進するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>主務大臣は、<span>認定{'当該': 1}</span>新技術等実証実施者又は認定<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>事業者{'当該': 1}</span>に対し、<span>認定{'当該': 1}</span>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>又は<span>認定{'当該': 1}</span><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>の<span>実施{'当該': 1}</span><span>状況{'当該': 1}</span>について<span>報告{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、特定市町村に対し、同意導入促進<span>基本計画{'事業': 1}</span>の実施状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定市町村の長は、認定先端設備等導入事業者に対し、認定先端設備等導入計画の実施状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleCaption>（関係行政機関の協力体制の整備等）</ArticleCaption>
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国{'当該': 1}</span>の<span>関係{'当該': 1}</span><span>行政機関{'当該': 1}</span>は、<span>革新的{'連携': 1, '当該': 1}</span><span>事業活動{'当該': 1}</span>の<span>促進{'当該': 1}</span>に関する施策の推進に当たっては、我が国産業の<span>競争力{'技術力': 1}</span>の強化に関する施策、規制の見直しに関する施策、情報の円滑な流通の促進に関する<span>施策{'保証': 1}</span>、地域再生の総合的かつ効果的な推進に関する施策その他の関連する施策との連携を図るため、必要な協力を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52">
+          <ArticleCaption>（主務大臣等）</ArticleCaption>
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律における主務大臣は、次の各号に掲げる<span>事項{'当該': 1}</span>の<span>区分{'当該': 1}</span>に<span>応じ{'定める': 1, '行わ': 1}</span>、<span>それぞれ{'当該': 1}</span><span>当該{'主務大臣': 1}</span>各号に<span>定める{'行わ': 1}</span>行政機関の長（当該行政機関が<span>合議制{'当該': 1}</span>の機関である場合にあっては、当該行政機関。以下この<span>項{'当該': 1}</span>において同じ。）とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>第九条{'当該': 1}</span>第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等が<span>用い{'行わ': 1}</span>られる<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>並びに<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>新た{'当該': 1}</span>な<span>規制{'当該': 1}</span>の<span>特例措置{'当該': 1}</span>に係る<span>法律{'当該': 1}</span>及び<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'当該': 1}</span>の長</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第十条第一項の<span>規定{'当該': 1}</span>による<span>求め{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る新<span>技術{'当該': 1}</span>等<span>関係{'基準': 1, '当該': 1}</span><span>規定{'当該': 1}</span>に係る<span>法律{'当該': 1}</span>及び<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'当該': 1}</span>の長</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に<span>記載{'当該': 1}</span>された<span>革新的{'当該': 1}</span><span>事業活動{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'当該': 1}</span>の<span>長{'当該': 1}</span>並びに新<span>技術{'当該': 1}</span>等<span>実証{'当該': 1}</span><span>計画{'当該': 1}</span>に<span>記載{'当該': 1}</span>された新<span>技術{'当該': 1}</span>等<span>関係{'当該': 1}</span><span>規定{'当該': 1}</span>に係る<span>法律{'当該': 1}</span>及び<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'当該': 1}</span>の長</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence><span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence><span>総務大臣{'当該': 1}</span>、<span>経済産業大臣{'当該': 1}</span>及び<span>革新的{'当該': 1}</span><span>データ{'当該': 1}</span><span>産業{'当該': 1}</span><span>活用{'当該': 1}</span><span>計画{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>行政機関{'大臣': 1, '当該': 1}</span>の<span>長{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'当該': 1}</span>における<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>は、<span>主務大臣{'当該': 1}</span>の<span>発する{'行わ': 1}</span><span>命令{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1"><span>前項{'法律': 1, '当該': 1}</span>の<span>規定{'当該': 1}</span>に<span>かかわら{'行わ': 1}</span>ず、第<span>二条{'当該': 1}</span>第三項、第十<span>一条{'当該': 1}</span>第三項第七号及び第十五条における<span>主務{'当該': 1}</span><span>省令{'当該': 1}</span>は、<span>規制{'当該': 1}</span>について<span>規定{'当該': 1}</span>する<span>法律{'当該': 1}</span>及び法律に基づく命令（人事院規則、公正取引委員会規則、国家公安委員会規則、個人情報保護委員会規則、カジノ管理委員会規則、公害等調整委員会規則、公安審査委員会規則、中央労働委員会規則、運輸安全委員会規則及び原子力規制委員会規則を除く。）を所管する内閣官房、内閣府又は各省の内閣官房令（告示を含む。）、内閣府令（告示を含む。）又は省令（告示を含む。）とする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、人事院、公正取引委員会、国家公安委員会、個人情報保護委員会、カジノ管理委員会、公害等調整委員会、公安審査委員会、中央労働委員会、運輸安全委員会又は原子力規制委員会の所管に係る規制については、それぞれ人事院規則、公正取引委員会規則、国家公安委員会規則、個人情報保護委員会規則、カジノ管理委員会規則、公害等調整委員会規則、公安審査委員会規則、中央労働委員会規則、運輸安全委員会規則又は原子力規制委員会規則とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="53">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律による<span>経済産業大臣{'当該': 1}</span>及び主務大臣の<span>権限{'当該': 1}</span>は、経済産業大臣の権限に<span>あっ{'行わ': 1}</span>ては<span>経済産業省令{'経済産業大臣': 1, '政令': 1, '当該': 1}</span>に<span>定める{'行わ': 1}</span>ところにより、<span>主務大臣{'当該': 1}</span>の<span>権限{'当該': 1}</span>にあっては主務省令で定めるところにより、<span>地方支分部局{'当該': 1}</span>の長に<span>それぞれ{'委任': 1}</span><span>委任{'法律': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="54">
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十八条第五項の規定に違反した者は、一年以下の<span>懲役{'当該': 1}</span>又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="55">
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当するときは、その<span>違反行為{'当該': 1}</span>をした者は、三十万円以下の<span>罰金{'当該': 1}</span>に<span>処する{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十条第一項の<span>規定{'当該': 1}</span>による<span>報告{'当該': 1}</span>をせず、若しくは<span>虚偽{'当該': 1}</span>の<span>報告{'当該': 1}</span>をし、又は同<span>項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>検査{'当該': 1}</span>を<span>拒み{'行わ': 1}</span>、<span>妨げ{'行わ': 1}</span>、若しくは<span>忌避{'当該': 1}</span>したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五十条第一項<span>又は{'若しくは': 1}</span>第三項の<span>規定{'当該': 1}</span>による<span>報告{'当該': 1}</span>をせず、<span>又は{'若しくは': 1}</span><span>虚偽{'当該': 1}</span>の<span>報告{'当該': 1}</span>をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="56">
+          <ArticleTitle>第五十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>法人{'当該': 1}</span>の<span>代表者{'当該': 1}</span>又は<span>法人{'当該': 1}</span>若しくは<span>人{'当該': 1}</span>の<span>代理人{'当該': 1}</span>、<span>使用人{'当該': 1}</span>その他の<span>従業者{'当該': 1}</span>が、その<span>法人{'当該': 1}</span>又は<span>人{'当該': 1}</span>の<span>業務{'当該': 1}</span>に関し、<span>前条{'前項': 1, '当該': 1}</span>の<span>違反行為{'当該': 1}</span>をしたときは、<span>行為{'当該': 1}</span>者を<span>罰する{'行わ': 1}</span><span>ほか{'当該': 1}</span>、その<span>法人{'当該': 1}</span>又は<span>人{'当該': 1}</span>に対して同<span>条{'項': 2, '当該': 1}</span>の<span>刑{'当該': 1}</span>を<span>科する{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>三月{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'当該': 1}</span>第三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（この法律の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'当該': 1}</span>は、この法律の<span>施行{'変更': 1}</span>の日から三年以内に廃止するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（施行前の準備）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第三十三条の規定による委員会の委員の任命に関し必要な行為は、この法律の施行の日前においても、同条の規定の例によりすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行<span>前{'当該': 1}</span>にした行為に対する罰則の適用については、なお<span>従前{'当該': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月二七日法律第八〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して<span>三年{'一年': 1, '当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>略{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第十一章、第二百三十五条、第二百三十九条第一項（第四十四号に係る部分に限る。）、第二百四十三条第一項（第四号（第二百三十九条第一項第四十四号に係る部分に<span>限る{'除く': 1}</span>。）に係る部分に限る。）及び第三項並びに第二百五十一条並びに<span>附則{'規定': 1, '当該': 1}</span>第五条、第七条、第八条（行政手続等における情報通信の技術の利用に関する<span>法律{'当該': 1}</span>（平成十四年<span>法律{'当該': 1}</span>第百五十一号）第十二条の<span>改正{'当該': 1}</span>規定に限る。）、第九条、第十条、第十二条、第十四条（特定複合観光施設区域の整備の推進に関する法律第十九条第二項の改正規定に限る。）、第十五条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence><span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span><span>六月{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'施行': 3}</span>は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（<span>附則{'当該': 1}</span>第一条各号に掲げる<span>規定{'当該': 1}</span>にあっては、当該規定。以下この<span>条{'当該': 1}</span>において同じ。）の施行前にした行為<span>並びに{'及び': 4}</span>この附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'前条': 1}</span>に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

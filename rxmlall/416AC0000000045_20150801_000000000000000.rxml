@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="45" Year="16">
+  <LawNum>平成十六年法律第四十五号</LawNum>
+  <LawBody>
+    <LawTitle>労働審判法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、労働契約の存否その他の労働関係に関する事項について個々の労働者と事業主との間に生じた民事に関する紛争（以下「個別労働関係民事紛争」という。）に関し、裁判所において、<span>裁判官{'被害者': 1}</span>及び労働関係に関する専門的な知識経験を有する者で<span>組織{'手続': 1}</span>する<span>委員会{'規定': 1}</span>が、<span>当事者{'手続': 1}</span>の<span>申立て{'手続': 1}</span>により、<span>事件{'手続': 1}</span>を審理し、調停の成立による解決の見込みがある場合にはこれを試み、その解決に至らない場合には、<span>労働審判{'手続': 1}</span>（個別労働関係民事紛争について当事者間の権利関係を踏まえつつ事案の実情に即した解決をするために必要な審判をいう。以下同じ。）を行う手続（以下「労働審判手続」という。）を設けることにより、紛争の実情に即した迅速、適正かつ実効的な解決を図ることを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（管轄）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判手続に係る事件（以下「労働審判事件」という。）は、相手方の住所、居所、<span>営業所{'手続': 1}</span><span>若しくは{'又は': 1}</span><span>事務所{'規定': 1}</span>の所在地を管轄する地方裁判所、個別労働関係民事紛争が生じた労働者と事業主との間の労働関係に基づいて当該労働者が現に就業し若しくは最後に就業した当該事業主の事業所の所在地を管轄する地方裁判所又は<span>当事者{'規定': 1}</span>が合意で定める地方裁判所の管轄とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判事件は、日本国内に相手方（法人その他の社団又は財団を<span>除く{'ある': 1}</span>。）の<span>住所{'規定': 1}</span>及び<span>居所{'規定': 1}</span>がないとき、<span>又は{'ただし': 1}</span><span>住所{'規定': 1}</span>及び<span>居所{'住所': 2, '規定': 1}</span>が<span>知れ{'ある': 1}</span>ないときは、その<span>最後{'規定': 1}</span>の<span>住所{'所在地': 1, '規定': 1}</span>地を管轄する地方裁判所の管轄に属する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>労働審判{'規定': 1}</span>事件は、相手方が法人その他の社団又は<span>財団{'規定': 1}</span>（<span>外国{'規定': 1}</span>の<span>社団{'規定': 1}</span>又は財団を除く。）である場合において、<span>日本国内{'規定': 1}</span>にその事務所<span>若しくは{'ただし': 1}</span><span>営業所{'規定': 1}</span>がないとき、又はその事務所若しくは営業所の所在地が知れないときは、代表者その他の主たる業務<span>担当{'手続': 1}</span>者の<span>住所{'所在地': 1}</span>地を管轄する地方裁判所の管轄に属する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>労働審判{'規定': 1}</span>事件は、相手方が外国の社団又は財団である場合において、<span>日本国内{'規定': 1}</span>にその事務所又は営業所がないときは、日本における代表者その他の主たる業務<span>担当{'手続': 1}</span>者の住所地を管轄する地方裁判所の管轄に属する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（移送）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、<span>労働審判{'規定': 1}</span>事件の全部又は一部がその管轄に<span>属し{'ある': 1}</span>ないと<span>認める{'ある': 1}</span>ときは、<span>申立て{'手続': 1}</span>により又は職権で、これを管轄裁判所に移送する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、<span>労働審判{'規定': 1}</span>事件がその管轄に属する場合においても、事件を<span>処理{'規定': 1}</span>するために<span>適当{'裁判所': 1, '規定': 1}</span>と<span>認める{'ある': 1}</span>ときは、申立てにより又は職権で、当該<span>労働審判{'規定': 1}</span>事件の全部又は一部を他の管轄裁判所に移送することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（代理人）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"><span>労働審判{'規定': 1}</span>手続については、法令により裁判上の行為をすることができる代理人の<span>ほか{'規定': 1}</span>、<span>弁護士{'規定': 1}</span>でなければ<span>代理人{'訴訟代理人': 1, '規定': 1}</span>と<span>なる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>裁判所{'規定': 1}</span>は、<span>当事者{'手続': 1}</span>の権利利益の保護及び労働審判手続の円滑な進行のために必要かつ相当と認めるときは、弁護士でない者を<span>代理人{'規定': 1}</span>とすることを<span>許可{'手続': 1}</span>することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>裁判所{'手続': 1}</span>は、<span>前項{'手続': 1}</span><span>ただし書{'規定': 1}</span>の<span>規定{'手続': 1}</span>による許可を取り消すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（労働審判手続の申立て）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">当事者は、個別労働関係民事紛争の解決を図るため、<span>裁判所{'規定': 1}</span>に対し、<span>労働審判{'更生': 1}</span>手続の申立てをすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申立ては、申立書を裁判所に<span>提出{'規定': 1}</span>してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>申立{'規定': 1}</span>書には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>当事者{'手続': 1}</span>及び<span>法定代理人{'規定': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>申立て{'手続': 1}</span>の趣旨及び理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（不適法な申立ての却下）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、<span>労働審判{'手続': 1}</span>手続の申立てが不適法であると認めるときは、決定で、その申立てを却下しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（労働審判委員会）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、労働審判官一人及び<span>労働審判{'手続': 1}</span>員二人で組織する労働審判委員会で労働審判手続を行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（労働審判官の指定）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判官は、地方裁判所が当該地方裁判所の裁判官の中から指定する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（労働審判員）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員は、この法律の定めるところにより、労働審判委員会が行う労働審判手続に関与し、中立かつ公正な立場において、労働審判事件を処理するために必要な職務を行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員は、労働関係に関する専門的な知識経験を有する者のうちから任命する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員は、非常勤とし、前項に規定するもののほか、その任免に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員には、別に法律で定めるところにより手当を支給し、並びに最高裁判所規則で定める額の旅費、日当及び宿泊料を支給する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（労働審判員の指定）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会を組織する労働審判員は、労働審判事件ごとに、裁判所が指定する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、前項の規定により労働審判員を指定するに当たっては、労働審判員の有する知識経験その他の事情を総合的に勘案し、労働審判委員会における労働審判員の構成について適正を確保するように配慮しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（労働審判員の除斥）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員の除斥については、非訟事件手続法（平成二十三年法律第五十一号）第十一条並びに第十三条第二項、第四項、第八項及び第九項の規定（忌避に関する部分を除く。）を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員の除斥についての裁判は、労働審判員の所属する地方裁判所がする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（決議等）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会の決議は、過半数の意見による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会の評議は、秘密とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（労働審判手続の指揮）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判手続は、労働審判官が指揮する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（労働審判手続の期日等）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判官は、労働審判手続の期日を定めて、事件の関係人を<span>呼び出さ{'ある': 1}</span>なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所書記官は、前項の期日について、その経過の要領を記録上明らかにしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所書記官は、労働審判官が命じた場合には、第一項の期日について、調書を作成しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（迅速な手続）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>労働審判委員会{'手続': 1}</span>は、速やかに、当事者の陳述を聴いて争点及び証拠の整理をしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>労働審判{'届出': 1}</span>手続においては、特別の事情がある場合を除き、三回以内の期日において、審理を終結しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="16">
+        <ArticleCaption>（手続の非公開）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">労働審判手続は、公開しない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、労働審判委員会は、相当と認める者の傍聴を許すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17">
+        <ArticleCaption>（証拠調べ等）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会は、職権で事実の調査をし、かつ、申立てにより又は<span>職権{'規定': 1}</span>で、<span>必要{'手続': 1}</span>と<span>認める{'ある': 1}</span><span>証拠調べ{'規定': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>証拠調べ{'手続': 1}</span>については、<span>民事訴訟{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'でき': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="18">
+        <ArticleCaption>（調停が成立した場合の費用の負担）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">各当事者は、調停が成立した場合において、その<span>支出{'規定': 1}</span>した費用のうち調停<span>条項{'子': 1}</span>中に費用の負担についての定めがないものを自ら負担するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="19">
+        <ArticleCaption>（審理の終結）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会は、審理を終結するときは、<span>労働審判{'手続': 1}</span>手続の期日においてその旨を宣言しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20">
+        <ArticleCaption>（労働審判）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会は、審理の結果認められる当事者間の権利関係及び労働審判手続の経過を踏まえて、労働審判を行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判においては、当事者間の権利関係を確認し、金銭の支払、<span>物{'請求': 1}</span>の引渡しその他の財産上の給付を命じ、その他個別労働関係民事紛争の解決をするために相当と認める事項を定めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判は、主文及び理由の要旨を記載した<span>審判{'決定': 1, '届出': 1}</span>書を<span>作成{'手続': 1}</span>して<span>行わ{'ある': 1}</span>なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>前項{'規定': 1}</span>の審判書は、当事者に送達しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、<span>労働審判{'規定': 1}</span>の効力は、当事者に送達された時に生ずる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の<span>規定{'手続': 1}</span>による<span>審判{'規定': 1}</span>書の<span>送達{'規定': 1}</span>については、<span>民事訴訟法{'手続': 1}</span>（平成八年<span>法律{'規定': 1}</span>第百九号）第一編第五章第四節（第百四条及び第百十条から第百十三条までを除く。）の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>労働審判委員会{'規定': 1}</span>は、相当と認めるときは、第三項の規定にかかわらず、審判書の作成に代えて、すべての当事者が出頭する<span>労働審判{'手続': 1}</span>手続の期日において<span>労働審判{'手続': 1}</span>の主文及び理由の要旨を口頭で告知する方法により、<span>労働審判{'規定': 1}</span>を行うことができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、労働審判の効力は、告知された時に生ずる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7" OldStyle="false">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、前項前段の規定により労働審判が行われたときは、裁判所書記官に、その主文及び理由の要旨を、調書に記載させなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="21">
+        <ArticleCaption>（異議の申立て等）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">当事者は、労働審判に対し、前条第四項の規定による審判書の送達又は同条第六項の規定による労働審判の告知を受けた日から二週間の不変期間内に、裁判所に<span>異議{'規定': 1}</span>の<span>申立て{'規定': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>裁判所{'前項': 1, '規定': 1}</span>は、<span>異議{'規定': 1}</span>の<span>申立て{'規定': 1}</span>が<span>不適法{'手続': 1}</span>であると<span>認める{'ある': 1}</span>ときは、<span>決定{'規定': 1}</span>で、これを<span>却下{'即時抗告': 1, '手続': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">適法な異議の申立てがあったときは、<span>労働審判{'規定': 1}</span>は、その効力を失う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">適法な異議の申立てがないときは、<span>労働審判{'手続': 1}</span>は、裁判上の和解と同一の効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の場合において、各当事者は、その支出した費用のうち<span>労働審判{'規定': 1}</span>に費用の負担についての定めがないものを自ら負担するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="22">
+        <ArticleCaption>（訴え提起の擬制）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>労働審判{'場合': 1}</span>に対し適法な異議の申立てが<span>あっ{'ある': 1}</span>たときは、労働審判手続の申立てに係る請求については、当該労働審判手続の申立ての時に、当該労働審判が行われた際に労働審判事件が係属していた地方裁判所に訴えの提起があったものと<span>みなす{'ある': 1}</span>。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>当該{'規定': 1}</span><span>請求{'規定': 1}</span>について<span>民事訴訟法{'手続': 1}</span>第一編第二章第<span>一節{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>日本の裁判所{'手続': 1}</span>が<span>管轄権{'規定': 1}</span>を<span>有{'訴え': 1, '規定': 1}</span>しないときは、<span>提起{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなさ{'ある': 1}</span>れた<span>訴え{'規定': 1}</span>を<span>却下{'提起': 3, '規定': 1}</span>するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>訴え{'規定': 1}</span>の<span>提起{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなさ{'ある': 1}</span>れる<span>事件{'場合': 1, '規定': 1}</span>（同<span>項{'規定': 1}</span><span>後段{'規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>却下{'規定': 1}</span>するものとされる<span>訴え{'規定': 1}</span>に係るものを<span>除く{'ある': 1}</span>。）は、同<span>項{'規定': 1}</span>の<span>地方裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>に<span>属する{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>により<span>訴え{'規定': 1}</span>の<span>提起{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなさ{'ある': 1}</span>れたときは、<span>民事訴訟法{'規定': 1}</span>第百三十七条、第百三十八条及び第百五十八条の<span>規定{'手続': 1}</span>の<span>適用{'規定': 1}</span>については、第五条第二項の<span>申立{'規定': 1}</span>書を<span>訴状{'規定': 1}</span>と<span>みなす{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="23">
+        <ArticleCaption>（労働審判の取消し）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二十条第四項の<span>規定{'手続': 1}</span>により<span>審判{'規定': 1}</span>書を<span>送達{'手続': 1}</span>すべき<span>場合{'手続': 1}</span>において、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>事由があるときは、裁判所は、決定で、<span>労働審判{'手続': 1}</span>を取り消さなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当事者の住所、居所その他送達をすべき<span>場所{'規定': 1}</span>が<span>知れ{'ある': 1}</span>ないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第二十条第五項において<span>準用{'規定': 1}</span>する<span>民事訴訟法{'規定': 1}</span>第百七条第一項の<span>規定{'手続': 1}</span>により<span>送達{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>外国{'規定': 1}</span>においてすべき<span>送達{'規定': 1}</span>について、第二十条第五項において<span>準用{'規定': 1}</span>する<span>民事訴訟法{'規定': 1}</span>第百八条の<span>規定{'手続': 1}</span>によることが<span>でき{'ある': 1}</span>ず、又はこれによっても<span>送達{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ないと<span>認め{'ある': 1}</span>られること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第二十条第五項において<span>準用{'場合': 1, '規定': 1}</span>する<span>民事訴訟法{'場合': 1, '規定': 1}</span>第百八条の<span>規定{'手続': 1}</span>により外国の管轄官庁に嘱託を<span>発し{'ある': 1}</span>た後六月を経過してもその送達を証する書面の<span>送付{'規定': 1}</span>がないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前条の規定は、前項の規定により<span>労働審判{'規定': 1}</span>が取り消された場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="24">
+        <ArticleCaption>（労働審判をしない場合の労働審判事件の終了）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判委員会は、事案の性質に照らし、<span>労働審判{'規定': 1}</span>手続を行うことが紛争の迅速かつ適正な解決のために適当でないと認めるときは、<span>労働審判{'再生': 1, '規定': 1}</span>事件を終了させることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十二条の<span>規定{'準用': 1, '手続': 1}</span>は、前項の規定により労働審判事件が終了した<span>場合{'手続': 1}</span>について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「当該労働審判が行われた際に労働審判事件が係属していた」とあるのは、「労働審判事件が終了した際に当該労働審判事件が係属していた」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="24_2">
+        <ArticleCaption>（労働審判手続の申立ての取下げ）</ArticleCaption>
+        <ArticleTitle>第二十四条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判手続の申立ては、労働審判が確定するまで、その全部又は一部を取り下げることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="25">
+        <ArticleCaption>（費用の負担）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">裁判所は、労働審判事件が終了した場合（第十八条及び第二十一条第五項に規定する場合を<span>除く{'ある': 1}</span>。）において、<span>必要{'規定': 1}</span>と<span>認める{'ある': 1}</span>ときは、申立てにより又は職権で、当該<span>労働審判{'規定': 1}</span>事件に関する手続の費用の負担を命ずる<span>決定{'手続': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="26">
+        <ArticleCaption>（事件の記録の閲覧等）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>当事者{'手続': 1}</span>及び利害関係を疎明した第三者は、裁判所書記官に対し、<span>労働審判{'当該': 1, '規定': 1}</span>事件の記録の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又は<span>労働審判{'規定': 1}</span>事件に関する事項の証明書の交付を請求することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>民事訴訟法{'手続': 1}</span>第九十<span>一条{'手続': 1}</span>第四項及び第五項並びに第九十二条の規定は、前項の記録について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="27">
+        <ArticleCaption>（訴訟手続の中止）</ArticleCaption>
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>労働審判{'裁判所': 1, '規定': 1}</span>手続の申立てがあった事件について訴訟が係属するときは、受訴裁判所は、<span>労働審判{'手続': 1}</span>事件が終了するまで訴訟手続を中止することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="28">
+        <ArticleCaption>（即時抗告）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二十五条の<span>規定{'手続': 1}</span>による<span>決定{'手続': 1}</span>に対しては、<span>即時抗告{'手続': 1}</span>をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第六条、第二十<span>一条{'手続': 1}</span>第二項、第二十三条第一項及び第二十五条の規定による決定に対する即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="29">
+        <ArticleCaption>（非訟事件手続法及び民事調停法の準用）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特別の定めがある場合を除いて、<span>労働審判{'規定': 1}</span>事件に関しては、非訟事件手続法第二編の規定（<span>同法{'規定': 1}</span>第十二条（同法第十四条及び第十五条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）、第二十七条、第四十条、第五十二条、第五十三条及び第六十五条の<span>規定{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第四十三条第四項中「第二項」とあるのは、「労働審判法（平成十六年法律第四十五号）第五条第三項」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">民事調停法（昭和二十六年法律第二百二十二号）第十一条、第十二条、第十六条及び第三十六条の規定は、<span>労働審判{'規定': 1}</span>事件について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第十一条中「調停の」とあるのは「<span>労働審判{'手続': 1}</span>手続の」と、「調停委員会」とあるのは「労働審判委員会」と、「調停手続」とあるのは「労働審判手続」と、同法第十二条第一項中「調停委員会」とあるのは「労働審判委員会」と、「調停の」とあるのは「調停又は労働審判の」と、「調停前の措置」とあるのは「調停又は労働審判前の措置」と、同法第三十六条第一項中「前二条」とあるのは「<span>労働審判法{'手続': 1}</span>（平成十六年法律第四十五号）第三十一条及び第三十二条」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="30">
+        <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律に定めるもののほか、<span>労働審判{'規定': 1}</span>手続に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="31">
+        <ArticleCaption>（不出頭に対する制裁）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判官の呼出しを受けた事件の関係人が正当な理由がなく<span>出頭{'手続': 1}</span>しないときは、<span>裁判所{'家庭裁判所': 1, '規定': 1}</span>は、五万円以下の<span>過料{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="32">
+        <ArticleCaption>（措置違反に対する制裁）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>当事者{'規定': 1}</span>が正当な理由がなく第二十九条第二項において<span>準用{'出頭': 1}</span>する<span>民事調停法{'規定': 1}</span>第十二条の規定による措置に従わないときは、裁判所は、十万円以下の過料に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="33">
+        <ArticleCaption>（評議の秘密を漏らす罪）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員又は労働審判員であった者が正当な理由がなく評議の経過又は労働審判官若しくは労働審判員の意見若しくはその多少の数を漏らしたときは、三十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="34">
+        <ArticleCaption>（人の秘密を漏らす罪）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">労働審判員又は労働審判員であった者が正当な理由がなくその職務上<span>取り扱っ{'ある': 1}</span>たことについて知り得た人の秘密を漏らしたときは、一年以下の<span>懲役{'手続': 1}</span>又は五十万円以下の<span>罰金{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>第九条{'附則': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span><span>六月{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423036" AmendLawNum="平成二三年五月二日法律第三六号" Extract="true" Id="d8926459-a6be-48c8-b43a-8b05cb3ba147">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

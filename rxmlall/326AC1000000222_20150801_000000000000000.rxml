@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="222" Year="26">
+  <LawNum>昭和二十六年法律第二百二十二号</LawNum>
+  <LawBody>
+    <LawTitle>民事調停法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第一条―第二十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　民事調停官</SectionTitle>
+          <ArticleRange>（第二十三条の二―第二十三条の五）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　特則</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　宅地建物調停</SectionTitle>
+          <ArticleRange>（第二十四条―第二十四条の三）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　農事調停</SectionTitle>
+          <ArticleRange>（第二十五条―第三十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　商事調停</SectionTitle>
+          <ArticleRange>（第三十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　鉱害調停</SectionTitle>
+          <ArticleRange>（第三十二条・第三十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="5">
+          <SectionTitle>第五節　交通調停</SectionTitle>
+          <ArticleRange>（第三十三条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="6">
+          <SectionTitle>第六節　公害等調停</SectionTitle>
+          <ArticleRange>（第三十三条の三）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　罰則</ChapterTitle>
+        <ArticleRange>（第三十四条―第三十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="1">
+            <ArticleCaption>（この法律の目的）</ArticleCaption>
+            <ArticleTitle>第一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この法律は、民事に関する紛争につき、当事者の互譲により、条理にかない実情に即した解決を図ることを目的とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="2">
+            <ArticleCaption>（調停事件）</ArticleCaption>
+            <ArticleTitle>第二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事に関して紛争を<span>生じ{'ある': 1}</span>たときは、<span>当事者{'規定': 1}</span>は、<span>裁判所{'手続': 1}</span>に<span>調停{'規定': 1}</span>の<span>申立て{'規定': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="3">
+            <ArticleCaption>（管轄）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停{'規定': 1}</span><span>事件{'規定': 1}</span>は、<span>特別{'手続': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>を<span>除い{'ある': 1}</span>て、<span>相手方{'規定': 1}</span>の<span>住所{'手続': 1}</span>、<span>居所{'規定': 1}</span>、<span>営業所{'手続': 1}</span><span>若しくは{'又は': 1}</span>事務所の所在地を管轄する<span>簡易裁判所{'地方裁判所': 1, '規定': 1}</span>又は当事者が合意で定める地方裁判所若しくは簡易裁判所の管轄とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停事件は、日本国内に相手方（法人その他の社団又は財団を<span>除く{'ある': 1}</span>。）の<span>住所{'規定': 1}</span>及び<span>居所{'規定': 1}</span>がないとき、<span>又は{'ただし': 1}</span><span>住所{'規定': 1}</span>及び<span>居所{'住所': 2, '規定': 1}</span>が知れないときは、その最後の<span>住所{'所在地': 1}</span>地を管轄する<span>簡易裁判所{'地方裁判所': 1, '家庭裁判所': 1, '規定': 1}</span>の管轄に属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停事件は、相手方が<span>法人{'規定': 1}</span>その他の<span>社団{'手続': 1}</span>又は<span>財団{'規定': 1}</span>（<span>外国{'規定': 1}</span>の<span>社団{'規定': 1}</span>又は財団を除く。）である場合において、<span>日本国内{'規定': 1}</span>にその事務所<span>若しくは{'ただし': 1}</span><span>営業所{'規定': 1}</span>がないとき、又はその事務所若しくは営業所の所在地が知れないときは、代表者その他の主たる業務担当者の<span>住所{'所在地': 1}</span>地を管轄する<span>簡易裁判所{'地方裁判所': 1, '裁判所': 1}</span>の管轄に属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停事件は、相手方が<span>外国{'規定': 1}</span>の社団又は財団である場合において、<span>日本国内{'規定': 1}</span>にその事務所又は営業所がないときは、日本における代表者その他の主たる業務担当者の住所地を管轄する<span>簡易裁判所{'地方裁判所': 1, '裁判所': 1}</span>の管轄に属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（移送等）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所{'訴訟': 1}</span>は、<span>調停{'労働審判': 1}</span>事件の<span>全部{'届出': 1}</span>又は<span>一部{'規定': 1}</span>がその<span>管轄{'規定': 1}</span>に<span>属し{'ある': 1}</span>ないと<span>認める{'ある': 1}</span>とき（<span>次項{'規定': 1}</span><span>本文{'法': 1, '規定': 1}</span>に<span>規定{'手続': 1}</span>するときを<span>除く{'ある': 1}</span>。）は、<span>申立て{'規定': 1}</span>により又は<span>職権{'規定': 1}</span>で、これを管轄権のある地方裁判所又は<span>簡易裁判所{'規定': 1}</span>に移送しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事件を処理するために特に<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>職権{'規定': 1}</span>で、<span>土地{'規定': 1}</span><span>管轄{'表示': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>事件{'規定': 1}</span>の<span>全部{'規定': 1}</span>又は<span>一部{'規定': 1}</span>を<span>他{'規定': 1}</span>の<span>管轄裁判所{'規定': 1}</span>に<span>移送{'規定': 1}</span>し、又は<span>自ら{'規定': 1}</span><span>処理{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>調停{'労働審判': 1, '規定': 1}</span><span>事件{'規定': 1}</span>の<span>全部{'届出': 1}</span>又は<span>一部{'規定': 1}</span>がその<span>管轄{'規定': 1}</span>に<span>属し{'ある': 1}</span>ないと<span>認める{'ある': 1}</span><span>場合{'規定': 1}</span>であって、その<span>事件{'規定': 1}</span>が<span>家事事件手続法{'規定': 1}</span>（平成二十三年<span>法律{'手続': 1}</span>第五十二号）第二百四十四条の<span>規定{'手続': 1}</span>により<span>家庭裁判所{'規定': 1}</span>が<span>調停{'規定': 1}</span>を<span>行う{'ある': 1}</span>ことができる<span>事件{'規定': 1}</span>であるときは、<span>職権{'規定': 1}</span>で、これを<span>管轄{'手続': 1}</span>権の<span>ある{'でき': 1}</span><span>家庭裁判所{'規定': 1}</span>に<span>移送{'規定': 1}</span>しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>事件{'規定': 1}</span>を<span>処理{'規定': 1}</span>するために<span>特に{'相当': 1}</span><span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>土地{'規定': 1}</span><span>管轄{'手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>事件{'規定': 1}</span>の<span>全部{'規定': 1}</span>又は<span>一部{'規定': 1}</span>を<span>他{'規定': 1}</span>の<span>家庭裁判所{'管轄裁判所': 2, '規定': 1}</span>に<span>移送{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>調停{'労働審判': 1, '規定': 1}</span><span>事件{'規定': 1}</span>がその<span>管轄{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>場合{'規定': 1}</span>においても、<span>事件{'規定': 1}</span>を<span>処理{'規定': 1}</span>するために<span>適当{'規定': 1}</span>であると<span>認める{'ある': 1}</span>ときは、<span>職権{'規定': 1}</span>で、<span>土地{'規定': 1}</span><span>管轄{'前項': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>事件{'規定': 1}</span>の<span>全部{'規定': 1}</span>又は<span>一部{'規定': 1}</span>を<span>他{'規定': 1}</span>の<span>管轄裁判所{'規定': 1}</span>に<span>移送{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="4_2">
+            <ArticleCaption>（調停の申立て）</ArticleCaption>
+            <ArticleTitle>第四条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停{'規定': 1}</span>の<span>申立て{'規定': 1}</span>は、<span>申立{'場合': 1, '手続': 1}</span>書を<span>裁判所{'規定': 1}</span>に<span>提出{'手続': 1}</span>してしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>申立{'規定': 1}</span>書には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当事者{'手続': 1}</span>及び<span>法定代理人{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">申立ての趣旨及び紛争の要点</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（調停機関）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、調停委員会で調停を行う。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所が相当であると認めるときは、裁判官<span>だけ{'とともに': 1}</span>でこれを行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'家庭裁判所': 1}</span>は、当事者の申立てがあるときは、前項<span>ただし書{'規定': 1}</span>の規定にかかわらず、調停委員会で<span>調停{'規定': 1}</span>を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（調停委員会の組織）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、調停主任一人及び<span>民事調停{'家事調停': 1}</span>委員二人以上で組織する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（調停主任等の指定）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停主任は、裁判官の中から、地方裁判所が指定する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会を組織する民事調停委員は、裁判所が各<span>事件{'規定': 1}</span>について指定する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（民事調停委員）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停委員は、調停委員会で行う調停に関与するほか、裁判所の命を受けて、他の調停事件について、<span>専門{'規定': 1}</span>的な知識経験に基づく意見を<span>述べ{'ある': 1}</span>、嘱託に係る紛争の解決に関する事件の関係人の<span>意見{'規定': 1}</span>の<span>聴取{'手続': 1}</span>を<span>行い{'ある': 1}</span>、その他調停事件を処理するために必要な最高裁判所の定める事務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停委員は、非常勤とし、その任免に関して必要な事項は、<span>最高裁判所{'最高裁判所規則': 1}</span>が定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（民事調停委員の除斥）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>民事調停{'専門': 1, '家事調停': 1}</span>委員の除斥については、非訟事件手続法（平成二十三年法律第五十一号）第十一条、第十三条第二項、第八項及び第九項並びに第十四条第二項の規定（忌避に関する部分を除く。）を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停委員の除斥についての裁判は、<span>民事調停{'監督': 1}</span>委員の所属する裁判所がする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（手当等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>民事調停{'監督': 1}</span>委員には、別に法律で定めるところにより手当を支給し、並びに<span>最高裁判所{'最高裁判所規則': 1}</span>の定めるところにより<span>旅費{'額': 2}</span>、日当及び宿泊料を支給する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（利害関係人の参加）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停の結果について利害関係を有する者は、<span>調停委員{'手続': 1}</span>会の許可を受けて、調停手続に参加することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停委員{'手続': 1}</span>会は、相当であると認めるときは、<span>調停{'当事者': 1}</span>の<span>結果{'場合': 1}</span>について利害関係を有する者を調停手続に参加させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（調停前の措置）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、調停のために特に必要があると認めるときは、<span>当事者{'規定': 1}</span>の<span>申立て{'手続': 1}</span>により、<span>調停{'手続': 1}</span><span>前{'規定': 1}</span>の<span>措置{'規定': 1}</span>として、相手方その他の事件の関係人に対して、現状の変更又は物の<span>処分{'終了': 1}</span>の禁止その他調停の内容たる事項の実現を不能<span>にし{'手続': 1}</span>又は著しく困難ならしめる行為の<span>排除{'手続': 1}</span>を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の措置は、執行力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_2">
+            <ArticleCaption>（調停手続の指揮）</ArticleCaption>
+            <ArticleTitle>第十二条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会における調停手続は、調停主任が指揮する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_3">
+            <ArticleCaption>（期日の呼出し）</ArticleCaption>
+            <ArticleTitle>第十二条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、調停手続の期日を定めて、事件の関係人を呼び出さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_4">
+            <ArticleCaption>（調停の場所）</ArticleCaption>
+            <ArticleTitle>第十二条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、事件の実情を考慮して、裁判所外の適当な場所で調停を<span>行う{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_5">
+            <ArticleCaption>（調書の作成）</ArticleCaption>
+            <ArticleTitle>第十二条の五</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>裁判所書記官{'規定': 1}</span>は、<span>調停{'規定': 1}</span><span>手続{'口頭弁論': 1, '規定': 1}</span>の<span>期日{'手続': 1}</span>について、調書を作成しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、調停<span>主任{'規定': 1}</span>においてその必要がないと認めるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_6">
+            <ArticleCaption>（記録の閲覧等）</ArticleCaption>
+            <ArticleTitle>第十二条の六</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">当事者又は利害関係を<span>疎明{'規定': 1}</span>した<span>第三者{'規定': 1}</span>は、<span>裁判所書記官{'規定': 1}</span>に対し、<span>調停{'当該': 1, '規定': 1}</span>事件の記録の閲覧若しくは<span>謄写{'規定': 1}</span>、その正本、謄本若しくは抄本の交付又は<span>調停{'規定': 1}</span><span>事件{'事項': 1, '規定': 1}</span>に関する<span>証明書{'事項': 1, '規定': 1}</span>の<span>交付{'規定': 1}</span>を<span>請求{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>民事訴訟法{'規定': 1}</span>（平成八年<span>法律{'手続': 1}</span>第百九号）第九十<span>一条{'規定': 1}</span>第四項及び第五項の規定は、前項の記録について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12_7">
+            <ArticleCaption>（事実の調査及び証拠調べ等）</ArticleCaption>
+            <ArticleTitle>第十二条の七</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停委員{'裁判所': 1, '規定': 1}</span>会は、職権で事実の調査をし、かつ、申立てにより又は職権で、必要と認める証拠調べをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、調停主任に事実の調査又は証拠調べをさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（調停をしない場合）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、事件が性質上調停をするのに適当でないと認めるとき、又は<span>当事者{'規定': 1}</span>が<span>不当{'手続': 1}</span>な<span>目的{'手続': 1}</span>で<span>みだり{'手続': 1}</span>に<span>調停{'手続': 1}</span>の<span>申立て{'規定': 1}</span>をしたと<span>認める{'ある': 1}</span>ときは、調停をしないものとして、事件を終了させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（調停の不成立）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、<span>当事者{'規定': 1}</span>間に合意が成立する見込みがない場合又は成立した合意が相当でないと<span>認める{'ある': 1}</span><span>場合{'規定': 1}</span>において、<span>裁判所{'規定': 1}</span>が第十七条の<span>決定{'当事者': 1, '規定': 1}</span>をしないときは、<span>調停{'手続': 1}</span>が<span>成立{'規定': 1}</span>しないもの<span>として{'とともに': 1}</span>、<span>事件{'規定': 1}</span>を<span>終了{'手続': 1}</span>させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（裁判官の調停への準用）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十一条から前条までの規定は、裁判官<span>だけ{'とともに': 1}</span>で調停を行う場合に<span>準用{'当該': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（調停の成立・効力）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停{'規定': 1}</span>において<span>当事者{'規定': 1}</span>間に<span>合意{'手続': 1}</span>が<span>成立{'規定': 1}</span>し、これを<span>調書{'手続': 1}</span>に<span>記載{'届出': 1}</span>したときは、<span>調停{'規定': 1}</span>が<span>成立{'規定': 1}</span>したものとし、その<span>記載{'手続': 1}</span>は、<span>裁判上の和解{'確定判決': 1, '規定': 1}</span>と同一の効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（調停に代わる決定）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、調停委員会の<span>調停{'訴訟': 1}</span>が成立する見込みがない場合において相当であると認めるときは、当該調停委員会を組織する民事調停委員の意見を聴き、当事者双方のために衡平に考慮し、一切の<span>事情{'規定': 1}</span>を<span>見{'ある': 1}</span>て、<span>職権{'手続': 1}</span>で、<span>当事者{'手続': 1}</span><span>双方{'手続': 1}</span>の<span>申立て{'規定': 1}</span>の<span>趣旨{'手続': 1}</span>に反<span>しない{'規定': 1}</span><span>限度{'規定': 1}</span>で、<span>事件{'手続': 1}</span>の<span>解決{'手続': 1}</span>のために<span>必要{'規定': 1}</span>な決定をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この決定においては、金銭の支払、<span>物{'請求': 1}</span>の引渡しその他の財産上の給付を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（異議の申立て）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の決定に対しては、<span>当事者{'手続': 1}</span>又は<span>利害関係{'規定': 1}</span>人は、<span>異議{'規定': 1}</span>の<span>申立て{'手続': 1}</span>をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">その<span>期間{'規定': 1}</span>は、<span>当事者{'規定': 1}</span>が<span>決定{'手続': 1}</span>の<span>告知{'手続': 1}</span>を<span>受け{'ある': 1}</span>た日から二週間とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>異議{'規定': 1}</span>の<span>申立て{'場合': 1, '規定': 1}</span>が<span>不適法{'規定': 1}</span>であると<span>認める{'ある': 1}</span>ときは、これを<span>却下{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>異議{'規定': 1}</span>の申立てを却下する<span>裁判{'審判': 1}</span>に対する即時抗告は、<span>執行停止{'規定': 1}</span>の効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">適法な異議の申立てが<span>あっ{'ある': 1}</span>たときは、<span>前条{'規定': 1}</span>の<span>決定{'異議': 1, '規定': 1}</span>は、その<span>効力{'手続': 1}</span>を<span>失う{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>期間内{'規定': 1}</span>に<span>異議{'規定': 1}</span>の<span>申立て{'手続': 1}</span>がないときは、<span>前条{'規定': 1}</span>の<span>決定{'規定': 1}</span>は、<span>裁判上の和解{'手続': 1}</span>と<span>同一{'規定': 1}</span>の<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（調停不成立等の場合の訴の提起）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十<span>四条{'手続': 1}</span>（第十五条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>により<span>事件{'規定': 1}</span>が<span>終了{'手続': 1}</span>し、又は<span>前条{'規定': 1}</span>第四項の<span>規定{'手続': 1}</span>により<span>決定{'規定': 1}</span>が<span>効力{'手続': 1}</span>を<span>失っ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、<span>申立{'当該': 1, '規定': 1}</span>人がその旨の<span>通知{'規定': 1}</span>を<span>受け{'ある': 1}</span>た日から二週間以内に<span>調停{'規定': 1}</span>の<span>目的{'規定': 1}</span>と<span>なっ{'ある': 1}</span>た<span>請求{'規定': 1}</span>について<span>訴え{'手続': 1}</span>を<span>提起{'手続': 1}</span>したときは、<span>調停{'規定': 1}</span>の<span>申立て{'規定': 1}</span>の時に、その<span>訴え{'規定': 1}</span>の<span>提起{'申立て': 1, '規定': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19_2">
+            <ArticleCaption>（調停の申立ての取下げ）</ArticleCaption>
+            <ArticleTitle>第十九条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>調停{'規定': 1}</span>の<span>申立て{'規定': 1}</span>は、<span>調停{'手続': 1}</span><span>事件{'規定': 1}</span>が<span>終了{'手続': 1}</span>するまで、その<span>全部{'規定': 1}</span>又は<span>一部{'規定': 1}</span>を<span>取り下げる{'ある': 1}</span>ことができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十<span>七条{'規定': 1}</span>の<span>決定{'規定': 1}</span>がされた後に<span>あっ{'ある': 1}</span>ては、<span>相手方{'規定': 1}</span>の<span>同意{'規定': 1}</span>を<span>得{'ある': 1}</span>なければ、その<span>効力{'手続': 1}</span>を<span>生じ{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（付調停）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>受訴{'規定': 1}</span><span>裁判所{'規定': 1}</span>は、<span>適当{'手続': 1}</span>であると<span>認める{'ある': 1}</span>ときは、<span>職権{'規定': 1}</span>で、<span>事件{'規定': 1}</span>を<span>調停{'規定': 1}</span>に<span>付し{'ある': 1}</span>た上、<span>管轄裁判所{'規定': 1}</span>に<span>処理{'手続': 1}</span>させ又は<span>自ら{'規定': 1}</span><span>処理{'届出': 1}</span>することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>事件{'手続': 1}</span>について<span>争点{'手続': 1}</span>及び<span>証拠{'規定': 1}</span>の<span>整理{'規定': 1}</span>が<span>完了{'手続': 1}</span>した後において、<span>当事者{'手続': 1}</span>の<span>合意{'手続': 1}</span>がない<span>場合{'規定': 1}</span>には、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'本文': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>事件{'規定': 1}</span>を<span>調停{'家事調停': 1, '規定': 1}</span>に<span>付し{'ある': 1}</span>た<span>場合{'期日': 1, '規定': 1}</span>において、<span>調停{'規定': 1}</span>が<span>成立{'規定': 1}</span>し又は第十七条の<span>決定{'規定': 1}</span>が<span>確定{'手続': 1}</span>したときは、<span>訴え{'手続': 1}</span>の<span>取下げ{'提起': 2, '規定': 1}</span>が<span>あっ{'ある': 1}</span>たものと<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>により<span>受訴{'規定': 1}</span><span>裁判所{'規定': 1}</span>が<span>自ら{'手続': 1}</span><span>調停{'規定': 1}</span>により事件を処理する場合には、調停<span>主任{'規定': 1}</span>は、第七条第一項の規定にかかわらず、受訴裁判所がその裁判官の中から<span>指定{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前三項の<span>規定{'手続': 1}</span>は、<span>非訟事件{'事件': 1, '規定': 1}</span>を<span>調停{'規定': 1}</span>に<span>付する{'ある': 1}</span><span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20_2">
+            <ArticleCaption>（調停が成立した場合の費用の負担）</ArticleCaption>
+            <ArticleTitle>第二十条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>調停{'規定': 1}</span>が<span>成立{'規定': 1}</span>した<span>場合{'手続': 1}</span>において、<span>調停{'規定': 1}</span><span>手続{'規定': 1}</span>の<span>費用{'手続': 1}</span>の<span>負担{'手続': 1}</span>について<span>特別{'手続': 1}</span>の<span>定め{'手続': 1}</span>をしなかったときは、その<span>費用{'手続': 1}</span>は、<span>各自{'手続': 1}</span>が<span>負担{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項（同<span>条{'規定': 1}</span>第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）及び第二十四条の二第二項の規定により調停に付された<span>訴訟事件{'規定': 1}</span>又は<span>非訟事件{'訴訟': 1}</span>について調停が成立した場合において、<span>訴訟費用{'手続': 1}</span>及び<span>非訟事件{'規定': 1}</span>の<span>手続{'規定': 1}</span>の<span>費用{'手続': 1}</span>の<span>負担{'手続': 1}</span>について<span>特別{'手続': 1}</span>の<span>定め{'手続': 1}</span>をしなかったときは、その<span>費用{'手続': 1}</span>は、<span>各自{'手続': 1}</span>が<span>負担{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20_3">
+            <ArticleCaption>（訴訟手続等の中止）</ArticleCaption>
+            <ArticleTitle>第二十条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>調停{'手続': 1}</span>の<span>申立て{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>事件{'規定': 1}</span>について<span>訴訟{'規定': 1}</span>が<span>係属{'手続': 1}</span>しているとき、又は第二十条第一項若しくは第二十四条の二第二項の<span>規定{'手続': 1}</span>により<span>事件{'規定': 1}</span>が<span>調停{'手続': 1}</span>に<span>付さ{'ある': 1}</span>れたときは、<span>受訴{'規定': 1}</span><span>裁判所{'手続': 1}</span>は、<span>調停{'手続': 1}</span><span>事件{'規定': 1}</span>が<span>終了{'手続': 1}</span>するまで<span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>を<span>中止{'手続': 1}</span>することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>事件{'手続': 1}</span>について<span>争点{'手続': 1}</span>及び<span>証拠{'裁判': 1, '規定': 1}</span>の<span>整理{'規定': 1}</span>が<span>完了{'手続': 1}</span>した後において、<span>当事者{'手続': 1}</span>の<span>合意{'手続': 1}</span>がない<span>場合{'規定': 1}</span>には、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、<span>調停{'規定': 1}</span>の<span>申立て{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>事件{'規定': 1}</span>について<span>非訟事件{'規定': 1}</span>が<span>係属{'規定': 1}</span>しているとき、<span>又は{'ただし': 1}</span>第二十条第四項において<span>準用{'規定': 1}</span>する同<span>条{'規定': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>非訟事件{'規定': 1}</span>が<span>調停{'規定': 1}</span>に付されたときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（終局決定以外の決定に対する即時抗告）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停手続における<span>終局{'規定': 1}</span>決定以外の決定に対しては、この法律に定めるもののほか、<span>最高裁判所規則{'当該': 1, '規定': 1}</span>で<span>定める{'ある': 1}</span>ところにより、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（非訟事件手続法の準用）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>特別{'手続': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>を<span>除い{'除き': 2, 'ある': 1}</span>て、<span>調停{'規定': 1}</span>に関しては、その<span>性質{'手続': 1}</span>に<span>反し{'ある': 1}</span>ない限り、<span>非訟事件手続法{'手続': 1}</span>第二編の<span>規定{'手続': 1}</span>を<span>準用{'手続': 1}</span>する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>同法{'規定': 1}</span>第四十条及び第五十二条の<span>規定{'手続': 1}</span>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（この法律に定のない事項）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>に<span>定める{'取り消さ': 1}</span>もののほか、調停に関して必要な事項は、<span>最高裁判所{'最高裁判所規則': 1}</span>が定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　民事調停官</SectionTitle>
+          <Article Delete="false" Hide="false" Num="23_2">
+            <ArticleCaption>（民事調停官の任命等）</ArticleCaption>
+            <ArticleTitle>第二十三条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、弁護士で五年以上その職にあったもののうちから、最高裁判所が任命する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、この法律の定めるところにより、調停事件の処理に必要な職務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、任期を二年とし、再任されることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、非常勤とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、次の各号のいずれかに<span>該当{'規定': 2}</span>する場合を除いては、在任中、その意に反して解任されることがない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">弁護士法（昭和二十四年法律第二百五号）第七条各号のいずれかに該当するに<span>至っ{'ある': 1}</span>たとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>心身{'手続': 1}</span>の<span>故障{'規定': 1}</span>のため<span>職務{'規定': 1}</span>の<span>執行{'規定': 1}</span>が<span>でき{'ある': 1}</span>ないと認められたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">職務上の義務違反その他<span>民事調停{'手続': 1}</span>官たるに適しない非行があると認められたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この法律に定めるもののほか、<span>民事調停{'規定': 1}</span>官の<span>任免{'手続': 1}</span>に関して必要な事項は、最高裁判所規則で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_3">
+            <ArticleCaption>（民事調停官の権限等）</ArticleCaption>
+            <ArticleTitle>第二十三条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、裁判所の指定を受けて、調停事件を取り扱う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、その取り扱う調停事件の処理について、次条第三項<span>ただし書{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>権限{'手続': 1}</span>並びにこの<span>法律{'規定': 1}</span>の<span>規定{'手続': 1}</span>（第二十二条において<span>準用{'規定': 1}</span>する<span>非訟事件手続法{'規定': 1}</span>の<span>規定{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）及び特定債務等の調整の促進のための<span>特定調停{'規定': 1}</span>に関する法律（平成十一年法律第百五十八号）の規定において裁判官が<span>行う{'ある': 1}</span>ものとして規定されている民事調停及び特定調停に関する権限（調停主任に係るものを含む。）のほか、次に掲げる権限を行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四条、第五条第一項<span>ただし書{'規定': 1}</span>、第<span>七条{'規定': 1}</span>第二項、第八条第一項、第十七条、第三十条（第三十三条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）において<span>準用{'規定': 1}</span>する第二十八条、第三十四条<span>及び{'ただし': 1}</span>第三十五条の<span>規定{'手続': 1}</span>において裁判所が行うものとして規定されている<span>民事調停{'規定': 1}</span>に関する権限</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第二十二条において準用する<span>非訟事件手続法{'場合': 1}</span>の規定（同法第十三条及び第十四条第三項<span>本文{'規定': 1}</span>（<span>同法{'規定': 1}</span>第十五条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'定め': 1, '手続': 1}</span>を<span>除く{'ある': 1}</span>。）において<span>裁判所{'規定': 1}</span>が行うものとして規定されている権限であって<span>民事調停{'規定': 1}</span>に関するもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">特定債務等の調整の促進のための特定調停に関する法律の<span>規定{'手続': 1}</span>において裁判所が行うものとして規定されている特定調停に関する権限</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官は、独立してその職権を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">民事調停官は、その権限を行うについて、裁判所書記官に対し、その職務に関し必要な命令をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、裁判所法（昭和二十二年法律第五十九号）第六十条第五項の規定は、<span>民事調停{'家事調停': 1}</span>官の命令を受けた<span>裁判所書記官{'場合': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_4">
+            <ArticleCaption>（民事調停官の除斥及び忌避）</ArticleCaption>
+            <ArticleTitle>第二十三条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官の除斥<span>及び{'又は': 1}</span>忌避については、<span>非訟事件手続法{'規定': 1}</span>第十<span>一条{'規定': 1}</span>、第十<span>二条{'規定': 1}</span>並びに第十三条第二項から第四項まで、第八項及び第九項の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">非訟事件手続法第十三条第五項各号に掲げる事由があるとして<span>忌避{'規定': 1}</span>の申立てを<span>却下{'規定': 1}</span>する裁判があったときは、<span>前項{'場合': 3}</span>において<span>準用{'規定': 1}</span>する同<span>条{'規定': 1}</span>第四項<span>本文{'規定': 1}</span>の<span>規定{'手続': 1}</span>にかかわらず、調停手続は停止しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">民事調停官の除斥又は忌避についてはその民事調停官の所属する裁判所が、簡易裁判所に所属する民事調停官の除斥又は忌避についてはその裁判所の所在地を管轄する地方裁判所が、裁判をする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項の裁判は、忌避された民事調停官がすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_5">
+            <ArticleCaption>（民事調停官に対する手当等）</ArticleCaption>
+            <ArticleTitle>第二十三条の五</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">民事調停官には、別に法律で定めるところにより手当を支給し、並びに<span>最高裁判所{'最高裁判所規則': 1}</span>の定めるところにより<span>旅費{'額': 2}</span>、日当及び宿泊料を支給する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　特則</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　宅地建物調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（宅地建物調停事件・管轄）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">宅地又は建物の貸借その他の利用関係の<span>紛争{'手続': 1}</span>に関する調停事件は、紛争の<span>目的{'規定': 1}</span>である<span>宅地{'手続': 1}</span>若しくは建物の所在地を管轄する<span>簡易裁判所{'規定': 1}</span>又は当事者が合意で定めるその所在地を<span>管轄{'規定': 1}</span>する<span>地方裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24_2">
+            <ArticleCaption>（地代借賃増減請求事件の調停の前置）</ArticleCaption>
+            <ArticleTitle>第二十四条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">借地借家法（平成三年法律第九十号）第十一条の地代若しくは土地の借賃の額の増減の請求又は同法第三十二条の<span>建物{'規定': 1}</span>の借賃の額の増減の請求に関する事件について訴えを提起しようとする者は、まず調停の<span>申立て{'規定': 1}</span>をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の<span>事件{'規定': 1}</span>について調停の申立てをすること<span>なく{'著しい': 1}</span><span>訴え{'手続': 1}</span>を<span>提起{'手続': 1}</span>した<span>場合{'規定': 1}</span>には、<span>受訴{'規定': 1}</span><span>裁判所{'規定': 1}</span>は、その<span>事件{'手続': 1}</span>を<span>調停{'規定': 1}</span>に<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>受訴{'規定': 1}</span><span>裁判所{'規定': 1}</span>が<span>事件{'手続': 1}</span>を<span>調停{'規定': 1}</span>に<span>付する{'ある': 1}</span>ことを<span>適当{'相当': 1, '規定': 1}</span>でないと<span>認める{'ある': 1}</span>ときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24_3">
+            <ArticleCaption>（地代借賃増減調停事件について調停委員会が定める調停条項）</ArticleCaption>
+            <ArticleTitle>第二十四条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前条第一項の請求に係る<span>調停{'手続': 1}</span>事件については、調停委員会は、当事者間に合意が成立する見込みがない場合又は成立した合意が相当でないと認める場合において、当事者間に調停委員会の定める調停条項に服する旨の書面による合意（当該<span>調停{'審判': 1}</span>事件に係る調停の<span>申立て{'手続': 1}</span>の後にされたものに<span>限る{'ある': 1}</span>。）が<span>ある{'でき': 1}</span>ときは、<span>申立て{'規定': 1}</span>により、<span>事件{'手続': 1}</span>の<span>解決{'規定': 1}</span>のために<span>適当{'規定': 1}</span>な<span>調停{'手続': 1}</span><span>条項{'手続': 1}</span>を<span>定める{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>調停{'規定': 1}</span><span>条項{'規定': 1}</span>を<span>調書{'規定': 1}</span>に<span>記載{'手続': 1}</span>したときは、<span>調停{'規定': 1}</span>が<span>成立{'手続': 1}</span>したものと<span>みなし{'ある': 1}</span>、その<span>記載{'手続': 1}</span>は、裁判上の和解と同一の効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　農事調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption>（農事調停事件）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">農地又は農業経営に付随する土地、建物その他の農業用資産（以下「農地等」という。）の貸借その他の利用関係の紛争に関する調停事件については、<span>前章{'手続': 1}</span>に<span>定める{'類する': 1}</span>ものの<span>ほか{'手続': 1}</span>、この<span>節{'手続': 1}</span>の<span>定める{'ある': 1}</span>ところに<span>よる{'でき': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption>（管轄）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前条{'規定': 1}</span>の調停事件は、紛争の目的である<span>農地{'手続': 1}</span>等の所在地を管轄する地方裁判所又は当事者が合意で定めるその<span>所在地{'地方裁判所': 1}</span>を管轄する簡易裁判所の管轄とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption>（小作官等の意見陳述）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">小作官又は小作主事は、<span>調停{'家事調停': 1}</span>手続の期日に出席し、又は調停手続の期日外において、調停委員会に対して意見を述べることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption>（小作官等の意見聴取）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">調停委員会は、調停をしようとするときは、小作官又は小作主事の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleCaption>（裁判官の調停への準用）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二条の規定は、裁判官<span>だけ{'とともに': 1}</span>で調停を行う場合に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleCaption>（移送等への準用）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十八条の規定は、<span>裁判所{'規定': 1}</span>が、第四条第一項<span>ただし書{'規定': 1}</span>若しくは第三項の<span>規定{'手続': 1}</span>により<span>事件{'規定': 1}</span>を<span>移送{'規定': 1}</span>し若しくは<span>自ら{'規定': 1}</span><span>処理{'規定': 1}</span>しようとし、又は第十七条の<span>決定{'規定': 1}</span>をしようとする場合に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　商事調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="31">
+            <ArticleCaption>（商事調停事件について調停委員会が定める調停条項）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十四条の三の規定は、<span>商事{'規定': 1}</span>の紛争に関する調停事件に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　鉱害調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="32">
+            <ArticleCaption>（鉱害調停事件・管轄）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">鉱業法（昭和二十五年法律第二百八十九号）に定める鉱害の賠償の紛争に関する調停事件は、損害の<span>発生{'規定': 1}</span>地を<span>管轄{'規定': 1}</span>する<span>地方裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="33">
+            <ArticleCaption>（農事調停等に関する規定の準用）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条の三及び第二十七条から第三十条までの<span>規定{'手続': 1}</span>は、<span>前条{'事件': 1, '規定': 1}</span>の<span>調停{'規定': 1}</span>事件に準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'手続': 1}</span>において、第二十七条及び第二十八条中「小作官又は小作主事」とあるのは、「経済産業局長」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="5">
+          <SectionTitle>第五節　交通調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="33_2">
+            <ArticleCaption>（交通調停事件・管轄）</ArticleCaption>
+            <ArticleTitle>第三十三条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">自動車の運行によって人の生命又は身体が害された場合における<span>損害賠償{'手続': 1}</span>の<span>紛争{'規定': 1}</span>に関する<span>調停{'規定': 1}</span><span>事件{'手続': 1}</span>は、<span>第三条{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>裁判所{'規定': 1}</span>の<span>ほか{'申立て': 1, '規定': 1}</span>、<span>損害賠償{'規定': 1}</span>を<span>請求{'規定': 1}</span>する者の<span>住所{'規定': 1}</span>又は居所の所在地を管轄する簡易裁判所の管轄とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="6">
+          <SectionTitle>第六節　公害等調停</SectionTitle>
+          <Article Delete="false" Hide="false" Num="33_3">
+            <ArticleCaption>（公害等調停事件・管轄）</ArticleCaption>
+            <ArticleTitle>第三十三条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">公害又は日照、通風等の生活上の利益の侵害により生ずる被害に係る<span>紛争{'手続': 1}</span>に関する<span>調停{'規定': 1}</span><span>事件{'手続': 1}</span>は、<span>第三条{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>裁判所{'規定': 1}</span>の<span>ほか{'規定': 1}</span>、<span>損害{'効力': 1, '規定': 1}</span>の<span>発生{'規定': 1}</span>地<span>又は{'ただし': 1}</span><span>損害{'規定': 1}</span>が発生するおそれのある<span>地{'場合': 1}</span>を管轄する簡易裁判所の管轄とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（不出頭に対する制裁）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">裁判所又は調停委員会の<span>呼出し{'申立て': 1}</span>を受けた事件の関係人が正当な事由が<span>なく{'著しい': 1}</span><span>出頭{'場合': 1, '手続': 1}</span>しないときは、<span>裁判所{'手続': 1}</span>は、五万円以下の<span>過料{'手続': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（措置違反に対する制裁）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>当事者{'手続': 1}</span>又は<span>参加{'規定': 1}</span>人が<span>正当{'規定': 1}</span>な<span>事由{'理由': 1, '規定': 1}</span>が<span>なく{'著しい': 1}</span>第十二条（第十五条において<span>準用{'手続': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>措置{'規定': 1}</span>に<span>従わ{'ある': 1}</span>ないときは、<span>裁判所{'手続': 1}</span>は、十万円以下の<span>過料{'提出': 1, '手続': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（過料についての決定）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前<span>二条{'手続': 1}</span>の<span>過料{'規定': 2}</span>の<span>決定{'規定': 2}</span>は、<span>裁判官{'手続': 1}</span>の<span>命令{'規定': 1}</span>で<span>執行{'管理': 1, '手続': 1}</span>する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>命令{'規定': 1}</span>は、<span>執行{'手続': 1}</span>力の<span>ある{'取り消さ': 1}</span><span>債務名義{'確定判決': 1, '規定': 1}</span>と<span>同一{'規定': 1}</span>の<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法律': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'規定': 1}</span>、<span>過料{'規定': 1}</span>についての<span>決定{'規定': 1}</span>に関しては、<span>非訟事件手続法{'手続': 1}</span>第五編の<span>規定{'手続': 1}</span>（<span>同法{'手続': 1}</span>第百十九条及び第百二十<span>一条{'改正': 3, '規定': 1}</span>第一項の<span>規定{'手続': 1}</span>並びに同法第百二十条及び第百二十二条の規定中検察官に関する部分を除く。）を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（評議の秘密を漏らす罪）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">民事調停委員又は民事調停委員であった者が正当な事由がなく評議の経過又は調停主任若しくは民事調停委員の意見若しくはその多少の数を漏らしたときは、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleCaption>（人の秘密を漏らす罪）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">民事調停委員又は民事調停委員であった者が正当な事由がなくその職務上<span>取り扱っ{'ある': 1}</span>たことについて知り得た人の秘密を漏らしたときは、一年以下の<span>懲役{'手続': 1}</span>又は五十万円以下の<span>罰金{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>は、昭和二十六年十月一日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（借地借家調停法等の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">借地借家調停法（大正十一年法律第四十一号）、小作調停法（大正十三年法律第十八号）、商事調停法（大正十五年法律第四十二号）及び金銭債務<span>臨時{'規定': 1}</span><span>調停{'規定': 1}</span>法（昭和七年<span>法律{'規定': 1}</span>第二十六号）は、<span>廃止{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（従前の調停事件）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律施行前に裁判所が<span>受理{'規定': 1}</span>した調停事件については、なお従前の例に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（調停委員となるべき者の選任等）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'新法': 1, '規定': 1}</span><span>施行{'手続': 1}</span>前に従前の法律の規定に<span>よ{'とともに': 1}</span>つてした調停委員となるべき者の選任は、この法律の適用については、同法の規定に<span>よ{'とともに': 1}</span>つてした選任とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律施行後に同法の規定によつてした調停委員となるべき者の選任は、従前の法律の適用については、同法の規定によつてした選任とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二項の規定は、調停主任の指定に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（罰則の適用）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律施行前にした行為に対する罰則の適用については、なを従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">小作調停法又は金銭債務臨時調停法による調停委員又は調停委員であつた者のこの法律施行後の行為に対する罰則の適用についても、前項と同様とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、従前の規定中「千円」とあるのは「五千円」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律施行後の<span>行為{'規定': 1}</span>に対して<span>従前{'規定': 1}</span>の<span>過料{'規定': 1}</span>に関する<span>規定{'手続': 1}</span>を<span>適用{'規定': 1}</span>する場合には、その規定中「五十円」とあるのは「三千円」とし、「五百円」とあるのは「五千円」とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、従前の家事審判法の規定中「五百円」とあるのは「三千円」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律施行後に従前の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>べき<span>場合{'規定': 1}</span>であつても、<span>過料{'規定': 1}</span>の<span>裁判{'規定': 1}</span>又は<span>審判{'規定': 1}</span>及びその執行については、第三十六条又はこの法律による改正後の<span>家事審判法{'手続': 1}</span>第二十九条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="346042" AmendLawNum="昭和四六年四月六日法律第四二号" Id="6f4620dc-47dd-11e5-94fb-2f12cd53771d">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律（第一条を除く。）は、昭和四十六年<span>七月一日{'会社法': 1, '規定': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="349055" AmendLawNum="昭和四九年五月二四日法律第五五号" Id="89f1c0ee-18d7-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、昭和四十九年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'前': 1}</span>の施行前に<span>調停委員{'規定': 1}</span>会において<span>した{'訴訟': 1}</span>手続及び裁判所がした調停委員の意見の聴取は、この法律による改正後の<span>民事調停法{'規定': 1}</span>又は家事審判法の規定により調停委員会においてした手続及び裁判所がした民事調停委員又は家事調停委員の意見の聴取とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に調停委員、調停の補助をした者又は参与員がした執務に係る旅費、日当及び宿泊料又は止宿料の支給については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="5" OldStyle="false">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前に<span>調停委員{'規定': 1}</span>であつた者がこの法律の施行後にした行為に対する罰則の適用についても、<span>前項{'規定': 1}</span>と<span>同様{'規定': 1}</span>とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="354005" AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true" Id="2b704696-d3b9-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>民事執行法{'規定': 1}</span>（昭和五十四年<span>法律{'規定': 1}</span>第四号）の<span>施行{'規定': 1}</span>の日（昭和五十五年十月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前に申し立てられた民事執行、企業担保権の実行及び破産の事件については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">前項の<span>事件{'規定': 1}</span>に関し<span>執行官{'規定': 1}</span>が受ける手数料及び支払又は<span>償還{'規定': 1}</span>を<span>受ける{'ある': 1}</span><span>費用{'手続': 1}</span>の<span>額{'規定': 1}</span>については、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>最高裁判所規則{'手続': 1}</span>の<span>定める{'ある': 1}</span>ところに<span>よる{'ある': 1}</span>。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="357083" AmendLawNum="昭和五七年八月二四日法律第八三号" Extract="true" Id="68e301d8-18c8-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、昭和五十七年十月一日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="403091" AmendLawNum="平成三年一〇月四日法律第九一号" Id="8a68964c-18d7-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>に<span>訴え{'行為': 1, '規定': 1}</span>が<span>提起{'規定': 1}</span>された<span>場合{'規定': 1}</span>における借地借家法（平成三年法律第九十号）第十一条の地代若しくは土地の借賃の額の増減の請求又は同法第三十二条の<span>建物{'規定': 1}</span>の借賃の額の増減の請求の事件に関しては、なお従前の例に<span>よる{'ある': 1}</span>。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>改正{'手続': 1}</span>後の第二十四条の三の<span>規定{'法律': 1, '手続': 1}</span>は、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>の際<span>現に{'相当': 1}</span><span>裁判所{'規定': 1}</span>に<span>係属{'規定': 1}</span>している<span>前項{'事件': 1, '規定': 1}</span>の請求に係る調停事件についても、適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>商事{'規定': 1}</span>の紛争に関する調停事件又は鉱業法（昭和二十五年法律第二百八十九号）に定める鉱害の賠償の紛争に関する調停事件でこの法律の<span>施行{'規定': 1, '手続': 1}</span><span>前{'規定': 2}</span>に<span>改正{'手続': 1}</span><span>前{'規定': 1}</span>の第三十<span>一条{'規定': 1}</span>第一項（<span>改正{'規定': 1}</span><span>前{'規定': 2}</span>の第三十三条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）に<span>規定{'手続': 1}</span>する<span>書面{'規定': 1}</span>による<span>合意{'手続': 1}</span>がされているものについては、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'規定': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（<span>核原料物質、核燃料物質及び原子炉の規制に関する法律{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'規定': 1}</span>する<span>法律{'規定': 1}</span><span>附則{'規定': 1}</span>の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span>に係る<span>部分{'規定': 1}</span>に<span>限る{'ある': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の<span>規定{'省令': 1, '手続': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'規定': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415128" AmendLawNum="平成一五年七月二五日法律第一二八号" Extract="true" Id="407c607f-ae1a-449a-ad9d-895d79450974">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'規定': 1}</span>は、平成十六年<span>四月一日{'規定': 1}</span>から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>略{'一条': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三条（民事訴訟費用等に関する法律第四条第二項及び第七項の改正規定を除く。）及び第二章並びに附則第三条から第五条までの規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成十六年<span>一月一日{'公布': 1, '規定': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416152" AmendLawNum="平成一六年一二月三日法律第一五二号" Extract="true" Id="44a50dba-855c-4577-bee5-631236695f37">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、<span>公布{'施行': 1}</span>の日から起算して一年を超えない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="39">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>及びこの<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'新法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="40">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'規定': 1}</span><span>第三条{'八条': 1, '規定': 1}</span>から第十条まで、第二十九条<span>及び{'ただし': 1}</span>前<span>二条{'規定': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'手続': 1}</span>で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

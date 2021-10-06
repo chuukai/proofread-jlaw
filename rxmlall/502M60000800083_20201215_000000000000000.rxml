@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="083" Year="02">
+  <LawNum>令和二年国土交通省令第八十三号</LawNum>
+  <LawBody>
+    <LawTitle>賃貸住宅の管理業務等の適正化に関する法律施行規則</LawTitle>
+    <EnactStatement>賃貸住宅の管理業務等の適正化に関する法律（令和二年法律第六十号）及び賃貸住宅の管理業務等の適正化に関する法律施行令（令和二年政令第三百十三号）の規定に基づき、並びに賃貸住宅の管理業務等の適正化に関する法律を実施するため、賃貸住宅の管理業務等の適正化に関する法律施行規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　特定賃貸借契約の適正化のための措置等</ChapterTitle>
+        <ArticleRange>（第三条―第十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <ArticleRange>（第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（法第二条第一項の国土交通省令で定める住宅）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">賃貸住宅の管理業務等の適正化に関する法律（令和二年法律第六十号。以下「法」という。）第二条第一項の人の生活の本拠として使用する目的以外の目的に供されていると<span>認め{'供する': 1}</span>られる住宅として国土交通省令で定めるものは、次の各号のいずれかに該当するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">旅館業法（昭和二十三年法律第百三十八号）第三条第一項の規定による許可に係る施設である住宅</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国家戦略特別区域法（平成二十五年法律第百七号）第十三条第一項の規定による認定に係る施設である住宅のうち、認定事業（同条第五項に規定する認定事業をいう。）の用に供されているもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">住宅宿泊事業法（平成二十九年法律第六十五号）第三条第一項の規定による届出に係る住宅のうち、住宅宿泊事業（同法第二条第三項に規定する住宅宿泊事業をいう。）の用に供されているもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（人的関係、資本関係その他の関係において賃貸人と密接な関係を有する者）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第二条第四項の国土交通省令で定める者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が個人である場合における次に掲げる者</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人の親族</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人又はその親族が役員である法人</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>賃貸人{'他': 1}</span>が会社（会社法（平成十七年法律第八十六号）第二条第一号に規定する会社をいう。）である場合における次に掲げる会社等（会社法施行規則（平成十八年法務省令第十二号）第二条第三項第二号に規定する会社等をいう。以下この号において同じ。）（以下この条において「関係会社」という。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人の親会社（会社法第二条第四号に規定する親会社をいう。以下この号において同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人の子会社（会社法第二条第三号に規定する子会社をいう。以下この号において同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人の関連会社（会社計算規則（平成十八年法務省令第十三号）第二条第三項第十八号に規定する関連会社をいう。以下この号において同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人が他の会社等の関連会社である場合における当該他の会社等</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該賃貸人の親会社の子会社（当該賃貸人を除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が登録投資法人（投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十三項に<span>規定{'同法': 1}</span>する登録投資法人をいう。以下同じ。）である<span>場合{'適用': 1}</span>における当該登録投資法人の資産運用会社（同条第二十一項に規定する資産運用会社をいう。第七号において同じ。）の関係会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が特定目的会社（資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社をいう。以下同じ。）である場合における当該特定目的会社の委託を受けて特定資産の管理及び処分に係る業務を行う者の関係会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が組合（当該組合の組合員の間で不動産特定共同事業法（平成六年法律第七十七号）第二条第三項に規定する不動産特定共同事業契約（同項第一号に掲げる契約に限る。）が締結されているものに限る。第五条第四号において同じ。）である場合における当該組合の業務執行者又は当該業務執行者の関係会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が特例事業者（不動産特定共同事業法第二条第九項に規定する特例事業者をいう。以下同じ。）である場合における<span>当該{'適用': 1}</span>特例事業者の委託を受けて当該特例事業者が当事者である不動産特定共同事業契約に基づき営まれる不動産取引に係る業務を行う不動産特定共同事業者（同条第五項に規定する不動産特定共同事業者をいう。）の関係会社又は当該業務を行う小規模不動産特定共同事業者（同条第七項に規定する小規模不動産特定共同事業者をいう。）の関係会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸人が賃貸住宅に係る信託の受託者である場合における次に掲げる者</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該信託の委託者又は受益者（以下「委託者等」という。）の関係会社</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">委託者等が登録投資法人である場合における当該登録投資法人の資産運用会社の関係会社</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">委託者等が特定目的会社である場合における当該<span>特定目的会社{'保証': 1}</span>の委託を受けて特定資産の管理及び処分に係る業務を行う者の関係会社</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　特定賃貸借契約の適正化のための措置等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（誇大広告等をしてはならない事項）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第二十八条の国土交通省令で定める事項は、次に掲げる事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の相手方に支払う家賃の額、支払期日及び支払方法等の賃貸の条件並びにその変更に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸住宅の維持保全の実施方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸住宅の維持保全に要する費用の分担に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定<span>賃貸借契約{'契約': 1}</span>の解除に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（特定賃貸借契約の相手方等の保護に欠ける禁止行為）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第二十九条第二号の国土交通省令で定める行為は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約を締結若しくは更新させ、又は特定賃貸借契約の申込みの撤回若しくは解除を妨げるため、特定賃貸借契約の相手方又は相手方となろうとする者（以下「相手方等」という。）を威迫する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の締結又は更新について相手方等に迷惑を覚えさせるような時間に電話又は訪問により勧誘する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の締結又は更新について深夜又は長時間の勧誘その他の私生活又は業務の平穏を害するような方法により相手方等を困惑させる行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の締結又は更新をしない旨の意思（当該契約の締結又は更新の勧誘を受けることを希望しない旨の意思を含む。）を表示した相手方等に対して執ように勧誘する行為</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（特定賃貸借契約に係る専門的知識及び経験を有すると認められる者）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第三十条第一項の国土交通省令で定める者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定転貸事業者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">宅地建物取引業者（宅地建物取引業法（昭和二十七年法律第百七十六号）第二条第三号に規定する宅地建物取引業者を<span>いい{'いう': 1}</span>、<span>同法{'法': 1}</span>第七十七条第二項の規定により宅地建物取引業者とみなされる信託会社（宅地建物取引業法施行令（昭和三十九年政令第三百八十三号）第九条第二項の規定により<span>宅地建物取引業者{'届出': 1}</span>とみなされる信託業務を兼営する金融機関及び銀行法等の一部を改正する法律（平成十三年法律第百十七号）附則第十一条の規定によりなお従前の例によるものとされ、引き続き宅地建物取引業を営んでいる銀行並びに宅地建物取引業法第七十七条第一項の政令で定める信託会社を含む。）、同法第七十七条の二第二項の規定により宅地建物取引業者とみなされる登録投資法人及び同法第七十七条の三第二項の規定により宅地建物取引業者とみなされる特例事業者を含む。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定目的会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">組合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">賃貸住宅に係る信託の受託者（委託者等が第一号から第三号までのいずれかに該当する場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">独立行政法人都市再生機構</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地方住宅供給公社</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（特定賃貸借契約の締結前の説明事項）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第三十条第一項の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約を締結する特定転貸事業者の商号、名称又は氏名及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の対象となる賃貸住宅</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の相手方に支払う家賃の額、支払期日及び支払方法等の賃貸の条件並びにその変更に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定転貸事業者が行う賃貸住宅の<span>維持{'建設': 1}</span>保全の実施方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定転貸事業者が行う賃貸住宅の<span>維持{'建設': 1}</span>保全に要する費用の分担に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の相手方に対する維持保全の実施状況の報告に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">損害賠償額の予定又は違約金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>責任{'一条': 1}</span>及び免責に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">契約期間に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">転借人の資格その他の転貸の条件に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">転借人に対する第四号に掲げる事項の周知に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の更新及び解除に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約が終了した場合における特定転貸事業者の権利義務の承継に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">借地借家法（平成三年法律第九十号）その他特定賃貸借契約に係る法令に関する事項の概要</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（情報通信の技術を利用する方法）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法第三十条第二項（法第三十一条第二項において準用する場合を含む。）の規定により書面の交付に代えて用いる電磁的方法は、次に掲げる方法とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該方法は、受信者がファイルへの記録を出力することにより書面を作成することができるものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子{'第一': 1}</span>情報処理組織（送信者の使用に係る電子計算機と受信者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。次条第二項において同じ。）を利用する方法のうち、イ又はロに掲げるもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'宅地建物取引業者': 1}</span>者の使用に係る電子計算機から電気通信回線を通じて受信者の使用に係る電子計算機に前条に掲げる事項（以下この条において「記載事項」という。）を送信し、当該電子計算機に備えられたファイルに記録する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'宅地建物取引業者': 1}</span>者の使用に係る電子計算機に備えられたファイルに記録された記載事項を電気通信回線を通じて受信者の閲覧に供し、当該<span>受信{'宅地建物取引業者': 1}</span>者の使用に係る電子計算機に備えられたファイルに当該記載事項を記録する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">磁気ディスク、シー・ディー・ロムその他これらに記録する<span>方法{'シー・ディー・ロム': 1}</span>に準ずる方法により一定の事項を確実に記録しておくことができる物（以下「磁気ディスク等」という。）をもって調製するファイルに記載事項を記録したものを交付する方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">賃貸住宅の管理業務等の適正化に関する法律<span>施行令{'法律': 1}</span>（令和二年政令第三百十三号。以下「令」という。）第一項の規定により示すべき電磁的方法の種類は前条に規定する方法のうち送信者が使用するものとし、示すべき電磁的方法の内容はファイルへの記録の方式とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">令第一項の電子情報処理組織を使用する方法その他の<span>情報通信{'当該': 1}</span>の技術を利用する方法であって国土交通省令で定めるものは、次に掲げる方法とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子情報処理組織を<span>利用{'使用': 2}</span>する方法のうち、イ又はロに掲げるもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'宅地建物取引業者': 1}</span>者の使用に係る電子計算機から電気通信回線を通じて受信者の使用に係る電子計算機に令第一項の承諾又は令第二項の申出（以下この号において「承諾等」という。）をする旨を送信し、当該電子計算機に備えられたファイルに記録する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'宅地建物取引業者': 1}</span>者の使用に係る電子計算機に備えられたファイルに<span>記録{'当該': 1}</span>された承諾等をする旨を電気通信回線を通じて受信者の閲覧に供し、当該電子計算機に備えられたファイルに承諾等をする旨を記録する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">磁気ディスク等をもって調製するファイルに<span>承諾{'情報': 1}</span>等をする旨を記録したものを交付する方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（法第三十一条第一項第七号の国土交通省令で定める事項）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第三十一条第一項第七号の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約を締結する特定転貸事業者の商号、名称又は氏名及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定転貸事業者が行う賃貸住宅の<span>維持{'建設': 1}</span>保全に要する費用の分担に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約の相手方に対する維持保全の実施状況の報告に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">損害賠償額の予定又は違約金に関する定めがあるときは、その内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">責任及び免責に関する定めがあるときは、その内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">転借人に対する法第三十一条第一項第三号に掲げる事項の周知に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定賃貸借契約が終了した場合における特定転貸事業者の権利義務の承継に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（書類の閲覧）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第三十二条に規定する特定転貸事業者の業務及び財産の状況を記載した書類は、別記様式第一号による業務状況調書、貸借対照表及び損益計算書又はこれらに代わる書面（以下この条において「業務状況調書等」という。）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">業務状況調書等が、電子計算機に備えられたファイル又は磁気ディスク等に記録され、必要に応じ営業所又は事務所ごとに電子計算機その他の機器を用いて明確に紙面に表示されるときは、当該記録をもって法第三十二条に<span>規定{'帳簿': 1}</span>する<span>書類{'帳簿': 1}</span>への記載に代えることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合における同条の規定による閲覧は、当該業務状況<span>調書{'虚偽': 1}</span>等を紙面又は当該営業所又は事務所に設置された入出力装置の映像面に表示する方法で行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定転貸事業者は、第一項の書類（前項の規定による記録が行われた同項のファイル又は磁気ディスク等を含む。次項において同じ。）を事業年度ごとに当該事業年度経過後三月以内に作成し、遅滞なく営業所又は事務所ごとに備え置くものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の書類は、営業所又は事務所に備え置かれた日から起算して三年を経過する日までの間、当該営業所又は事務所に備え置くものとし、当該営業所又は事務所の営業時間中、相手方等の求めに応じて閲覧させるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（国土交通大臣に対する申出の手続）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第三十五条第一項の規定により国土交通大臣に対して申出をしようとする者は、次の事項を記載した申出書を提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申出人の氏名又は名称及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申出の趣旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となる事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（身分証明書の様式）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第三十六条第二項の身分を示す証明書は、別記様式第二号によるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Article Num="13">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">法に規定する国土交通大臣の権限のうち、次に掲げるものは、特定転貸事業者の主たる営業所又は事務所の所在地を管轄する地方整備局長及び北海道開発局長に委任する。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、いずれも国土交通大臣が自ら行うことを妨げない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十三条第一項の規定により必要な措置をとるべきことを指示し、及び同条第三項の規定による公表をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十三条第二項の規定により必要な措置をとるべきことを指示し、及び同条第三項の規定による公表をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十四条第一項の規定により勧誘を行うこと若しくは勧誘者に勧誘を行わせることの停止又は特定賃貸借契約に関する業務の全部若しくは一部の停止を<span>命じ{'命ずる': 1}</span>、及び同条第三項の規定による公表をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十四条第二項の規定により勧誘を行うことの停止を命じ、及び同条第三項の規定による公表をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十五条第一項の規定による申出を受け、並びに同条第二項の規定により必要な調査を行い、及び同項の規定による措置をとること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十六条第一項の規定により必要な報告を求め、又は立入検査させ、若しくは関係者に質問させること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、<span>法{'施行': 1}</span>附則第一条第二号に掲げる規定の施行の日（令和二年十二月十五日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
+      <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/R02F160083_2104111504_001.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第二号</AppdxStyleTitle>
+      <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/R02F160083_2104111504_002.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

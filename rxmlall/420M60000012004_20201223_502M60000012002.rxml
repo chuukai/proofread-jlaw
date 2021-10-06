@@ -1,0 +1,3218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="4" Year="20">
+  <LawNum>平成二十年内閣府・法務省令第四号</LawNum>
+  <LawBody>
+    <LawTitle>電子記録債権法施行規則</LawTitle>
+    <EnactStatement>電子記録債権法（平成十九年法律第百二号）及び電子記録債権法施行令（平成二十年政令第三百二十五号）の規定に基づき、並びに同法を実施するため、電子記録債権法施行規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　電子記録債権の分割</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　可分債権が記録されている債権記録の分割</SectionTitle>
+          <ArticleRange>（第三条―第六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　可分債務が記録されている債権記録の分割</SectionTitle>
+          <ArticleRange>（第七条―第十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　一部保証記録がされている債権記録の分割</SectionTitle>
+          <ArticleRange>（第十一条―第十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　特別求償権が記録されている債権記録の分割</SectionTitle>
+          <ArticleRange>（第十五条―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="5">
+          <SectionTitle>第五節　分割記録の請求に必要な情報</SectionTitle>
+          <ArticleRange>（第二十一条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　電子債権記録機関</ChapterTitle>
+        <ArticleRange>（第二十二条―第四十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第四十三条―第四十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この命令において使用する用語は、電子記録債権法（平成十九年法律第百二号。以下「法」という。）において使用する用語の<span>例{'規定': 1}</span>による<span>ほか{'規定': 1}</span>、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>用語{'規定': 1}</span>の<span>意義{'規定': 1}</span>は、<span>それぞれ{'手続': 1}</span>当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">一部<span>保証{'規定': 1}</span>記録</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第三十二条第二項第一号に掲げる事項が<span>記録{'記載': 1}</span>された保証記録をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">原<span>債権{'規定': 1}</span><span>金額{'額': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">分割<span>記録{'手続': 1}</span>の直前に原債権<span>記録{'規定': 1}</span>に記録されていた<span>法{'手続': 1}</span>第十六条<span>第一{'規定': 1}</span>項第一号（<span>当該{'規定': 1}</span>原債権記録が他の分割における<span>分割債権{'手続': 1}</span>記録である場合にあっては、法第四十四条第一項第三号又は第四条第一項第三号、第八条第一項第三号、第十<span>二条{'規定': 1}</span>第一項第三号<span>若しくは{'及び': 1}</span>第十六条第一項第三号）に<span>規定{'手続': 1}</span>する<span>一定{'取得': 1}</span>の金額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">特別求償権発生<span>記録{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">特別求償権の発生の原因である支払等が記録された支払等記録を<span>いう{'ある': 1}</span>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>支払{'規定': 1}</span>等<span>金額{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第二十四条第二号の<span>規定{'手続': 1}</span>により記録される支払等をした金額（利息、<span>遅延損害金{'手続': 1}</span>、違約金又は費用が生じている場合にあっては、消滅した<span>元本{'規定': 1}</span>の額を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（磁気ディスクに準ずる物）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第二条第三項に規定する主務省令で定める物は、光ディスクとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　電子記録債権の分割</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　可分債権が記録されている債権記録の分割</SectionTitle>
+          <Article Delete="false" Hide="false" Num="3">
+            <ArticleCaption>（分割記録の請求）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原債権<span>記録{'手続': 1}</span>に債権者ごとの債権の金額が記録されている<span>場合{'手続': 1}</span>における<span>分割{'規定': 1}</span><span>記録{'規定': 1}</span>の<span>請求{'手続': 1}</span>は、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span>の区分に応じ、当該各号に定める者だけですることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権<span>記録{'手続': 1}</span>に記録可能回数が記録されている場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">原債権記録に記録されている電子記録名義人の全員</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権記録において一部保証記録に基づく電子記録保証の対象である電子記録債権を分割債権記録に記録する場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">原債権記録に記録されている電子記録名義人のうち、当該一部保証記録に基づく電子<span>記録{'申請': 1}</span>保証を受けるものの全員</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">前二号に掲げる場合以外の場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">分割債権記録に債権者として記録される者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（分割記録の記録事項）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原債権記録に<span>債権者{'規定': 1}</span>ごとの<span>債権{'規定': 1}</span>の<span>金額{'手続': 1}</span>が記録されている場合における分割記録においては、<span>分割債権{'手続': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'手続': 1}</span>債権記録から分割をした旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録及び<span>分割債権{'規定': 1}</span>記録の記録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者であって<span>分割債権{'規定': 1}</span>記録に記録されるものが一定の金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権の債権者の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>の<span>年月日{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原<span>債権{'規定': 1}</span><span>記録{'手続': 1}</span>に<span>債権者{'規定': 1}</span>ごとの<span>債権{'手続': 1}</span>の<span>金額{'手続': 1}</span>が記録されている場合における分割記録においては、<span>原{'手続': 1}</span>債権<span>記録{'届出': 1}</span>に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割をした旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>分割債権{'手続': 1}</span>記録の記録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">電子記録の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十四条第三項の規定は、<span>原{'規定': 1}</span>債権<span>記録{'手続': 1}</span>に債権者ごとの債権の金額が記録されている<span>場合{'手続': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（分割記録に伴う分割債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に債権者ごとの債権の金額が記録されている場合において<span>分割{'規定': 1}</span>記録をするときは、分割記録と同時に、<span>分割債権{'手続': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'規定': 1}</span>債権<span>記録{'届出': 1}</span>中の発生記録において記録されている<span>事項{'手続': 1}</span>（<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものを<span>除く{'ある': 1}</span>。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span>が一定の金額を支払う旨</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">当該電子記録債権が分割払の方法により債務を支払うものである場合における各支払<span>期日{'規定': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>支払{'規定': 1}</span><span>期日{'手続': 1}</span>ごとに<span>支払う{'ある': 1}</span>べき<span>金額{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債権者{'手続': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債権者{'規定': 1}</span>ごとの債権の金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">記録可能<span>回数{'規定': 1}</span>が<span>記録{'記載': 1}</span>されている場合におけるその記録可能<span>回数{'記載': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">原債権記録の記録番号</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げるもののほか、分割債権記録に記録される電子記録債権についての原債権記録中の現に効力を有する<span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>（<span>分割{'情報': 1, '規定': 1}</span><span>記録{'規定': 1}</span>を除く。）において記録されている事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権が原債権記録において分割払の方法により債務を支払うものとして記録されている場合には、当該電子記録債権の支払<span>期日{'手続': 1}</span>（原債権記録に支払期日として<span>記録{'権利': 1}</span>されているものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に規定する場合において、分割債権記録に記録される電子記録債権が分割払の方法により債務を支払うものであるときは、当該電子記録債権の各支払期日ごとに支払うべき金額（原債権記録に記録されている対応する各支払期日ごとに支払うべき金額の範囲内のものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権の債権者の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>前{'規定': 1}</span>号の<span>債権者{'手続': 1}</span>が<span>二人{'手続': 1}</span>以上<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>には、<span>債権者{'規定': 1}</span>ごとの<span>債権{'規定': 1}</span>の<span>金額{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録に記録<span>可能{'記載': 1}</span><span>回数{'規定': 1}</span>が記録されている場合には、当該記録可能<span>回数{'規定': 1}</span>（分割<span>記録{'手続': 1}</span>の記録可能回数にあっては、当該記録可能回数から一を控除した残りの記録可能回数）のうち、分割債権記録における記録可能回数</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、分割債権記録に前項第一号及び第二号に掲げる事項を記録したときは当該事項を原債権記録から転写した旨及びその年月日を、同項第三号から第七号までに掲げる事項を記録したときはその記録の年月日を当該分割債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（分割記録に伴う原債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に債権者ごとの債権の金額が記録されている<span>場合{'手続': 1}</span>において<span>分割{'規定': 1}</span>記録をするときは、分割記録と同時に、<span>原{'規定': 1}</span>債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>分割債権{'手続': 1}</span>記録に記録される電子記録債権について<span>原{'規定': 1}</span>債権記録に記録されている事項のうち、前条第一項第一号イから<span>ホ{'ハ': 1}</span>までに掲げる事項の記録を削除する旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者が原債権金額から分割債権記録に記録される第四条第一項第三号に規定する一定の金額を控除して得た金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権が原債権記録において分割払の方法により債務を支払うものとして記録されている場合には、分割記録の後も原債権記録に引き続き記録されることとなる<span>支払{'規定': 1}</span><span>期日{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>前{'手続': 1}</span>号に規定する場合において、分割記録の後も<span>原{'規定': 1}</span>債権記録に引き続き記録されることとなる電子記録債権が分割払の方法により債務を支払うものであるときは、当該電子記録債権の各支払期日ごとに支払うべき金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割記録の後も<span>原{'手続': 1}</span>債権記録に引き続き記録されることとなる<span>電子記録債権{'場合': 1, '手続': 1}</span>の債権者の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>前{'規定': 1}</span>号の<span>債権者{'手続': 1}</span>が<span>二人{'手続': 1}</span>以上<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>には、<span>債権者{'規定': 1}</span>ごとの<span>債権{'規定': 1}</span>の<span>金額{'手続': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録に記録<span>可能{'記載': 1}</span><span>回数{'規定': 1}</span>が記録されている場合には、当該記録可能<span>回数{'規定': 1}</span>（分割<span>記録{'手続': 1}</span>の<span>記録{'手続': 1}</span>可能回数にあっては、当該記録可能回数から一を控除した残りの記録可能回数）から分割債権記録における記録可能回数を控除した残りの記録可能回数</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に前項各号に掲げる事項を記録したときは、その記録の<span>年月日{'手続': 1}</span>を当該原債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　可分債務が記録されている債権記録の分割</SectionTitle>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（分割記録の請求）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>原{'記載': 1, '手続': 1}</span>債権<span>記録{'手続': 1}</span>に債務者ごとの債務の金額が記録されている場合における分割記録の請求は、<span>分割債権{'規定': 1}</span>記録に債権者として記録される者だけですることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（分割記録の記録事項）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原債権記録に債務者ごとの債務の金額が記録されている場合における分割記録においては、<span>分割債権{'手続': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'手続': 1}</span>債権記録から分割をした旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録及び<span>分割債権{'規定': 1}</span>記録の記録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者であって<span>分割債権{'規定': 1}</span>記録に記録されるものが一定の金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>債権者{'手続': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>の<span>年月日{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原<span>債権{'規定': 1}</span><span>記録{'手続': 1}</span>に<span>債務者{'規定': 1}</span>ごとの<span>債務{'規定': 1}</span>の<span>金額{'規定': 1}</span>が記録されている場合における分割記録においては、<span>原{'規定': 1}</span>債権記録に第四条第二項各号に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十四条第三項の規定は、<span>原{'規定': 1}</span><span>債権{'訴訟': 1}</span><span>記録{'手続': 1}</span>に債務者ごとの債務の金額が記録されている<span>場合{'手続': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（分割記録に伴う分割債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に債務者ごとの債務の金額が記録されている場合において<span>分割{'規定': 1}</span>記録をするときは、分割記録と同時に、<span>分割債権{'手続': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'規定': 1}</span>債権<span>記録{'届出': 1}</span>中の発生記録において記録されている<span>事項{'手続': 1}</span>（<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものを除く。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第五条第一項第一号イ、ロ、<span>ホ{'規定': 1}</span>及びヘに掲げる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債務者{'申請': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span>ごとの<span>債務{'規定': 1}</span>の金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げるもののほか、分割債権記録に記録される電子記録債権についての原債権記録中の現に効力を有する<span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>（<span>分割{'情報': 1, '規定': 1}</span><span>記録{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）において<span>記録{'手続': 1}</span>されている事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第五条第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権の債務者の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>前{'規定': 1}</span>号の<span>債務者{'債権者': 1, '手続': 1}</span>が<span>二人{'規定': 1}</span>以上<span>ある{'でき': 1}</span>場合には、債務者ごとの債務の金額</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権<span>記録{'手続': 1}</span>機関は、分割債権記録に前項第一号及び第二号に掲げる事項を記録したときは当該事項を原債権記録から転写した旨及びその年月日を、同項第三号から第五号までに掲げる事項を記録したときはその記録の年月日を当該分割債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（分割記録に伴う原債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に債務者ごとの債務の金額が記録されている<span>場合{'手続': 1}</span>において<span>分割{'規定': 1}</span>記録をするときは、分割記録と同時に、<span>原{'規定': 1}</span>債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権について原債権記録に記録されている事項のうち、前条<span>第一{'規定': 1}</span>項第一号イからハまでに掲げる事項（<span>原{'規定': 1}</span>債権記録の記録番号を除く。）の記録を削除する旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">債務者が原債権金額から分割債権記録に記録される第八条第一項第三号に規定する一定の金額を<span>控除{'手続': 1}</span>して得た<span>金額{'手続': 1}</span>を<span>支払う{'ある': 1}</span>旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第<span>六条{'手続': 1}</span>第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割記録の後も<span>原{'手続': 1}</span>債権記録に引き続き記録されることとなる<span>電子記録債権{'再生': 1, '手続': 1}</span>の<span>債務者{'債権者': 1}</span>の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>前{'規定': 1}</span>号の<span>債務者{'債権者': 1, '手続': 1}</span>が<span>二人{'規定': 1}</span>以上<span>ある{'でき': 1}</span>場合には、債務者ごとの債務の金額</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権<span>記録{'手続': 1}</span>機関は、原債権<span>記録{'手続': 1}</span>に前項各号に掲げる事項を記録したときは、その記録の<span>年月日{'手続': 1}</span>を当該原債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　一部保証記録がされている債権記録の分割</SectionTitle>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（分割記録の請求）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>原{'記載': 1}</span>債権記録に一部保証記録がされている場合における分割記録の請求は、<span>分割債権{'規定': 1}</span>記録に債権者として記録される者だけですることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（分割記録の記録事項）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>原{'手続': 1}</span>債権記録に一部保証記録がされている場合における分割記録においては、<span>分割債権{'規定': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録から分割をした旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録及び<span>分割債権{'規定': 1}</span>記録の記録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者であって分割債権記録に記録されるものが一定の金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>債権者{'手続': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原<span>債権{'情報': 1}</span>記録に一部<span>保証{'手続': 1}</span>記録がされている場合における分割記録においては、原債権記録に第四条第二項各号に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十四条第三項の規定は、原債権記録に一部保証記録がされている場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（分割記録に伴う分割債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に一部保証記録がされている場合において分割記録をするときは、分割記録と同時に、<span>分割債権{'手続': 1}</span>記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'規定': 1}</span>債権<span>記録{'届出': 1}</span>中の発生記録において記録されている<span>事項{'手続': 1}</span>（<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>ものを<span>除く{'ある': 1}</span>。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>債務者{'規定': 1}</span>が一定の金額を支払う旨</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">当該電子記録債権が分割払の方法により債務を支払うものである場合における各支払<span>期日{'規定': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>支払{'規定': 1}</span><span>期日{'規定': 1}</span>ごとに支払うべき金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">記録可能<span>回数{'規定': 1}</span>が<span>記録{'記載': 1, '申請': 1}</span>されている場合におけるその記録可能<span>回数{'記載': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">原債権記録の記録番号</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権が一部保証記録に基づく<span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>保証の対象であるときは、当該一部保証記録において記録されている事項（保証の範囲を限定する旨の定めを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号に掲げるもののほか、分割債権記録に記録される電子記録債権についての原債権記録中の現に効力を有する電子記録（<span>分割{'情報': 1, '規定': 1}</span><span>記録{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）において<span>記録{'手続': 1}</span>されている<span>事項{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第五条第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権が一部保証記録に基づく電子記録保証の対象であるときは、当該電子記録債権についての当該電子記録保証による保証の範囲を限定する旨の定め</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、分割債権記録に前項第一号から第三号までに掲げる事項を記録したときは当該事項を<span>原{'規定': 1}</span>債権記録から転写した旨及びその年月日を、同項第四号及び第五号に掲げる事項を記録したときはその記録の年月日を当該分割債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（分割記録に伴う原債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に一部保証記録がされている場合において分割記録をするときは、分割記録と同時に、原債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権について原債権記録に記録されている事項のうち、前条<span>第一{'規定': 1}</span>項第一号<span>イ{'規定': 1}</span>からハまでに掲げる事項及び<span>保証{'規定': 1}</span>の範囲を限定する旨の定め（同項第五号の電子記録保証に係る一部保証記録において記録されているものに限る。）の記録を<span>削除{'効力': 1}</span>する旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者が原債権金額から<span>分割債権{'規定': 1}</span>記録に記録される第十二条第一項第三号に規定する一定の<span>金額{'規定': 1}</span>を<span>控除{'規定': 1}</span>して得た<span>金額{'手続': 1}</span>を<span>支払う{'ある': 1}</span>旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第<span>六条{'手続': 1}</span>第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割記録の後も<span>原{'手続': 1}</span>債権<span>記録{'手続': 1}</span>に引き続き<span>記録{'手続': 1}</span>されることとなる電子記録債権についての電子記録保証による保証の範囲を、原債権記録に記録された当該電子記録保証についての保証の範囲から前条第一項第五号の規定により分割債権記録に記録された保証の範囲を控除して得た範囲に限定する旨の定め</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に前項各号に掲げる事項を記録したときは、その記録の<span>年月日{'手続': 1}</span>を当該原債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　特別求償権が記録されている債権記録の分割</SectionTitle>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（分割記録の請求）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>原{'記載': 1}</span>債権記録に特別求償権が記録されている場合における分割記録の請求は、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span>の区分に応じ、当該各号に定める者だけですることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権記録に記録可能回数が記録されている場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">原債権記録に記録されている電子記録名義人の全員</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">分割債権記録に債権者として記録される者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（分割記録の記録事項）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原債権記録に特別<span>求償{'手続': 1}</span>権が記録されている場合における分割記録においては、分割債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'手続': 1}</span>債権記録から分割をした旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録及び<span>分割債権{'規定': 1}</span>記録の記録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者であって<span>分割債権{'規定': 1}</span>記録に記録されるものが一定の金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権の債権者の氏名又は名称及び<span>住所{'規定': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">原債権記録に特別<span>求償{'手続': 1}</span>権が記録されている場合における分割記録においては、原債権記録に第四条第二項各号に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第四十四条第三項の規定は、原債権記録に特別求償権が記録されている場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（分割記録に伴う分割債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に特別<span>求償{'口座': 1}</span>権が記録されている場合において分割記録（<span>分割債権{'手続': 1}</span>記録に特別求償権を記録するためのものに<span>限る{'除く': 1}</span>。）をするときは、分割記録と同時に、分割債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>原{'規定': 1}</span>債権<span>記録{'届出': 1}</span>中の発生記録において記録されている<span>事項{'手続': 1}</span>（<span>次に{'相当': 1}</span>掲げるものを除く。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第五条第一項第一号イ、<span>ホ{'規定': 1}</span>及びヘに掲げる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権の発生の原因である電子記録保証による保証の対象である電子記録債権が分割払の方法により債務を支払うものである場合における各支払<span>期日{'規定': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>支払{'規定': 1}</span><span>期日{'規定': 1}</span>ごとに<span>支払う{'ある': 1}</span>べき<span>金額{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原<span>債権{'手続': 1}</span><span>記録{'手続': 1}</span>中の<span>譲渡{'規定': 1}</span><span>記録{'手続': 1}</span>のうち次に掲げるものにおいて記録されている事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">分割債権記録に記録される特別<span>求償{'手続': 1}</span>権の発生の原因である支払等を受けた者を譲受人とする譲渡記録</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権の債権者を譲受人とする譲渡記録であって当該特別求償権についての特別求償権発生記録がされる前にされたもの（当該特別<span>求償{'口座': 1}</span>権について法第三十五条第一項第二号に掲げる者があるときに限る。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権についての原債権記録中の特別求償権発生記録において記録されている事項（支払等金額を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録中の保証記録のうち次に掲げるものにおいて<span>記録{'事項': 1}</span>されている事項（<span>当該{'記載': 1}</span>保証記録が一部保証記録である場合における保証の範囲を限定する旨の定めを除く。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権の発生の原因である<span>電子{'規定': 1}</span><span>記録{'規定': 1}</span>保証についての保証記録</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権についての法第三十五条第一項第二号又は第三号に掲げる者を電子記録保証人とする保証記録</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">原債権記録中の質権設定記録（転質の電子記録を含む。）のうち分割債権記録に記録される特別求償権の発生の原因である支払等を受けた者を質権者とするものにおいて記録されている事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前各号に掲げるもののほか、分割債権記録に記録される特別求償権についての原債権記録中の現に効力を有する電子記録（<span>分割{'情報': 1, '規定': 1}</span><span>記録{'手続': 1}</span>を<span>除く{'ある': 1}</span>。）において記録されている事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第五条第一項第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>分割債権{'手続': 1}</span>記録に記録される特別求償権の発生の原因である支払等についての支払等金額のうち、<span>分割債権{'手続': 1}</span>記録に記録されるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四号イに掲げる保証記録が一部保証記録である場合には、当該一部<span>保証{'抹消': 1}</span>記録に基づく電子記録保証による保証の範囲を<span>分割債権{'手続': 1}</span>記録に記録される特別求償権の範囲に限定する旨の定め</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四号ロに掲げる保証記録が一部保証記録である場合には、当該一部<span>保証{'抹消': 1}</span>記録に基づく<span>電子{'手続': 1}</span><span>記録{'規定': 1}</span>保証による保証の範囲の<span>額{'限定': 1}</span>を零とする旨の定め</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権<span>記録{'手続': 1}</span>機関は、分割債権記録に前項第一号から第六号までに掲げる<span>事項{'手続': 1}</span>を記録したときは当該事項を原債権記録から転写した旨及びその年月日を、同項第七号から第十号までに掲げる事項を記録したときはその記録の年月日を当該分割債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の場合における第五条第一項第五号の規定の適用については、同号中「分割債権記録に記録される電子記録債権の債権者」とあるのは、「原債権記録中の発生記録に記録されていた債権者のうち、その有する電子記録債権が分割債権記録に記録される特別求償権の発生の原因である電子記録保証による保証の対象であるもの」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の場合における第九条第一項第四号の規定の適用については、同号中「分割債権記録に記録される電子記録債権の<span>債務者{'債権者': 1}</span>」とあるのは、「原債権記録中の発生記録に記録されていた債務者のうち、その債務に係る電子記録債権が分割債権記録に記録される特別求償権の発生の原因である電子記録保証による保証の対象であるもの」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に特別<span>求償{'口座': 1}</span>権が記録されている場合において分割記録（分割債権記録に特別求償権を記録するためのものを除く。）をするときは、分割記録と同時に、分割債権記録に<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権についての原債権記録中の現に効力を有する電子<span>記録{'電磁的記録': 1}</span>において記録されている事項（次に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第五条第一項第一号イ、ロ、<span>ホ{'規定': 1}</span>及びヘに掲げる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">原債権<span>記録{'手続': 1}</span>に<span>分割{'規定': 1}</span><span>記録{'手続': 1}</span>がされている<span>場合{'手続': 1}</span>における<span>当該{'規定': 1}</span><span>分割{'規定': 1}</span><span>記録{'手続': 1}</span>において<span>記録{'手続': 1}</span>されている<span>事項{'手続': 1}</span>（<span>イ{'手続': 1}</span>に<span>掲げる{'ある': 1}</span>ものを除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第五条第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、分割債権記録に前項第一号に掲げる事項を記録したときは当該事項を<span>原{'規定': 1}</span>債権記録から転写した旨及びその年月日を、同項第二号に掲げる事項を記録したときはその記録の年月日を当該分割債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（分割記録に伴う原債権記録への記録）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に特別<span>求償{'口座': 1}</span>権が記録されている場合において分割記録（分割債権記録に特別求償権を記録するためのものに<span>限る{'除く': 1}</span>。）をするときは、分割記録と同時に、原債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権について原債権記録に記録されている事項のうち、次に掲げる事項の記録を削除する旨</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第五条第一項第一号イ及びホに掲げる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">当該特別求償権についての特別求償権発生記録において記録されている支払等金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>保証{'手続': 1}</span>の範囲を限定する旨の定め（第十七条第一項第四号イに掲げる保証記録が一部保証記録である場合における当該一部<span>保証{'抹消': 1}</span>記録に記録されているものに限る。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者が原債権金額から<span>分割債権{'規定': 1}</span><span>記録{'手続': 1}</span>に記録される第十<span>六条{'二条': 1}</span>第一項第三号に<span>規定{'手続': 1}</span>する一定の金額（当該特別求償権についての特別求償権発生記録において消滅した元本の額が記録されている場合には、当該原債権記録に第十七条第一項に規定する<span>分割{'規定': 1}</span>記録がされているときを除き、同項第八号の規定により<span>分割債権{'規定': 1}</span>記録に記録される支払等金額のうち消滅した<span>元本{'手続': 1}</span>の額）を<span>控除{'相当': 1}</span>して得た金額を支払う旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第一項第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される特別求償権の発生の原因である<span>支払{'規定': 1}</span>等についての原債権記録中の支払等<span>金額{'規定': 1}</span>（<span>分割{'手続': 1}</span><span>記録{'手続': 1}</span>の直前に記録されていたものに限る。）から第十七条第一項第八号の規定により<span>分割債権{'規定': 1}</span><span>記録{'手続': 1}</span>に<span>記録{'手続': 1}</span>される支払等金額を控除して得た金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第十七条第一項第四号イに掲げる<span>保証{'事項': 1}</span>記録が一部保証記録である場合には、分割記録の後も原債権記録に引き続き記録されることとなる<span>電子記録債権{'場合': 1}</span>についての当該一部保証記録に基づく電子記録保証による保証の範囲を、原債権記録に記録された当該電子記録保証についての保証の範囲から同項第九号の規定により分割債権記録に記録された保証の範囲を控除して得た範囲に限定する旨の定め</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、原債権記録に前項各号に掲げる事項を記録したときは、その記録の<span>年月日{'手続': 1}</span>を当該原債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関は、<span>原{'手続': 1}</span>債権記録に特別<span>求償{'口座': 1}</span>権が記録されている場合において分割記録（分割債権記録に特別求償権を記録するためのものを除く。）をするときは、分割記録と同時に、<span>原{'規定': 1}</span>債権記録に次に掲げる事項を記録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">分割債権記録に記録される電子記録債権について原債権記録に記録されている事項のうち、第十八条第一項第一号イに掲げる事項（原債権記録の記録番号を除く。）の記録を<span>削除{'規定': 1}</span>する旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">発生記録における債務者が原債権金額から<span>分割債権{'規定': 1}</span>記録に記録される第十<span>六条{'二条': 1}</span>第一項第三号に規定する一定の<span>金額{'規定': 1}</span>を<span>控除{'規定': 1}</span>して得た<span>金額{'規定': 1}</span>を<span>支払う{'ある': 1}</span>旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第一項第三号、第四号及び第七号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">電子債権<span>記録{'手続': 1}</span>機関は、原債権<span>記録{'手続': 1}</span>に前項各号に掲げる事項を記録したときは、その記録の<span>年月日{'手続': 1}</span>を当該原債権記録に記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="5">
+          <SectionTitle>第五節　分割記録の請求に必要な情報</SectionTitle>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>電子記録債権法{'規定': 1}</span>施行令（平成二十年政令第三百二十五号）別表の十二の項ヘに規定する<span>主務{'手続': 1}</span>省令で定める事項は、次の各号に掲げる<span>場合{'申請': 1, '規定': 1}</span>の<span>区分{'規定': 1}</span>に応じ、当該各号に定める事項とする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>原{'手続': 1}</span>債権<span>記録{'手続': 1}</span>に債権者ごとの債権の金額が記録されている<span>場合{'手続': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第四条第一項第三号及び第四号に<span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第五条第一項第三号から第七号までに<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第<span>六条{'手続': 1}</span>第一項第三号から第六号までに<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原<span>債権{'手続': 1}</span><span>記録{'手続': 1}</span>に<span>債務者{'規定': 1}</span>ごとの<span>債務{'規定': 1}</span>の<span>金額{'規定': 1}</span>が<span>記録{'手続': 1}</span>されている<span>場合{'手続': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第八条第一項第三号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>第九条{'手続': 1}</span>第一項第三号から第五号までに<span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十条第一項第三号から第五号までに<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>（第六条第一項第七号に<span>掲げる{'取り消さ': 1}</span><span>事項{'手続': 1}</span>を除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権記録に一部保証記録がされている場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十二条第一項第三号に掲げる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十三条第一項第四号及び第五号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十四条第一項第三号及び第四号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span>（第六条第一項第七号に掲げる事項を除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権記録に特別求償権が記録されている場合（分割債権記録に特別求償権を記録するために分割記録の請求をする場合に<span>限る{'ある': 1}</span>。）</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>次{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十六条第一項第三号及び第四号に<span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十七条第一項第七号から第九号までに<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十九条第一項<span>第五{'手続': 1}</span>号に<span>掲げる{'取り消さ': 1}</span>事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">原債権記録に特別求償権が記録されている場合（分割債権記録に特別求償権を記録するために分割記録の請求をする場合を<span>除く{'ある': 1}</span>。）</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>次{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>前{'手続': 1}</span>号<span>イ{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第十八条第一項第二号に<span>掲げる{'取り消さ': 1}</span><span>事項{'規定': 1}</span></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項第三号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>（第<span>六条{'手続': 1}</span>第一項第七号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　電子債権記録機関</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（指定の申請等）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'規定': 1}</span>第五十<span>一条{'規定': 2}</span>第一項の<span>指定{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとする者は、<span>法{'規定': 1}</span>又はこの<span>命令{'規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>法務大臣{'規定': 1}</span>及び<span>内閣総理大臣{'法務大臣': 1, '規定': 1}</span>に<span>提出{'規定': 1}</span>する指定申請書のうち内閣総理大臣に提出するものを、<span>金融庁長官{'規定': 1}</span>を経由して提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第五十<span>一条{'指定': 1}</span>第一項第四号イに規定する<span>主務{'規定': 1}</span>省令で定める者は、精神の機能の障害のため<span>電子債権{'手続': 1}</span>記録業に係る職務を適正に執行するに当たって必要な認知、判断及び意思<span>疎通{'規定': 1}</span>を適切に行うことができない者とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">指定申請書（<span>法{'規定': 1}</span>第五十二条第一項の<span>指定{'規定': 1}</span><span>申請{'規定': 1}</span>書を<span>いう{'ある': 1}</span>。<span>次項{'次': 1, '規定': 1}</span>第三号の二及び第五号の二において同じ。）には、法第五十二条第一項各号に掲げる事項のほか、電子債権記録業を開始する時期を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第五十二条第二項第七号に規定する主務省令で定める書類は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">主要株主（総株主の議決権（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法（平成十七年法律第八十六号）第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を<span>含む{'有する': 1}</span>。次号を除き、以下同じ。）の百分の十以上の議決権を保有している株主をいう。以下同じ。）の氏名又は<span>商号{'名称': 2}</span>若しくは名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">親法人（電子債権記録機関の総株主の議決権（前号に規定する議決権をいう。）の過半数を保有している法人その他の団体をいう。以下同じ。）及び子法人（電子債権記録機関が総株主、総社員又は総出資者の議決権（株式会社にあっては、株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。）の過半数を保有している法人その他の団体をいう。以下同じ。）の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役及び監査役（監査等委員会設置会社にあっては取締役、指名委員会等設置会社にあっては取締役及び執行役。以下この<span>項{'氏名': 1}</span>及び第三十五条から第三十八条までにおいて同じ。）の住民票の抄本又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3_2">
+              <ItemTitle>三の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役及び<span>監査役{'規定': 1}</span>の旧氏（住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十三に規定する旧氏をいう。以下同じ。）及び名を当該取締役及び監査役の氏名に併せて指定申請書に記載した<span>場合{'規定': 1}</span>において、前号に掲げる書類が当該取締役及び監査役の旧<span>氏{'氏名': 1}</span>及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役及び監査役の履歴書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会計参与設置会社にあっては、会計参与の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5_2">
+              <ItemTitle>五の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会計参与の旧氏及び名を当該会計参与の氏名に併せて指定申請書に記載した<span>場合{'規定': 1}</span>において、<span>前{'手続': 1}</span>号の<span>住民票{'規定': 1}</span>の<span>抄本{'手続': 1}</span>又はこれに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役（指名委員会等設置会社にあっては、執行役）の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子債権記録業に関する知識及び経験を有する<span>使用人{'手続': 1}</span>の<span>確保{'手続': 1}</span>の<span>状況{'手続': 1}</span>並びに<span>当該{'手続': 1}</span><span>使用人{'規定': 1}</span>の配置の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関の事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関を利用する者に関する情報の管理の内容を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第五十二条第三項に規定する<span>主務{'手続': 1}</span>省令で定める電磁的記録は、次に掲げる構造のいずれかに該当するものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>産業標準化法{'規定': 1}</span>（昭和二十四年法律第百八十五号）に基づく日本産業規格（以下「日本産業規格」という。）Ｘ六二二三に適合する九〇ミリメートルフレキシブルディスクカートリッジ</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">日本産業規格Ｘ〇六〇六に適合する一二〇ミリメートル光ディスク</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の電磁的記録には、申請者の商号及び申請の年月日を記載した書面をはり付けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleCaption>（業務の一部委託の承認申請等）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関は、法第五十八条第一項の規定により承認を<span>受けよ{'ある': 1}</span>うとするときは、次に掲げる事項を記載した承認申請書を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">業務を委託する相手方（以下この条において「受託者」という。）の<span>商号{'氏名': 2, '規定': 1}</span>又は名称及び<span>住所{'本店': 1}</span>又は<span>所在地{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>委託{'規定': 1}</span>する<span>業務{'規定': 1}</span>の<span>内容{'手続': 1}</span>及び範囲</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">委託の期間</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>承認申請{'規定': 1}</span>書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">理由書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>業務{'規定': 1}</span>の<span>委託{'手続': 1}</span><span>契約{'規定': 1}</span>の<span>内容{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>受託{'手続': 1}</span>者が<span>法{'手続': 1}</span>第五十<span>一条{'第三条': 1, '規定': 1}</span>第一項第三号に<span>掲げる{'ある': 1}</span><span>要件{'規定': 1}</span>に該当する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の取締役及び監査役（理事、監事その他これらに準ずる者を含むものとし、監査等委員会設置会社にあっては取締役、指名委員会等設置会社にあっては取締役及び執行役とする。以下この<span>条{'規定': 1}</span>において同じ。）が法第五十一条第一項第四号に<span>掲げる{'ある': 1}</span><span>要件{'規定': 1}</span>に該当する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の登記事項証明書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の定款又は寄附行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">委託する<span>業務{'変更': 1}</span>の実施方法を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の最近三年の各年度における事業報告、貸借対照表及び損益計算書又はこれらに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の取締役及び監査役の氏名を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の取締役及び<span>監査役{'規定': 1}</span>の住民票の抄本又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の取締役及び監査役の履歴書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者が会計参与設置会社である場合にあっては、受託者の<span>会計参与{'手続': 1}</span>が法第五十<span>一条{'第三条': 1}</span>第一項第四号に掲げる要件に該当する旨を誓約する書面並びに当該会計参与の氏名又は名称を記載した書面、<span>住民票{'規定': 1}</span>の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者の取締役（理事その他これに準ずる者を含むものとし、指名委員会等設置会社にあっては、執行役とする。）の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法務大臣及び<span>金融庁長官{'規定': 1}</span>は、第一項の承認の申請があった場合においては、その申請が<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>基準{'規定': 1}</span>に<span>適合{'手続': 1}</span>するかどうかを審査するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">業務の委託が<span>電子債権{'規定': 1}</span>記録業の<span>適正{'手続': 1}</span>かつ確実な遂行を阻害するものでないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受託者が社会的信用のある法人であり、かつ、その受託する業務について、適正な<span>計画{'手続': 1}</span>を<span>有し{'ある': 1}</span>、<span>確実{'手続': 1}</span>にその<span>業務{'規定': 1}</span>を<span>行う{'ある': 1}</span>ことができるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>受託{'手続': 1}</span>者が<span>法{'手続': 1}</span>第五十<span>一条{'第三条': 1, '規定': 1}</span>第一項第三号に掲げる要件に該当すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>受託{'規定': 1}</span>者の取締役及び監査役並びに会計参与が法第五十一条第一項第四号に掲げる要件に該当すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>受託{'手続': 1}</span>者がその受託する<span>業務{'手続': 1}</span>の<span>全部{'手続': 1}</span>又は一部を他の者に再委託する場合には、<span>電子債権{'手続': 1}</span>記録機関が当該再委託を受けた者が<span>行う{'ある': 1}</span><span>業務{'規定': 1}</span>を<span>確認{'手続': 1}</span>できる旨の<span>条件{'手続': 1}</span>が<span>業務{'規定': 1}</span>の<span>委託{'手続': 1}</span>契約において付されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleCaption>（業務規程の記載事項）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第五十九条に規定する<span>主務{'規定': 1}</span>省令で定める事項は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>記録{'手続': 1}</span><span>事項{'手続': 1}</span>に関する<span>事項{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子{'電磁的記録': 1, '手続': 1}</span><span>記録{'使用': 1, '規定': 1}</span>の<span>請求{'手続': 1}</span>に関する<span>事項{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子{'手続': 1}</span><span>記録{'規定': 1}</span>の<span>実施{'手続': 1}</span>の<span>方法{'手続': 1}</span>に関する<span>事項{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第四十七条の三第五項及び第四十七条の五第三項の<span>規定{'手続': 1}</span>による通知の方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第六十二条第一項に規定する口座間送金決済に関する契約又は法第六十四条に規定する契約に係る事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子債権{'手続': 1}</span>記録機関を利用する者に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子債権{'手続': 1}</span><span>記録{'振替': 1}</span>業を行う時間<span>及び{'ただし': 1}</span>休日に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">記録<span>原簿{'機関': 1}</span>の安全性の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">記録事項の開示その他の情報の提供に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他電子債権記録業に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（債務の支払を確実に知り得る場合）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第六十五条に規定する主務省令で定める場合は、電子記録債権に係る債務について、電子債権記録機関、債権者及び債権者口座のある銀行等の合意に基づき、あらかじめ電子債権記録機関が、当該銀行等に対し支払期日、支払うべき<span>金額{'再生': 1}</span>、債務者及び<span>債権{'規定': 1}</span>者に係る<span>情報{'手続': 1}</span>を<span>提供{'規定': 1}</span>し、<span>当該{'規定': 1}</span>支払期日までの間において当該<span>銀行{'手続': 1}</span>等が、支払うべき電子記録債権に係る債務の全額について当該債務者による当該債権者口座に対する払込みの事実を確認した場合であって、<span>電子債権{'規定': 1}</span>記録機関が当該事実に関する通知を当該銀行等から受けた場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の合意に係る法第六十四条に規定する契約には、銀行等が、支払うべき電子記録債権に係る債務の全額について当該債務者による当該債権者口座に対する払込みの事実を確認した場合には、遅滞なく、当該事実を<span>電子債権{'規定': 1}</span><span>記録{'規定': 1}</span>機関に通知する旨を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（帳簿書類等の作成及び保存）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第六十七条の規定により<span>電子債権{'調査': 1}</span>記録機関が作成すべき帳簿書類その他の記録は、<span>請求{'規定': 1}</span><span>受付{'規定': 1}</span>簿とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>請求{'規定': 1}</span><span>受付{'手続': 1}</span>簿は、<span>別表{'手続': 1}</span><span>第一{'法務省令': 1, '手続': 1}</span>に<span>定める{'ある': 1}</span>ところにより<span>作成{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>請求{'規定': 1}</span><span>受付{'手続': 1}</span>簿は、作成後十年間これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（業務及び財産に関する報告書の提出）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第六十八条第一項の規定により<span>電子債権{'規定': 1}</span>記録機関が作成すべき業務及び財産に関する報告書は、会社法第四百三十五条第二項に規定する計算書類及び事業報告とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の業務及び財産に関する報告書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">有形固定資産明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">諸引当準備金明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他諸勘定明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">主要株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する<span>議決権{'手続': 1}</span>の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の業務及び財産に関する<span>報告書{'手続': 1}</span>は、事業年度経過後三月以内に法務大臣及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（減資の認可申請）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'規定': 1}</span>記録機関は、法第六十九条第一項の規定により資本金の額の減少について認可を受けようとするときは、次に掲げる事項を記載した認可申請書を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減資前の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減資後の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減資予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減資の内容</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の認可申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">理由書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の減少の方法を記載した<span>書面{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>株主総会{'前項': 1}</span>の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">貸借対照表</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleCaption>（増資の届出）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'規定': 1}</span>記録機関は、法第六十九条第二項の規定により資本金の額の増加について届出をしようとするときは、次に掲げる事項を記載した<span>書面{'届出': 1}</span>を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">増資前の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">増資後の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>増資{'減資': 1}</span>予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>増資{'減資': 1}</span>の内容</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>書面{'届出': 1}</span>には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の増加の方法を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会の議事録その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（定款又は業務規程の変更認可申請等）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関は、法第七十条の規定により定款又は<span>業務{'規定': 1}</span><span>規程{'規定': 1}</span>の<span>変更{'規定': 1}</span>の<span>認可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするときは、<span>次に{'第一': 1, '相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を記載した認可申請書を<span>法務大臣{'金融庁長官': 1}</span>及び<span>金融庁長官{'規定': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の<span>内容{'年月日': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の認可申請書には、次に掲げる<span>書類{'規定': 1}</span>を<span>添付{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>理由{'規定': 1}</span>書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">定款又は業務規程の新旧対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会の議事録（業務規程の変更の認可申請書にあっては、取締役会の<span>議事録{'決議': 1}</span>）その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法務大臣及び金融庁長官は、第一項の認可の申請があった場合においては、定款又は<span>業務{'規定': 1}</span><span>規程{'手続': 1}</span>の<span>変更{'手続': 1}</span>の内容が、法令に適合し、かつ、<span>電子債権{'手続': 1}</span>記録業を適正かつ確実に運営するために十分であると認められるかどうかを審査するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（業務の休止の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'規定': 1}</span>記録機関は、法第七十一条の規定により電子債権記録業の全部又は一部の休止について認可を<span>受けよ{'受け': 1}</span>うとするときは、次に掲げる事項を記載した認可申請書を法務大臣及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">休止しようとする業務の範囲</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">休止しようとする年月日及びその期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">休止の理由</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleCaption>（商号等の変更の届出）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関は、法第七十二条第一項の規定により法第五十二条<span>第一{'規定': 1}</span>項第一号又は第三号から第五号までに<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'規定': 1}</span>について<span>届出{'規定': 1}</span>を<span>しよう{'手続': 1}</span>とするときは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を記載した<span>書面{'届出': 1}</span>を<span>法務大臣{'金融庁長官': 1}</span>及び<span>金融庁長官{'規定': 1}</span>に<span>届け出{'届け出る': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>書面{'届出': 1, '規定': 1}</span>には、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>書類{'手続': 1}</span>を<span>添付{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>法{'規定': 1}</span>第五十二条<span>第一{'規定': 1}</span>項第一号又は第三号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">同<span>条{'規定': 1}</span>第二項第三号に<span>掲げる{'ある': 1}</span><span>書類{'手続': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第五十二条第一項第四号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に<span>掲げる{'ある': 1}</span><span>書類{'事項': 1, '規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第五十二条第二項第一号及び第三号に掲げる書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">取締役、執行役又は監査役の住民票の抄本又はこれに代わる書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>取締役{'受託': 1}</span>、執行役<span>及び{'又は': 1}</span>監査役の旧氏及び名を当該取締役、執行役<span>及び{'又は': 1}</span>監査役の氏名に併せて前項の書面に記載した<span>場合{'手続': 1}</span>において、ロに掲げる書類が当該取締役、執行役<span>及び{'又は': 1}</span>監査役の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">取締役、執行役又は監査役の履歴書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">第二十二条第四項第六号に掲げる書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第五十二条第一項第五号に掲げる事項の<span>変更{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に<span>掲げる{'ある': 1}</span><span>書類{'事項': 1, '規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第五十二条第二項第一号及び第三号に掲げる書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>会計参与{'規定': 1}</span>の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">会計参与の旧氏及び名を当該会計参与の氏名に併せて前項の書面に記載した<span>場合{'手続': 1}</span>において、<span>ロ{'手続': 1}</span>の<span>住民票{'規定': 1}</span>の<span>抄本{'手続': 1}</span><span>又は{'及び': 1}</span>これに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（立入検査の証明書）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第七十三条第二項の規定により電子債権記録機関又は当該電子債権記録機関から業務の委託を受けた者の営業所<span>又は{'若しくは': 1}</span>事務所に対して<span>立入検査{'規定': 1}</span>をする際に職員が携帯すべき証明書の様式は、<span>法務省{'金融庁': 1}</span>の職員にあっては別紙様式によるものとし、<span>金融庁{'財務省': 1}</span>の職員にあっては金融庁等の職員が検査の際に携帯すべき身分証明書等の様式を定める内閣府令（平成四年大蔵省令第六十九号）第一項に規定する様式によるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（特定合併の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関は、法第七十八条第一項の規定による特定<span>合併{'規定': 1}</span>の<span>認可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするときは、<span>法{'規定': 1}</span>第五十二条第一項各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した合併<span>認可申請{'金融庁長官': 1}</span>書を法務大臣及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併の方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第七十八条第三項に規定する<span>主務{'規定': 1}</span>省令で定める電磁的記録は、第二十三条に規定する電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第七十八条第三項に規定するその他<span>主務{'規定': 1}</span>省令で定める書面又は<span>電磁的記録{'申請': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>書面{'規定': 1}</span><span>又は{'ただし': 1}</span>これらの<span>書面{'規定': 1}</span>に<span>代え{'ある': 1}</span>て<span>電磁的記録{'手続': 1}</span>の<span>作成{'規定': 1}</span>がされている<span>場合{'規定': 1}</span>における<span>電磁的記録{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>理由{'規定': 1}</span>書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>合併{'規定': 1}</span>の<span>手続{'規定': 1}</span>を<span>記載{'規定': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併の当事者の<span>登記事項証明書{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span>合併の当事者の会社法第七百八十三条第一項及び第七百九十五条第一項又は第八百四条第一項の規定による株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'添付': 1}</span>合併の当事者の貸借対照表及び損益計算書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関が法第五十一条第一項第三号及び第四号に<span>掲げる{'でき': 1}</span><span>要件{'規定': 1}</span>に<span>該当{'規定': 1}</span>する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の<span>電子債権{'規定': 1}</span>記録機関の定款</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の<span>電子債権{'規定': 1}</span>記録機関の業務規程</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の収支の見込みを記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の主要株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する<span>議決権{'手続': 1}</span>の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の<span>電子債権{'規定': 1}</span>記録機関の親法人及び子法人の<span>概要{'情報': 1, '手続': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の取締役及び監査役の住民票の抄本又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12_2">
+              <ItemTitle>十二の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の取締役及び監査役の旧氏及び名を当該取締役及び監査役の氏名に併せて合併認可申請書に記載した<span>場合{'手続': 1}</span>において、前号に掲げる<span>書面{'書類': 1, '場合': 1}</span>が当該取締役及び監査役の旧<span>氏{'氏名': 1}</span>及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の取締役及び監査役の履歴書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関が会計参与設置会社である<span>場合{'手続': 1}</span>にあっては、特定合併後の電子債権記録機関の会計参与の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14_2">
+              <ItemTitle>十四の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の会計参与の旧氏及び名を当該会計参与の氏名に併せて合併認可申請書に記載した場合において、<span>前{'手続': 1}</span>号の<span>住民票{'規定': 1}</span>の<span>抄本{'手続': 1}</span>又はこれに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関の取締役（指名委員会等設置会社にあっては、執行役）の担当<span>業務{'事項': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関における電子債権記録業に関する知識及び経験を有する<span>使用人{'手続': 1}</span>の<span>確保{'手続': 1}</span>の<span>状況{'手続': 1}</span>並びに<span>当該{'手続': 1}</span><span>使用人{'規定': 1}</span>の<span>配置{'手続': 1}</span>の<span>状況{'規定': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の<span>電子債権{'規定': 1}</span>記録機関の事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定合併後の電子債権記録機関を利用する者に関する情報の管理の内容を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき<span>事項{'規定': 1}</span>を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（新設分割の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'条': 1}</span>記録機関は、法第七十九条第一項の規定による新設分割の認可を受けようとするときは、同条第二項各号に掲げる事項の<span>ほか{'手続': 1}</span>、次に掲げる事項を記載した<span>新設{'規定': 1}</span>分割認可申請書を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">新設分割予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">新設分割の方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第七十九条第三項に規定する<span>主務{'規定': 1}</span>省令で定める電磁的記録は、第二十三条に規定する電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第七十九条第三項に規定するその他主務省令で定める書面又は<span>電磁的記録{'申請': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>書面{'規定': 1}</span><span>又は{'ただし': 1}</span>これらの<span>書面{'規定': 1}</span>に<span>代え{'ある': 1}</span>て<span>電磁的記録{'手続': 1}</span>の作成がされている場合における電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">理由書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>新設{'規定': 1}</span>分割の手続を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>新設{'規定': 1}</span>分割の当事者の登記事項証明書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">新設分割の当事者の会社法第八百四条第一項の規定による株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">新設分割の<span>当事者{'設立': 1}</span>の貸借対照表及び損益計算書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社が法第五十<span>一条{'第三条': 1}</span>第一項第三号及び第四号に掲げる要件に該当する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の定款</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の業務規程</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の収支の見込みを記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の主要株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する<span>議決権{'手続': 1}</span>の数を<span>記載{'それぞれ': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の親法人及び子法人の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'更生': 1}</span>会社の取締役及び監査役の<span>住民票{'規定': 1}</span>の<span>抄本{'手続': 1}</span>又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12_2">
+              <ItemTitle>十二の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'更生': 1}</span>会社の取締役及び監査役の旧氏及び名を当該取締役及び監査役の氏名に併せて新設分割認可申請書に記載した<span>場合{'変更': 1}</span>において、前号に掲げる<span>書面{'書類': 1, '場合': 1}</span>が当該取締役及び監査役の旧<span>氏{'氏名': 1}</span>及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'更生': 1}</span>会社の取締役及び監査役の<span>履歴書{'氏名': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'更生': 1}</span>会社が会計参与設置会社である場合にあっては、設立会社の会計参与の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14_2">
+              <ItemTitle>十四の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社の会計参与の旧氏及び名を当該会計参与の氏名に併せて新設分割認可申請書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'更生': 1}</span>会社の取締役（指名委員会等設置会社にあっては、執行役）の担当<span>業務{'事項': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社における電子債権記録業に関する知識及び経験を有する<span>使用人{'手続': 1}</span>の<span>確保{'手続': 1}</span>の<span>状況{'手続': 1}</span>並びに<span>当該{'手続': 1}</span><span>使用人{'規定': 1}</span>の<span>配置{'手続': 1}</span>の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>設立{'対象': 1}</span><span>会社{'手続': 1}</span>の事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">設立会社を利用する者に関する情報の管理の内容を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（吸収分割の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'条': 1}</span>記録機関は、法第八十条第一項の規定による<span>吸収{'新設': 1}</span><span>分割{'規定': 1}</span>の<span>認可{'規定': 1}</span>を<span>受けよ{'ある': 1}</span>うとするときは、同<span>条{'規定': 1}</span>第二項各号に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>の<span>ほか{'手続': 1}</span>、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>吸収{'規定': 1}</span>分割認可申請書を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">吸収分割予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">吸収分割の方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十条第三項に規定する<span>主務{'規定': 1}</span>省令で定める電磁的記録は、第二十三条に規定する電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十条第三項に規定するその他<span>主務{'規定': 1}</span>省令で定める書面又は<span>電磁的記録{'申請': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>書面{'規定': 1}</span><span>又は{'ただし': 1}</span>これらの<span>書面{'規定': 1}</span>に<span>代え{'ある': 1}</span>て<span>電磁的記録{'手続': 1}</span>の<span>作成{'規定': 1}</span>がされている<span>場合{'規定': 1}</span>における<span>電磁的記録{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>理由{'規定': 1}</span>書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>吸収{'新設': 2, '規定': 1}</span><span>分割{'規定': 1}</span>の<span>手続{'規定': 1}</span>を<span>記載{'手続': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>吸収{'新設': 1}</span>分割の当事者の<span>登記事項証明書{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>吸収{'新設': 1, '規定': 1}</span>分割の当事者の会社法第七百八十三条第一項及び第七百九十五条第一項の規定による株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>吸収{'新設': 1}</span>分割の当事者の貸借対照表及び損益計算書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'設立': 1}</span>会社が法第五十<span>一条{'第三条': 1}</span>第一項第三号及び第四号に掲げる要件に該当する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の定款</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の業務規程</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の収支の見込みを記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の主要株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する<span>議決権{'規定': 1}</span>の数を<span>記載{'手続': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の親法人及び子法人の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'更生': 1}</span>会社の取締役及び監査役の住民票の抄本又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12_2">
+              <ItemTitle>十二の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'更生': 1}</span>会社の取締役及び監査役の旧氏及び名を当該取締役及び監査役の氏名に併せて<span>吸収{'新設': 1}</span>分割認可申請書に記載した<span>場合{'変更': 1, '手続': 1}</span>において、前号に掲げる<span>書面{'書類': 1, '場合': 1}</span>が当該取締役及び監査役の旧<span>氏{'氏名': 1}</span>及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'更生': 1}</span>会社の取締役及び監査役の<span>履歴書{'氏名': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'更生': 1}</span>会社が会計参与設置会社である場合にあっては、承継会社の会計参与の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を<span>記載{'手続': 1}</span>した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14_2">
+              <ItemTitle>十四の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社の会計参与の旧氏及び名を当該会計参与の氏名に併せて吸収分割認可申請書に記載した<span>場合{'手続': 1}</span>において、<span>前{'手続': 1}</span>号の<span>住民票{'規定': 1}</span>の<span>抄本{'手続': 1}</span>又はこれに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'更生': 1}</span>会社の取締役（指名委員会等設置会社にあっては、執行役）の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社における電子債権記録業に関する知識及び経験を有する<span>使用人{'手続': 1}</span>の<span>確保{'手続': 1}</span>の<span>状況{'手続': 1}</span>並びに<span>当該{'手続': 1}</span><span>使用人{'規定': 1}</span>の<span>配置{'手続': 1}</span>の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>承継{'対象': 1}</span><span>会社{'手続': 1}</span>の事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承継会社を<span>利用{'登記事項証明書': 1}</span>する者に関する情報の管理の内容を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleCaption>（事業譲渡の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'条': 1}</span>記録機関は、法第八十一条第一項の規定による<span>事業譲渡{'規定': 1}</span>の認可を受けようとするときは、同条第二項各号に掲げる<span>事項{'行為': 1}</span>の<span>ほか{'手続': 1}</span>、次に掲げる事項を記載した事業譲渡<span>認可申請{'金融庁長官': 1}</span>書を<span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>事業譲渡{'変更': 1}</span>予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業譲渡の方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十一条第三項に規定する<span>主務{'規定': 1}</span>省令で定める電磁的記録は、第二十三条に規定する電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十一条第三項に規定するその他主務省令で定める書面又は<span>電磁的記録{'申請': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>書面{'規定': 1}</span><span>又は{'ただし': 1}</span>これらの<span>書面{'規定': 1}</span>に<span>代え{'ある': 1}</span>て<span>電磁的記録{'手続': 1}</span>の作成がされている場合における電磁的記録とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">理由書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業譲渡の手続を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業譲渡の当事者の登記事項証明書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業譲渡の当事者の会社法第四百六十七条第一項の規定による株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>事業譲渡{'添付': 1}</span>の当事者の貸借対照表及び損益計算書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社が法第五十<span>一条{'第三条': 1}</span>第一項第三号及び第四号に掲げる要件に該当する旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の定款</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の業務規程</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の収支の見込みを記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の主要株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の親法人及び子法人の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'更生': 1}</span>会社の取締役及び監査役の住民票の<span>抄本{'手続': 1}</span>又はこれに代わる書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12_2">
+              <ItemTitle>十二の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'更生': 1}</span>会社の取締役及び監査役の旧氏及び名を当該取締役及び監査役の氏名に併せて<span>事業譲渡{'合併': 1}</span>認可申請書に<span>記載{'申請': 1}</span>した場合において、前号に掲げる<span>書面{'書類': 1, '場合': 1}</span>が当該取締役及び監査役の旧<span>氏{'氏名': 1}</span>及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'更生': 1}</span>会社の取締役及び監査役の履歴書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'更生': 1}</span>会社が会計参与設置会社である場合にあっては、<span>譲受{'更生': 1}</span>会社の会計参与の住民票の抄本又はこれに代わる書面（会計参与が法人であるときは、当該会計参与の登記事項証明書）及び履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14_2">
+              <ItemTitle>十四の二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社の会計参与の旧氏及び名を当該会計参与の氏名に併せて<span>事業譲渡{'合併': 1}</span>認可申請書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が<span>当該{'申請': 1, '受託': 1}</span>会計参与の旧氏及び名を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'更生': 1}</span>会社の取締役（指名委員会等設置会社にあっては、執行役）の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社における電子債権記録業に関する知識及び経験を有する<span>使用人{'手続': 1}</span>の<span>確保{'手続': 1}</span>の<span>状況{'手続': 1}</span>並びに<span>当該{'手続': 1}</span><span>使用人{'規定': 1}</span>の配置の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>譲受{'対象': 1}</span>会社の事務の<span>機構{'民法': 1}</span>及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">譲受会社を利用する者に関する情報の管理の内容を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>参考{'規定': 1}</span>となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="39">
+          <ArticleCaption>（解散等の認可申請）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'条': 1}</span>記録機関は、法第八十二条の規定による認可を<span>受けよ{'ある': 1}</span>うとするときは、<span>当該{'規定': 1}</span><span>認可{'規定': 1}</span>を<span>受ける{'ある': 1}</span>べき<span>事項{'手続': 1}</span>を記載した認可申請書を<span>法務大臣{'金融庁長官': 1}</span>及び<span>金融庁長官{'規定': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の認可申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">理由書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会の<span>議事録{'通知': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資産及び負債の内容を明らかにした書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子債権記録業の結了の方法を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="40">
+          <ArticleCaption>（指定失効の届出）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関であった者又は一般承継人（以下「旧電子債権記録機関等」という。）は、法第八十三条第二項の規定により届出をしようとするときは、別表第<span>二上{'一上': 1, '手続': 1}</span>欄に掲げる区分により、同表中欄に<span>定める{'掲げる': 2, 'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'規定': 1}</span>に同<span>表{'手続': 1}</span>下<span>欄{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span>書類を添付し、法務大臣及び金融庁長官に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="41">
+          <ArticleCaption>（電子債権記録業の結了の届出）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">旧電子債権記録機関等は、法第八十四条の規定により電子債権記録業を結了したときは、遅滞なく、その旨を法務大臣及び金融庁長官に届け出るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法務大臣{'金融庁長官': 1}</span>及び金融庁長官は、<span>前項{'規定': 1}</span>の届出を受理したときは、遅滞なく、その旨を官報に公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="42">
+          <ArticleCaption>（届出事項）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">電子債権記録機関は、次の各号のいずれかに該当することとなったときは、遅滞なく、その旨を法務大臣及び金融庁長官に届け出るものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子債権記録機関の代表者の氏名に変更が<span>あっ{'ある': 1}</span>たとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十二条第四項第六号に<span>掲げる{'ある': 1}</span><span>書面{'事項': 2, '規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>に変更があったとき（当該変更が電子債権記録機関の取締役又は執行役の氏名の変更による場合を除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十二条第四項第七号に掲げる<span>書面{'事項': 1}</span>の記載<span>事項{'規定': 1}</span>に<span>変更{'手続': 1}</span>が<span>あっ{'ある': 1}</span>たとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十四条<span>第一{'手続': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>記載{'規定': 1}</span><span>事項{'規定': 1}</span><span>又は{'ただし': 1}</span>同<span>条{'規定': 1}</span>第二項第二号、第六号若しくは第七号に<span>掲げる{'ある': 1}</span><span>書類{'事項': 2, '規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>に<span>変更{'手続': 1}</span>（同<span>項{'規定': 1}</span>第六号に<span>掲げる{'ある': 1}</span><span>書類{'事項': 2, '規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>当該{'規定': 1}</span><span>変更{'手続': 1}</span>が<span>軽微{'規定': 1}</span>なものを<span>除く{'ある': 1}</span>。）が<span>あっ{'みなす': 1}</span>たとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>業務{'手続': 1}</span><span>規程{'手続': 1}</span>に<span>基づき{'ある': 1}</span><span>規則{'規定': 1}</span>を<span>定め{'手続': 1}</span>、又は廃止し、若しくは変更したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子債権{'規定': 1}</span>記録機関において事故が発生したことを知ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号に規定する事故の<span>詳細{'手続': 1}</span>が判明したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定による届出を行う電子債権記録機関は、別表第三上欄に掲げる区分により、同表下欄に<span>定める{'掲げる': 2, 'ある': 1}</span><span>書類{'規定': 1}</span>を<span>添付{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項第六号に<span>規定{'手続': 1}</span>する「<span>事故{'手続': 1}</span>」とは、次の各号のいずれかに該当する事実をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役、会計参与（会計参与が法人であるときは、職務を行うべき社員を含む。）、監査役、執行役又は使用人がその<span>業務{'職務': 1}</span>を執行するに際し、法令に<span>違反{'規定': 1}</span>する<span>行為{'規定': 1}</span>をしたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子情報処理組織の故障その他偶発的な事情による電子債権記録業の全部又は一部の停止</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="43">
+          <ArticleCaption>（債権記録に記録された事項を表示する方法）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十七条第一項に規定する<span>主務{'規定': 1}</span>省令で定める方法は、債権<span>記録{'手続': 1}</span>に記録された<span>事項{'手続': 1}</span>を<span>紙面{'手続': 1}</span>又は映像面に表示する方法とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="44">
+          <ArticleCaption>（電子記録の請求をした者の同意による記録事項の開示）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>電子債権{'手続': 1}</span>記録機関は、法第八十七条第二項の規定により開示請求をすることを<span>認めよ{'ある': 1}</span>うとするときは、あらかじめ、電子記録の<span>請求{'規定': 1}</span>をする者に対し、開示請求をすることを<span>認める{'ある': 1}</span>者の<span>範囲{'手続': 1}</span>及び記録事項の内容を<span>示し{'ある': 1}</span>、書面又は電磁的方法による<span>同意{'承諾': 2}</span>を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="45">
+          <ArticleCaption>（電磁的記録に記録された事項を表示する方法）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第八十八条第三号に規定する<span>主務{'手続': 1}</span>省令で定める方法は、同号の電磁的記録に記録された<span>事項{'手続': 1}</span>を<span>紙面{'手続': 1}</span>又は<span>映像{'規定': 1}</span>面に<span>表示{'手続': 1}</span>する<span>方法{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="46">
+          <ArticleCaption>（電磁的方法）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'手続': 1}</span>第八十八条第四号に<span>規定{'手続': 1}</span>する<span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'規定': 1}</span>その他の情報通信の技術を利用する方法であって<span>主務{'手続': 1}</span>省令で定めるものは、次に掲げる方法とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子{'手続': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'規定': 1}</span>のうち<span>イ{'申請': 1, '手続': 1}</span>又は<span>ロ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span>もの</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'規定': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>と<span>受信{'手続': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>とを<span>接続{'手続': 1}</span>する<span>電気通信回線{'手続': 1}</span><span>を通じて{'とともに': 1}</span><span>送信{'届出': 1}</span>し、<span>受信{'規定': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'手続': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>送信{'手続': 1}</span>者の<span>使用{'規定': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>記録{'規定': 1}</span>された<span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>を<span>電気通信回線{'規定': 1}</span><span>を通じて{'とともに': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>閲覧{'手続': 1}</span>に<span>供{'手続': 1}</span>し、<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>を<span>受ける{'ある': 1}</span>者の<span>使用{'手続': 1}</span>に係る<span>電子計算機{'規定': 1}</span>に<span>備え{'ある': 1}</span>られた<span>ファイル{'手続': 1}</span>に<span>当該{'規定': 1}</span><span>情報{'手続': 1}</span>を<span>記録{'届出': 1}</span>する<span>方法{'手続': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>磁気ディスク{'手続': 1}</span>その他これに<span>準ずる{'ある': 1}</span><span>方法{'手続': 1}</span>により<span>一定{'手続': 1}</span>の<span>情報{'手続': 1}</span>を<span>確実{'規定': 1}</span>に<span>記録{'規定': 1}</span>しておくことができる物<span>をもって{'とともに': 1}</span><span>調製{'手続': 1}</span>する<span>ファイル{'手続': 1}</span>に<span>情報{'手続': 1}</span>を<span>記録{'手続': 1}</span>したものを<span>交付{'手続': 1}</span>する<span>方法{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>方法{'規定': 1}</span>は、<span>受信{'手続': 1}</span>者が<span>ファイル{'手続': 1}</span>への<span>記録{'手続': 1}</span>を<span>出力{'手続': 1}</span>することにより<span>書面{'手続': 1}</span>を<span>作成{'手続': 1}</span>することができるものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="47">
+          <ArticleCaption>（標準処理期間）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法務大臣及び内閣総理大臣又は<span>金融庁長官{'規定': 1}</span>は、次の各号に掲げる指定、認可又は<span>承認{'規定': 1}</span>に関する<span>申請{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'当該': 1, '手続': 1}</span>は、その<span>申請{'規定': 1}</span>が<span>事務所{'規定': 1}</span>に<span>到達{'所在地': 1, '規定': 1}</span>した日から<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>期間内{'手続': 1}</span>に、<span>当該{'手続': 1}</span><span>申請{'手続': 1}</span>に対する<span>処分{'手続': 1}</span>をするよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第五十一条第一項の<span>指定{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>二月{'規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第六十九条第一項、第七十条、第七十一条、第七十八条第一項、第七十九条第一項、第八十条第一項、第八十一条第一項若しくは第八十二条の認可又は法第五十八条第一項の<span>承認{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>一月{'規定': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'届出': 1, '手続': 1}</span>の<span>期間{'規定': 1}</span>には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>期間{'規定': 1}</span>を<span>含ま{'ある': 1}</span>ないものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>申請{'規定': 1}</span>を<span>補正{'規定': 1}</span>するために<span>要する{'ある': 1}</span><span>期間{'場合': 1, '規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>申請{'手続': 1}</span>をした者が<span>当該{'手続': 1}</span><span>申請{'規定': 1}</span>の<span>内容{'手続': 1}</span>を<span>変更{'規定': 1}</span>するために<span>要する{'ある': 1}</span><span>期間{'場合': 1, '規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>申請{'手続': 1}</span>をした者が<span>当該{'手続': 1}</span><span>申請{'手続': 1}</span>に係る<span>審査{'手続': 1}</span>に<span>必要{'規定': 1}</span>と<span>認め{'ある': 1}</span>られる<span>資料{'手続': 1}</span>を<span>追加{'規定': 1}</span>するために<span>要する{'でき': 1}</span><span>期間{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>命令{'手続': 1}</span>は、<span>法{'法律': 2, '一月六日': 1, '手続': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年四月二八日内閣府・法務省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>命令{'政令': 1, '手続': 1}</span>は、<span>会社法{'規定': 1}</span>の<span>一部{'規定': 1}</span>を<span>改正{'規定': 1}</span>する<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日（平成二十七年<span>五月一日{'規定': 1}</span>）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月一日内閣府・法務省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>命令{'省令': 1, '規定': 1}</span>は、<span>公布{'手続': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年三月二四日内閣府・法務省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、<span>情報通信{'施行': 1}</span>技術の進展等の環境変化に対応するための銀行法等の一部を改正する<span>法律{'規定': 1}</span>（平成二十八年法律第六十二号）の施行の日（平成二十九年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二四日内閣府・法務省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、<span>不正競争防止法{'規定': 1}</span>等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月二一日内閣府・法務省令第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、成年被後見人等の権利の制限に係る<span>措置{'規定': 1}</span>の<span>適正化{'規定': 1}</span>等を<span>図る{'ある': 1}</span>ための<span>関係{'規定': 1}</span><span>法律{'手続': 1}</span>の<span>整備{'規定': 1}</span>に関する<span>法律{'規定': 1}</span><span>附則{'規定': 1}</span>第<span>一条{'規定': 1}</span>第二号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>の<span>施行{'規定': 1}</span>の日（令和元年十二月十四日）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二三日内閣府・法務省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>命令{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <RelatedArticleNum>（第二十七条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">記録事項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">記録要領</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">法第六条の規定により電子債権記録機関に提供された情報</Sentence>
+              <Sentence WritingMode="vertical">請求受付日時</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　請求を<span>受け付け{'ある': 1}</span>た時に<span>記録{'手続': 1}</span>すること。</Sentence>
+              <Sentence WritingMode="vertical">二　電子記録をしなかったものについても請求受付簿に記録すること。</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
+      <RelatedArticleNum>（第四十条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>届出{'手続': 1}</span><span>事項{'手続': 1}</span></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">記載事項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">添付書類</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>電子債権{'手続': 1}</span>記録業を廃止したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">廃止年月日</Sentence>
+              <Sentence WritingMode="vertical">廃止理由</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              <Sentence WritingMode="vertical">二　電子債権記録業の結了の方法を記載した書類</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">合併により消滅したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">合併の相手方の<span>商号{'規定': 1}</span></Sentence>
+              <Sentence WritingMode="vertical">合併年月日</Sentence>
+              <Sentence WritingMode="vertical">合併の方法</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　合併契約の内容を記載した書面</Sentence>
+              <Sentence WritingMode="vertical">二　株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              <Sentence WritingMode="vertical">三　電子債権記録業の結了の方法を記載した書類</Sentence>
+              <Sentence WritingMode="vertical">四　合併の手続を記載した書面</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">破産手続開始の決定により解散したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">破産手続開始の申立てを行った年月日</Sentence>
+              <Sentence WritingMode="vertical">破産手続開始の決定を受けた<span>年月日{'場合': 1}</span></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　裁判所の破産手続開始の決定の裁判書の写し</Sentence>
+              <Sentence WritingMode="vertical">二　電子債権記録業の結了の方法を記載した書類</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">合併及び破産手続開始の決定以外の理由により解散したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">解散年月日</Sentence>
+              <Sentence WritingMode="vertical">解散の理由</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　株主総会の<span>議事録{'決議': 1}</span>その他の必要な手続があったことを証する書面</Sentence>
+              <Sentence WritingMode="vertical">二　電子債権記録業の結了の方法を記載した書類</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">電子債権記録業の全部を譲渡したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">譲渡先の<span>商号{'手続': 1}</span></Sentence>
+              <Sentence WritingMode="vertical">譲渡年月日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">              </Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">子債権記録業の全部を分割により承継させたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">承継先の<span>商号{'新設': 1}</span></Sentence>
+              <Sentence WritingMode="vertical">分割年月日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">              </Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第七十六条第一項の<span>規定{'管理': 1}</span>による命令を受けた<span>場合{'規定': 1}</span>（同<span>項{'手続': 1}</span>第四号に<span>該当{'規定': 1}</span>する<span>場合{'規定': 1}</span>に限る。）において、当該命令において定められた期限内にその電子債権記録業を移転しなかったとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">業務移転命令において定められた期限</Sentence>
+              <Sentence WritingMode="vertical"><span>移転{'遅滞': 1}</span>することなく当該期限を経過した理由</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">              </Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
+      <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">出事項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">添付書類</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">電子債権記録機関の代表者の氏名の変更</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">登記事項証明書（<span>当該{'定款': 1}</span>変更に係る事項に限る。）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第二十二条第四項第六号又は第七号に<span>掲げる{'ある': 1}</span><span>書面{'規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'手続': 1}</span></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>変更{'手続': 1}</span>に係る<span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第二十四条<span>第一{'手続': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>記載{'事項': 1, '規定': 1}</span><span>事項{'規定': 1}</span><span>又は{'ただし': 1}</span>同<span>条{'規定': 1}</span>第二項第二号若しくは第七号に<span>掲げる{'ある': 1}</span><span>書面{'事項': 2, '規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'規定': 1}</span>の<span>変更{'手続': 1}</span></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>変更{'手続': 1}</span>に係る<span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>した<span>書面{'手続': 1}</span></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第二十四条第二項第六号に<span>掲げる{'ある': 1}</span><span>書類{'規定': 1}</span>の<span>記載{'手続': 1}</span><span>事項{'定款': 1, '規定': 1}</span>の<span>変更{'手続': 1}</span></Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>変更{'手続': 1}</span>後の<span>書類{'手続': 1}</span></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>業務{'手続': 1}</span><span>規程{'執行': 1, '手続': 1}</span>に<span>基づき{'ある': 1}</span><span>規則{'手続': 1}</span>を<span>定め{'手続': 1}</span>たとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>規則{'手続': 1}</span>を<span>記載{'規定': 1}</span>した<span>書面{'規定': 1}</span></Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>業務{'手続': 1}</span><span>規程{'手続': 1}</span>に<span>基づく{'ある': 1}</span><span>規則{'手続': 1}</span>を<span>廃止{'規定': 1}</span>したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　<span>当該{'規定': 1}</span><span>廃止{'規定': 1}</span>の旨を<span>記載{'規定': 1}</span>した<span>書面{'規定': 1}</span></Sentence>
+              <Sentence WritingMode="vertical">二　<span>理由{'手続': 1}</span>書</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>業務{'規定': 1}</span><span>規程{'手続': 1}</span>に<span>基づく{'ある': 1}</span><span>規則{'手続': 1}</span>を<span>変更{'規定': 1}</span>したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　<span>当該{'規定': 1}</span><span>変更{'規定': 1}</span>後の<span>規則{'事項': 1}</span>を記載した書面</Sentence>
+              <Sentence WritingMode="vertical">二　理由書</Sentence>
+              <Sentence WritingMode="vertical">三　新旧対照表</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">電子債権記録機関において事故が<span>発生{'規定': 1}</span>したことを知ったとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">発生した事故の概要を記載した書面</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>電子債権{'届出': 1}</span>記録機関において発生した事故の詳細が判明したとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">事故の詳細、発生原因、改善策その他参考となるべき事項を記載した書面</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H20F10002002004_2103031403_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

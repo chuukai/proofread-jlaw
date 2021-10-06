@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="029" Year="28">
+  <LawNum>平成二十八年法律第二十九号</LawNum>
+  <LawBody>
+    <LawTitle>成年後見制度の利用の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <ArticleRange>（第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　成年後見制度利用促進基本計画</ChapterTitle>
+        <ArticleRange>（第十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　成年後見制度利用促進会議</ChapterTitle>
+        <ArticleRange>（第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　地方公共団体の講ずる措置</ChapterTitle>
+        <ArticleRange>（第十四条・第十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、認知症、知的障害その他の精神上の障害が<span>ある{'でき': 1}</span>ことにより<span>財産{'手続': 1}</span>の<span>管理{'規定': 1}</span>又は<span>日常生活{'規定': 1}</span>等に<span>支障{'届出': 1}</span>が<span>ある{'取り消さ': 1}</span>者を<span>社会{'規定': 1}</span><span>全体{'規定': 1}</span>で<span>支え{'ある': 1}</span>合うことが、<span>高齢{'規定': 1}</span><span>社会{'規定': 1}</span>における<span>喫緊{'規定': 1}</span>の<span>課題{'手続': 1}</span>であり、かつ、<span>共生社会{'手続': 1}</span>の<span>実現{'規定': 1}</span>に<span>資する{'ある': 1}</span>こと及び<span>成年後見制度{'規定': 1}</span>がこれらの者を<span>支える{'ある': 1}</span><span>重要{'手続': 1}</span>な<span>手段{'手続': 1}</span>であるにも<span>かかわら{'ある': 1}</span>ず十分に<span>利用{'手続': 1}</span>されていないことに<span>鑑み{'ある': 1}</span>、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'規定': 1}</span>について、その<span>基本{'手続': 1}</span><span>理念{'規定': 1}</span>を<span>定め{'ある': 1}</span>、<span>国{'手続': 1}</span>の<span>責務{'規定': 1}</span>等を<span>明らか{'規定': 1}</span>にし、及び<span>基本方針{'規定': 1}</span>その他の<span>基本{'規定': 1}</span>と<span>なる{'ある': 1}</span><span>事項{'手続': 1}</span>を<span>定める{'ある': 1}</span>こと等により、<span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'手続': 1}</span>を<span>総合的{'規定': 1}</span>かつ<span>計画的{'手続': 1}</span>に<span>推進{'手続': 1}</span>することを<span>目的{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'手続': 1}</span>において「<span>成年後見人{'手続': 1}</span>等」とは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>者を<span>いう{'基づく': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見人{'手続': 1}</span>及び<span>成年後見{'規定': 1}</span><span>監督{'手続': 1}</span>人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>保佐{'手続': 1}</span>人及び<span>保佐{'規定': 1}</span><span>監督{'手続': 1}</span>人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>補助{'手続': 1}</span>人及び<span>補助{'規定': 1}</span><span>監督{'手続': 1}</span>人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>任意{'手続': 1}</span><span>後見人{'手続': 1}</span>及び<span>任意後見{'規定': 1}</span><span>監督{'手続': 1}</span>人</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'手続': 1}</span>において「<span>成年被後見人{'手続': 1}</span>等」とは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span>者を<span>いう{'基づく': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年被後見人{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>被保佐人{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>被<span>補助{'手続': 1}</span>人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>任意後見契約に関する法律{'手続': 1}</span>（平成十一年<span>法律{'手続': 1}</span>第百五十号）第四条第一項の<span>規定{'手続': 1}</span>により<span>任意後見{'規定': 1}</span><span>監督{'規定': 1}</span>人が<span>選任{'手続': 1}</span>された後における<span>任意後見{'手続': 1}</span><span>契約{'規定': 1}</span>の<span>委任{'受任': 1, '手続': 1}</span>者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'手続': 1}</span>において「<span>成年後見{'規定': 1}</span>等<span>実施{'規定': 1}</span><span>機関{'規定': 1}</span>」とは、<span>自ら{'手続': 1}</span><span>成年後見人{'規定': 1}</span>等と<span>なり{'ある': 1}</span>、又は<span>成年後見人{'規定': 1}</span>等若しくはその<span>候補者{'手続': 1}</span>の<span>育成{'手続': 1}</span>及び<span>支援{'規定': 1}</span>等に関する<span>活動{'規定': 1}</span>を<span>行う{'ある': 1}</span><span>団体{'手続': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'規定': 1}</span>において「<span>成年後見{'規定': 1}</span><span>関連{'規定': 1}</span><span>事業者{'規定': 1}</span>」とは、<span>介護{'規定': 1}</span>、<span>医療{'規定': 1}</span>又は<span>金融{'規定': 1}</span>に係る<span>事業{'手続': 1}</span>その他の<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>に<span>関連{'手続': 1}</span>する<span>事業{'規定': 1}</span>を<span>行う{'ある': 1}</span>者を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>は、<span>成年被後見人{'規定': 1}</span>等が、<span>成年被後見人{'手続': 1}</span>等でない者と<span>等しく{'なく': 1}</span>、<span>基本的人権{'規定': 1}</span>を<span>享有{'手続': 1}</span>する<span>個人{'規定': 1}</span><span>として{'とともに': 1}</span>その<span>尊厳{'手続': 1}</span>が<span>重んぜ{'ある': 1}</span>られ、その<span>尊厳{'手続': 1}</span>に<span>ふさわしい{'なく': 1}</span><span>生活{'手続': 1}</span>を<span>保障{'手続': 1}</span>されるべきこと、<span>成年被後見人{'手続': 1}</span>等の<span>意思決定{'手続': 1}</span>の<span>支援{'規定': 1}</span>が<span>適切{'手続': 1}</span>に<span>行わ{'ある': 1}</span>れるとともに、<span>成年被後見人{'手続': 1}</span>等の<span>自発的{'規定': 1}</span><span>意思{'手続': 1}</span>が<span>尊重{'手続': 1}</span>されるべきこと及び<span>成年被後見人{'規定': 1}</span>等の<span>財産{'規定': 1}</span>の<span>管理{'規定': 1}</span><span>のみ{'とともに': 1}</span><span>なら{'ある': 1}</span>ず<span>身上{'届出': 1}</span>の<span>保護{'規定': 1}</span>が<span>適切{'手続': 1}</span>に<span>行わ{'ある': 1}</span>れるべきこと等の<span>成年後見制度{'手続': 1}</span>の<span>理念{'規定': 1}</span>を<span>踏まえ{'ある': 1}</span>て<span>行わ{'ある': 1}</span>れるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>に係る<span>需要{'規定': 1}</span>を<span>適切{'規定': 1}</span>に<span>把握{'手続': 1}</span>すること、<span>市民{'手続': 1}</span>の中から<span>成年後見人{'手続': 1}</span>等の<span>候補者{'手続': 1}</span>を<span>育成{'手続': 1}</span>しその<span>活用{'規定': 1}</span>を<span>図る{'ある': 1}</span>こと<span>を通じて{'とともに': 1}</span><span>成年後見人{'規定': 1}</span>等と<span>なる{'ある': 1}</span><span>人材{'手続': 1}</span>を十分に<span>確保{'規定': 1}</span>すること等により、<span>地域{'手続': 1}</span>における<span>需要{'規定': 1}</span>に<span>的確{'規定': 1}</span>に<span>対応{'手続': 1}</span>することを<span>旨{'規定': 1}</span><span>として{'とともに': 1}</span><span>行わ{'ある': 1}</span>れるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>は、<span>家庭裁判所{'規定': 1}</span>、<span>関係{'規定': 1}</span><span>行政機関{'手続': 1}</span>（<span>法務省{'規定': 1}</span>、<span>厚生労働省{'規定': 1}</span>、<span>総務省{'規定': 1}</span>その他の<span>関係{'規定': 1}</span><span>行政機関{'規定': 1}</span>を<span>いう{'ある': 1}</span>。以下同じ。）、<span>地方公共団体{'規定': 1}</span>、<span>民間{'規定': 1}</span>の<span>団体{'規定': 1}</span>等の<span>相互{'規定': 1}</span>の<span>協力{'規定': 1}</span>及び<span>適切{'規定': 1}</span>な<span>役割分担{'手続': 1}</span>の<span>下{'手続': 1}</span>に、<span>成年後見制度{'規定': 1}</span>を<span>利用{'手続': 1}</span>し又は<span>利用{'規定': 1}</span>しようとする者の<span>権利{'手続': 1}</span><span>利益{'規定': 1}</span>を<span>適切{'規定': 1}</span>かつ<span>確実{'手続': 1}</span>に<span>保護{'規定': 1}</span>するために<span>必要{'規定': 1}</span>な<span>体制{'手続': 1}</span>を<span>整備{'手続': 1}</span>することを<span>旨{'規定': 1}</span><span>として{'とともに': 1}</span><span>行わ{'ある': 1}</span>れるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国{'規定': 1}</span>は、<span>前条{'規定': 1}</span>の<span>基本{'規定': 1}</span><span>理念{'規定': 1}</span>（以下<span>単に{'相当': 1}</span>「<span>基本{'規定': 1}</span><span>理念{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）に<span>のっとり{'ある': 1}</span>、<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>を<span>総合{'手続': 1}</span>的に<span>策定{'手続': 1}</span>し、及び<span>実施{'規定': 1}</span>する<span>責務{'規定': 1}</span>を<span>有する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>地方公共団体{'手続': 1}</span>は、<span>基本{'手続': 1}</span><span>理念{'規定': 1}</span>に<span>のっとり{'ある': 1}</span>、<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>に関し、<span>国{'手続': 1}</span>との<span>連携{'規定': 1}</span>を<span>図り{'ある': 1}</span>つつ、<span>自主的{'規定': 1}</span>かつ<span>主体的{'規定': 1}</span>に、その<span>地域{'手続': 1}</span>の<span>特性{'手続': 1}</span>に<span>応じ{'ある': 1}</span>た<span>施策{'手続': 1}</span>を<span>策定{'手続': 1}</span>し、及び<span>実施{'規定': 1}</span>する<span>責務{'規定': 1}</span>を<span>有する{'基づく': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（関係者の努力）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>成年後見人{'手続': 1}</span>等、<span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>及び<span>成年後見{'規定': 1}</span><span>関連{'手続': 1}</span><span>事業者{'規定': 1}</span>は、<span>基本{'規定': 1}</span><span>理念{'規定': 1}</span>に<span>のっとり{'取り消さ': 1}</span>、その<span>業務{'規定': 1}</span>を<span>行う{'ある': 1}</span>とともに、<span>国又{'手続': 1}</span>は<span>地方公共団体{'手続': 1}</span>が<span>実施{'手続': 1}</span>する<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'規定': 1}</span>に<span>協力{'手続': 1}</span>するよう<span>努める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（国民の努力）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国民{'規定': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>重要性{'規定': 1}</span>に関する<span>関心{'手続': 1}</span>と<span>理解{'手続': 1}</span>を<span>深める{'ある': 1}</span>とともに、<span>基本{'手続': 1}</span><span>理念{'規定': 1}</span>に<span>のっとり{'ある': 1}</span>、<span>国又{'規定': 1}</span>は<span>地方公共団体{'手続': 1}</span>が<span>実施{'規定': 1}</span>する<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'規定': 1}</span>に<span>協力{'手続': 1}</span>するよう<span>努める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（関係機関等の相互の連携）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>国{'手続': 1}</span>及び<span>地方公共団体{'規定': 1}</span><span>並び{'手続': 1}</span>に<span>成年後見人{'手続': 1}</span>等、<span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>及び<span>成年後見{'規定': 1}</span><span>関連{'手続': 1}</span><span>事業者{'手続': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>の<span>実施{'規定': 1}</span>に当たっては、<span>相互{'手続': 1}</span>の<span>緊密{'規定': 1}</span>な<span>連携{'規定': 1}</span>の<span>確保{'手続': 1}</span>に<span>努める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>地方公共団体{'手続': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>の<span>実施{'規定': 1}</span>に当たっては、<span>特に{'相当': 1}</span>、その<span>地方公共団体{'手続': 1}</span>の<span>区域{'規定': 1}</span>を<span>管轄{'規定': 1}</span>する<span>家庭裁判所{'規定': 1}</span>及び<span>関係{'規定': 1}</span><span>行政機関{'規定': 1}</span>の<span>地方支分部局{'手続': 1}</span>並びにその<span>地方公共団体{'手続': 1}</span>の<span>区域{'手続': 1}</span>に<span>所在{'規定': 1}</span>する<span>成年後見人{'手続': 1}</span>等、<span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>及び<span>成年後見{'規定': 1}</span><span>関連{'手続': 1}</span><span>事業者{'規定': 1}</span>その他の<span>関係者{'規定': 1}</span>との<span>適切{'規定': 1}</span>な<span>連携{'規定': 1}</span>を<span>図る{'ある': 1}</span>よう、<span>留意{'規定': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（法制上の措置等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1"><span>政府{'手続': 1}</span>は、第十<span>一条{'手続': 1}</span>に<span>定める{'ある': 1}</span><span>基本方針{'手続': 1}</span>に<span>基づく{'ある': 1}</span><span>施策{'手続': 1}</span>を<span>実施{'規定': 1}</span>するため<span>必要{'規定': 1}</span>な<span>法制{'手続': 1}</span>上又は<span>財政{'規定': 1}</span>上の<span>措置{'届出': 1}</span>その他の<span>措置{'手続': 1}</span>を<span>速やか{'規定': 1}</span>に<span>講じ{'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Num="2">この<span>場合{'手続': 1}</span>において、<span>成年被後見人{'手続': 1}</span>等の<span>権利{'規定': 1}</span>の<span>制限{'規定': 1}</span>に係る<span>関係{'規定': 1}</span><span>法律{'規定': 1}</span>の<span>改正{'規定': 1}</span>その他の同<span>条{'規定': 1}</span>に<span>定める{'ある': 1}</span><span>基本方針{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>施策{'手続': 1}</span>を<span>実施{'規定': 1}</span>するため<span>必要{'規定': 1}</span>な<span>法制{'手続': 1}</span>上の<span>措置{'手続': 1}</span>については、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>後三年以内を<span>目途{'手続': 1}</span><span>として{'とともに': 1}</span><span>講ずる{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（施策の実施の状況の公表）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>政府{'手続': 1}</span>は、<span>毎年{'規定': 1}</span>一回、<span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'手続': 1}</span>の<span>実施{'手続': 1}</span>の<span>状況{'規定': 1}</span>を<span>インターネット{'規定': 1}</span>の<span>利用{'規定': 1}</span>その他<span>適切{'手続': 1}</span>な<span>方法{'手続': 1}</span>により<span>公表{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'規定': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用者{'規定': 1}</span>の<span>権利{'手続': 1}</span><span>利益{'規定': 1}</span>の<span>保護{'規定': 1}</span>に関する<span>国際的{'規定': 1}</span><span>動向{'規定': 1}</span>を<span>踏まえる{'ある': 1}</span>とともに、<span>高齢者{'手続': 1}</span>、<span>障害者{'手続': 1}</span>等の<span>福祉{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>との<span>有機{'手続': 1}</span>的な<span>連携{'手続': 1}</span>を<span>図り{'ある': 1}</span>つつ、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>基本方針{'規定': 1}</span>に<span>基づき{'ある': 1}</span>、<span>推進{'規定': 1}</span>されるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'規定': 1}</span>を<span>利用{'手続': 1}</span>し又は<span>利用{'規定': 1}</span>しようとする者の<span>能力{'規定': 1}</span>に<span>応じ{'ある': 1}</span>た<span>きめ細か{'手続': 1}</span>な<span>対応{'手続': 1}</span>を<span>可能{'手続': 1}</span>とする<span>観点{'規定': 1}</span>から、<span>成年後見制度{'規定': 1}</span>のうち<span>利用{'規定': 1}</span>が<span>少ない{'なく': 1}</span><span>保佐{'手続': 1}</span>及び<span>補助{'規定': 1}</span>の<span>制度{'監督': 1, '手続': 1}</span>の<span>利用{'手続': 1}</span>を<span>促進{'手続': 1}</span>するための<span>方策{'規定': 1}</span>について<span>検討{'手続': 1}</span>を<span>加え{'ある': 1}</span>、<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年被後見人{'手続': 1}</span>等の<span>人権{'規定': 1}</span>が<span>尊重{'手続': 1}</span>され、<span>成年被後見人{'手続': 1}</span>等であることを<span>理由{'規定': 1}</span>に<span>不当{'手続': 1}</span>に<span>差別{'手続': 1}</span>されないよう、<span>成年被後見人{'表示': 1, '手続': 1}</span>等の<span>権利{'手続': 1}</span>に係る<span>制限{'規定': 1}</span>が<span>設け{'ある': 1}</span>られている<span>制度{'規定': 1}</span>について<span>検討{'手続': 1}</span>を<span>加え{'ある': 1}</span>、<span>必要{'手続': 1}</span>な<span>見直し{'手続': 1}</span>を<span>行う{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年被後見人{'規定': 1}</span>等であって<span>医療{'規定': 1}</span>、<span>介護{'規定': 1}</span>等を<span>受ける{'ある': 1}</span>に当たり<span>意思{'手続': 1}</span>を<span>決定{'規定': 1}</span>することが<span>困難{'手続': 1}</span>なものが<span>円滑{'規定': 1}</span>に<span>必要{'規定': 1}</span>な<span>医療{'手続': 1}</span>、<span>介護{'手続': 1}</span>等を<span>受け{'ある': 1}</span>られるようにするための<span>支援{'手続': 1}</span>の<span>在り方{'規定': 1}</span>について、<span>成年後見人{'手続': 1}</span>等の<span>事務{'手続': 1}</span>の<span>範囲{'手続': 1}</span>を<span>含め{'ある': 1}</span><span>検討{'手続': 1}</span>を<span>加え{'ある': 1}</span>、<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'認める': 1, 'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年被後見人{'手続': 1}</span>等の<span>死亡{'規定': 1}</span>後における<span>事務{'規定': 1}</span>が<span>適切{'規定': 1}</span>に<span>処理{'手続': 1}</span>されるよう、<span>成年後見人{'規定': 1}</span>等の<span>事務{'手続': 1}</span>の<span>範囲{'規定': 1}</span>について<span>検討{'規定': 1}</span>を<span>加え{'ある': 1}</span>、<span>必要{'手続': 1}</span>な<span>見直し{'手続': 1}</span>を<span>行う{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'規定': 1}</span>を<span>利用{'手続': 1}</span>し又は<span>利用{'規定': 1}</span>しようとする者の<span>自発的{'規定': 1}</span><span>意思{'規定': 1}</span>を<span>尊重{'手続': 1}</span>する<span>観点{'手続': 1}</span>から、<span>任意後見{'規定': 1}</span><span>制度{'手続': 1}</span>が<span>積極的{'手続': 1}</span>に<span>活用{'手続': 1}</span>されるよう、その<span>利用{'手続': 1}</span><span>状況{'手続': 1}</span>を<span>検証{'手続': 1}</span>し、<span>任意後見{'手続': 1}</span><span>制度{'規定': 1}</span>が<span>適切{'規定': 1}</span>にかつ<span>安心{'手続': 1}</span>して<span>利用{'手続': 1}</span>されるために<span>必要{'手続': 1}</span>な<span>制度{'手続': 1}</span>の<span>整備{'手続': 1}</span>その他の<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'手続': 1}</span>に関し<span>国民{'規定': 1}</span>の<span>関心{'規定': 1}</span>と<span>理解{'手続': 1}</span>を<span>深める{'ある': 1}</span>とともに、<span>成年後見制度{'手続': 1}</span>がその<span>利用{'規定': 1}</span>を<span>必要{'規定': 1}</span>とする者に十分に<span>利用{'手続': 1}</span>されるようにするため、<span>国民{'手続': 1}</span>に対する<span>周知{'手続': 1}</span>及び<span>啓発{'規定': 1}</span>のために<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>に係る<span>地域住民{'手続': 1}</span>の<span>需要{'手続': 1}</span>に<span>的確{'手続': 1}</span>に<span>対応{'手続': 1}</span>するため、<span>地域{'規定': 1}</span>における<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>に係る<span>需要{'規定': 1}</span>の<span>把握{'規定': 1}</span>、<span>地域住民{'規定': 1}</span>に対する<span>必要{'手続': 1}</span>な<span>情報{'手続': 1}</span>の<span>提供{'手続': 1}</span>、<span>相談{'手続': 1}</span>の<span>実施{'手続': 1}</span>及び<span>助言{'規定': 1}</span>、<span>市町村長{'手続': 1}</span>による<span>後見{'規定': 1}</span><span>開始{'手続': 1}</span>、<span>保佐{'手続': 1}</span><span>開始{'手続': 1}</span>又は<span>補助{'規定': 1}</span><span>開始{'手続': 1}</span>の<span>審判{'手続': 1}</span>の<span>請求{'手続': 1}</span>の<span>積極{'手続': 1}</span>的な<span>活用{'規定': 1}</span>その他の<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>地域{'手続': 1}</span>において<span>成年後見人{'手続': 1}</span>等と<span>なる{'ある': 1}</span><span>人材{'手続': 1}</span>を<span>確保{'規定': 1}</span>するため、<span>成年後見人{'手続': 1}</span>等又はその<span>候補{'規定': 1}</span>者に対する<span>研修{'手続': 1}</span>の<span>機会{'手続': 1}</span>の<span>確保{'手続': 1}</span>並びに<span>必要{'規定': 1}</span>な<span>情報{'手続': 1}</span>の<span>提供{'規定': 1}</span>、<span>相談{'手続': 1}</span>の<span>実施{'手続': 1}</span>及び<span>助言{'規定': 1}</span>、<span>成年後見人{'手続': 1}</span>等に対する<span>報酬{'手続': 1}</span>の<span>支払{'手続': 1}</span>の<span>助成{'手続': 1}</span>その他の<span>成年後見人{'届出': 1}</span>等<span>又は{'ただし': 1}</span>その<span>候補{'規定': 1}</span>者に対する<span>支援{'手続': 1}</span>の<span>充実{'規定': 1}</span>を<span>図る{'ある': 1}</span>ために<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>前二号の<span>措置{'手続': 1}</span>を<span>有効{'規定': 1}</span>かつ<span>適切{'手続': 1}</span>に<span>実施{'手続': 1}</span>するため、<span>成年後見人{'手続': 1}</span>等又はその<span>候補者{'手続': 1}</span>の<span>育成{'手続': 1}</span>及び<span>支援{'事項': 1, '規定': 1}</span>等を<span>行う{'ある': 1}</span><span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>の<span>育成{'手続': 1}</span>、<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>において<span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'規定': 1}</span>が<span>積極的{'手続': 1}</span>に<span>活用{'規定': 1}</span>されるための<span>仕組み{'手続': 1}</span>の<span>整備{'手続': 1}</span>その他の<span>成年後見{'規定': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>の<span>活動{'手続': 1}</span>に対する<span>支援{'規定': 1}</span>のために<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見人{'手続': 1}</span>等の<span>事務{'手続': 1}</span>の<span>監督{'手続': 1}</span>並びに<span>成年後見人{'規定': 1}</span>等に対する<span>相談{'手続': 1}</span>の<span>実施{'手続': 1}</span>及び<span>助言{'規定': 1}</span>その他の<span>支援{'手続': 1}</span>に係る<span>機能{'規定': 1}</span>を<span>強化{'手続': 1}</span>するため、<span>家庭裁判所{'手続': 1}</span>、<span>関係{'手続': 1}</span><span>行政機関{'手続': 1}</span>及び<span>地方公共団体{'規定': 1}</span>における<span>必要{'規定': 1}</span>な<span>人的{'手続': 1}</span><span>体制{'規定': 1}</span>の<span>整備{'規定': 1}</span>その他の<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>家庭裁判所{'手続': 1}</span>、<span>関係{'手続': 1}</span><span>行政機関{'手続': 1}</span>及び<span>地方公共団体{'規定': 1}</span><span>並び{'手続': 1}</span>に<span>成年後見人{'手続': 1}</span>等、<span>成年後見{'手続': 1}</span>等<span>実施{'手続': 1}</span><span>機関{'手続': 1}</span>及び<span>成年後見{'規定': 1}</span><span>関連{'手続': 1}</span><span>事業者{'規定': 1}</span>の<span>相互{'規定': 1}</span>の<span>緊密{'規定': 1}</span>な<span>連携{'規定': 1}</span>を<span>確保{'手続': 1}</span>するため、<span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>に関する<span>指針の策定{'手続': 1}</span>その他の<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>こと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　成年後見制度利用促進基本計画</ChapterTitle>
+        <Article Num="12">
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>政府{'手続': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'規定': 1}</span>の<span>総合的{'手続': 1}</span>かつ<span>計画{'手続': 1}</span>的な<span>推進{'規定': 1}</span>を<span>図る{'ある': 1}</span>ため、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>基本{'手続': 1}</span>的な<span>計画{'規定': 1}</span>（以下「<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>基本計画{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>定め{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>基本計画{'手続': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'取り消さ': 1}</span><span>事項{'手続': 1}</span>について<span>定める{'取り消さ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'手続': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>目標{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence><span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関し、<span>政府{'手続': 1}</span>が<span>総合的{'規定': 1}</span>かつ<span>計画的{'手続': 1}</span>に<span>講ず{'ある': 1}</span>べき<span>施策{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前二号に<span>掲げる{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>を<span>総合的{'規定': 1}</span>かつ<span>計画的{'規定': 1}</span>に<span>推進{'手続': 1}</span>するために<span>必要{'規定': 1}</span>な<span>事項{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>法務大臣{'手続': 1}</span>、<span>厚生労働大臣{'手続': 1}</span>及び<span>総務大臣{'規定': 1}</span>は、<span>成年後見制度{'規定': 1}</span><span>利用{'手続': 1}</span><span>促進{'手続': 1}</span><span>基本計画{'手続': 1}</span>を<span>変更{'規定': 1}</span>しようとするときは、<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>基本計画{'規定': 1}</span>の<span>変更{'規定': 1}</span>の<span>案{'規定': 1}</span>につき<span>閣議{'規定': 1}</span>の<span>決定{'規定': 1}</span>を<span>求め{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>法務大臣{'手続': 1}</span>、<span>厚生労働大臣{'規定': 1}</span>及び<span>総務大臣{'規定': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>閣議{'規定': 1}</span>の<span>決定{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たときは、<span>遅滞{'規定': 1}</span>なく、<span>変更{'手続': 1}</span>後の<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'手続': 1}</span><span>基本計画{'規定': 1}</span>を<span>インターネット{'規定': 1}</span>の<span>利用{'規定': 1}</span>その他<span>適切{'手続': 1}</span>な<span>方法{'手続': 1}</span>により<span>公表{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　成年後見制度利用促進会議</ChapterTitle>
+        <Article Num="13">
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>政府{'手続': 1}</span>は、<span>関係{'規定': 1}</span><span>行政機関{'手続': 1}</span><span>相互{'手続': 1}</span>の<span>調整{'手続': 1}</span>を<span>行う{'ある': 1}</span>ことにより、<span>成年後見制度{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関する<span>施策{'規定': 1}</span>の<span>総合的{'手続': 1}</span>かつ<span>計画{'手続': 1}</span>的な<span>推進{'規定': 1}</span>を<span>図る{'ある': 1}</span>ため、<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>会議{'手続': 1}</span>を<span>設ける{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>関係{'手続': 1}</span><span>行政機関{'手続': 1}</span>は、<span>成年後見制度{'規定': 1}</span>の<span>利用{'規定': 1}</span>の<span>促進{'手続': 1}</span>に関し<span>専門的{'規定': 1}</span><span>知識{'規定': 1}</span>を<span>有する{'ある': 1}</span>者によって<span>構成{'手続': 1}</span>する<span>成年後見制度{'規定': 1}</span><span>利用{'手続': 1}</span><span>促進{'手続': 1}</span><span>専門家会議{'規定': 1}</span>を<span>設け{'ある': 1}</span>、<span>前項{'規定': 1}</span>の<span>調整{'規定': 1}</span>を<span>行う{'ある': 1}</span>に際しては、その<span>意見{'手続': 1}</span>を<span>聴く{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>成年後見制度{'手続': 1}</span><span>利用{'手続': 1}</span><span>促進{'規定': 1}</span><span>会議{'手続': 1}</span>及び<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>専門家会議{'規定': 1}</span>の<span>庶務{'規定': 1}</span>は、<span>厚生労働省{'手続': 1}</span>において<span>処理{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　地方公共団体の講ずる措置</ChapterTitle>
+        <Article Num="14">
+          <ArticleCaption>（市町村の講ずる措置）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>市町村{'規定': 1}</span>は、<span>成年後見制度{'規定': 1}</span><span>利用{'規定': 1}</span><span>促進{'規定': 1}</span><span>基本計画{'規定': 1}</span>を<span>勘案{'手続': 1}</span>して、<span>当該{'手続': 1}</span><span>市町村{'手続': 1}</span>の<span>区域{'手続': 1}</span>における<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'規定': 1}</span>に関する<span>施策{'規定': 1}</span>についての<span>基本{'規定': 1}</span>的な<span>計画{'手続': 1}</span>を<span>定める{'ある': 1}</span>よう<span>努める{'基づく': 1}</span>とともに、<span>成年後見{'手続': 1}</span>等<span>実施{'振替': 1, '規定': 1}</span><span>機関{'規定': 1}</span>の<span>設立{'手続': 1}</span>等に係る<span>支援{'手続': 1}</span>その他の<span>必要{'規定': 1}</span>な<span>措置{'手続': 1}</span>を<span>講ずる{'ある': 1}</span>よう<span>努める{'努め': 1, 'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>市町村{'手続': 1}</span>は、<span>当該{'手続': 1}</span><span>市町村{'手続': 1}</span>の<span>区域{'手続': 1}</span>における<span>成年後見制度{'規定': 1}</span>の<span>利用{'手続': 1}</span>の<span>促進{'手続': 1}</span>に関して、<span>基本{'手続': 1}</span>的な<span>事項{'規定': 1}</span>を<span>調査{'手続': 1}</span><span>審議{'手続': 1}</span>させる等のため、<span>当該{'手続': 1}</span><span>市町村{'手続': 1}</span>の<span>条例{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、<span>審議会{'手続': 1}</span>その他の<span>合議制{'規定': 1}</span>の<span>機関{'手続': 1}</span>を<span>置く{'ある': 1}</span>よう<span>努める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（都道府県の講ずる措置）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>都道府県{'手続': 1}</span>は、<span>市町村{'規定': 1}</span>が<span>講ずる{'ある': 1}</span><span>前条{'手続': 1}</span>の<span>措置{'規定': 1}</span>を<span>推進{'手続': 1}</span>するため、各<span>市町村{'規定': 1}</span>の<span>区域{'手続': 1}</span>を<span>超え{'ある': 1}</span>た<span>広域{'手続': 1}</span>的な<span>見地{'規定': 1}</span>から、<span>成年後見人{'規定': 1}</span>等と<span>なる{'ある': 1}</span><span>人材{'手続': 1}</span>の<span>育成{'規定': 1}</span>、<span>必要{'規定': 1}</span>な<span>助言{'手続': 1}</span>その他の<span>援助{'手続': 1}</span>を<span>行う{'ある': 1}</span>よう<span>努める{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一月{'一年': 2, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'規定': 1}</span><span>第三条{'規定': 1}</span>及び第五条の<span>規定{'手続': 1}</span>は、<span>同日{'公布': 4, '規定': 1}</span>から<span>起算{'手続': 1}</span>して二年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>認知症{'規定': 1}</span>である<span>高齢者{'規定': 1}</span>、<span>知的障害者{'規定': 1}</span>その他<span>医療{'規定': 1}</span>、<span>介護{'規定': 1}</span>等を<span>受ける{'ある': 1}</span>に当たり<span>意思{'手続': 1}</span>を<span>決定{'規定': 1}</span>することが<span>困難{'手続': 1}</span>な者が<span>円滑{'規定': 1}</span>に<span>必要{'規定': 1}</span>な<span>医療{'手続': 1}</span>、<span>介護{'手続': 1}</span>等を<span>受け{'ある': 1}</span>られるようにするための<span>支援{'手続': 1}</span>の<span>在り方{'規定': 1}</span>については、第十<span>一条{'手続': 1}</span>第三号の<span>規定{'手続': 1}</span>による<span>検討{'規定': 1}</span>との<span>整合性{'規定': 1}</span>に十分に<span>留意{'規定': 1}</span>しつつ、<span>今後{'手続': 1}</span><span>検討{'手続': 1}</span>が<span>加え{'ある': 1}</span>られ、その結果に基づき所要の措置が講ぜられるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

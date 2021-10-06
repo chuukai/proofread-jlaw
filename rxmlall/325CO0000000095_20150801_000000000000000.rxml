@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="95" Year="25">
+  <LawNum>昭和二十五年政令第九十五号</LawNum>
+  <LawBody>
+    <LawTitle>資産再評価法施行令</LawTitle>
+    <EnactStatement>内閣は、資産再評価法（昭和二十五年法律第百十号）の規定に基き、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令において「帳簿価額」、「再評価」、「再評価額」、「再評価日」、「旧再評価日」、「減価償却資産」、「取得価額」、「事業年度」、「<span>第二会社{'当該': 4}</span>」、「合併法人」、「被合併法人」、「決定整備計画」又は「企業再編成計画書」とは、資産再評価法（以下「法」という。）に規定する帳簿価額、再評価、再<span>評価額{'方法': 1}</span>、再評価日、旧再<span>評価{'方法': 1}</span>日、減価償却資産、取得価額、事業年度、<span>第二会社{'当該': 4}</span>、合併法人、被合併法人、決定整備計画又は企業再<span>編成{'規定': 1}</span>計画書をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（事業の範囲）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第二条第五項に規定する事業は、<span>左{'専従': 1}</span>に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">卸売業及び小売業（飲食店業及び料理店業を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">製造業（修理業を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">建設業（土木建築の設計監督業を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">鉱業（土石採取業を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融業及び保険業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">農業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">林業及び狩猟業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">漁業及び水産養殖業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">不動産業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">運輸業、通信業その他の公益事業（倉庫業、保管業、ガス業、電気業、水道業及び衛生業を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">サービス業（自由職業及び修理業を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第九号及び第十号に掲げるものを除く外、対価を得て行う家屋又は船舶の貸付</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げるものを除く外、対価を<span>得て{'額': 1}</span>行う継続的行為</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（基準日の特例）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第三条第六号に規定する資産は、左の各号に掲げる資産とし、当該資産についての基準日は、当該各号に掲げる日とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">昭和二十八年一月一日において在外資産（会社経理応急措置法施行令（昭和二十一年勅令第三百九十一号）第二十五条に規定する在外資産をいう。以下同じ。）である資産で同日後<span>在外{'前': 1}</span>資産に該当しないこととなつたものについては、その<span>在外{'場合': 1}</span>資産に該当しないこととなつた日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">昭和二十八年一月一日後連合国財産の返還等に関する政令（昭和二十六年政令第六号）の規定に基き資産の返還を受ける者の当該返還を受ける<span>資産{'対価': 1}</span>については、その返還を受ける日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（帳簿価額のない資産）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第七条第五号に規定する資産は、<span>在外{'譲渡': 1}</span>資産であつた資産とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5:6">
+        <ArticleTitle>第五条及び第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（取得の時期及び取得価額の特例）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十九条第十五号に規定する資産は、<span>左{'欄': 1}</span>の各号に掲げる<span>資産{'書類': 1}</span>とし、当該資産については、当該各号に掲げる<span>時期{'事由': 1, '資産': 1, '金額': 1}</span>及び金額を、それぞれその取得の<span>時期{'価額': 3}</span>及び取得価額とみなす。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、当該資産が同条第四号から第六号までの規定に該当する場合においては、これらの規定に<span>規定{'特例': 1}</span>する取得の<span>時期{'価額': 3}</span>及び取得価額をその<span>取得{'譲渡': 1, '当該': 1}</span>の<span>時期{'価額': 2}</span>及び取得価額とすることを妨げない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">財団法人理化学研究所に関する措置に関する法律（昭和二十二年法律第百三十一号）の規定に基き財団法人理化学研究所から資産の現物出資を受けて設立された株式会社の当該出資を受けた資産については、財団法人理化学研究所の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧農業団体法（昭和十八年法律第四十六号）の<span>規定{'施行': 1}</span>に基き同法に規定する農業団体が同法第九十三条に規定する受命法人から譲渡を受けた資産（農業協同組合法の制定に伴う農業団体の整理等に関する法律（昭和二十二年法律第百三十三号）の規定に基き当該農業<span>団体{'相続人': 1}</span>から農業協同組合又は農業協同組合連合会に譲渡された当該資産を含む。）については、当該<span>受命{'内国': 1}</span>法人の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧水産業団体法（昭和十八年法律第四十七号）の規定に基き同法に規定する水産業団体が同法第九十四条に規定する<span>受命{'内国': 1}</span>法人から譲渡を受けた資産（水産業協同組合法の制定に伴う水産業団体の整理等に関する法律（昭和二十三年法律第二百四十三号）の規定に基き当該水産業団体から水産業協同組合に譲渡された当該資産を含む。）については、当該受命法人の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>決定{'合計': 1, '当該': 1}</span>整備計画又は企業再編成計画書の定めるところにより第二会社以外の者が著しく低い価額の対価で出資又は譲渡を受けた<span>資産{'場合': 1}</span>については、<span>当該{'譲渡': 1, '特定': 1}</span>資産を出資又は譲渡した会社の当該<span>資産{'換資': 1}</span>の取得の<span>時期{'価額': 1}</span>及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧産業復興公団法（昭和二十二年<span>法律{'附則': 1}</span>第五十七号）の規定に基き産業復興公団から資産を借り受けていた者が産業復興公団から著しく低い価額の対価で譲渡を受けた当該資産については、産業復興公団の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>連合国{'当該': 1}</span>財産の返還等に関する政令の規定に基き資産の返還を受けた者の当該資産については、昭和二十年八月以前におけるその者の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国際観光ホテル整備法（昭和二十四年法律第二百七十九号）第二条に規定する<span>ホテル{'事業年度': 1}</span>業を営んでいる者で地方公共団体からホテル施設を借り受けていたものが当該地方公共団体から著しく低い価額の<span>対価{'当該': 1}</span>で<span>譲渡{'支払': 1}</span>を<span>受け{'含む': 1}</span>た当該ホテル<span>施設{'土地': 1}</span>については、当該地方公共団体の当該資産の取得の時期及び取得価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げる場合を除く外、法令に基き法人の解散等に因り当該法人から他の法人が著しく低い<span>価額{'法人': 1}</span>の<span>対価{'資産': 1, '当該': 2}</span>で<span>譲渡{'当該': 1}</span>を受けた<span>資産{'当該': 1}</span>については、その譲渡をした法人の当該<span>資産{'貨物': 1}</span>の<span>取得{'譲渡': 1}</span>の<span>時期{'価額': 2}</span>及び取得<span>価額{'法人税': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（法人の資産についての課税標準の特例）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四十条第三項第二号に規定する資産は、左の各号に掲げる資産とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在外資産であつた資産</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧勘定（会社経理応急措置法（昭和二十一年法律第七号）に規定する旧勘定をいう。以下同じ。）に所属していた資産で、き損、損壊又は価額の変動その他の事情によりその価額が減少したためその帳簿価額の減額をしたもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9:10">
+        <ArticleTitle>第九条及び第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（法人の減価償却資産についての再評価税の納付）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十一条第一項に<span>規定{'内国': 1}</span>する<span>法人{'適用': 2}</span>が同項の規定により<span>減価償却資産{'還付': 1, '適用': 1}</span>について<span>納付{'開始': 1}</span>すべき各事業年度分の再評価<span>税額{'額': 1}</span>は、<span>当該{'金額': 1}</span>資産についての再<span>評価{'消費': 1}</span><span>税額{'数量': 1, '方法': 1}</span>に当該各事業年度の月数を乗じて<span>算出{'計算': 8}</span>した金額を六十分した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">再<span>評価{'当該': 5}</span>日が事業年度開始の日でない場合における再評価日を<span>含む{'換え': 1}</span>事業年度分の再<span>評価{'所得': 1}</span>税額については、再<span>評価{'計算': 1}</span>日から当該事業年度<span>終了{'月数': 1}</span>の日までの月数を当該事業年度の<span>月数{'終了': 1}</span>とみなして前項の規定を<span>適用{'事業年度': 1}</span>するものとし、同項の規定により計算した各事業年度分の金額の合計額が当該資産についての再<span>評価{'所得': 1, '法': 1, '消費': 1}</span>税額と異なることとなる場合における再評価日以後五年を<span>経過{'換え': 1}</span>した日を含む事業年度分の再<span>評価{'所得': 4}</span><span>税額{'方法': 1}</span>は、<span>前項{'控除': 1}</span>の規定にかかわらず、当該<span>資産{'個別': 1}</span>についての再<span>評価{'消費': 1}</span>税額から当該税額のうち既に<span>納期{'税額': 1}</span>の到来した部分の金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二項の月数を計算する<span>場合{'金額': 1, '月数': 1}</span>において、端数があるときは、十五日以下の端数は切り捨てて、十六日以上の端数は<span>切り上げ{'乗じ': 1}</span>て計算する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">減価償却資産について再評価を行つた法人が合併に因り消滅した場合において、<span>合併{'当該': 1}</span>法人が合併に因り取得した減価償却資産についての再評価税額のうち合併の日から二月を<span>経過{'規定': 1}</span>した日までに納期がまだ到来していない再評価税額（法第五十六条の規定により納付が<span>延期{'税額': 1}</span>されている<span>税額{'額': 1}</span>を含む。）があるときは、合併法人が法第五十一条第一項の規定により当該<span>資産{'申告': 1}</span>について納付すべき再<span>評価{'法人': 1}</span><span>税額{'当該': 2}</span>については、被合併法人の当該<span>資産{'時価': 2}</span>についての再<span>評価{'当該': 1}</span>日を<span>合併{'換え': 1}</span>法人の当該<span>資産{'合併': 2}</span>についての再<span>評価{'適格': 1}</span>日と、<span>合併{'適格': 1, '当該': 1}</span>の日から<span>合併{'法人': 1}</span>の日を含む事業年度終了の日までの月数を当該事業年度の<span>月数{'終了': 1}</span>とみなして、同<span>項{'法': 1}</span>及び前三項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11_2">
+        <ArticleCaption>（法人の減価償却資産以外の資産についての再評価税の納付）</ArticleCaption>
+        <ArticleTitle>第十一条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十二条第一項に規定する法人が同<span>条{'項': 1}</span>第二項の規定により減価償却資産以外の資産について納付すべき各事業年度分の再評価<span>税額{'換え': 1, '額': 1}</span>（<span>法{'計算': 1}</span>に規定する旧再評価<span>税額{'方法': 1}</span>を含む。以下本条において同じ。）は、当該資産についての再評価税額に当該各事業年度の月数を乗じて<span>算出{'計算': 8}</span>した金額を三十六分した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定により計算した各事業年度分の金額の合計額が当該資産についての再<span>評価{'所得': 1, '法': 1, '消費': 1}</span>税額と異なることとなる場合においては、再評価日又は旧再評価日以後五年を<span>経過{'換え': 1}</span>した日の前日を含む事業年度開始の日から<span>三年{'日': 1}</span>を経過した日の<span>前日{'相続': 1}</span>を含む事業年度分の再<span>評価{'所得': 2}</span><span>税額{'規定': 1, '差額': 1}</span>は、前項の規定にかかわらず、当該<span>資産{'個別': 1}</span>についての再<span>評価{'消費': 1}</span>税額から当該税額のうち既に<span>納期{'税額': 1}</span>の到来した部分の金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前条{'法': 1}</span>第三項の<span>規定{'期間': 1}</span>は、第一項の月数の計算について<span>準用{'金額': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>減価償却資産{'規定': 1}</span>以外の資産について再評価を行つた法人が合併に因り消滅した場合において、<span>合併{'当該': 1}</span>法人が合併に因り取得した当該資産についての再評価税額のうち合併の日から二月を経過した日までにまだ納期の到来していない再評価税額があるときは、合併法人が<span>法{'項': 1}</span>第五十二条第二項の規定により当該資産について<span>納付{'時価': 1}</span>すべき再<span>評価{'消費': 1}</span><span>税額{'当該': 2}</span>については、被合併法人の当該<span>資産{'時価': 1}</span>についての再評価日又は旧再<span>評価{'適格': 1}</span>日を<span>合併{'換え': 1}</span>法人の再<span>評価{'合併': 1}</span>日又は旧再<span>評価{'適格': 2}</span>日と、<span>合併{'適格': 2, '当該': 2}</span>の日から<span>合併{'法人': 1}</span>の日を含む事業年度終了の日までの月数を当該事業年度の<span>月数{'終了': 1}</span>とみなして同<span>項{'法': 1}</span>及び前三項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（更正又は決定の権限）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>法{'条': 1}</span>第六十五条又は第六十七条の規定による<span>更正{'沖縄': 1}</span>のうち、<span>法人{'請求': 1}</span>が<span>法{'税額': 1}</span>第四十五条又は第四十八条第一項の規定により提出した申告書で当該申告書に添附された明細書に記載された再<span>評価{'最高': 2, '当該': 1}</span>額の<span>限度{'方法': 1, '金額': 1}</span>額及び再評価額の限度額に<span>相当{'部分': 1, '欄': 1}</span>する金額の合計額が、五億円以上のものに係るもの及び<span>個人{'規定': 1}</span>が法第四十六条又は第四十八条第一項の規定により<span>提出{'復興特別所得税': 1}</span>した<span>申告{'規定': 1}</span>書で<span>当該{'中間': 1}</span><span>申告{'事業年度': 1}</span>書に記載された<span>減価償却資産{'事項': 1}</span>の再評価額が一千万円以上のものに係るものは、国税局長が行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定による更正を除く外、法第六十五条から法第六十七条までの規定による更正又は決定は、税務署長が行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（重加算税額を徴収しない部分の税額の計算）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八十二条第一項に規定する隠ぺい又は仮装されていない事実に基く税額は、当該事実のみに基いて修正申告書の提出又は更正があつたとした場合における当該修正に因り増加すべき税額又は当該更正に係る追徴税額に相当する税額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八十二条第二項に規定する隠ぺい又は仮装されていない事実に基く税額は、<span>当該{'規定': 1}</span>事実のみに基いて法第四十七条に規定する申告書の提出期限後に当該申告書の提出があつたとした場合における当該申告に因り納付すべき税額、当該事実のみに<span>基い{'基づい': 1}</span>て修正申告書の提出があつたとした場合における当該修正に因り増加すべき税額又は当該事実のみに<span>基い{'基づい': 1}</span>て更正<span>若しくは{'又は': 1}</span>決定があつたとした場合における当該更正<span>若しくは{'又は': 2}</span>決定に係る<span>追徴{'納付': 1}</span>税額に相当する税額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八十二条第三項に規定する隠ぺい又は仮装されていない事実に基く税額は、<span>当該{'規定': 1}</span>事実のみに基いて法第四十七条に規定する申告書の提出期限後に当該申告書の提出があつたとした場合における当該申告に因り納付すべき税額又は当該事実のみに<span>基い{'基づい': 1}</span>て修正申告書の提出があつたとした場合における当該修正に因り増加すべき税額に相当する税額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（仮勘定として経理すべき資産）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百条第一項に規定する資産は、<span>左{'欄': 1}</span>に掲げる資産とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧勘定に所属していた資産</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">新勘定（会社経理応急措置法に規定する新勘定をいう。）に所属していた会社財産（同法に規定する会社財産をいう。）である土地、建物その他の事業設備（これらのものの売買を会社の目的とする場合を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百条第二項に規定する資産は、左に掲げる資産とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在外資産であつた資産</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">旧勘定に所属していた資産で、き損、損壊又は価額の変動その他の事情によりその価額が減少したためその<span>帳簿価額{'金額': 1}</span>の減額をしたもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（再評価差額等による損失のてん補の事実の明示）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百<span>一条{'第一': 1}</span>第一項又は第二項の<span>規定{'内国': 1}</span>により法人が再評価差額をもつて損失をてん補し、又は第二会社特別勘定を償却したときは、当該法人は、昭和三十六年十二月三十一日を含む事業年度までは、<span>貸借対照表{'当該': 1}</span>の資産の部にそのてん補された損失の額又は償却された第二会社特別勘定の額を、貸借対照表の負債の部にその損失のてん補又は第二会社特別勘定の償却に充てられた再評価差額を附記しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定は、<span>法{'項': 1}</span>第百七条第一項第三号の規定により法人が再評価積立金をもつて損失を<span>てん{'額': 1}</span>補した場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="16">
+        <ArticleCaption>（法の施行地）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第百二十三条に規定する附属の島は、本州、北海道、四国及び九州に附属する島のうち、当分の間、歯舞群島、色丹島、国後島及び択捉島を除いたものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'法律': 2}</span>は、公布の日から施行し、昭和二十五年一月一日から<span>適用{'省令': 1, '施行': 5}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二五年七月一九日政令第二三二号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '法律': 3}</span>は、公布の日から施行し、昭和二十五年<span>一月一日{'改正': 1}</span>から<span>適用{'施行': 7}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二五年八月二六日政令第二七五号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '法律': 3}</span>は、公布の日から施行し、昭和二十五年<span>一月一日{'改正': 1}</span>から<span>適用{'施行': 5}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年一月二二日政令第六号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '法律': 1}</span>は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二七年三月三一日政令第五七号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令中第一条第一項、第二条から第五条まで、第八条及び<span>第九条{'附則': 1}</span>並びに第十条（第一条第一項各号に掲げる法律及びこれに基く命令に相当する法令並びに第<span>八条{'次': 1}</span>各号に掲げる<span>法令{'規定': 1}</span>に係る<span>部分{'該当': 1}</span>に限る。）及び附則の<span>規定{'第九条': 1}</span>は、昭和二十七年<span>四月一日{'適用': 1}</span>から、その他の<span>規定{'政令': 1, '施行': 1}</span>は、<span>同年{'政令': 1}</span>十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二八年八月七日政令第一六四号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '法律': 2}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二九年五月二四日政令第一〇七号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 2, '法律': 2}</span>は、公布の日から<span>施行{'範囲': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年四月二日政令第一三六号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '改正': 1}</span>は、国税通則法の施行等に伴う関係<span>法令{'政令': 1, '法律': 2}</span>の整備等に関する法律（以下「<span>整備法{'改正': 1}</span>」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四三年六月二四日政令第二〇二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>政令{'省令': 1, '法律': 1}</span>は、<span>暫定措置{'改正': 1, '公布': 1}</span>法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四七年五月一日政令第一五二号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、沖縄の<span>復帰{'施行': 1}</span>に伴う関係法令の改廃に関する法律の施行の日（昭和四十七年五月十五日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

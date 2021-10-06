@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="044" Year="02">
+  <LawNum>令和二年財務省令第四十四号</LawNum>
+  <LawBody>
+    <LawTitle>新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行規則</LawTitle>
+    <EnactStatement>新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律（令和二年法律第二十五号）及び新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令（令和二年政令第百六十号）の規定に基づき、新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令において「新型コロナウイルス感染症」とは、新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律（以下「法」という。）第二条に規定する新型コロナウイルス感染症をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（給付金の非課税等）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第一項第一号に規定する財務省令で定める給付金は、令和二年度の一般会計補正予算（第１号）における<span>特別定額給付金{'年金生活者等支援臨時福祉給付金': 1}</span>給付事業費補助金を財源として<span>市町村{'計算': 1}</span>又は<span>特別区{'規定': 1}</span>から給付される<span>給付金{'欄': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第一項第二号に規定する<span>財務省令{'政令': 6}</span>で定める者は、次に掲げる者とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">令和二年四月分の児童手当法（昭和四十六年法律第七十三号）による児童手当（以下この項において「児童手当」という。）の支給を受ける者（同法第四条第一項第四号に係るもの（以下この号において「施設等受給者」という。）を除く。以下この号において「<span>四月{'六月': 1, '次項': 1}</span>分受給者」という。）又は令和二年三月分の児童手当の支給を受ける者（施設等受給者及び<span>四月{'農業者': 1}</span>分受給者を除く。以下この号において「<span>三月{'次項': 1}</span>分受給者」という。）（四月分受給者又は三月分受給者が次に掲げる場合に該当する場合には、それぞれ次に定める者）</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">給付決定日（法第四条第一項第二号に規定する給付金の給付が決定される日をいう。次号において同じ。）以前に死亡した場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該四月分<span>受給者{'当該': 1}</span>が支給を受ける令和二年四月分の児童手当の支給の対象となった児童又は当該三月分受給者が支給を受ける同年三月分の児童手当の支給の対象となった児童（ロにおいて「対象児童」と総称する。）に係る当該四月分受給者又は三月分受給者が死亡した日の属する月の翌月分の児童手当の支給を受ける者その他これに準ずる者</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">その者からの暴力を<span>理由{'本邦': 1}</span>に避難している配偶者（その者と生計を一にしない者であって、対象児童を監護し、かつ、これと生計を一にしている者に限る。）を有する場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該配偶者</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">令和二年三月分若しくは四月分の児童手当の支給の対象となった児童であって、同年三月三十一日（同年三月分の児童手当の支給の対象となった児童については、同年二月二十九日）から給付決定日までの間において児童手当法第四条第一項第四号に規定する中学校修了前の施設入所等児童であるもの（以下この号において「施設入所等児童」という。）が委託されている同法第三条第三項第一号に規定する小規模住居型児童養育事業を行う者若しくは同号に規定する里親又は施設入所等児童が入所若しくは入院をしている同法第四条第一項第四号に規定する障害児入所施設等の設置者その他これらに準ずる者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第一項第二号に規定する財務省令で定める給付金は、令和二年度の一般会計補正予算（第１号）における子育て世帯臨時特別給付金給付事業費補助金を財源として<span>市町村{'計算': 1}</span>又は特別区から給付される給付金とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（指定行事の中止等により生じた権利を放棄した場合の寄附金控除又は所得税額の特別控除の特例）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律<span>施行令{'施行規則': 1, '施行': 1, '規定': 1}</span>（以下「<span>令{'改正': 1, '政令': 1}</span>」という。）第三条第二項の規定により読み替えて適用される<span>所得税法施行令{'規定': 2}</span>（昭和四十年政令第九十六号）第二百六十二条第一項第六号に規定する<span>財務省令{'政令': 7}</span>で定める<span>事実{'事項': 1}</span>は、次に掲げる事実とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第五条第一項の中止若しくは延期又はその規模の縮小により生じた同項の対価の払戻しを請求する権利に係る行事が同条第四項に規定する指定行事（以下第三項までにおいて「指定行事」という。）に該当すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第五条第一項の個人が前号の指定行事の同項に規定する入場料金等払戻請求権（次項から第四項までにおいて「入場料金等払戻請求権」という。）の全部又は一部の放棄を同条第一項に規定する指定期間（第三項において「指定<span>期間{'期間内': 1}</span>」という。）内にしたこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 2}</span>第三条第二項の規定により読み替えて適用される<span>所得税法施行令{'令': 1}</span>第二百六十二条第一項第六号に規定する<span>財務省令{'政令': 4}</span>で定める<span>書類{'事項': 1}</span>は、次に掲げる書類とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>文部科学大臣{'添付': 1}</span>の前項第一号に掲げる<span>事実{'該当': 1, '事項': 1}</span>を証する書類で次に掲げる<span>事項{'書類': 2}</span>の記載があるものの写しとして同号の指定行事を行った又は行うこととしていた者（以下この項及び第四項において「指定<span>行事{'会社': 1}</span>主催者」という。）から交付を受けたもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該指定行事の名称並びに当該指定行事が行われた又は行われることとされていた年月日及び場所</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該指定行事主催者の氏名又は名称及び住所<span>若しくは{'又は': 2}</span>居所又は本店<span>若しくは{'又は': 1}</span>主たる事務所の所在地</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>文部科学大臣{'場所': 1}</span>が当該書類を<span>作成{'記載': 1}</span>した年月日及びその整理<span>番号{'年月日': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号の指定行事主催者のイ及びロに掲げる事項を証する書類でハからヘまでに掲げる事項の記載があるもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">前項第二号の<span>放棄{'規定': 1}</span>をした者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">前項第二号の放棄をした部分の入場料金等払戻請求権の価額に相当する金額及びその放棄をした年月日（法<span>附則{'法律': 1}</span>第三条の規定により法第五条第一項の規定の適用を<span>受ける{'ある': 2}</span>場合には、法附則第三条の<span>入場{'規定': 2}</span>料金等払戻請求権の行使をした年月日並びに支出をした寄附金の額に<span>相当{'算入': 1}</span>する金額及び当該<span>支出{'事業年度': 1}</span>をした<span>年月日{'金額': 1}</span>）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>前{'第一': 1}</span>号イ<span>及び{'又は': 2}</span>ロに掲げる事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該指定行事主催者が当該書類を作成した年月日及びその整理番号</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">ロに規定する入場料金等払戻請求権の価額に相当する金額（法附則<span>第三条{'一条': 1, '第九条': 1}</span>の<span>規定{'準用': 1}</span>により<span>法{'適用': 1}</span>第五条第一項の規定の適用を受ける場合には、ロに規定する<span>支出{'特定': 2}</span>をした<span>寄附金{'関税': 1}</span>の<span>額{'金額': 1}</span>に相当する金額）が次に掲げる寄附金の額に<span>該当{'記載': 1}</span>する場合には、その旨</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">所得税法（昭和四十年<span>法律{'第一': 1, '施行規則': 1}</span>第三十三号）第七十八条第二項に規定する特定寄附金の<span>額{'信託': 1}</span></Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">租税特別措置法（昭和三十二年法律第二十六号）第四十一条の十八の二第二項に規定する特定非営利活動に関する寄附金の額</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">租税特別措置法第四十一条の十八の三第一項に規定する税額控除対象<span>寄附{'所得税': 1}</span>金の額</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令<span>第三条{'施行令': 1, '規定': 1, '前項': 1, '法': 1}</span>第五項の<span>規定{'法律': 1}</span>により読み替えて<span>適用{'法': 1}</span>される租税特別措置法第四十一条の十八の三第二項に規定する<span>財務省令{'政令': 9}</span>で定める事実は、次に掲げる<span>事実{'取引': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>第一{'項': 1}</span>項第一号に掲げる事実</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第五条第三項の個人が第一項第一号の指定行事の入場料金等払戻請求権の全部又は一部の放棄を指定期間内にしたこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第三条第五項の規定により読み替えて適用される<span>租税特別措置法{'令': 1}</span>第四十一条の十八の三第二項に規定する<span>財務省令{'政令': 5}</span>で定める書類は、次に掲げる書類とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第二項第一号に掲げる書類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第二項第一号の指定行事主催者のイ及びロに掲げる事項を証する書類でハからヘまでに掲げる事項の記載があるもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">前項第二号の<span>放棄{'規定': 1}</span>をした者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">前項第二号の放棄をした部分の入場料金等払戻請求権の価額に相当する金額及びその放棄をした年月日（法<span>附則{'法律': 1}</span>第三条の規定により法第五条第三項の規定の適用を<span>受ける{'ある': 2}</span>場合には、法附則第三条の<span>入場{'規定': 2}</span>料金等払戻請求権の行使をした年月日並びに支出をした寄附金の額に<span>相当{'算入': 1}</span>する金額及び当該支出をした年月日）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">第二項第一号イ<span>及び{'又は': 3}</span>ロに掲げる事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該指定行事主催者が当該書類を作成した年月日及びその整理番号</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">ロに規定する入場料金等払戻請求権の価額に相当する金額（法附則<span>第三条{'一条': 1, '第九条': 1}</span>の<span>規定{'準用': 1}</span>により<span>法{'適用': 1}</span>第五条第三項の規定の適用を受ける場合には、ロに規定する<span>支出{'特定': 2}</span>をした寄附金の<span>額{'金額': 1}</span>に相当する金額）が第二項第二号ホ（１）から（３）までに掲げる寄附金の額に該当する場合には、その旨</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五条第三項の<span>規定{'法': 1}</span>により<span>租税特別措置法{'法': 1}</span>第四十一条の十八の三第一項の規定による<span>控除{'適用': 6}</span>を<span>受けよ{'受ける': 1}</span>うとする場合における租税特別措置法<span>施行規則{'規定': 1}</span>（昭和三十二年大蔵省令第十五号）第十九条の十の五第十二項の規定の適用については、同項中「法第四十一条の十八の三第一項の」とあるのは「新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律（令和二年<span>法律{'施行規則': 1, '特例': 1, '施行': 1, '一条': 1}</span>第二十五号）第五条第三項の<span>規定{'二条': 1}</span>により法第四十一条の十八の三第一項の」と、「次の各号に掲げる<span>法人{'場合': 3}</span>の区分に応じ、<span>当該{'該各': 8}</span>各号に定める書類又はこれらの」とあるのは「<span>新型コロナウイルス感染症{'書類': 1}</span>等の影響に対応するための国税関係法律の臨時特例に関する法律<span>施行規則{'規定': 1}</span>（令和二年財務省令第四十四号）第三条第四項に規定する書類又は当該」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（住宅借入金等を有する場合の所得税額の特別控除の特例）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'申告': 1}</span>第四条第四項の規定により読み替えて適用される租税特別措置法第四十一条第三十一項に規定する<span>財務省令{'政令': 7}</span>で定める<span>事実{'書類': 1}</span>は、次に掲げる事実とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第六条第一項の個人が新型コロナウイルス感染症及びそのまん延防止のための措置の影響により同項に規定する既存住宅（<span>次号{'項': 2}</span>及び次項において「既存住宅」という。）をその取得（同条第一項に規定する取得をいう。<span>次項{'項': 6}</span>、第六項及び第七項において同じ。）の日から<span>六月{'次': 1, '当該': 2}</span>以内にその者の<span>居住{'事業': 1}</span>の用に供することができなかったこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号の既存住宅につき行った増築、改築、修繕又は模様替が法第<span>六条{'一条': 1}</span>第二項に規定する<span>特例{'住宅': 1}</span>増改築等（次項において「特例増改築等」という。）に該当すること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第四条第四項の規定により読み替えて適用される<span>租税特別措置法{'法': 1}</span>第四十一条第三十一項に規定する<span>財務省令{'政令': 6}</span>で定める<span>事実{'事項': 1}</span>を証する書類として<span>財務省令{'政令': 1}</span>で定める<span>書類{'場合': 1}</span>は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める書類とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第一号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の既存住宅の特例増改築等に係る工事を請け負った建設業法（昭和二十四年法律第百号）第二条第三項に規定する建設業者（第七項及び第十二項において「建設業者」という。）その他の者から交付を受けた次に掲げる<span>事項{'書類': 2}</span>の記載がある<span>書類{'場合': 1}</span>その他の<span>書類{'提出': 1}</span>で当該事実が生じたことを明らかにするもの</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">新型コロナウイルス感染症及びそのまん延防止のための措置の影響により前項第一号の個人が当該既存住宅の<span>取得{'家屋': 1}</span>をした日から六月以内に当該特例増<span>改築{'申告': 1}</span>等に係る工事が完了しなかった旨</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>当該{'課税': 1}</span>特例増改築等をした年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の<span>特例{'当該': 1}</span>増<span>改築{'規定': 1}</span>等に係る工事の請負契約書の写しその他の書類で当該<span>特例{'改築': 1}</span>増<span>改築{'上場株式': 1, '規定': 1, '対象': 1}</span>等に係る<span>契約{'運送契約': 1}</span>の締結をした<span>年月日{'政令': 1}</span>を明らかにするもの</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第四条第四項の規定により読み替えて適用される<span>租税特別措置法{'国税通則法': 1}</span>第四十一条第三十一項に規定するこれに代わるべき書類で<span>財務省令{'政令': 1}</span>で定める書類は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める<span>書類{'法': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>第一{'当該': 1}</span>項第一号に掲げる<span>事実{'場合': 2, '書類': 1, '事項': 1, '金額': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の個人の<span>当該{'該当': 1}</span>事実の詳細を記載した<span>書類{'第一': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>前項{'財務省令': 3}</span>第二号に定める<span>書類{'法': 1, 'ほか': 2}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第<span>六条{'項': 1}</span>第一項の規定により租税特別措置法第四十一条の規定の適用を受けようとする者は、<span>所得税法{'法人税法': 1}</span>第<span>二条{'施行規則': 1}</span>第一項第三十七号に規定する確定申告書（第九項及び第十四項において「確定申告書」という。）に第二項又は前項に規定する<span>書類{'提出': 1}</span>を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>租税特別措置法{'法': 1}</span>第四十<span>一条{'施行規則': 1, '施行令': 1}</span>第一項に規定する<span>居住{'業務': 1, '事業': 1}</span>の用に供した日（以下この項、第十項及び第十五項において「居住日」という。）の属する<span>年{'事業年度': 1}</span>分<span>又は{'若しくは': 1}</span>その翌年以後八年内（同条第十三項の規定又は<span>東日本大震災{'阪神・淡路大震災': 1}</span>の被災者等に係る国税関係法律の臨時特例に関する<span>法律{'特例': 1}</span>（平成二十三年<span>法律{'施行規則': 1, '施行': 1}</span>第二十九号）第十三条の二第三項の規定により<span>租税特別措置法{'特例': 1, '前項': 1}</span>第四十一条の規定の適用を<span>受ける{'ある': 2}</span>場合には、居住日の属する年分又はその翌年以後十一年内）のいずれかの年分の所得税につき<span>法{'額': 1, '確定申告書': 1}</span>第六条第一項の<span>規定{'準用': 1}</span>により<span>租税特別措置法{'条': 1}</span>第四十一条の規定の適用を受けた<span>個人{'場合': 1}</span>が、その<span>適用{'支払': 1}</span>を受けた年分の翌年分以後の各年分の所得税につき同<span>項{'額': 1, '改正': 1}</span>の規定により同条の規定の適用を<span>受けよ{'受ける': 3}</span>うとする場合における<span>租税特別措置法{'関税定率法': 1}</span><span>施行規則{'施行令': 1}</span>第十八条の二十一第十一項の規定の適用については、同<span>項{'受け': 1}</span>中「同<span>条{'適用': 2}</span>第十三項又は第十六項の規定により同<span>条{'適用': 4}</span>」とあるのは「同条第十三項の規定又は<span>東日本大震災{'阪神・淡路大震災': 1}</span>の被災者等に係る国税関係法律の臨時特例に関する<span>法律{'特例': 1}</span>（平成二十三年<span>法律{'施行規則': 1, '施行': 1}</span>第二十九号）第十三条の二第三項の規定により法第四十一条」と、「同条第一項の規定の適用を受けた」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第一項の規定により法第四十一条の規定の<span>適用{'承認': 1}</span>を受けた」と、「同<span>項{'場合': 1, '記載': 1}</span>」とあるのは「同<span>項{'所得税法': 1, '条': 1}</span>の規定により同条第一項」と、「書類を」とあるのは「書類及び新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律施行規則第四条第二項又は第三項に規定する書類を」と、「同<span>条{'法': 1}</span>第一項の規定の適用を受けている旨及び」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第一項の規定により<span>法{'適用': 1}</span>第四十一条の規定の<span>適用{'許可': 1, '承認': 1}</span>を受けている旨並びに」と、「書類の」とあるのは「書類及び同令第四条第二項又は第三項に<span>規定{'添付': 1}</span>する書類の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第四条第六項の規定により読み替えて適用される<span>租税特別措置法{'法': 1}</span>第四十一条第三十一項に規定する<span>財務省令{'政令': 7}</span>で定める<span>事実{'書類': 1}</span>は、次に掲げる事実とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第六条第三項の個人が新型コロナウイルス感染症及びそのまん延防止のための措置の影響により同項に規定する耐震改修（<span>次号{'項': 1}</span>及び次項において「耐震改修」という。）をして同条第三項に規定する要耐震改修住宅（<span>次項{'家屋': 1}</span>において「要耐震改修住宅」という。）をその<span>取得{'当該': 1}</span>の日から<span>六月{'当該': 1}</span>以内にその者の居住の用に供することができなかったこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号の耐震改修に係る契約を令第四条第二項に規定する日までに締結していること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第四条第六項の規定により読み替えて適用される<span>租税特別措置法{'法': 1}</span>第四十一条第三十一項に規定する<span>財務省令{'政令': 6}</span>で定める<span>事実{'事項': 1}</span>を証する書類として<span>財務省令{'政令': 1}</span>で定める<span>書類{'場合': 1}</span>は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める書類とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第一号に掲げる<span>事実{'場合': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同{'住宅': 1}</span>号の要耐震改修住宅の耐震改修に係る工事を請け負った建設業者その他の者から交付を受けた次に掲げる<span>事項{'書類': 1}</span>の記載がある<span>書類{'場合': 1}</span>その他の<span>書類{'提出': 1}</span>で当該事実が生じたことを明らかにするもの</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">新型コロナウイルス感染症及びそのまん延防止のための措置の影響により前項第一号の個人が当該要耐震改修住宅の取得をした日から六月以内に当該耐震改修に係る工事が完了しなかった旨</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該耐震改修をした年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同{'当該': 1}</span>号の耐震改修に係る工事の請負契約書の写しその他の書類で当該耐震改修に係る契約の締結をした年月日を明らかにするもの</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第四条第六項の規定により読み替えて適用される<span>租税特別措置法{'国税通則法': 1}</span>第四十一条第三十一項に規定するこれに代わるべき書類で<span>財務省令{'政令': 1}</span>で定める書類は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める<span>書類{'法': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第六項<span>第一{'当該': 1}</span>号に掲げる<span>事実{'場合': 2, '書類': 1, '事項': 1, '金額': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の個人の<span>当該{'該当': 1}</span>事実の詳細を記載した<span>書類{'第一': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第六項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>前項{'財務省令': 3}</span>第二号に定める<span>書類{'法': 1, 'ほか': 2}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第<span>六条{'項': 1}</span>第三項の規定により租税特別措置法第四十一条の規定の適用を受けようとする者は、確定申告書に第七項又は前項に規定する書類を<span>添付{'当該': 2}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">居住日の属する年分又はその翌年以後八年内（租税特別措置法第四十一条第十三項の規定又は<span>東日本大震災{'阪神・淡路大震災': 1}</span>の被災者等に係る国税関係法律の臨時特例に関する法律第十三条の二第三項の<span>規定{'施行規則': 1, '施行': 1}</span>により租税特別措置法第四十一条の規定の適用を<span>受ける{'ある': 2}</span>場合には、居住日の属する年分又はその翌年以後十一年内）のいずれかの年分の所得税につき<span>法{'額': 1, '確定申告書': 1}</span>第六条第三項の<span>規定{'準用': 1}</span>により<span>租税特別措置法{'条': 1}</span>第四十一条の規定の適用を受けた<span>個人{'場合': 1}</span>が、その<span>適用{'支払': 1}</span>を受けた年分の翌年分以後の各年分の所得税につき同<span>項{'額': 1, '改正': 1}</span>の規定により同条の規定の適用を<span>受けよ{'受ける': 3}</span>うとする場合における<span>租税特別措置法{'関税定率法': 1}</span><span>施行規則{'施行令': 1}</span>第十八条の二十一第十一項の規定の適用については、同<span>項{'受け': 1}</span>中「同<span>条{'適用': 2}</span>第十三項又は第十六項の規定により同<span>条{'適用': 4}</span>」とあるのは「同条第十三項の規定又は<span>東日本大震災{'阪神・淡路大震災': 1}</span>の被災者等に係る国税関係法律の臨時特例に関する法律第十三条の二第三項の<span>規定{'施行規則': 1}</span>により法第四十一条」と、「同条第一項の規定の適用を受けた」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第三項の規定により法第四十一条の規定の<span>適用{'承認': 1}</span>を受けた」と、「同<span>項{'場合': 1, '記載': 1}</span>」とあるのは「同<span>項{'所得税法': 1, '条': 1}</span>の規定により同条第一項」と、「書類を」とあるのは「書類及び新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律施行規則第四条第七項又は第八項に規定する書類を」と、「同<span>条{'法': 1}</span>第一項の規定の適用を受けている旨及び」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第三項の規定により<span>法{'適用': 1}</span>第四十一条の規定の<span>適用{'許可': 1, '承認': 1}</span>を受けている旨並びに」と、「書類の」とあるのは「書類及び同令第四条第七項又は第八項に<span>規定{'添付': 1}</span>する書類の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="11">
+          <ParagraphNum>１１</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第四条第八項の規定により読み替えて適用される<span>租税特別措置法{'法': 1}</span>第四十一条第三十一項に規定する<span>財務省令{'政令': 7}</span>で定める<span>事実{'書類': 1}</span>は、次に掲げる<span>事実{'書類': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第<span>六条{'当該': 1}</span>第四項の<span>個人{'第九条': 1, '規定': 1}</span>又は同項に規定する住宅被災者（第十三項及び第十五項において「住宅被災者」という。）が新型コロナウイルス感染症及びそのまん延防止のための措置の影響により同条第五項に規定する特例<span>取得{'適用': 2}</span>（次号及び次項において「<span>特例{'住宅': 1, '既存': 1}</span>取得」という。）をした家屋を令和二年十二月三十一日までにその者の居住の用に供することができなかったこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第<span>六条{'二条': 1}</span>第四項に規定する住宅の取得等、認定住宅の<span>新築{'取得': 1}</span>等及び<span>住宅{'当該': 2}</span>の<span>新築{'家屋': 1}</span>取得等が特例<span>取得{'農地': 1}</span>に該当すること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="12">
+          <ParagraphNum>１２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第四条第八項の規定により読み替えて適用される<span>租税特別措置法{'法': 1}</span>第四十一条第三十一項に規定する<span>財務省令{'政令': 6}</span>で定める<span>事実{'事項': 1}</span>を証する書類として<span>財務省令{'政令': 1}</span>で定める<span>書類{'場合': 1}</span>は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める書類とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第一号に掲げる<span>事実{'場合': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同{'当該': 1}</span>号の<span>特例{'土地': 1}</span><span>取得{'対象': 1}</span>に係る家屋の新築の工事その他の工事を請け負った建設業者、当該家屋の分譲を行う宅地建物取引業法（昭和二十七年法律第百七十六号）第二条第三号に規定する宅地建物取引業者その他の者から交付を受けた次に掲げる<span>事項{'書類': 1}</span>の記載がある<span>書類{'場合': 1}</span>その他の<span>書類{'提出': 1}</span>で当該事実が生じたことを明らかにするもの</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">新型コロナウイルス感染症及びそのまん延防止のための措置の影響により令和二年十二月三十一日までに、当該<span>家屋{'貨物': 1}</span>の新築の工事その他の工事が完了しなかった旨又は当該<span>家屋{'貨物': 1}</span>を引き渡すことができなかった旨</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該家屋の新築の<span>工事{'特定': 1}</span>その他の工事をした年月日<span>又は{'並びに': 1}</span>当該家屋を引き渡した年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の<span>特例{'土地': 1}</span><span>取得{'対象': 1}</span>に係る家屋の新築の工事その他の工事の請負契約書の写し、売買契約書の写しその他の書類で<span>当該{'保存': 1}</span>特例<span>取得{'適用': 1, '対象': 1}</span>に係る<span>契約{'運送契約': 1}</span>の締結をした年月日を<span>明らか{'項': 1}</span>にするもの</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="13">
+          <ParagraphNum>１３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第四条第八項の規定により読み替えて適用される<span>租税特別措置法{'国税通則法': 1}</span>第四十一条第三十一項に規定するこれに代わるべき書類で<span>財務省令{'政令': 1}</span>で定める書類は、次の各号に掲げる<span>事実{'支出': 1, '法人': 1, '自動車': 1, '場合': 3}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める<span>書類{'法': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第十一項<span>第一{'当該': 1}</span>号に掲げる<span>事実{'場合': 2}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同号の個人又は<span>住宅{'法人': 1, '当該': 1}</span>被災者の当該事実の詳細を記載した書類</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第十一項第二号に掲げる事実</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>前項{'財務省令': 3}</span>第二号に定める<span>書類{'法': 1, 'ほか': 2}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="14">
+          <ParagraphNum>１４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第<span>六条{'項': 1}</span>第四項の規定により租税特別措置法第四十一条の規定の適用を受けようとする者は、確定申告書に第十二項又は前項に規定する書類を<span>添付{'当該': 2}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="15">
+          <ParagraphNum>１５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">居住日の属する年分又はその翌年以後十一年内のいずれかの年分の所得税につき<span>法{'額': 1, '確定申告書': 1}</span>第六条第四項の<span>規定{'準用': 1}</span>により<span>租税特別措置法{'条': 1}</span>第四十一条の規定の適用を受けた個人又は住宅<span>被災者{'規定': 5}</span>が、その適用を受けた<span>年{'期間内': 1}</span>分の翌年分以後の各年分の所得税につき同<span>項{'額': 1, '改正': 1}</span>の規定により同条の規定の適用を<span>受けよ{'受ける': 3}</span>うとする場合における<span>租税特別措置法{'関税定率法': 1}</span>施行規則第十八条の二十一第十一項の<span>規定{'所得税': 1}</span>の適用については、同<span>項{'受け': 1}</span>中「八年内（居住日の<span>属する{'ある': 1}</span><span>年{'事業年度': 1}</span>が平成十一年若しくは平成十二年である場合、居住日が同条第一項に規定する平成十三年前期（第十八条の二十三第三項において「平成十三年前期」という。）内の日である場合又は居住日の属する年が平成十九年若しくは平成二十年で<span>法{'一条': 1}</span>第四十一条第六項の規定により同<span>条{'適用': 1}</span>の規定の適用を<span>受ける{'受け': 1}</span>場合には十三<span>年内{'税率': 1}</span>とし、同条第十三項<span>又は{'及び': 1}</span>第十六項の規定により同条の規定の適用を受ける場合には十一年内とする。以下この項において同じ。）」とあるのは「十一<span>年内{'場合': 1}</span>」と、「同<span>条{'本文': 1}</span>第一項の規定の適用を受けた」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第四項の規定により法第四十一条の規定の<span>適用{'承認': 1}</span>を受けた」と、「同<span>項{'場合': 1, '記載': 1}</span>」とあるのは「同<span>項{'所得税法': 1, '条': 1}</span>の規定により同条第一項」と、「書類を」とあるのは「書類及び新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律<span>施行規則{'施行令': 1}</span>第四条第十二項又は第十三項に規定する<span>書類{'適用': 2}</span>を」と、「八年内の」とあるのは「十一年内の」と、「同<span>条{'法': 1}</span>第一項の規定の適用を受けている旨及び」とあるのは「<span>新型コロナウイルス感染症{'場合': 1}</span>等の影響に対応するための国税関係法律の臨時<span>特例{'法律': 1}</span>に関する法律第<span>六条{'施行規則': 1, '特例': 1, '施行': 1}</span>第四項の規定により<span>法{'適用': 1}</span>第四十一条の規定の<span>適用{'許可': 1, '承認': 1}</span>を受けている旨並びに」と、「書類の」とあるのは「書類及び同令第四条第十二項又は第十三項に<span>規定{'書類': 1}</span>する書類の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（消費税の特例に係る承認申請書の記載事項等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十条第七項に規定する<span>財務省令{'政令': 6, '適用': 1}</span>で定める<span>事項{'場合': 1, '書類': 1}</span>は、次の各号に掲げる<span>承認{'場合': 4}</span>の区分に応じ当<span>該各{'当該': 1}</span>号に定める<span>事項{'金額': 1, '額': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第十条第一項及び第三項の<span>承認{'次': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>申請{'記載': 1}</span>者の氏名<span>又は{'及び': 1}</span>名称（代表者の氏名を含む。イ<span>及び{'又は': 1}</span>次号<span>イ{'規定': 1}</span>において同じ。）、<span>納税{'規定': 1}</span>地（納税地と住所若しくは居所又は本店若しくは主たる事務所の所在地（<span>イ{'条': 1, '場所': 1}</span>において「<span>住所{'法': 1}</span>等」という。）とが<span>異なる{'ある': 1}</span>場合には、納税地及び<span>住所{'第一': 1, '当該': 1}</span>等。イ及び同号イにおいて同じ。）及び<span>個人番号{'規定': 1, '法人番号': 1}</span>（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する<span>個人番号{'法人番号': 1}</span>をいう。<span>イ{'章': 1}</span>において同じ。）<span>又は{'及び': 1}</span><span>法人番号{'退職': 1}</span>（同条第十五項に規定する法人番号をいう。イ<span>及び{'又は': 1, '並びに': 1}</span>同号イにおいて同じ。）（<span>個人番号{'分割': 1}</span><span>及び{'又は': 4}</span><span>法人番号{'個人番号': 2}</span>を有しない者にあっては、氏名<span>又は{'並びに': 1}</span>名称及び<span>納税{'住所': 1}</span>地）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第一項に規定する収入の著しい減少があった期間の初日及び末日の年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第一項又は第三項の規定の適用を受けようとする課税<span>期間{'物品': 1, '貨物': 1}</span>（消費税法（昭和六十三年<span>法律{'二条': 1, '第一': 1}</span>第百八号）第十九条第一項に規定する<span>課税{'適用': 1}</span><span>期間{'仕入れ': 1}</span>（同条第二項又は第四項の規定により一の<span>課税{'適用': 1}</span>期間とみなされる期間を含む。）をいう。以下この号及び次号において同じ。）の初日の<span>年月日{'法': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第一項又は第三項の規定の適用を受けようとする課税期間の基準期間における課税<span>売上高{'物品': 1, '期間': 2}</span>（消費税法<span>第九条{'施行令': 1}</span>第一項に規定する基準<span>期間{'経過': 1}</span>における課税<span>売上高{'物品': 1, '期間': 1, '事業年度': 1}</span>をいう。次号ニにおいて同じ。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第十条第四項から第六項までの<span>承認{'記載': 1, '次': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">次に<span>掲げる{'受けよ': 1}</span>事項</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>申請{'記載': 2}</span>者の氏名又は名称、<span>納税{'住所': 1}</span>地及び法人番号（<span>法人番号{'市町村民税': 1}</span>を有しない者にあっては、氏名<span>又は{'並びに': 1}</span>名称及び<span>納税{'住所': 1}</span>地）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第一項に規定する収入の著しい減少があった期間の初日及び末日の年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第四項から第六項までの規定の適用を受けようとする各課税<span>期間{'物品': 1}</span>のうち最初の課税<span>期間{'物品': 1}</span>の初日の年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">法第十条第四項から第六項までの<span>規定{'法人税': 1}</span>の適用を受けようとする各課税<span>期間{'物品': 1}</span>のうち最初の課税期間の基準期間における課税<span>売上高{'物品': 1}</span></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十条第七項に規定する財務省令で定める書類は、<span>前項{'添付': 1}</span>第一号<span>ロ{'場合': 1, 'イ': 1}</span><span>又は{'及び': 3}</span>第二号ロに規定する期間に同条第一項に規定する新型コロナウイルス感染症等の影響により事業としての収入の著しい減少があったことを確認できる書類とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（印紙税の非課税の対象となる消費貸借契約書の要件）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 2}</span>第八条第一項第二号に規定する<span>財務省令{'政令': 1}</span>で定める<span>要件{'金額': 1}</span>は、保証料に相当する金額の全部又は一部について国が補助その他の助成を行う<span>同{'前項': 1}</span>号に規定する保証に係る金銭の<span>貸付け{'受け': 1}</span>であることとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第八条第二項第一号イに規定する<span>財務省令{'政令': 5}</span>で定める条件は、貸付金の貸付限度額、償還期間、返済の方法、使途、担保（保証人の保証を含む。）の提供、借換えの可否又は保証料の料率とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第八条第二項第二号ニに規定する財務省令で定める要件は、次に掲げる要件とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国が補助その他の助成を行うことによりその貸付けの日から<span>当初{'貸付': 1}</span>五年間は特定事業者（<span>令{'項': 1}</span>第八条第一項第二号に規定する特定事業者をいう。次項において同じ。）以外の者に対する金銭の<span>貸付け{'債務': 1}</span>に比し<span>実質的{'期間': 1}</span>に利子が軽減される金銭の貸付けであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">貸付金に係る担保（保証人の保証（<span>経営者{'氏名': 1}</span>及びその事業に従事する者の保証を除く。）を含み、当該<span>貸付{'共助': 1}</span>金の対象<span>物件{'資産': 1, '事業': 1}</span>を除く。）の提供を要しない金銭の貸付けであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第八条第二項第六号イ<span>及び{'又は': 1}</span>ロに規定する<span>財務省令{'政令': 5}</span>で定める要件は、国が補助その他の助成を行うことによりその貸付けの日から<span>当初{'貸付': 1}</span>五年間は特定事業者以外の者に対する金銭の貸付けに比し実質的に利子が軽減される金銭の<span>貸付け{'額': 1}</span>であることとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第八条第五項第二号に規定する<span>財務省令{'政令': 4}</span>で定める要件は、担保（保証人の保証（経営者及びその事業に従事する者の保証を除く。）を<span>含み{'及び': 1}</span>、同号に規定する保証に係る貸付金の対象<span>物件{'事業': 1}</span>を除く。）の提供を要しない債務の保証であることとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

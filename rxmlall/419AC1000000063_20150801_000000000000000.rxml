@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="63" Year="19">
+  <LawNum>平成十九年法律第六十三号</LawNum>
+  <LawBody>
+    <LawTitle>地理空間情報活用推進基本法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　地理空間情報活用推進基本計画等</ChapterTitle>
+        <ArticleRange>（第九条・第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　基本的施策</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第十一条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　地理情報システムに係る施策</SectionTitle>
+          <ArticleRange>（第十六条―第十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　衛星測位に係る施策</SectionTitle>
+          <ArticleRange>（第二十条・第二十一条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、現在及び将来の国民が<span>安心{'物件': 1}</span>して<span>豊か{'物件': 1}</span>な<span>生活{'物件': 1}</span>を営むことができる<span>経済{'浸水': 1}</span><span>社会{'使用': 1}</span>を<span>実現{'構成': 1}</span>する上で地理空間情報を高度に活用することを<span>推進{'物件': 1}</span>することが極めて重要であることにかんがみ、地理空間情報の活用の推進に関する施策に関し、<span>基本{'存': 1}</span>理念を定め、並びに国及び<span>地方公共団体{'物件': 1}</span>の責務等を明らかにするとともに、<span>地理空間情報{'明らか': 1}</span>の活用の推進に関する施策の<span>基本{'存': 1}</span>となる<span>事項{'旨': 1}</span>を<span>定める{'示す': 1}</span>ことにより、地理空間情報の活用の推進に関する施策を総合的かつ<span>計画的{'存': 1}</span>に推進することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'構成': 1}</span>において「地理空間情報」とは、第一号の<span>情報{'物件': 1}</span>又は同号及び第二号の<span>情報{'物件': 1}</span>からなる<span>情報{'存': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>空間{'中小企業者': 1}</span>上の特定の地点又は<span>区域{'浸水': 1}</span>の<span>位置{'前': 1}</span>を示す情報（当該<span>情報{'物件': 1}</span>に係る<span>時点{'構成': 1}</span>に関する<span>情報{'物件': 1}</span>を<span>含む{'用い': 1}</span>。以下「<span>位置情報{'受信': 1}</span>」と<span>いう{'示す': 1}</span>。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>前{'形成': 1}</span>号の<span>情報{'概要': 1}</span>に関連付けられた<span>情報{'高い': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「地理情報システム」とは、<span>地理空間情報{'物件': 1}</span>の地理的な把握又は<span>分析{'物件': 1}</span>を<span>可能{'概要': 1}</span>とするため、<span>電磁{'物件': 1}</span>的<span>方式{'使用': 1}</span>により<span>記録{'浸水': 1}</span>された<span>地理空間情報{'使用': 1}</span>を<span>電子計算機{'物件': 1}</span>を<span>使用{'物件': 1}</span>して<span>電子{'使用': 1}</span><span>地図{'使用': 1}</span>（<span>電磁{'使用': 1}</span>的<span>方式{'使用': 1}</span>により<span>記録{'使用': 1}</span>された<span>地図{'使用': 1}</span>を<span>いう{'設ける': 1}</span>。以下同じ。）上で<span>一体{'形成': 1}</span>的に<span>処理{'物件': 1}</span>する<span>情報システム{'使用': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'形成': 1}</span>において「基盤地図情報」とは、<span>地理空間情報{'物件': 1}</span>のうち、電子地図上における<span>地理空間情報{'物件': 1}</span>の<span>位置{'月割': 1}</span>を<span>定める{'示す': 1}</span>ための基準と<span>なる{'示す': 1}</span><span>測量{'物件': 1}</span>の<span>基準{'物件': 1}</span>点、<span>海岸線{'水位': 1}</span>、<span>公共施設{'物件': 1}</span>の<span>境界線{'物件': 1}</span>、<span>行政区画{'物件': 1}</span>その他の<span>国土交通省令{'物件': 1}</span>で<span>定める{'用い': 1}</span>ものの位置情報（国土交通省令で定める<span>基準{'使用': 1}</span>に<span>適合{'水位': 1}</span>するものに限る。）であって<span>電磁{'物件': 1}</span>的<span>方式{'物件': 1}</span>により<span>記録{'使用': 1}</span>されたものを<span>いう{'でき': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'形成': 1}</span>において「<span>衛星{'物件': 1}</span><span>測位{'物件': 1}</span>」とは、<span>人工衛星{'価額': 1}</span>から発射される<span>信号{'物件': 1}</span>を<span>用い{'示す': 1}</span>てする<span>位置{'物件': 1}</span>の<span>決定{'物件': 1}</span>及び<span>当該{'物件': 1}</span><span>位置{'物件': 1}</span>に係る<span>時刻{'物件': 1}</span>に関する<span>情報{'物件': 1}</span>の<span>取得{'物件': 1}</span>並びにこれらに<span>関連付け{'示す': 1}</span>られた<span>移動{'物件': 1}</span>の<span>経路{'物件': 1}</span>等の<span>情報{'物件': 1}</span>の取得を<span>いう{'示す': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>の活用の推進は、基盤地図情報、統計<span>情報{'物件': 1}</span>、<span>測量{'物件': 1}</span>に係る<span>画像{'物件': 1}</span><span>情報{'物件': 1}</span>等の<span>地理空間情報{'特別区': 1}</span>が国民<span>生活{'高い': 1}</span>の<span>向上{'使用': 1}</span>及び<span>国民経済{'形成': 1}</span>の<span>健全{'物件': 1}</span>な<span>発展{'物件': 1}</span>を図るための<span>不可欠{'物件': 1}</span>な<span>基盤{'物件': 1}</span>であることに<span>かんがみ{'用い': 1}</span>、これらの<span>地理空間情報{'使用': 1}</span>の<span>電磁{'物件': 1}</span>的<span>方式{'物件': 1}</span>による<span>正確{'浸水': 1}</span>かつ<span>適切{'浸水': 1}</span>な<span>整備{'使用': 1}</span>及びその<span>提供{'形成': 1}</span>、<span>地理情報システム{'物件': 1}</span>、<span>衛星{'物件': 1}</span><span>測位{'物件': 1}</span>等の<span>技術{'使用': 1}</span>の<span>利用{'存': 1}</span>の<span>推進{'使用': 1}</span>、<span>人材{'物件': 1}</span>の<span>育成{'物件': 1}</span>、<span>国{'物件': 1}</span>、地方公共団体等の<span>関係機関{'物件': 1}</span>の<span>連携{'物件': 1}</span>の<span>強化{'物件': 1}</span>等<span>必要{'使用': 1}</span>な体制の整備その他の施策を<span>総合的{'存': 1}</span>かつ<span>体系{'存': 1}</span>的に行うことを旨として行われなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'前': 1}</span>の活用の<span>推進{'旨': 1}</span>に関する施策は、<span>地理情報システム{'旨': 1}</span>が<span>衛星{'物件': 1}</span><span>測位{'権利': 1}</span>により<span>得{'用い': 1}</span>られる地理空間情報を<span>活用{'物件': 1}</span>する上での<span>基盤{'旨': 1}</span>的な<span>地図{'物件': 1}</span>を<span>提供{'物件': 1}</span>し、<span>衛星{'物件': 1}</span><span>測位{'権利': 1}</span>が<span>地理情報システム{'使用': 1}</span>で用いられる<span>地理空間情報{'物件': 1}</span>を安定的に<span>提供{'物件': 1}</span>するという<span>相互{'物件': 1}</span>に<span>寄与{'使用': 1}</span>する<span>関係{'物件': 1}</span>にあること等に<span>かんがみ{'図り': 1}</span>、<span>地理情報システム{'物件': 1}</span>に係る<span>施策{'物件': 1}</span>、<span>衛星{'高い': 1}</span><span>測位{'高い': 1}</span>に係る<span>施策{'物件': 1}</span>等が相まって<span>地理空間情報{'物件': 1}</span>を<span>高度{'安定': 1}</span>に<span>活用{'形成': 1}</span>することができる環境を<span>整備{'旨': 1}</span>することを<span>旨{'形成': 1}</span>として講ぜられなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'高い': 1}</span>の活用の推進に関する<span>施策{'高い': 1}</span>は、衛星<span>測位{'階段': 1}</span>が<span>正確{'物件': 1}</span>な<span>位置{'物件': 1}</span>、<span>時刻{'物件': 1}</span>、<span>移動{'物件': 1}</span>の<span>経路{'物件': 1}</span>等に関する<span>情報{'物件': 1}</span>の提供を通じて<span>国民{'物件': 1}</span><span>生活{'事由': 1}</span>の<span>向上{'使用': 1}</span>及び<span>国民経済{'物件': 1}</span>の<span>健全{'物件': 1}</span>な<span>発展{'物件': 1}</span>の<span>基盤{'一体': 1}</span>と<span>なっ{'でき': 1}</span>ている<span>現状{'使用': 1}</span>に<span>かんがみ{'示す': 1}</span>、<span>信頼性{'使用': 1}</span>の<span>高い{'物件': 1}</span><span>衛星{'物件': 1}</span><span>測位{'物件': 1}</span>による<span>サービス{'権利': 1}</span>を<span>安定{'物件': 1}</span>的に<span>享受{'物件': 1}</span>できる<span>環境{'使用': 1}</span>を<span>確保{'物件': 1}</span>することを<span>旨{'物件': 1}</span>として講ぜられなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地理空間情報の活用の推進に関する施策は、<span>国{'存': 1}</span>及び地方公共団体がその事務又は<span>事業{'部分': 1}</span>の遂行に当たり積極的に取り組んで<span>実施{'事由': 1}</span>することにより、効果的かつ<span>効率{'存': 1}</span>的な公共施設の<span>管理{'物件': 1}</span>、<span>防災対策{'協定': 1}</span>の<span>推進{'物件': 1}</span>等が図られ、もって<span>国土{'浸水': 1}</span>の利用、<span>整備{'使用': 1}</span>及び<span>保全{'清掃': 1}</span>の<span>推進{'存': 1}</span>並びに<span>国民{'物件': 1}</span>の生命、<span>身体{'物件': 1}</span>及び<span>財産{'形成': 1}</span>の<span>保護{'物件': 1}</span>に<span>寄与{'高い': 1}</span>するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>の活用の推進に関する施策は、<span>行政{'物件': 1}</span>の各<span>分野{'物件': 1}</span>において<span>必要{'物件': 1}</span>と<span>なる{'用い': 1}</span><span>地理空間情報{'物件': 1}</span>の共用等により、<span>地図{'存': 1}</span>作成の重複の是正、施策の総合性、機動性及び<span>透明性{'旨': 1}</span>の向上等が図られ、もって<span>行政{'物件': 1}</span>の<span>運営{'物件': 1}</span>の<span>効率化{'概要': 1}</span>及びその<span>機能{'物件': 1}</span>の<span>高度{'物件': 1}</span>化に<span>寄与{'形成': 1}</span>するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>の活用の推進に関する施策は、地理空間情報を活用した<span>多様{'高い': 1}</span>な<span>サービス{'浸水': 1}</span>の<span>提供{'物件': 1}</span>が<span>実現{'物件': 1}</span>されることを通じて、<span>国民{'使用': 1}</span>の<span>利便性{'旨': 1}</span>の<span>向上{'物件': 1}</span>に<span>寄与{'形成': 1}</span>するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>の活用の推進に関する施策は、地理空間情報を活用した多様な<span>事業{'物件': 1}</span>の創出及び健全な発展、<span>事業活動{'物件': 1}</span>の<span>効率化{'使用': 1}</span>及び<span>高度{'物件': 1}</span>化、<span>環境{'使用': 1}</span>との<span>調和{'存': 1}</span>等が図られ、もって<span>経済{'浸水': 1}</span>社会の<span>活力{'事由': 1}</span>の向上及び持続的な発展に<span>寄与{'物件': 1}</span>するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8" OldStyle="false">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>の活用の推進に関する<span>施策{'旨': 1}</span>を講ずるに当たっては、民間事業者による<span>地理空間情報{'高い': 1}</span>の活用のための技術に関する提案及び<span>創意工夫{'向上': 1}</span>が<span>活用{'物件': 1}</span>されること等により<span>民間事業者{'電子計算機': 1}</span>の<span>能力{'形成': 1}</span>が<span>活用{'物件': 1}</span>されるように配慮されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="9" OldStyle="false">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'高い': 1}</span>の<span>活用{'供': 1}</span>の推進に関する施策を<span>講ずる{'用い': 1}</span>に当たっては、地理空間情報の流通の<span>拡大{'浸水': 1}</span>に<span>伴い{'示す': 1}</span>、<span>個人{'物件': 1}</span>の<span>権利{'浸水': 1}</span><span>利益{'物件': 1}</span>、<span>国{'物件': 1}</span>の安全等が害されることのないように<span>配慮{'物件': 1}</span>されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>国{'事由': 1}</span>は、<span>前条{'構成': 1}</span>の基本理念（以下「基本<span>理念{'存': 1}</span>」という。）にのっとり、地理空間情報の活用の推進に関する施策を総合的に<span>策定{'存': 1}</span>し、及び<span>実施{'旨': 1}</span>する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、基本理念にのっとり、<span>国{'浸水': 1}</span>との適切な<span>役割分担{'浸水': 1}</span>を<span>踏まえ{'でき': 1}</span>て、<span>当該{'物件': 1}</span><span>地域{'物件': 1}</span>の<span>状況{'物件': 1}</span>に<span>応じ{'示す': 1}</span>た地理空間情報の活用の推進に関する施策を策定し、及び<span>実施{'物件': 1}</span>する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（事業者の努力）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>測量{'物件': 1}</span>、地図の<span>作成{'物件': 1}</span>又は<span>地理情報システム{'物件': 1}</span>若しくは<span>衛星{'物件': 1}</span>測位を<span>活用{'物件': 1}</span>したサービスの<span>提供{'高い': 1}</span>の<span>事業{'物件': 1}</span>を行う者その他の関係<span>事業者{'負担': 1}</span>は、基本<span>理念{'存': 1}</span>にのっとり、その事業活動に関し、良質な<span>地理空間情報{'物件': 1}</span>の提供等に<span>自ら{'事由': 1}</span>努めるとともに、国又は地方公共団体が実施する地理空間情報の活用の推進に関する施策に協力するよう<span>努める{'用い': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（連携の強化）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、国、地方公共団体、<span>関係{'中小企業者': 1}</span>事業者及び大学等の研究機関が相互に連携を図りながら<span>協力{'物件': 1}</span>することにより、<span>地理空間情報{'構成': 1}</span>の活用の効果的な<span>推進{'存': 1}</span>が図られることにかんがみ、これらの者の<span>間{'物件': 1}</span>の<span>連携{'使用': 1}</span>の<span>強化{'物件': 1}</span>に<span>必要{'物件': 1}</span>な<span>施策{'措置': 1}</span>を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（法制上の措置等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>政府{'高い': 1}</span>は、地理空間情報の活用の推進に関する<span>施策{'事由': 1}</span>を実施するため必要な<span>法制{'工作': 1}</span>上又は<span>財政{'物件': 1}</span>上の<span>措置{'経過': 1}</span>その他の<span>措置{'概要': 1}</span>を<span>講じ{'命じよ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　地理空間情報活用推進基本計画等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（地理空間情報活用推進基本計画の策定等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>政府{'物件': 1}</span>は、地理空間情報の活用の推進に関する施策の総合的かつ<span>計画{'旨': 1}</span>的な<span>推進{'概要': 1}</span>を図るため、地理空間情報の活用の推進に関する基本的な計画（以下「地理空間情報活用推進基本計画」という。）を<span>策定{'物件': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地理空間情報活用推進基本計画は、次に掲げる事項について<span>定める{'示す': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地理空間情報の活用の推進に関する施策についての基本的な方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地理情報システムに係る施策に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>衛星{'形成': 1}</span>測位に係る施策に関する<span>事項{'影響': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前三号に掲げるもののほか、<span>地理空間情報{'構成': 1}</span>の活用の推進に関する施策を総合的かつ計画的に<span>推進{'物件': 1}</span>するために必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>地理空間情報{'形成': 1}</span>活用推進基本計画に<span>定める{'用い': 1}</span><span>施策{'旨': 1}</span>については、原則として、当該施策の具体的な<span>目標{'物件': 1}</span>及びその<span>達成{'物件': 1}</span>の期間を<span>定める{'示す': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、第一項の規定により<span>地理空間情報{'形成': 1}</span>活用推進<span>基本計画{'存': 1}</span>を策定したときは、遅滞なく、これを<span>インターネット{'浸水': 1}</span>の利用その他<span>適切{'物件': 1}</span>な<span>方法{'物件': 1}</span>により<span>公表{'受信': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>政府{'物件': 1}</span>は、適時に、第三項の規定により定める目標の<span>達成{'物件': 1}</span><span>状況{'物件': 1}</span>を<span>調査{'物件': 1}</span>し、その<span>結果{'物件': 1}</span>を<span>インターネット{'浸水': 1}</span>の利用その他<span>適切{'物件': 1}</span>な<span>方法{'旨': 1}</span>により公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四項の<span>規定{'政府': 1}</span>は、<span>地理空間情報{'公募': 1}</span><span>活用{'記録': 1}</span>推進<span>基本計画{'存': 1}</span>の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（関係行政機関の協力体制の整備等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、地理空間情報活用推進<span>基本計画{'台帳': 1}</span>の策定及びこれに基づく施策の実施に関し、<span>関係{'事由': 1}</span>行政機関による協力体制の<span>整備{'物件': 1}</span>その他の<span>必要{'物件': 1}</span>な措置を<span>講ずる{'命じよ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　基本的施策</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（調査及び研究の実施）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地理空間情報の活用の推進に関する<span>施策{'浸水': 1}</span>の<span>策定{'存': 1}</span>及び適正な実施に必要な調査及び研究を実施するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（知識の普及等）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地理空間情報の活用の重要性に関する<span>国民{'存': 1}</span>の<span>理解{'物件': 1}</span>と<span>関心{'物件': 1}</span>を深めるよう、<span>地理空間情報{'存': 1}</span>の活用に関する啓発及び<span>知識{'事由': 1}</span>の<span>普及{'物件': 1}</span>その他の<span>必要{'物件': 1}</span>な<span>施策{'措置': 1}</span>を<span>講ずる{'でき': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（人材の育成）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地理空間情報の活用の推進を<span>担う{'用い': 1}</span>専門的な<span>知識{'物件': 1}</span>又は<span>技術{'浸水': 1}</span>を<span>有する{'でき': 1}</span><span>人材{'物件': 1}</span>を<span>育成{'物件': 1}</span>するために<span>必要{'物件': 1}</span>な<span>施策{'措置': 1}</span>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（行政における地理空間情報の活用等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'旨': 1}</span>及び<span>地方公共団体{'形成': 1}</span>は、地理空間情報の活用の<span>推進{'電子計算機': 1}</span>に関し、国民の<span>利便性{'存': 1}</span>の<span>向上{'物件': 1}</span>を図るとともに、行政の<span>運営{'物件': 1}</span>の<span>効率化{'概要': 1}</span>及びその機能の<span>高度{'使用': 1}</span>化に<span>資する{'示す': 1}</span>ため、その<span>事務{'物件': 1}</span>及び<span>事業{'事由': 1}</span>における<span>地理情報システム{'清掃': 1}</span>の利用の<span>拡大{'部分': 1}</span>並びにこれによる公共分野におけるサービスの<span>多様化{'存': 1}</span>及び<span>質{'旨': 1}</span>の<span>向上{'物件': 1}</span>その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（個人情報の保護等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'存': 1}</span>及び地方公共団体は、国民が<span>地理空間情報{'措置': 1}</span>を適切にかつ<span>安心{'存': 1}</span>して<span>利用{'物件': 1}</span>することができるよう、<span>個人情報{'物件': 1}</span>の保護のためのその適正な<span>取扱い{'物件': 1}</span>の<span>確保{'物件': 1}</span>、<span>基盤地図情報{'部分': 1}</span>の信頼性の<span>確保{'物件': 1}</span>のためのその<span>品質{'部分': 1}</span>の<span>表示{'形成': 1}</span>その他の<span>必要{'物件': 1}</span>な<span>施策{'措置': 1}</span>を<span>講ずる{'でき': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　地理情報システムに係る施策</SectionTitle>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（基盤地図情報の整備等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'存': 1}</span>は、基盤地図情報の共用を<span>推進{'物件': 1}</span>することにより地理情報システムの<span>普及{'物件': 1}</span>を<span>図る{'示す': 1}</span>ため、基盤地図情報の<span>整備{'物件': 1}</span>に係る<span>技術{'物件': 1}</span>上の基準を<span>定める{'示す': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'旨': 1}</span>及び<span>地方公共団体{'物件': 1}</span>は、前項の目的を<span>達成{'各階平面図': 1}</span>するため、同<span>項{'物件': 1}</span>の技術上の基準に<span>適合{'水位': 1}</span>した基盤地図情報の<span>整備{'構成': 1}</span>及び<span>適時{'物件': 1}</span>の<span>更新{'物件': 1}</span>その他の必要な<span>施策{'措置': 1}</span>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（地図関連業務における基盤地図情報の相互活用）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国及び地方公共団体は、都市計画、公共施設の<span>管理{'物件': 1}</span>、農地、<span>森林{'提起': 1}</span>等の管理、地籍調査、<span>不動産登記{'存': 1}</span>、<span>税務{'物件': 1}</span>、<span>統計{'事由': 1}</span>その他のその<span>遂行{'物件': 1}</span>に<span>地図{'浸水': 1}</span>の<span>利用{'物件': 1}</span>が<span>必要{'負担': 1}</span>な<span>行政{'物件': 1}</span>の各<span>分野{'各階平面図': 1}</span>における<span>事務{'物件': 1}</span>又は<span>事業{'部分': 1}</span>を<span>実施{'提起': 1}</span>するため<span>地図{'概要': 1}</span>を作成する場合には、当該地図の<span>対象{'物件': 1}</span>と<span>なる{'でき': 1}</span>区域について既に<span>整備{'物件': 1}</span>された<span>基盤地図情報{'物件': 1}</span>の相互の活用に努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（基盤地図情報等の円滑な流通等）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'旨': 1}</span>及び地方公共団体は、<span>基盤地図情報{'存': 1}</span>等が<span>社会{'高い': 1}</span><span>全体{'使用': 1}</span>において利用されることが<span>地理空間情報{'物件': 1}</span>の高度な<span>活用{'物件': 1}</span>に<span>資する{'用い': 1}</span>ことに<span>かんがみ{'示す': 1}</span>、<span>基盤地図情報{'物件': 1}</span>の<span>積極{'物件': 1}</span>的な<span>提供{'物件': 1}</span>、<span>統計{'物件': 1}</span><span>情報{'物件': 1}</span>、<span>測量{'物件': 1}</span>に係る<span>画像{'物件': 1}</span><span>情報{'物件': 1}</span>等の<span>電磁{'物件': 1}</span>的<span>方式{'旨': 1}</span>による<span>整備{'使用': 1}</span>及びその<span>提供{'形成': 1}</span>その他の<span>地理空間情報{'使用': 1}</span>の円滑な<span>流通{'物件': 1}</span>に必要な<span>施策{'措置': 1}</span>を<span>講ずる{'でき': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、その<span>保有{'存': 1}</span>する<span>基盤地図情報{'物件': 1}</span>等を原則として<span>インターネット{'浸水': 1}</span>を<span>利用{'物件': 1}</span>して<span>無償{'物件': 1}</span>で提供するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'構成': 1}</span>は、前二項に<span>定める{'示す': 1}</span>ものの<span>ほか{'旨': 1}</span>、<span>国民{'存': 1}</span>、<span>事業者{'物件': 1}</span>等による地理空間情報の活用を<span>促進{'旨': 1}</span>するため、<span>技術的{'部分': 1}</span><span>助言{'物件': 1}</span>、情報の<span>提供{'権利': 1}</span>その他の必要な<span>施策{'勧告': 1}</span>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（地理情報システムに係る研究開発の推進等）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地理情報システムの<span>発展{'高い': 1}</span>を図るため、研究開発の<span>推進{'使用': 1}</span>、その<span>迅速{'存': 1}</span>な<span>評価{'物件': 1}</span>、その<span>成果{'物件': 1}</span>の<span>普及{'物件': 1}</span>その他の必要な<span>施策{'措置': 1}</span>を<span>講ずる{'でき': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　衛星測位に係る施策</SectionTitle>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（衛星測位に係る連絡調整等）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'高い': 1}</span>は、<span>信頼性{'使用': 1}</span>の<span>高い{'形成': 1}</span><span>衛星{'権利': 1}</span><span>測位{'物件': 1}</span>による<span>サービス{'権利': 1}</span>を<span>安定{'権利': 1}</span>的に<span>享受{'物件': 1}</span>できる<span>環境{'概要': 1}</span>を<span>効果的{'物件': 1}</span>に<span>確保{'形成': 1}</span>することにより<span>地理空間情報{'物件': 1}</span>の活用を推進するため、<span>地球{'旨': 1}</span><span>全体{'物件': 1}</span>にわたる<span>衛星{'物件': 1}</span><span>測位{'物件': 1}</span>に関する<span>システム{'物件': 1}</span>を<span>運営{'使用': 1}</span>する<span>主体{'概要': 1}</span>との<span>必要{'物件': 1}</span>な<span>連絡{'物件': 1}</span><span>調整{'形成': 1}</span>その他の必要な<span>施策{'措置': 1}</span>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（衛星測位に係る研究開発の推進等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'高い': 1}</span>は、<span>衛星{'旨': 1}</span>測位により<span>得{'用い': 1}</span>られる<span>地理空間情報{'高い': 1}</span>の活用を<span>推進{'安定': 1}</span>するため、衛星測位に係る<span>研究開発{'物件': 1}</span>並びに<span>技術{'物件': 1}</span>及び<span>利用可能性{'物件': 1}</span>に関する実証を<span>推進{'物件': 1}</span>するとともに、その<span>成果{'物件': 1}</span>を<span>踏まえ{'でき': 1}</span>、<span>衛星{'物件': 1}</span><span>測位{'浸水': 1}</span>の利用の<span>促進{'形成': 1}</span>を<span>図る{'示す': 1}</span>ために必要な<span>施策{'措置': 1}</span>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、<span>公布{'物件': 1}</span>の日から<span>起算{'三月': 1}</span>して<span>三月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

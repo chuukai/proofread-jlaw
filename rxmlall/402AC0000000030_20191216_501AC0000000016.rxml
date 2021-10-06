@@ -1,0 +1,2289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="30" Year="02">
+  <LawNum>平成二年法律第三十号</LawNum>
+  <LawBody>
+    <LawTitle>工業所有権に関する手続等の特例に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　電子情報処理組織による手続等</ChapterTitle>
+        <ArticleRange>（第三条―第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　予納による納付、口座振替による納付及び指定立替納付者による納付</ChapterTitle>
+        <ArticleRange>（第十四条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　登録情報処理機関等</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　登録情報処理機関</SectionTitle>
+          <ArticleRange>（第十七条―第三十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　登録調査機関</SectionTitle>
+          <ArticleRange>（第三十六条―第三十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　特定登録調査機関</SectionTitle>
+          <ArticleRange>（第三十九条の二―第三十九条の十一）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第四十条・第四十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第四十二条―第四十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、電子情報処理組織の使用等により、<span>工業所有権{'当該': 1}</span>に関する手続の円滑な処理及び工業所有権に関する情報の利用の促進を図るため、特許法（昭和三十四年法律第百二十一号）、実用新案法（昭和三十四年法律第百二十三号）、意匠法（昭和三十四年法律第百二十五号）、商標法（昭和三十四年法律第百二十七号）及び<span>特許協力条約に基づく国際出願等に関する法律{'規定': 1}</span>（昭和五十三年<span>法律{'規定': 1}</span>第三十号。以下「<span>国際{'規定': 1}</span><span>出願{'登録': 1}</span>法」という。）の<span>特例{'経済産業省令': 1}</span>を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">この法律において「<span>電子{'規定': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>」とは、<span>特許庁{'当該': 1}</span>の<span>使用{'当該': 1}</span>に係る電子計算機（入出力装置を含む。以下同じ。）と、<span>特許出願{'当該': 1}</span>その他の工業所有権に関する手続（以下単に「手続」という。）をする者又はその者の代理人の使用に係る<span>電子計算機{'特例': 1}</span>とを電気通信回線で接続した電子情報処理組織をいう。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、第十三条第二項及び第三項においては、<span>特許庁{'当該': 1}</span>の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>と、同<span>条{'当該': 1}</span>第二項に<span>規定{'当該': 1}</span>する<span>情報{'当該': 1}</span>の提供を受けようとする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「特許等関係法令」とは、特許法、実用新案法、意匠法、商標法、国際出願法若しくはこの法律又はこれらの法律に基づく命令をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「審判長」、「審判官」、「審査官」又は「審判書記官」とは、それぞれ特許法（実用新案法、意匠法、商標法又は国際出願法において準用する場合を含む。）、<span>実用新案法{'準用': 1}</span>、意匠法（商標法において準用する場合を含む。）、商標法又は国際<span>出願{'登録': 1}</span>法に規定する審判長、審判官、審査官又は審判書記官をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　電子情報処理組織による手続等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（電子情報処理組織による特定手続）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>手続をする者は、経済産業大臣、特許庁長官、審判長又は審査官に対する特許等関係法令の規定による手続であって経済産業省令で<span>定める{'行わ': 1}</span>もの（以下「<span>特定{'当該': 1}</span><span>手続{'市町村': 1, '当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）については、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>行わ{'なっ': 1}</span>れた<span>特定{'当該': 1}</span><span>手続{'処分': 1, '主務大臣': 1}</span>は、<span>前条{'当該': 1}</span>第一項の<span>特許庁{'当該': 1}</span>の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>に<span>備え{'行わ': 1}</span>られた<span>ファイル{'当該': 1}</span>（第五条第三項並びに第十三条第二項及び第三項を<span>除き{'行わ': 1}</span>、以下<span>単に{'更に': 1}</span>「ファイル」という。）への記録がされた時に特許庁に<span>到達{'当該': 1}</span>したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定により行われた特定手続については、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>手続{'記載': 1, '当該': 1}</span>を<span>書面{'当該': 1}</span>の提出により行うものとして規定した<span>特許{'当該': 1}</span>等関係法令の規定に規定する書面の提出により行われたものとみなして、特許等関係法令の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（電子情報処理組織による特定処分等）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>経済産業大臣{'項': 1}</span>、特許庁長官、審判長、審判官、審査官又は審判書記官は、特許等関係法令の規定による処分若しくは判定又は審判に関する記録その他の特許等関係法令の規定により文書をもって<span>行う{'行わ': 1}</span>ものとされている<span>行為{'当該': 1}</span>であって<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>もの（以下「<span>特定{'当該': 1}</span><span>処分{'当該': 1}</span>等」と<span>いう{'受け': 1, '行わ': 1}</span>。）については、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>行わ{'なっ': 1}</span>れた<span>特定{'当該': 1}</span><span>処分{'当該': 1}</span>等については、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>処分{'当該': 1}</span>等を<span>文書{'当該': 1}</span>をもって行うものとして規定した<span>特許{'当該': 1}</span>等関係法令の規定に規定する文書をもって行われたものとみなして、特許等関係法令の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（電子情報処理組織による特定通知等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1"><span>経済産業大臣{'項': 1}</span>、特許庁長官、審判長又は審査官は、特許等関係法令の規定による通知又は<span>命令{'当該': 1}</span>であって<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>もの（以下「<span>特定{'当該': 1}</span><span>通知{'当該': 1}</span>等」と<span>いう{'行わ': 1}</span>。）については、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span>組織を使用して行うことができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<span>特許{'当該': 1}</span>等関係法令の規定によりその特定通知等を<span>書類{'当該': 1}</span>の<span>送達{'当該': 1}</span>により<span>行う{'行わ': 1}</span>ものとされている<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>通知{'当該': 1}</span>等の<span>相手方{'当該': 1}</span>が、送達を受ける旨の経済産業省令で定める<span>方式{'当該': 1}</span>による表示をしないときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項ただし書に規定する場合において、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>通知{'当該': 1}</span>等に関する<span>事務{'当該': 1}</span>を<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を使用して行うときは、当該事務は特許庁長官が指定する職員又は審判書記官が取り扱うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定により行われた特定通知等は、第二条第一項の<span>手続{'当該': 1}</span>をする者又はその者の<span>代理人{'第一種': 1, '当該': 1}</span>の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>（<span>特許庁{'当該': 1}</span>の<span>使用{'当該': 1}</span>に係るものを<span>除く{'行わ': 1}</span>。）に<span>備え{'行わ': 1}</span>られた<span>ファイル{'当該': 1}</span>への<span>記録{'当該': 1}</span>がされた時に<span>当該{'記録': 1}</span>特定通知等の相手方に<span>到達{'当該': 1}</span>したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定により行われた特定通知等については、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>通知{'当該': 1}</span>等を<span>手続{'当該': 1}</span>に係る書面の副本、処分に係る文書の<span>謄本{'当該': 1}</span>その他の書類の送達等（送達又は送付をいう。以下同じ。）により行うものとして規定した<span>特許{'改正': 1, '当該': 1}</span>等関係法令の規定に規定する書類の送達等により行われたものとみなして、特許等関係法令の<span>規定{'改正': 1}</span>を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二項に規定する特許庁長官が指定する職員又は審判書記官が特定通知等に関する事務を電子情報処理組織を使用して行ったときは、特許法第百九十条（実用新案法第五十五条第二項、意匠法第六十八条第五項又は商標法第七十七条第五項において準用する場合を含む。）において<span>準用{'規定': 1}</span>する<span>民事訴訟法{'特許法': 1}</span>（平成八年<span>法律{'当該': 1}</span>第百九号）第百九条の<span>規定{'当該': 1}</span>による<span>送達{'当該': 1}</span>に関する<span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>書面{'当該': 1}</span>の<span>作成{'当該': 1}</span>及び<span>提出{'当該': 1}</span>に<span>代え{'行わ': 1}</span>て、<span>当該{'主務大臣': 1}</span><span>事項{'当該': 1}</span>を<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（電子情報処理組織による特定手続の特例）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を使用して<span>特定{'方法': 1}</span>手続を行う者は、電気通信回線の故障その他の事由により当該特定<span>手続{'事業': 1}</span>を行うことができない場合において、<span>特許庁長官{'当該': 1}</span>が必要があると認めるときは、電子情報処理<span>組織{'当該': 1}</span>の使用に代えて、経済産業省令で定めるところにより、<span>磁気ディスク{'当該': 1}</span>（これに準ずる方法により一定の<span>事項{'情報': 1}</span>を確実に記録しておくことができる物を含む。以下同じ。）の提出によりその特定手続を<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>第三条{'当該': 1}</span>第三項の<span>規定{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>により行われた特定手続に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、第一項の規定により<span>特定{'法律': 1}</span>手続が磁気ディスクの提出により行われたときは、当該磁気ディスクに記録された事項を、経済産業省令で定めるところにより、<span>ファイル{'事項': 1}</span>に記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（書面の提出による手続等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特定手続のうち<span>特許出願{'当該': 1}</span>その他の経済産業省令で定めるもの（以下「<span>指定{'ほか': 1}</span>特定手続」という。）を書面の提出により行った者は、<span>特許庁長官{'当該': 1}</span>に対し、その手続に係る書面に記載された<span>事項{'当該': 1}</span>を磁気ディスクに記録すべきことを、当該手続をした日から経済産業省令で定める期間内に、経済産業省令で定めるところにより、<span>求め{'特許庁長官': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特許庁長官{'当該': 1}</span>は、指定特定手続が前項の規定による<span>方式{'当該': 1}</span>に違反しているとき又はその手続について第四十条第一項第一号の規定により<span>納付{'当該': 1}</span>すべき<span>手数料{'当該': 1}</span>を<span>納付{'当該': 1}</span>しないときは、相当の<span>期間{'額': 1}</span>を<span>指定{'当該': 1}</span>して、当該手続の補正をすべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、前項の規定により手続の補正をすべきことを命じた者が同項の規定により指定した期間内にその補正をしないときは、<span>当該{'手続': 1}</span>手続を<span>却下{'実施': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（書面に記載された事項のファイルへの記録等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、指定<span>特定{'当該': 2}</span><span>手続{'当該': 1}</span>その他経済産業大臣、<span>特許庁長官{'提出': 1}</span>、審判長又は<span>審査{'審判': 1}</span>官に対する手続であって経済産業省令で定めるもの（以下「指定特定手続等」と<span>いう{'行わ': 1}</span>。）が<span>書面{'当該': 1}</span>の<span>提出{'当該': 1}</span>により<span>行わ{'みなす': 1}</span>れたときは、<span>指定{'当該': 2}</span>特定手続にあっては前条第一項の<span>磁気ディスク{'規定': 1, '当該': 1}</span>に記録された事項を、それ以外の<span>指定{'規定': 1}</span>特定手続等に<span>あっ{'行わ': 1}</span>ては<span>当該{'主務大臣': 1}</span><span>書面{'当該': 1}</span>に<span>記載{'当該': 1}</span>された<span>事項{'当該': 1}</span>を、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>書面{'当該': 1}</span>の<span>提出{'当該': 1}</span>により<span>行わ{'みなす': 1}</span>れた<span>指定{'当該': 1}</span><span>特定{'当該': 1}</span><span>手続{'当該': 1}</span>等について<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>された<span>事項{'当該': 1}</span>は、<span>当該{'記載': 2, '主務大臣': 1}</span><span>書面{'事項': 1}</span>に記載された事項と同一であると推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、前項の<span>ファイル{'規定': 2}</span>に記録された事項が同項の書面に記載された事項と同一でないことを<span>知っ{'行わ': 1}</span>たときは、直ちに<span>当該{'主務大臣': 1}</span>ファイルに記録された事項を訂正しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>何人も、第二項のファイルに記録された<span>事項{'請求': 1}</span>が同<span>項{'記載': 1}</span>の書面に記載された事項と同一でないことを知ったときは、特許庁長官に対し、その旨を申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、特定処分等が<span>文書{'当該': 1}</span>をもって行われたときは、当該文書に<span>記載{'当該': 1}</span>された<span>事項{'当該': 1}</span>を、経済産業省令で定めるところにより、<span>ファイル{'事項': 1}</span>に記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（登録情報処理機関）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>特許庁長官{'当該': 1}</span>は、その登録を受けた者（以下「登録<span>情報処理{'検査': 1}</span>機関」と<span>いう{'行わ': 1}</span>。）に、第<span>六条{'当該': 1}</span>第三項若しくは<span>前条{'当該': 1}</span>第一項の規定によるファイルへの記録、第七条第一項の規定による<span>磁気ディスク{'当該': 1}</span>への記録又はこれらの記録に必要な情報の入力（入力のための準備作業を含む。）、編集若しくはこれらに類する処理（以下「情報処理業務」と<span>いう{'行わ': 1}</span>。）の全部又は一部を行わせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特許庁長官{'当該': 1}</span>は、前項の規定により登録<span>情報処理{'検査': 1, '当該': 1}</span>機関に情報処理<span>業務{'当該': 1}</span>を<span>行わ{'でき': 1}</span>せることとしたときは、<span>当該{'主務大臣': 1}</span><span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行わ{'含む': 1}</span>ないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の<span>規定{'当該': 1}</span>により、登録<span>情報処理{'検査': 1}</span>機関が第七条第一項の規定による<span>磁気ディスク{'当該': 1}</span>への記録を行う場合における同項の規定の適用については、同項中「<span>特許庁長官{'当該': 1}</span>に対し」とあるのは、「登録情報処理機関に対し」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（ファイルに記録されている事項を記載した書類の送達等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許庁長官、審判長又は審査官が手続に係る書面の<span>副本{'提出': 1}</span>又は処分に係る文書の<span>謄本{'当該': 1}</span>の送達等を行うものとして規定した特許等関係法令の規定の適用については、その手続又はその<span>処分{'当該': 1}</span>について<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>されている<span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>書類{'当該': 1}</span>は、<span>当該{'主務大臣': 1}</span><span>書面{'当該': 1}</span>の副本又は当該文書の<span>謄本{'提出': 1}</span>とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（ファイルに記録されている事項等の縦覧）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、経済産業省令で定めるところにより、商標法第十八条第四項（<span>同法{'法': 1}</span>第六十八条第三項において準用する場合を含む。）の規定により公衆の縦覧に供しなければならないものとされている書類に代えて、当該書類についてファイルに<span>記録{'当該': 1}</span>されている<span>事項{'当該': 1}</span>又は当該事項を記載した書類を公衆の縦覧に供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（ファイルに記録されている事項の閲覧等の請求）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">何人も、特許庁長官に対し、次に掲げる事項について、経済産業省令で定めるところにより<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して行う閲覧を請求することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、国際出願（国際出願法第二条に<span>規定{'国際': 1}</span>する国際出願をいう。以下同じ。）に係る<span>事項{'規定': 1}</span>については、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>ファイルに記録されている事項（<span>経済産業省令{'当該': 1}</span>で定める手続に係る事項に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>特許法第二十七条第一項の特許<span>原簿{'実用新案': 1}</span>、実用新案法第四十九条第一項の実用新案<span>原簿{'登録': 1}</span>、意匠法第六十一条第一項（<span>同法{'規定': 2}</span>第六十条の十九において読み替えて<span>適用{'準用': 1}</span>する場合を含む。）の<span>意匠{'商標登録': 1}</span>原簿又は商標法第七十一条第一項（<span>同法{'規定': 1}</span>第六十八条の二十七において読み替えて<span>適用{'準用': 1}</span>する場合を含む。）の<span>商標{'商標登録': 1, '当該': 1}</span>原簿のうち磁気テープ（これに準ずる方法により一定の事項を確実に記録しておくことができる物を含む。）をもって<span>調製{'前項': 1}</span>された部分に記録されている事項であって経済産業省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">何人も、特許庁長官に対し、ファイルに記録されている事項を<span>記載{'証明書': 1}</span>した書類の交付を請求することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、国際出願に係る<span>事項{'審査': 1}</span>については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許法第百八十六条第一項<span>ただし書{'施行規則': 1}</span>及び第二項（これらの規定を実用新案法第五十五条第一項において準用する場合を含む。）、意匠法第六十三条第一項ただし書及び第二項並びに商標法第七十二条第一項<span>ただし書{'施行規則': 1}</span>及び第二項の規定は、前二項の規定による閲覧又は書類の交付に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>ファイルについては、<span>行政機関の保有する情報の公開に関する法律{'当該': 1}</span>（平成十一年法律第四十二号）の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>ファイルに記録されている保有個人情報（<span>行政機関の保有する個人情報の保護に関する法律{'当該': 1}</span>（平成十五年法律第五十八号）第二条第五項に規定する保有個人情報を<span>いう{'みなし': 1}</span>。）については、同法第四章の規定は、<span>適用{'特許出願': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（磁気ディスク等による公報の発行）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許法第百九十三条の特許公報、実用新案法第五十三条の実用新案公報、<span>意匠法{'掲載': 1}</span>第六十六条の意匠公報又は商標法第七十五条の<span>商標{'公報': 1}</span>公報（以下この<span>条{'掲載': 1}</span>において「特許公報等」という。）は、経済産業省令で定めるところにより、磁気ディスクをもって発行することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許公報等の発行は、特許公報等に掲載すべき事項であって特許庁の使用に係る電子計算機に備えられた<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>された<span>情報{'当該': 1}</span>を、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して<span>送信{'方法': 1, '当該': 1}</span>し、これを<span>当該{'主務大臣': 1}</span><span>情報{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>受けよ{'受ける': 1, '行わ': 1}</span>うとする者の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>に<span>備え{'行わ': 1}</span>られた<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>する方法によりすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項に規定する方法による特許公報等の発行は、特許公報等に掲載すべき事項を特許庁の使用に係る電子計算機に備えられた<span>ファイル{'当該': 1}</span>に<span>入力{'当該': 1}</span>し、<span>当該{'主務大臣': 1}</span><span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>された<span>情報{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>受けよ{'受ける': 1, '行わ': 1}</span>うとする者の<span>求め{'当該': 1}</span>に<span>応じ{'行わ': 1}</span>てその<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>に<span>特許庁{'経済産業大臣': 1}</span>の使用に係る電子計算機から送信し得る状態となった時に行われたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　予納による納付、口座振替による納付及び指定立替納付者による納付</ChapterTitle>
+        <Article Num="14">
+          <ArticleCaption>（見込額の予納）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許法第百七条第一項の特許料若しくは同法第百十二条第二項の<span>割増{'規定': 1}</span>特許料その他工業所有権に関する登録料若しくは割増登録料（以下「特許料等」という。）又は第四十条第一項、特許法第百九十五条第一項から第三項まで、実用新案法第五十四条第一項若しくは第二項、意匠法第六十七条第一項若しくは第二項、商標法第七十六条第一項若しくは第二項若しくは国際出願法第八条第四項、第十二条第三項若しくは第十八条第一項若しくは第二項の<span>手数料{'規定': 1}</span>（<span>経済産業省令{'政令': 1}</span>で定める手続について納付すべきものに限る。以下この<span>章{'当該': 1}</span>において同じ。）を納付しようとする者は、経済産業省令で定めるところによりあらかじめ特許庁長官に届け出た場合に限り、納付すべき当該特許料等又は手数料の見込額（以下単に「見込額」という。）を予納することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">前項の規定による予納は、経済産業省令で定めるところにより、特許印紙をもってしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、経済産業省令で定める場合には、経済産業省令で定めるところにより、現金をもって納めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による届出（以下「予納届」という。）をした者が同項の規定による予納又は次条第一項若しくは第二項の規定による申出をしない期間が継続して四年に達したときは、当該予納届は、その効力を<span>失う{'生ずる': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>予納届をした者について相続又は合併があった場合におけるその者のこの章の規定による地位の承継については、第四十一条第二項において準用する<span>特許法{'当該': 1}</span>第二十条の規定にかかわらず、政令で定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（見込額からの納付等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">特許庁長官は、前条第一項の規定により予納をした者（以下「予納者」という。）が、特許料等又は<span>手数料{'登録': 1}</span>の納付に際し経済産業省令で定めるところにより申出をしたときは、その予納者が予納した見込額（この項の規定による特許料等若しくは手数料の納付に充てた額の控除又は次項の規定による<span>返還{'当該': 1}</span>すべき額に相当する<span>金額{'当該': 1}</span>の加算があったときは、<span>当該{'主務大臣': 1}</span><span>控除{'当該': 1}</span>又は加算をした後の額。以下この条において同じ。）から<span>当該{'規定': 1}</span><span>特許{'当該': 1}</span>料等又は手数料の額に相当する<span>金額{'額': 1}</span>を<span>控除{'額': 1}</span>し、当該金額を当該<span>特許{'当該': 1}</span>料等又は<span>手数料{'登録': 1}</span>の納付に充てる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該予納者のした予納届がその効力を失った後は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許庁長官は、前項の規定により<span>特許{'当該': 1}</span>料等又は手数料の納付をした者（以下「納付者」という。）が、特許等<span>関係{'納付': 1}</span>法令の規定による当該特許料等又は手数料の返還の請求に際し、経済産業省令で定めるところにより申出をしたときは、その納付者が予納した見込額に、返還すべき額に相当する金額を加算することを<span>もっ{'あっ': 1}</span>て当該返還に代えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>予納者が予納した見込額に残余があるときは、その残余の額は、当該予納者の請求により返還する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による残余の額の返還は、特許庁長官から当該予納者のした予納届がその効力を失った旨の通知を受けた日から六月を経過した後は、請求することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15_2">
+          <ArticleCaption>（口座振替による納付）</ArticleCaption>
+          <ArticleTitle>第十五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許料等又は手数料を現金をもって納めることができる場合において、特許庁長官は、当該特許料等又は手数料を納付しようとする者から、預金又は貯金の払出しとその払い出した金銭による納付をその預金口座又は貯金口座のある金融機関に委託して<span>行う{'行わ': 1}</span>こと（次項及び第十六条において「口座振替による納付」という。）を希望する旨の申出（電子情報処理組織を使用して行うものに<span>限る{'行わ': 1}</span>。）があった場合には、その申出を受けることが特許料等又は手数料の収納上有利と認められるときに限り、その申出を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項に定めるもののほか、<span>口座振替{'申出': 1, '当該': 1}</span>による納付の<span>手続{'申請': 1}</span>その他必要な事項は、経済産業省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15_3">
+          <ArticleCaption>（指定立替納付者による納付）</ArticleCaption>
+          <ArticleTitle>第十五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>特許{'当該': 1}</span>料等又は手数料を現金をもって納めることができる場合において、<span>特許庁長官{'当該': 1}</span>は、当該特許料等又は手数料を納付しようとする者から、<span>当該{'前条': 1}</span>特許料等又は手数料を立て替えて納付する事務を適正かつ確実に<span>遂行{'実施': 1}</span>するに足りる財産的基礎を有することその他の経済産業省令で定める要件に該当する者として特許庁長官が指定するもの（次項及び次条において「指定立替納付者」という。）をして当該特許料等又は手数料を立て替えて納付させることを希望する旨の申出（電子情報処理組織を使用して<span>行う{'行わ': 1}</span>ものに<span>限る{'行わ': 1}</span>。）があった場合には、その申出を受けることが特許料等又は手数料の収納上有利と認められるときに限り、その申出を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項に定めるもののほか、指定<span>立替{'当該': 1}</span>納付者による納付の手続その他必要な事項は、経済産業省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（代理人への準用）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第十四条から前条までの規定は、<span>特許{'当該': 1}</span>料等又は<span>手数料{'登録': 1}</span>の納付をする者の委任による代理をしようとする者がその委任事務を処理するために自己の名においてする予納、口座振替による納付又は指定立替納付者による納付に準用する。</Sentence>
+              <Sentence Num="2">この場合において、第十五条第一項中「予納を<span>した{'当該': 1}</span>者」とあるのは「予納をした代理人であって本人のために特許料等又は手数料の<span>納付{'当該': 1}</span>をする者」と、同条第二項中「<span>納付{'規定': 1}</span>をした者（以下「納付者」と<span>いう{'行わ': 1}</span>。）が」と<span>ある{'行わ': 1}</span>のは「納付をした者（以下「納付者」という。）が<span>本人{'納付': 1, '当該': 1}</span>のために特許料等<span>又は{'及び': 1}</span>手数料の納付をした代理人である場合において、本人が」と、第十五条の二第一項及び<span>前条{'規定': 1}</span>第一項中「<span>当該{'規定': 1}</span><span>特許{'株式': 1}</span>料等又は<span>手数料{'登録': 1}</span>を納付しようとする者から」とあるのは「<span>代理人{'場合': 1}</span>であって本人のために当該特許料等又は手数料を納付しようとする者から」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　登録情報処理機関等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　登録情報処理機関</SectionTitle>
+          <Article Num="17">
+            <ArticleCaption>（登録）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第九条第一項の<span>登録{'当該': 1}</span>は、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行お{'行わ': 1}</span>うとする者の<span>申請{'当該': 1}</span>により<span>行う{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>次{'当該': 1}</span>の各号のいずれかに<span>該当{'当該': 1}</span>する者は、第九条第一項の登録を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>特許{'当該': 1}</span>等関係法令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過<span>しない{'前項': 1}</span>者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十条の規定により<span>登録{'認定': 1, '当該': 1}</span>を<span>取り消さ{'行わ': 1}</span>れ、その<span>取消し{'当該': 1}</span>の日から二年を<span>経過{'当該': 1}</span><span>しない{'役員': 1, '当該': 1}</span>者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>法人{'当該': 1}</span>であって、その<span>業務{'当該': 1}</span>を行う役員のうちに前二号のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（登録の基準）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>特許庁長官{'文部科学大臣': 1}</span>は、第十七条の規定により登録の申請をした者（以下この条において「<span>情報処理{'規定': 2, '当該': 1}</span><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span><span>申請{'当該': 1}</span>者」という。）が次に掲げる<span>要件{'事項': 1}</span>の<span>すべて{'当該': 1}</span>に適合しているときは、その登録をしなければならない。</Sentence>
+                <Sentence Num="2">この場合において、登録に関して必要な<span>手続{'事項': 1, '当該': 1}</span>は、<span>経済産業省令{'文部科学省令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>電子計算機{'当該': 1}</span>及び情報処理業務に必要なプログラム（電子計算機に対する指令であって、一の結果を得ることができるように組み合わされたものをいう。第三十七条第一項第二号において同じ。）を有すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>情報処理機関登録<span>申請{'当該': 1}</span>者が、<span>特定{'当該': 1}</span>の者に<span>支配{'当該': 1}</span>されているもの<span>として{'とともに': 1}</span><span>次{'当該': 1}</span>のいずれかに<span>該当{'当該': 1}</span>するものでないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>情報処理{'当該': 1}</span>機関登録<span>申請{'当該': 1}</span>者が他の株式会社の子会社（当該他の<span>株式会社{'会社': 1}</span>がその総株主（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株主を除き、会社法（平成十七年法律第八十六号）第八百七十九条第三項の<span>規定{'株主': 1}</span>により議決権を有するものとみなされる株主を含む。）の議決権の過半数を有する株式会社をいう。第三十七条第一項第三号イにおいて同じ。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>情報処理機関登録申請者の役員（持分会社（会社法第五百七十五条第一項に規定する<span>持分会社{'適用': 1}</span>をいう。第三十七条第一項第三号ロにおいて同じ。）にあっては、業務を執行する社員）に<span>占める{'いう': 1}</span>同一の者の役員又は職員（<span>過去{'当該': 1}</span>二年間にその同一の者の役員又は職員であった者を含む。）の割合が二分の一を超えていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第九条第一項の登録は、<span>情報処理{'当該': 1}</span><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span>簿に次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span><span>年月日{'番号': 2, '当該': 1}</span>及び<span>登録{'当該': 1}</span><span>番号{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者の<span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>及び<span>住所{'当該': 1}</span>並びに<span>法人{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、その<span>代表{'当該': 1}</span>者の<span>氏名{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者が<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>事業{'中小企業者': 1, '当該': 1}</span>所の<span>名称{'当該': 1}</span>及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="19_2">
+            <ArticleCaption>（登録の更新）</ArticleCaption>
+            <ArticleTitle>第十九条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第九条第一項の登録は、<span>三年{'申請': 1}</span>を下らない<span>政令{'経済産業省令': 1}</span>で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前三条の規定は、前項の登録の更新に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（情報処理業務の実施義務）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録情報処理機関は、特許庁長官から情報処理業務を行うべきことを求められたときは、正当な<span>理由{'当該': 1}</span>が<span>ある{'行わ': 1}</span><span>場合{'当該': 1}</span>を<span>除き{'行わ': 1}</span>、<span>遅滞{'当該': 1}</span>なく、その<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行わ{'なっ': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（変更の届出）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>登録{'当該': 1}</span><span>情報処理{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>は、その<span>名称{'当該': 1}</span>又は<span>情報処理{'当該': 1}</span><span>業務{'支援': 1, '当該': 1}</span>を<span>行う{'行わ': 1}</span><span>事務所{'当該': 1}</span>の所在地を変更しようとするときは、変更しようとする日の二週間前までに、<span>特許庁長官{'当該': 1}</span>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（業務規程）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">登録情報処理機関は、情報処理業務に関する<span>規程{'当該': 1}</span>（以下「業務<span>規程{'当該': 1}</span>」という。）を定め、<span>特許庁長官{'経済産業大臣': 1, '文部科学大臣': 1}</span>の<span>認可{'申請': 1}</span>を受けなければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>業務<span>規程{'予算': 1}</span>で定めるべき事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'経済産業大臣': 1}</span>は、第一項の認可をした業務規程が情報処理業務の公正な遂行上不適当となったと認めるときは、登録情報処理機関に対し、業務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（業務の休廃止）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録情報処理機関は、特許庁長官の許可を受けなければ、情報処理<span>業務{'事務': 1}</span>の全部又は一部を<span>休止{'主務大臣': 1}</span>し、又は廃止してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（財務諸表等の備置き及び閲覧等）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録情報処理機関は、毎事業年度経過後三月以内に、その事業年度の財産目録、貸借対照表及び損益計算書<span>又は{'並びに': 1}</span>収支計算書並びに<span>事業報告書{'規定': 1}</span>（これらのものが電磁的記録（電子的方式、磁気的方式その他の<span>人{'他人': 2}</span>の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この条において同じ。）で作成され、又はその作成に<span>代え{'行わ': 1}</span>て<span>電磁的記録{'当該': 1}</span>の<span>作成{'当該': 1}</span>がされている<span>場合{'当該': 1}</span>における<span>当該{'主務大臣': 1}</span>電磁的記録を含む。次項及び第四十五条において「財務諸表等」という。）を作成し、五年間事業所に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">指定特定手続等を行った者その他の利害関係人は、登録情報処理機関の業務時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、第二号又は第四号の<span>請求{'当該': 1}</span>をするには、<span>登録{'当該': 1}</span><span>情報処理{'検査': 1}</span>機関の定めた費用を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>財務諸表等が書面をもって作成されているときは、当該書面の<span>閲覧{'提出': 1}</span>又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前号の書面の謄本又は抄本の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を<span>経済産業省令{'文部科学省令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span>方法により<span>表示{'第一': 1}</span>したものの閲覧又は<span>謄写{'当該': 1}</span>の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前号の電磁的記録に記録された事項を<span>電磁{'当該': 1}</span>的<span>方法{'当該': 1}</span>であって<span>経済産業省令{'次': 1, '提供': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span>ものにより<span>提供{'当該': 1}</span>することの<span>請求{'当該': 1}</span>又は<span>当該{'主務大臣': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>書面{'当該': 1}</span>の<span>交付{'提供': 1, '当該': 1}</span>の<span>請求{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（役員の選任及び解任）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>登録{'当該': 1}</span><span>情報処理{'検査': 1, '当該': 1}</span>機関は、役員を選任し、又は解任したときは、遅滞なく、その旨を<span>特許庁長官{'文部科学大臣': 1}</span>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（秘密保持義務等）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録情報処理機関の役員<span>若しくは{'又は': 1}</span>職員又はこれらの職にあった者は、情報処理業務に関して知り得た秘密を漏らし、又は盗用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>情報処理業務に従事する登録情報処理機関の役員又は職員は、<span>刑法{'当該': 1}</span>（明治四十年法律第四十五号）その他の<span>罰則{'規定': 1}</span>の適用については、法令により公務に従事する職員とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（報告及び立入検査）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'文部科学大臣': 1}</span>は、この法律の施行に<span>必要{'前': 1}</span>な限度において、登録情報処理機関に対し、その業務若しくは<span>経理{'当該': 1}</span>の状況に関し報告をさせ、又はその職員に、登録<span>情報処理{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>の<span>事務所{'当該': 1}</span>に<span>立ち入り{'行わ': 1}</span>、<span>業務{'当該': 1}</span>の<span>状況{'当該': 1}</span>若しくは<span>帳簿{'当該': 1}</span>、<span>書類{'当該': 1}</span>その他の物件を<span>検査{'提出': 1}</span>させ、<span>若しくは{'又は': 1}</span>関係者に質問させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により<span>職員{'立入検査': 1}</span>が立ち入るときは、その身分を示す証明書を携帯し、関係者に<span>提示{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項に<span>規定{'当該': 1}</span>する<span>立入検査{'当該': 1}</span>の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（適合命令）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、登録<span>情報処理{'検査': 1}</span>機関が第十九条第一項各号に<span>適合{'当該': 1}</span>しなく<span>なっ{'行わ': 1}</span>たと<span>認める{'行わ': 1}</span>ときは、その<span>登録{'当該': 1}</span><span>情報処理{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>に対し、これらの<span>規定{'当該': 1}</span>に<span>適合{'当該': 1}</span>するため必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'当該': 1}</span>は、登録<span>情報処理{'検査': 1}</span>機関が第二十条の規定に違反していると認めるとき、その他情報処理業務の<span>適正{'当該': 1}</span>な実施を確保するため必要があると認めるときは、その<span>登録{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>機関{'当該': 1}</span>に対し、<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行う{'行わ': 1}</span>べきこと又は<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>の<span>実施{'当該': 1}</span>の<span>方法{'当該': 1}</span>その他の<span>業務{'当該': 1}</span>の<span>方法{'当該': 1}</span>の<span>改善{'当該': 1}</span>に関し必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'当該': 1}</span>は、<span>登録{'当該': 1}</span><span>情報処理{'検査': 1}</span>機関が次の各号のいずれかに該当するときは、その登録を<span>取り消し{'行わ': 1}</span>、又は<span>期間{'当該': 1}</span>を<span>定め{'当該': 1}</span>て<span>情報処理{'情報処理安全確保支援士': 1, '当該': 1}</span>業務の全部<span>若しくは{'又は': 2}</span>一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>この<span>節{'前項': 1}</span>の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十八条第一号又は第三号に該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十二条第一項の認可を受けた業務規程によらないで情報処理業務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十二条第三項又は前二条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>不正の手段により登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（帳簿の記載）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録<span>情報処理{'検査': 1}</span>機関は、<span>帳簿{'当該': 1}</span>を<span>備え{'行わ': 1}</span>、<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>に関し<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'当該': 1}</span>の<span>帳簿{'当該': 1}</span>は、<span>経済産業省令{'当該': 1}</span>で定めるところにより、保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（聴聞の方法の特例）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第三十条の規定による処分に係る聴聞の期日における審理は、公開により行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の聴聞の主宰者は、行政手続法（平成五年法律第八十八号）第十七条第一項の規定により当該処分に係る<span>利害関係{'受け': 1}</span>人が当該聴聞に関する手続に参加することを求めたときは、これを許可しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（特許庁長官による情報処理業務）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、登録情報処理機関が第二十三条の許可を受けて情報処理業務の全部<span>若しくは{'又は': 1}</span>一部を<span>休止{'当該': 1}</span>したとき、第三十条の規定により登録<span>情報処理{'検査': 1}</span>機関に対し情報処理業務の全部<span>若しくは{'又は': 1}</span><span>一部{'当該': 1}</span>の停止を<span>命じ{'命ずる': 1}</span>たとき、又は登録情報処理機関が天災その他の事由により情報処理業務の全部<span>若しくは{'又は': 1}</span>一部を<span>実施{'当該': 1}</span>することが<span>困難{'当該': 1}</span>と<span>なっ{'行わ': 1}</span>た<span>場合{'当該': 1}</span>において<span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>情報処理{'検査': 1, '当該': 1}</span><span>業務{'当該': 1}</span>の<span>全部{'当該': 1}</span>又は一部を自ら行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'経済産業大臣': 1, '場合': 1, '当該': 1}</span>が前項の規定により情報処理業務の全部<span>若しくは{'又は': 2}</span><span>一部{'当該': 1}</span>を<span>自ら{'当該': 1}</span><span>行う{'行わ': 1}</span>場合、登録情報処理機関が第二十三条の<span>許可{'当該': 1}</span>を受けて情報処理業務の全部若しくは<span>一部{'主務大臣': 1}</span>を廃止する場合<span>又は{'若しくは': 1}</span>第三十条の規定により<span>特許庁長官{'当該': 1}</span>が登録情報処理機関の登録を<span>取り消し{'受け': 1}</span>た場合における情報処理業務の<span>引継ぎ{'行わ': 1}</span>その他の必要な事項については、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（公示）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、次の場合には、その旨を官報に公示しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第九条第一項の登録をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十一条の規定による届出があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第二十三条の<span>許可{'当該': 1}</span>をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十条の規定により登録を取り消し、又は情報処理業務の全部<span>若しくは{'又は': 2}</span>一部の停止を<span>命じ{'命ずる': 1}</span>たとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>前条{'前項': 1}</span>第一項の規定により特許庁長官が情報処理業務の全部若しくは一部を<span>自ら{'当該': 1}</span><span>行う{'行わ': 1}</span>こととするとき、又は<span>自ら{'当該': 1}</span><span>行っ{'行わ': 1}</span>ていた<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>の全部若しくは一部を行わないこととするとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この<span>節{'当該': 1}</span>に規定するもののほか、登録<span>情報処理{'検査': 1}</span><span>機関{'業務': 1}</span>の<span>行う{'行わ': 1}</span><span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　登録調査機関</SectionTitle>
+          <Article Num="36">
+            <ArticleCaption>（登録調査機関の登録等）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'当該': 1}</span>は、その登録を受けた者（以下「登録<span>調査{'検査': 1}</span>機関」と<span>いう{'行わ': 1}</span>。）に、特許出願の審査に必要な調査のうちその特許出願に係る発明と同一の技術の分野に属する発明又は考案に関するものであって<span>政令{'法律': 1}</span>で定めるもの及び出願<span>公開{'特定': 1}</span>の際に必要な調査のうち願書に添付した要約書の記載が特許法第三十六条第七項の規定に適合しているかどうかについてのもの（以下「調査業務」という。）を<span>行わ{'なっ': 1}</span>せることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'法': 1, '当該': 1}</span>の<span>登録{'規定': 1, '当該': 1}</span>は、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>区分{'当該': 1}</span>ごとに、<span>調査{'当該': 1}</span>業務を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（登録の基準）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>特許庁長官{'当該': 1}</span>は、<span>前条{'前項': 2}</span>第二項の規定により登録の申請をした者（以下この<span>条{'認定': 1, '当該': 1}</span>において「<span>調査{'規定': 2, '情報処理': 1, '当該': 1}</span><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span><span>申請{'当該': 1}</span>者」と<span>いう{'行わ': 1}</span>。）が<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span><span>要件{'当該': 1}</span>の<span>全て{'当該': 1}</span>に<span>適合{'当該': 1}</span>しているときは、その<span>登録{'当該': 1}</span>をしなければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、<span>登録{'当該': 1}</span>に関して<span>必要{'当該': 1}</span>な<span>手続{'当該': 1}</span>は、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>次{'当該': 1}</span>のいずれかに<span>該当{'試験': 1}</span>する者が調査業務を実施し、その人数が前条第二項の<span>区分{'規定': 1}</span>ごとに十名以上であること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>学校教育法（昭和二十二年法律第二十六号）に基づく大学（短期大学を除く。）又は旧大学令（大正七年勅令第三百八十八号）に基づく大学を卒業した者であって、科学技術に関する事務（研究を含む。ロにおいて同じ。）に通算して四年以上従事した経験を有し、かつ、独立行政法人工業所有権情報・研修館が行う研修を修了したもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>学校教育法に基づく短期大学（同法に基づく専門職大学の前期課程を含む。）若しくは高等専門学校又は旧専門学校令（明治三十六年勅令第六十一号）に基づく専門学校を卒業した者（同法に基づく専門職大学の前期課程にあっては、修了した者）であって、科学技術に関する事務に通算して六年以上従事した経験を<span>有し{'有する': 1}</span>、かつ、イの研修を修了したもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>イ及びロに掲げる者と同等以上の知識及び経験を有する者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>電子計算機及び調査業務に必要な<span>プログラム{'事項': 1, '当該': 1}</span>を有すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>調査機関登録申請者が、<span>特定{'当該': 1}</span>の者に<span>支配{'業務': 1, '当該': 1}</span>されているもの<span>として{'とともに': 1}</span><span>次{'当該': 1}</span>のいずれかに<span>該当{'当該': 1}</span>するものでないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence><span>調査{'当該': 1}</span>機関登録<span>申請{'当該': 1}</span>者が他の<span>株式会社{'当該': 1}</span>の<span>子会社{'国際': 1}</span>であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>調査機関登録申請者の役員（持分会社にあっては、業務を執行する社員）に占める同一の者の役員又は職員（<span>過去{'当該': 1}</span>二年間にその同一の者の役員又は職員であった者を含む。）の割合が二分の一を超えていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第二項の登録は、<span>調査{'当該': 1}</span><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span>簿に<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span><span>年月日{'番号': 2, '当該': 1}</span>及び<span>登録{'当該': 1}</span><span>番号{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者の<span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>及び<span>住所{'当該': 1}</span>並びに<span>法人{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、その<span>代表{'当該': 1}</span>者の<span>氏名{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'支援': 1, '当該': 1}</span>を<span>受け{'行わ': 1}</span>た者が<span>調査{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>区分{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者が<span>調査{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>事業{'当該': 1}</span>所の<span>名称{'当該': 1}</span>及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（調査業務の実施義務等）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録調査機関は、<span>特許庁長官{'当該': 1}</span>から調査業務を行うべきことを求められたときは、正当な<span>理由{'当該': 1}</span>が<span>ある{'行わ': 1}</span><span>場合{'当該': 1}</span>を<span>除き{'行わ': 1}</span>、<span>遅滞{'当該': 1}</span>なく、その<span>調査{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行わ{'なっ': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span>は、<span>調査{'当該': 1}</span><span>業務{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ときは、<span>前条{'当該': 1}</span><span>第一{'当該': 1}</span>項第一号に<span>規定{'当該': 1}</span>する者（以下「<span>調査{'当該': 1}</span>業務実施者」という。）に実施させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（準用）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">第十八条、第十<span>九条{'当該': 1}</span>の二、第二十一条から第三十二条まで、第三十四条（第五号を除く。）及び第三十五条の規定は、登録調査機関に準用する。</Sentence>
+                <Sentence Num="2">この<span>場合{'規定': 1}</span>において、第十八条中「特許等関係法令」とあるのは「特許法、実用新案法若しくはこの法律又はこれらの法律に基づく命令」と、第十<span>九条{'当該': 1}</span>の二第二項中「前三条」とあるのは「第三十六条第二項、第三十七条及び第三十九条において準用する第十八条」と、第二十一条、第二十二条第一項及び第三項、第二十三条、第二十六条、第二十九条、第三十条、第三十一条第一項、第三十四条並びに第三十五条中「<span>情報処理{'附帯': 1, '当該': 1}</span><span>業務{'当該': 1}</span>」と<span>ある{'行わ': 1}</span>のは「<span>調査{'当該': 1}</span><span>業務{'当該': 1}</span>」と、第二十四条第二項中「<span>指定{'当該': 1}</span>特定手続等を行った者」とあるのは「<span>特許出願{'当該': 1}</span>人」と、第二十五条中「役員」とあるのは「役員又は調査業務実施者」と、第二十八条中「第十<span>九条{'役員': 1, '当該': 1}</span>第一項各号」とあるのは「第三十七条第一項各号」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　特定登録調査機関</SectionTitle>
+          <Article Num="39_2">
+            <ArticleCaption>（先行技術調査業務）</ArticleCaption>
+            <ArticleTitle>第三十九条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>登録調査機関は、特許庁長官から特に登録を受けて、特許出願人その他の者の求めに応じ、特許出願に係る発明と同一の技術の分野に属する<span>発明{'事業': 1}</span>又は考案に関する調査であって政令で定めるものを行い、その結果を経済産業省令で定めるところにより記載した調査報告をその者に交付する業務（以下「先行技術調査業務」という。）を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_3">
+            <ArticleCaption>（手数料の特例）</ArticleCaption>
+            <ArticleTitle>第三十九条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、<span>特許出願{'国際': 1}</span>について出願審査の請求をする者が、前条の登録を受けた者（以下「<span>特定{'当該': 1}</span><span>登録{'当該': 1}</span><span>調査{'当該': 1}</span>機関」という。）が交付する同条の<span>調査報告{'当該': 1}</span>を提示してその<span>請求{'特許法': 1}</span>をしたときは、<span>政令{'経済産業省令': 1}</span>で定めるところにより、特許法第百九十五条第二項の規定により納付すべき出願審査の請求の手数料を軽減することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_4">
+            <ArticleCaption>（登録）</ArticleCaption>
+            <ArticleTitle>第三十九条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第三十九条の二の登録は、経済産業省令で定めるところにより、経済産業省令で定める区分ごとに、<span>先行{'情報通信': 1, '当該': 1}</span>技術調査業務を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_5">
+            <ArticleCaption>（登録の基準）</ArticleCaption>
+            <ArticleTitle>第三十九条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>特許庁長官{'当該': 1}</span>は、<span>前条{'前項': 2}</span>の規定により登録の申請をした者がその申請に係る<span>区分{'当該': 1}</span>について<span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span>の<span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>ている者であるときは、第三十九条の二の<span>登録{'当該': 1}</span>をしなければならない。</Sentence>
+                <Sentence Num="2">この<span>場合{'当該': 1}</span>において、同<span>条{'当該': 1}</span>の<span>登録{'当該': 1}</span>に関して<span>必要{'当該': 1}</span>な<span>手続{'事項': 2, '当該': 1}</span>は、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三十九条の二の<span>登録{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span><span>登録{'当該': 1}</span>簿に次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span><span>年月日{'番号': 2, '当該': 1}</span>及び<span>登録{'当該': 1}</span><span>番号{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>登録{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た者の<span>氏名{'当該': 1}</span>又は<span>名称{'当該': 1}</span>及び<span>住所{'当該': 1}</span>並びに<span>法人{'当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>登録を受けた者が<span>先行{'当該': 1}</span>技術調査業務を行う区分</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>登録を受けた者が<span>先行{'当該': 1}</span>技術調査業務を行う事業所の<span>名称{'当該': 1}</span>及び<span>所在地{'当該': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="39_6">
+            <ArticleCaption>（先行技術調査業務の実施義務等）</ArticleCaption>
+            <ArticleTitle>第三十九条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特定登録調査機関は、<span>先行{'当該': 1}</span>技術調査業務を行うべきことを求められたときは、<span>正当{'該当': 1, '当該': 1}</span>な<span>理由{'当該': 1}</span>が<span>ある{'行わ': 1}</span>場合を除き、遅滞なく、その<span>先行{'当該': 1}</span>技術調査業務を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>特定登録<span>調査{'検査': 1}</span>機関は、<span>先行{'当該': 1}</span>技術調査<span>業務{'当該': 1}</span>を行うときは、調査業務<span>実施{'当該': 1}</span>者に<span>実施{'当該': 1}</span>させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_7">
+            <ArticleCaption>（先行技術調査業務規程）</ArticleCaption>
+            <ArticleTitle>第三十九条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">特定登録調査機関は、<span>先行{'当該': 1}</span>技術調査業務に関する規程（以下「先行技術調査業務<span>規程{'出願': 1}</span>」という。）を定め、<span>先行{'基盤': 1}</span>技術調査業務の開始前に、特許庁長官に届け出なければならない。</Sentence>
+                <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>先行{'基盤': 1}</span>技術調査業務規程で定めるべき事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_8">
+            <ArticleCaption>（業務の休廃止の届出）</ArticleCaption>
+            <ArticleTitle>第三十九条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特定登録調査機関は、先行技術調査業務の全部若しくは一部を<span>休止{'当該': 1}</span>し、又は廃止しようとするときは、<span>経済産業省令{'政令': 1}</span>で定めるところにより、あらかじめ、その旨を<span>特許庁長官{'経済産業大臣': 1}</span>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39_9">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第三十九条の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、特定登録調査機関が第三十九条の二の登録を<span>受け{'行わ': 1}</span>た<span>区分{'当該': 1}</span>について第三十九条において<span>準用{'当該': 1}</span>する第三十条の<span>規定{'当該': 1}</span>により<span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span>の登録を取り消されたときは、その第三十九条の二の登録を<span>取り消さ{'いう': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>特許庁長官{'当該': 1}</span>は、特定登録調査機関が次の各号のいずれかに<span>該当{'当該': 1}</span>するときは、その第三十九条の二の<span>登録{'当該': 1}</span>を取り消し、又は期間を定めて<span>先行{'当該': 1}</span>技術調査業務の全部<span>若しくは{'又は': 1}</span>一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>この<span>節{'前項': 1}</span>の<span>規定{'当該': 1}</span>に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十九条の十一において準用する第十八条第三号に該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十九条の十一において準用する第二十九条の<span>規定{'場合': 1}</span>による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>不正の手段により第三十九条の二の登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="39_10">
+            <ArticleCaption>（公示）</ArticleCaption>
+            <ArticleTitle>第三十九条の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>特許庁長官は、<span>次{'提出': 1}</span>の<span>場合{'該当': 1}</span>には、その旨を官報に公示しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十九条の二の登録をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三十九条の八の規定又は<span>次{'当該': 1}</span>条において<span>準用{'当該': 1}</span>する第二十一条の<span>規定{'場合': 1, '当該': 1}</span>による<span>届出{'場合': 1, '当該': 1}</span>が<span>あっ{'行わ': 1}</span>たとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence><span>前条{'当該': 1}</span>第一項若しくは第二項の<span>規定{'当該': 1}</span>により第三十九条の二の<span>登録{'当該': 1}</span>を取り消し、又は同項の規定により<span>先行{'当該': 1}</span>技術<span>調査{'利用': 1}</span>業務の全部若しくは一部の停止を命じたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="39_11">
+            <ArticleCaption>（準用）</ArticleCaption>
+            <ArticleTitle>第三十九条の十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">第十八条（第一号を除く。）、第十九条の二、第二十一条、第二十七条、第二十九条、第三十一条、第三十二条及び第三十五条の規定は、特定<span>登録{'国際': 1}</span><span>調査{'検査': 1}</span>機関について準用する。</Sentence>
+                <Sentence Num="2">この場合において、第十八条第三号中「前二号のいずれか」とあるのは「前号」と、第十九条の二第二項中「前三条」とあるのは「第三十九条の四、第三十九条の五及び第三十九条の十一において準用する第十八条（第一号を除く。）」と、第二十<span>一条{'当該': 1}</span>、第二十九条、第三十一条第一項及び第三十五条中「<span>情報処理{'規定': 1}</span>業務」とあるのは「<span>先行{'当該': 1}</span>技術調査業務」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="40">
+          <ArticleCaption>（手数料）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次に<span>掲げる{'行わ': 1}</span>者は、<span>政令{'当該': 1}</span>で定める場合を除くほか、<span>実費{'当該': 1}</span>を勘案して政令で定める額の手数料を納付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第七条第一項の規定により<span>磁気ディスク{'規定': 1, '当該': 1}</span>への記録を求める者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十二条第一項の<span>規定{'場合': 1}</span>により同項第一号に掲げる<span>事項{'主務大臣': 1}</span>について<span>閲覧{'当該': 1}</span>を<span>請求{'当該': 1}</span>する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十二条第一項の<span>規定{'当該': 1}</span>により同<span>項{'当該': 1}</span>第二号に<span>掲げる{'行わ': 1}</span><span>事項{'主務大臣': 1}</span>について<span>閲覧{'当該': 1}</span>を<span>請求{'当該': 1}</span>する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十二条第二項の<span>規定{'電子': 1, '当該': 1}</span>により<span>書類{'当該': 1}</span>の<span>交付{'当該': 1}</span>を<span>請求{'当該': 1}</span>する者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'当該': 1}</span>の手数料は、登録<span>情報処理{'検査': 1}</span>機関に対し磁気ディスクへの記録を求める者の納めるものについては、当該登録<span>情報処理{'検査': 1}</span>機関の収入とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">第一項の規定は、手数料を納付すべき者が<span>国{'額': 1}</span>であるときは、適用しない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、登録情報処理機関に対し磁気ディスクへの記録を求める場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">特許権、実用新案権、<span>意匠権{'審判': 1}</span>若しくは商標権、特許、実用新案登録若しくは<span>意匠{'規定': 1}</span>登録を受ける権利、商標登録出願により生じた権利又は防護標章登録に基づく権利（以下この項において「権利」という。）が国と国以外の者との<span>共有{'当該': 1}</span>に係る場合であって持分の定めがあるときは、<span>国{'当該': 1}</span>と国以外の者が<span>自己{'当該': 1}</span>の<span>権利{'当該': 1}</span>について<span>第一{'前項': 1, '当該': 1}</span>項第一号の<span>規定{'当該': 1}</span>により<span>納付{'当該': 1}</span>すべき<span>手数料{'当該': 1}</span>（<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ものに<span>限る{'行わ': 1}</span>。）は、第一項の<span>規定{'納付': 1, '当該': 1}</span>に<span>かかわら{'行わ': 1}</span>ず、同<span>項{'規定': 1, '法': 1, '当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>手数料{'当該': 1}</span>の金額に国以外の者の持分の割合を<span>乗じ{'行わ': 1}</span>て得た額とし、国以外の者がその額を納付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、登録情報処理機関に対し<span>磁気ディスク{'当該': 1}</span>への記録を求める場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'法': 1}</span>の規定により算定した手数料の<span>金額{'額': 1}</span>に十円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">第一項の規定による手数料の納付は、登録情報処理機関に<span>納める{'行わ': 1}</span>場合を除き、経済産業省令で定めるところにより、特許印紙をもってしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、経済産業省令で定める場合には、経済産業省令で定めるところにより、現金をもって納めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特許法{'前条': 1, '当該': 1}</span>第百九十五条第十一項及び第十二項の規定は、第一項の<span>規定{'手数料': 1}</span>により国に納付した手数料に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（特許法の準用等）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>特許法第三条の規定は、この法律又はこの法律に<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>に規定する手続についての期間に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特許法第七条、第八条、第十一条から第十四条まで、第十六条、第十七条第三項（第三号を除く。）及び第四項、第十八条第一項、第十八条の二から第二十一条まで<span>並びに{'及び': 1}</span>第二十六条の規定は、この法律又はこの法律に<span>基づく{'行わ': 1}</span>命令の規定による手続に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>特許法{'当該': 1}</span>第百九十五条の三の規定は、この法律の規定による<span>処分{'当該': 1}</span>（第四章の規定による処分を<span>除く{'行わ': 1}</span>。）に<span>準用{'当該': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'当該': 1}</span>又はこの<span>法律{'当該': 1}</span>に基づく命令に規定する手続であって特許、実用新案登録、意匠登録、<span>商標登録{'出願': 1}</span>又は防護標章登録に関するものについての期間は、特許法第二十四条（実用新案法第二条の五第二項、意匠法第六十八条第二項、商標法第七十七条第二項又は同法附則第二十七条第二項において準用する場合を含む。）の規定により、当該手続が中断し、若しくは中止した時にその進行を停止し、又は当該手続についての期間の進行が開始した時にその進行を開始するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十六条第一項（第三十九条において準用する場合を含む。）の規定に違反した者は、<span>一年{'六月': 1}</span>以下の<span>懲役{'当該': 1}</span>又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第三十条（第三十九条において<span>準用{'前項': 1}</span>する場合を<span>含む{'行わ': 1}</span>。）の<span>規定{'当該': 1}</span>による<span>情報処理{'当該': 1}</span>業務若しくは調査業務の停止の命令又は第三十九条の九第二項の規定による先行技術調査業務の停止の命令に違反したときは、その違反行為をした登録情報処理<span>機関{'当該': 1}</span>、<span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span>又は<span>特定{'当該': 1}</span><span>登録{'当該': 1}</span><span>調査{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>の役員又は職員は、一年以下の<span>懲役{'当該': 1}</span>又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当するときは、その<span>違反行為{'当該': 1}</span>をした<span>登録{'当該': 1}</span><span>情報処理{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>、<span>登録{'当該': 1}</span><span>調査{'当該': 1}</span><span>機関{'当該': 1}</span>又は<span>特定{'当該': 1}</span><span>登録{'当該': 1}</span><span>調査{'検査': 1, '当該': 1}</span><span>機関{'当該': 1}</span>の<span>役員{'当該': 1}</span>又は<span>職員{'当該': 1}</span>は、二十万円以下の<span>罰金{'当該': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二十三条（第三十九条において準用する場合を含む。）の<span>許可{'当該': 1}</span>を受けないで情報処理<span>業務{'事務': 1, '当該': 1}</span>又は調査業務の<span>全部{'産業': 1}</span>を<span>廃止{'当該': 1}</span>したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二十七条第一項（第三十九条又は第三十九条の十一において<span>準用{'当該': 1}</span>する<span>場合{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。以下この号において同じ。）の<span>規定{'当該': 1}</span>による<span>報告{'当該': 1}</span>をせず、若しくは<span>虚偽{'当該': 1}</span>の<span>報告{'当該': 1}</span>をし、又は同<span>項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>検査{'当該': 1}</span>を<span>拒み{'行わ': 1}</span>、<span>妨げ{'行わ': 1}</span>、若しくは忌避し、若しくは同項の規定による<span>質問{'当該': 1}</span>に対して陳述をせず、若しくは虚偽の陳述をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十<span>一条{'した': 1}</span>第一項（第三十九条又は第三十九条の十一において<span>準用{'当該': 1}</span>する<span>場合{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）の<span>規定{'当該': 1}</span>に<span>違反{'当該': 1}</span>して<span>帳簿{'当該': 1}</span>を<span>備え{'行わ': 1}</span>ず、<span>帳簿{'当該': 1}</span>に<span>記載{'当該': 1}</span>せず、若しくは<span>帳簿{'当該': 1}</span>に<span>虚偽{'当該': 1}</span>の<span>記載{'当該': 1}</span>をし、又は第三十<span>一条{'当該': 1}</span>第二項（第三十九条又は第三十九条の十一において<span>準用{'当該': 1}</span>する<span>場合{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）の<span>規定{'当該': 1}</span>に<span>違反{'当該': 1}</span>して<span>帳簿{'当該': 1}</span>を<span>保存{'当該': 1}</span>しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十九条の八の<span>規定{'当該': 1}</span>による<span>届出{'当該': 1}</span>をせず、又は<span>虚偽{'当該': 1}</span>の<span>届出{'当該': 1}</span>をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十四条第一項（第三十九条において<span>準用{'当該': 1}</span>する場合を含む。）の規定に違反して財務諸表等を備えて置かず、財務諸表等に<span>記載{'主務大臣': 1}</span>すべき事項を記載せず、若しくは虚偽の記載をし、又は<span>正当{'当該': 1}</span>な<span>理由{'当該': 1}</span>がないのに第二十四条第二項各号（第三十九条において<span>準用{'当該': 1}</span>する場合を含む。）の<span>規定{'審判': 1}</span>による請求を拒んだ者は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して<span>一年{'六月': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第九条、第十<span>四条{'規定': 1, '主務大臣': 1}</span>、第十五条第二項、第十六条（第十五条第一項及び第三項の準用に係る<span>部分{'場合': 1}</span>を除く。）、第十<span>七条{'部分': 1, '当該': 1}</span>から第十九条まで、第二十一条、第二十二条、第二十四条から第二十九条まで、第三十条（第三号を除く。）、第三十二条、第三十四条、第三十六条、第三十七条、第三十九条（第二十三条、第三十条第三号、第三十一条及び第三十五条の準用に係る部分を除く。）、第四十一条、第四十二条、第四十四条第二号<span>及び{'並びに': 1}</span>附則<span>第九条{'改正': 1}</span>の<span>規定{'当該': 1}</span>並びに附則第三条中印紙をもつてする歳入金納付に関する法律（昭和二十三年法律第百四十二号）第二条第二項の改正規定は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>六月{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の<span>日前{'当該': 1}</span>において電子情報処理組織を整備する場合の<span>手続{'ほか': 1, '当該': 1}</span>その他この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年四月二三日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第一条の<span>規定{'改正': 1}</span>中特許法第百七条第一項の表の改正規定及び同法<span>別表{'当該': 1}</span>の改正規定（同表第六号中「（<span>請求{'欄': 1}</span>公告に係る異議の申立てを含む。）」を削る部分及び同表第十二号を同表第十三号とし、同表第十一号の次に一号を<span>加える{'掲げる': 1}</span>部分を除く。）、第二条の<span>規定{'改正': 1}</span>、第四条の<span>規定{'改正': 1}</span>中意匠法第四十二条第一項及び第二項の改正規定並びに<span>同法{'附則': 1}</span>別表の改正規定、第五条の規定中商標法第四十条第一項及び第二項の改正規定並びに同法別表の改正規定、<span>次{'規定': 1}</span>条第三項並びに附則第三条、第六条から第十条まで及び第十七条の規定は、平成五年<span>七月一日{'公布': 2}</span>から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（第三条の規定による実用新案法の改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この<span>法律{'省令': 1, '政令': 1, '当該': 1}</span>の<span>施行{'当該': 1}</span>の際現に特許庁に係属している実用新案登録出願（次条第一項に規定する旧実用新案登録出願を除く。）又はこの法律の施行前にした実用新案登録出願に係る実用新案登録、実用新案権、審判若しくは再審については、第三条の規定による改正前の<span>実用新案法{'当該': 1}</span>（以下「旧実用新案法」という。）、附則第十一条の規定による改正前の弁理士法（大正十年法律第百号）、附則第十二条の規定による改正前の<span>輸出{'中小企業': 1}</span>品デザイン法（昭和三十四年法律第百六号）、旧特許法、第四条の規定による改正前の意匠法及び<span>附則{'改正': 1}</span>第十五条の規定による改正<span>前{'附則': 1}</span>の工業所有権に関する手続等の特例に関する法律（平成二年<span>法律{'規定': 1}</span>第三十号。以下この<span>項{'規定': 1}</span>において「旧特例法」という。）の規定は、この法律の施行後も、なおその効力を有する。</Sentence>
+            <Sentence Num="2">この場合において、旧実用新案法第五十四条第五項並びに旧特例法第六条第三項、第七条第一項及び第八条第一項中「通商産業省令」と<span>ある{'行わ': 1}</span>のは、「<span>経済産業省令{'当該': 1}</span>」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span><span>前{'当該': 1}</span>にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から第<span>六条{'五条': 1}</span>まで、第八条、第十条及び前条に定めるもののほか、この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'主務大臣': 1}</span>は、<span>行政手続法{'当該': 1}</span>（平成五年<span>法律{'当該': 1}</span>第八十八号）の<span>施行{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（諮問等がされた不利益処分に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'省令': 1, '当該': 1}</span>の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお<span>従前{'当該': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお<span>従前{'当該': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（聴聞に関する規定の整理に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の<span>関係{'当該': 1}</span><span>法律{'当該': 1}</span>の相当規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'当該': 1}</span>第二条から前条までに定めるもののほか、この法律の施行に関して<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年一二月一四日法律第一一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、平成七年<span>七月一日{'公布': 1, '当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条の規定、第三条中実用新案法第三条の二第一項の改正<span>規定{'前': 1}</span>（「出願公告」を「特許法第六十六条第三項の規定により同項各号に掲げる事項を掲載した特許公報の発行」に改める部分に限る。）、同法第十条第五項及び第六項、第十四条第四項並びに第三十九条第三項の改正規定、同法第四十五条の改正規定（同条に一項を<span>加える{'行わ': 1}</span>部分を除く。）、<span>同法{'規定': 1}</span>第五十条の二の改正規定（「第百七十四条第二項」を「第百七十四条第三項」に、「第百九十三条第二項第五号」を「第百九十三条第二項第四号」に<span>改める{'行わ': 1}</span>部分に<span>限る{'除く': 1}</span>。）、同法第五十三条第二項の改正規定並びに同法第六十二条の改正規定（「第百七十四条第二項」を「第百七十四条第三項」に改める部分に限る。）、第四条中意匠法第十三条第三項、第十九条、第五十八条、第六十八条第一項及び第七十五条の改正規定、第六条の規定、第七条中弁理士法第五条の改正規定並びに附則第八条、第九条、第十条第二項、第十七条及び第十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成八年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'施行': 1}</span>第二条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月一二日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、平成九年<span>四月一日{'公布': 1, '当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中商標法第四十条第四項及び第七十六条第四項にただし書を加える改正規定、第二条中特許法第百七条第三項、第百十二条第三項及び第百九十五条第五項にただし書を加える改正規定、第三条中実用新案法第三十一条第三項、第三十三条第三項及び第五十四条第四項にただし書を加える改正規定、第四条中意匠法第四十二条第四項、第四十四条第三項及び第六十七条第四項に<span>ただし書{'規定': 1}</span>を加える改正規定、第五条中工業所有権に関する手続等の特例に関する法律第四十条第四項に<span>ただし書{'後段': 1}</span>を加える改正規定並びに附則第二十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成八年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から<span>前条{'附則': 1}</span>までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月二六日法律第一一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この法律は、新<span>民訴{'当該': 1}</span>法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence>略</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>第三十条中特許法第十条の改正規定、第三十二条中実用新案法第二条の五第二項の改正規定、第三十三条中意匠法第六十八条第二項の改正規定、第三十四条中商標法第七十七条第二項、<span>附則{'当該': 1}</span>第二十七条第二項及び附則第三十条の改正規定並びに第五十一条中工業所有権に関する手続等の特例に関する法律第四十一条第二項の改正規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>平成十年四月一日又は新民訴法の施行の日のいずれか遅い日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年五月六日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成十一年一月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中特許法第百七条の改正規定（同条第一項の表の改正規定に限る。）、第六条中工業所有権に関する手続等の特例に関する法律第三十六条第一項の改正規定並びに次条第二項及び附則第八条から第十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一月を<span>超え{'行わ': 1}</span>ない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中特許法第百七条の<span>改正{'当該': 1}</span><span>規定{'当該': 1}</span>（同<span>条{'当該': 1}</span>第一項の表の改正規定を除く。）及び同法第百九十五条の改正規定（同条第一項第四号から第七号までの改正規定を除く。）、第二条中<span>実用新案法{'当該': 1}</span>第三十一条の改正<span>規定{'当該': 1}</span>及び同法第五十四条の改正規定（同<span>条{'当該': 1}</span>第一項第四号から第七号までの改正規定を除く。）、第四条の<span>規定{'二条': 1}</span>、第五条中<span>商標法{'改正': 1, '当該': 1}</span>第四十条、第四十一条の二第五項及び第六十五条の七第三項の<span>改正{'条': 1, '当該': 1}</span><span>規定{'当該': 1}</span>並びに同法第七十六条の改正規定（同<span>条{'当該': 1}</span>第一項の改正規定を除く。）、第<span>六条{'二条': 1}</span>中<span>工業所有権に関する手続等の特例に関する法律{'当該': 1}</span>第四十条の改正規定並びに次条第三項、附則第三条第二項、第五条並びに第六条第二項の規定、附則第十四条中商標法等の一部を改正する法律（平成八年法律第六十八号）附則第十五条第二項の改正規定並びに附則第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十一年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第六条中工業所有権に関する手続等の特例に関する法律第二条第二項及び第三項、第五条第五項、第十<span>一条{'規定': 1}</span>、第十三条、第十四条第一項、第十八条第一号、第二十六条、第三十九条並びに第四十一条第五項の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十二年<span>一月一日{'当該': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの<span>附則{'法律': 1}</span>の規定によりなお従前の例によることとされる<span>事項{'場合': 3}</span>に係るこの法律の施行後にした行為に対する罰則の適用については、それぞれなお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年五月一四日法律第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成十二年<span>一月一日{'公布': 1, '当該': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一・二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第六条中工業所有権に関する手続等の特例に関する法律第十二条第一項第二号の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの<span>附則{'法律': 1}</span>の規定によりなお従前の例によることとされる<span>事項{'場合': 3}</span>に係るこの法律の施行後にした行為に対する罰則の適用については、それぞれなお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から第六条まで、第八条、第十条、第十二条及び<span>前条{'附則': 1}</span>に定めるものの<span>ほか{'当該': 1}</span>、この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年五月一四日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、行政機関の保有する情報の公開に関する法律（平成十一年法律第四十二号。以下「情報公開法」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'当該': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる<span>規定{'当該': 1}</span>は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第二二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（第一条を除く。）は、平成十三年<span>一月六日{'当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>事項{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、<span>行政{'当該': 1}</span><span>手続{'当該': 1}</span>等における<span>情報通信{'当該': 1}</span>の<span>技術{'当該': 1}</span>の<span>利用{'当該': 1}</span>に関する<span>法律{'当該': 1}</span>（平成十四年<span>法律{'当該': 1}</span>第百五十一号）の<span>施行{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:7">
+            <ItemTitle>一～七</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第六十六条中工業所有権に関する手続等の特例に関する法律第二条第一項、第三条から第八条まで、第十一条、第十二条及び第十四条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>この<span>法律{'規定': 1, '当該': 1}</span>の<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>前{'施行': 1, '当該': 1}</span>三条に<span>定める{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月二三日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成十六年<span>一月一日{'公布': 1, '当該': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>附則{'当該': 1}</span>第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中特許法第百七条、第百九十五条並びに別表第一号から第四号まで及び第六号の改正規定、第二条中実用新案法第三十一条及び第五十四条の改正規定、第三条中意匠法第四十二条及び第六十七条の改正規定、第四条中商標法第四十条、第四十一条の二、第六十五条の七及び第七十六条の改正規定、第五条中特許協力条約に基づく国際出願等に関する法律第十八条の改正規定、第六条中工業所有権に関する手続等の特例に関する法律第四十条の改正規定（同条第一項に係る部分を除く。）並びに第七条及び第八条の規定並びに附則第二条第二項から第六項まで、第三条第二項及び第三項、第四条第一項、第五条第一項、第七条から第十一条まで、第十六条並びに第十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（工業所有権に関する手続等の特例に関する法律の改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>一部施行日<span>前{'政令': 1}</span>にした特許出願（一部施行日前の特許出願の分割等に係る特許出願を除く。）、実用新案登録出願（一部施行日前の実用新案登録出願の分割等に係る実用新案登録出願を除く。）、意匠登録出願（一部施行日前の<span>意匠{'実用新案': 1}</span>登録出願の分割等に係る<span>意匠{'実用新案': 1}</span>登録出願を除く。）、商標登録出願（一部施行日前の商標登録出願の分割等に係る商標登録出願を除く。）、商標権の存続期間の更新登録の申請、防護標章登録出願（一部施行日前の防護標章登録出願の分割等に係る防護標章登録出願を除く。）、防護標章登録に基づく権利の存続期間の更新登録の出願及び平成八年商標法改正法附則第十一条第一項に規定する<span>重複登録{'適用': 1}</span>商標に係る商標権の存続期間の更新登録の出願に係る第六条の規定による改正後の工業所有権に関する手続等の特例に関する法律第四十条第一項に規定する手数料に係る同条第三項及び第四項の規定の<span>適用{'当該': 1}</span>については、これらの<span>規定{'同法': 1}</span>中「国」とあるのは、「<span>国{'国等': 1}</span>、<span>特許法{'当該': 1}</span>等の一部を<span>改正{'当該': 1}</span>する法律（平成十五年法律第四十七号。以下この<span>条{'項': 1, '規定': 1}</span>において「平成十五年改正法」と<span>いう{'行わ': 1}</span>。）第一条の規定による改正前の<span>特許法{'当該': 1}</span>第百七条第二項に規定する独立行政法人（当該手数料が特許に関するものである場合におけるものに限る。）、平成十五年改正法第二条の規定による改正前の<span>実用新案法{'当該': 1}</span>第三十一条第二項に規定する独立行政法人（当該手数料が<span>実用新案{'当該': 1}</span><span>登録{'準用': 1}</span>に関するものである場合におけるものに限る。）、平成十五年改正法第三条の規定による改正前の<span>意匠法{'当該': 1}</span>第四十二条第二項に規定する独立行政法人（当該手数料が意匠登録に関するものである<span>場合{'出願': 1}</span>におけるものに限る。）又は平成十五年改正法第四条の規定による改正前の<span>商標法{'当該': 1}</span>第四十条第三項に規定する独立行政法人（当該<span>手数料{'出願': 1}</span>が商標登録又は防護標章登録に関するものである<span>場合{'取消し': 1}</span>におけるものに限る。）」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの<span>附則{'法律': 1}</span>の規定によりなお従前の例によることとされる<span>事項{'場合': 3}</span>に係るこの法律の施行後にした行為に対する罰則の適用については、それぞれなお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span>措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月三〇日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、<span>行政機関の保有する個人情報の保護に関する法律{'当該': 1}</span>の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に定めるもののほか、この<span>法律{'当該': 1}</span>の<span>施行{'当該': 1}</span>に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月四日法律第七九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、平成十七年<span>四月一日{'公布': 1, '当該': 1}</span>から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>附則{'当該': 1}</span>第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中特許法第百九十五条第七項の改正規定、第二条中実用新案法第五十四条第六項の改正規定及び第三条中<span>工業所有権に関する手続等の特例に関する法律{'当該': 1}</span>第十四条から第十六条までの改正<span>規定{'当該': 1}</span>並びに附則第四条第一項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の<span>日又{'施行': 1}</span>は平成十六年四月一日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条の規定（前号に掲げる改正規定を除く。）及び第五条の規定並びに附則第<span>四条{'一条': 2}</span>（第一項を除く。）、第五条、第八条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十六年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（工業所有権に関する手続等の特例に関する法律の改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>第三条{'改正': 1}</span>の規定による改正後の<span>工業所有権に関する手続等の特例に関する法律{'規定': 1, '当該': 1}</span>（以下「新特例法」という。）第九条第一項又は第三十六条第一項の<span>登録{'承認': 1}</span>を受けようとする者は、<span>附則{'法': 1, '当該': 1}</span>第一条ただし書第三号に掲げる規定の施行<span>前{'当該': 1}</span>においても、その<span>申請{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ことができる。</Sentence>
+            <Sentence Num="2">新<span>特例{'当該': 1}</span>法第二十二条第一項（新<span>特例{'当該': 1}</span>法第三十九条において<span>準用{'当該': 1}</span>する場合を含む。）の規定による業務規程の認可の申請についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>附則第一条ただし書第三号に掲げる規定の施行の際<span>現に{'更に': 1}</span><span>第三条{'改正': 1}</span>の規定による改正前の<span>工業所有権に関する手続等の特例に関する法律{'当該': 1}</span>（以下「旧特例法」という。）第九条第一項の<span>指定{'承認': 1}</span>を受けている者は、同号に定める日（以下「一部<span>施行日{'当該': 1}</span>」という。）に新<span>特例{'法': 1}</span>法第九条第一項の登録を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>附則{'当該': 1}</span>第<span>一条{'第九条': 1}</span>ただし書第三号に掲げる規定の施行の際<span>現に{'更に': 1}</span>旧<span>特例{'当該': 1}</span>法第三十六条第一項の<span>指定{'当該': 1}</span>を<span>受け{'行わ': 1}</span>ている者は、<span>一部{'当該': 1}</span><span>施行{'当該': 1}</span>日に新特例法第三十六条第二項の経済産業省令で定める区分の<span>すべて{'当該': 1}</span>について同条第一項の登録を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前二項に定めるもののほか、一部<span>施行日{'改正': 1, '当該': 1}</span>前に旧特例法又はこれに基づく命令の<span>規定{'当該': 1}</span>によって<span>した{'当該': 1}</span><span>処分{'当該': 1}</span>、<span>手続{'当該': 1}</span>その他の<span>行為{'当該': 1}</span>であって、新<span>特例{'当該': 1}</span>法又はこれに<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>の<span>規定{'当該': 1}</span>に<span>相当{'当該': 1}</span>の<span>規定{'当該': 1}</span>が<span>ある{'行わ': 1}</span>ものは、新<span>特例{'当該': 1}</span>法又はこれに<span>基づく{'行わ': 1}</span><span>命令{'当該': 1}</span>の<span>相当{'当該': 1}</span>の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第四条の規定による改正後の<span>工業所有権に関する手続等の特例に関する法律{'前': 1}</span>（以下「新々特例法」という。）第三十九条の二の登録を受けようとする者は、この法律の施行前においても、その申請を行うことができる。</Sentence>
+            <Sentence Num="2">新々特例法第三十九条の七の規定による先行技術調査業務規程の届出についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>旧<span>特例{'法': 1}</span>法第九条第一項に規定する<span>情報処理{'当該': 1}</span><span>業務{'当該': 1}</span>に<span>従事{'当該': 1}</span>する同<span>項{'改正': 1, '当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>指定{'当該': 1}</span><span>情報処理{'試験': 1, '修習': 1, '当該': 1}</span>機関の役員又は職員であった者に係る当該業務に関して知り得た秘密を漏らしてはならない義務及び旧特例法第三十六条第一項に規定する調査業務に<span>従事{'当該': 1}</span>する同<span>項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>指定{'国際': 1, '当該': 1}</span><span>調査{'試験': 1, '修習': 1, '当該': 1}</span>機関の役員又は職員であった者に係る当該業務に関して知り得た秘密を漏らしてはならない義務については、附則第一条ただし書第三号に掲げる規定の施行後も、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>附則第一条ただし書第三号に掲げる規定の施行<span>前{'当該': 1}</span>にした<span>行為{'当該': 1}</span>及び<span>前項{'附則': 3}</span>の規定によりなお<span>従前{'当該': 1}</span>の例によることとされる場合における同号に掲げる規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>政府{'当該': 1}</span>は、この法律の施行後五年を経過した場合において、<span>新々{'当該': 1}</span>特例法第四章第三節の規定の施行の状況を勘案し、必要があると認めるときは、同<span>節{'当該': 3}</span>の規定について検討を加え、その結果に基づいて<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'当該': 1}</span>は、<span>会社法{'当該': 1}</span>の<span>施行{'当該': 1}</span>の日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年四月一八日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:3">
+            <ItemTitle>二及び三</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五条中工業所有権に関する手続等の特例に関する法律目次の改正規定、第三章の章名の改正規定、第十<span>五条{'第三条': 1}</span>の次に一条を<span>加える{'行わ': 1}</span>改正規定及び第十六条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十一年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'施行': 1}</span>第二条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月八日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（工業所有権に関する手続等の特例に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の日前に登録された特許権若しくは実用新案権についての通常実施権又は特許権についての仮通常実施権に係る情報であって前条の規定による改正前の工業所有権に関する手続等の特例に関する法律第十二条第三項において<span>準用{'規定': 1}</span>する旧特許法第百八十六条第三項（旧実用新案法第五十五条第一項において読み替えて準用する場合を含む。）の規定により<span>閲覧{'当該': 1}</span>又は<span>書類{'当該': 1}</span>の<span>交付{'当該': 1}</span>を<span>行わ{'でき': 1}</span>ないものとされたものについての<span>閲覧{'当該': 1}</span>又は<span>書類{'当該': 1}</span>の交付については、前条の規定による改正後の<span>工業所有権に関する手続等の特例に関する法律{'規定': 1, '当該': 1}</span>第十二条第一項又は第二項の規定にかかわらず、なお<span>従前{'当該': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年五月一四日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して<span>一年{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一・二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条中意匠法目次の改正規定、<span>同法{'当該': 1}</span>第二十六条の二第三項の改正規定、<span>同法{'当該': 1}</span>第六十条の三を同法第六十条の二十四とする改正規定、同法第六章の次に一章を<span>加える{'行わ': 1}</span>改正規定並びに同法第六十七条第一項及び第七十三条の二第一項の改正規定並びに第六条中<span>弁理士法{'第九条': 1, '当該': 1}</span>第二条、第四条第一項、第五条第一項、第六条及び第七十五条の改正規定並びに附則第十条及び第十一条の規定並びに附則第十二条中工業所有権に関する手続等の特例に関する法律（平成二年法律第三十号）第十二条第一項第二号の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>意匠の国際登録に関するハーグ協定のジュネーブ改正協定が日本国について効力を生ずる日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>行政庁の処分その他の行為又は不作為についての不服申立てであってこの<span>法律{'政令': 1}</span>の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお<span>従前{'当該': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（訴訟に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律による改正<span>前{'当該': 1}</span>の<span>法律{'当該': 1}</span>の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為並びに<span>附則{'当該': 1}</span>第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第五条から前条までに定めるもののほか、この法律の施行に関し<span>必要{'当該': 1}</span>な<span>経過{'当該': 1}</span><span>措置{'主務大臣': 1}</span>（<span>罰則{'当該': 1}</span>に関する<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年五月二七日法律第五一号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span><span>六月{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月三一日法律第四一号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、平成三十一年<span>四月一日{'当該': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次条及び附則第四十八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="48">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>は、<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月三〇日法律第三三号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'当該': 1}</span><span>六月{'当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一～三</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>第三条中特許法第百七条第三項の改正規定、第百九条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、第百十二条第一項及び第六項の改正規定、第百九十五条第六項の改正規定並びに第百九十五条の二の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定並びに第六条及び第七条の規定並びに<span>附則{'主務大臣': 1}</span>第十一条、第十五条、第二十三条及び第二十五条から第三十二条までの規定 </Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>布の日から起算して<span>一年{'当該': 1}</span>を超えない範囲内において政令で定める日</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

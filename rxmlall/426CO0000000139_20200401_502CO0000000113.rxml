@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="139" Year="26">
+  <LawNum>平成二十六年政令第百三十九号</LawNum>
+  <LawBody>
+    <LawTitle>地方法人税法施行令</LawTitle>
+    <EnactStatement>内閣は、地方法人税法（平成二十六年法律第十一号）第三条第三項において準用する法人税法（昭和四十年法律第三十四号）第四条の七第十一号並びに地方法人税法第十二条第一項から第三項まで、第十五条第一項第一号から第三号まで、第二十二条第二項及び第六項、第二十八条第三項、第四項第二号イ（２）及び第七項、第二十九条第一項及び第四項第三号並びに第三十二条の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令において「内国法人」、「外国法人」、「連結親法人」、「連結子法人」、「恒久的施設」、「<span>地方法人税{'連結': 1}</span>中間申告書」、「<span>地方法人税{'当該': 1}</span>確定申告書」、「修正申告書」、「<span>中間{'提出': 1}</span><span>納付{'申告': 1}</span>額」、「更正」、「<span>附帯税{'決定': 1}</span>」、「充当」、「還付<span>加算{'申告': 1}</span>金」又は「<span>課税{'連結': 1}</span>事業年度」とは、それぞれ地方法人税法（以下「法」という。）第二条第一号、第二号、第六号、第七号、第十号の二、第十五号、第十六号若しくは第十八号から第二十三号まで又は第七条に規定する内国法人、外国法人、<span>連結{'場合': 1}</span>親法人、連結子法人、恒久的施設、<span>地方法人税{'連結': 1}</span>中間申告書、<span>地方法人税{'当該': 1}</span>確定申告書、修正申告書、<span>中間{'提出': 1}</span><span>納付{'申告': 1}</span>額、更正、<span>附帯税{'決定': 1}</span>、充当、還付加算金又は課税事業年度をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（法人課税信託の受託者等に関する通則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法人税法施行令{'規定': 1}</span>（昭和四十年政令第九十七号）第十四条の十第一項から第五項まで及び第七項から第十一項までの規定は、法<span>第三条{'第九条': 1}</span>第二項の規定を適用する場合について<span>準用{'当該': 3}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>受託{'場合': 4}</span>法人（<span>法{'附則': 1}</span>第三条第三項において<span>準用{'規定': 2}</span>する<span>法人税法{'条': 1}</span>第四条の七に規定する受託法人をいう。）に対する法及びこの政令の規定の適用については、法第十九条の二第二項中「次に」と<span>ある{'掲げる': 2}</span>のは「第三条第三項において準用する<span>法人税法{'法': 3, '条': 1}</span>第四条の七に<span>規定{'法人': 1}</span>する受託<span>法人{'受託': 1}</span>以外の法人のうち次に」と、第四条第一項第一号中「同条第四項」とあるのは「同令第十四条の十第六項の規定により読み替えて適用する同令第百五十五条の四十三第四項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（外国税額の控除限度額の計算）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十二条第一項に規定する<span>政令{'財務省令': 2}</span>で定めるところにより計算した金額は、同項の<span>内国{'規定': 1}</span>法人の当該課税<span>事業年度{'物品': 1}</span>の<span>法{'終了': 1}</span>第九条に規定する課税標準法人<span>税額{'所得税': 1}</span>につき法第十条及び第十二条の二の規定を適用して計算した<span>地方法人税{'所得税': 1, '法人税': 1}</span>の額（当該<span>課税{'連結': 1}</span>事業年度の<span>基準{'所得': 1}</span>法人税額（<span>法{'地方法人税法': 1, '項': 1}</span>第六条に規定する<span>基準{'調整': 2}</span><span>法人{'所得': 1}</span>税額をいう。以下この<span>条{'事業年度': 1}</span>において同じ。）のうちに租税特別措置法（昭和三十二年<span>法律{'施行令': 1}</span>第二十六号）第四十二条の六第五項、第四十二条の九第四項、第四十二条の十二の三第五項、第四十二条の十二の四第五項又は第三章第五節若しくは第五節の二の<span>規定{'一部': 1}</span>により<span>加算{'特別勘定': 1}</span>された金額が<span>ある{'満た': 1}</span>場合には、当該<span>基準{'申告': 1, '連結': 1}</span><span>法人{'金額': 1, '相続': 1}</span><span>税額{'額': 1}</span>から当該加算された金額を控除した<span>残額{'金額': 3}</span>を当該課税<span>事業年度{'物品': 1}</span>の基準法人<span>税額{'当該': 1}</span>とみなして法第九条、第十条及び第十二条の二の規定を適用して計算した<span>金額{'場合': 1}</span>）に、当該課税事業年度に係る法人税法施行令第百四十二条第二項から第五項までの規定を適用して計算した同条第一項に規定する割合を乗じて計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'前項': 1}</span>第十二条第二項に規定する<span>政令{'財務省令': 2}</span>で定めるところにより<span>計算{'金額': 1}</span>した金額は、<span>当該{'法': 1, '項': 1}</span><span>課税{'連結': 2}</span><span>事業年度{'文書': 1}</span>の同項に規定する<span>地方法人税{'復興特別法人税': 1}</span>控除限度額に、<span>法人税法施行令{'項': 1, '帰属': 1}</span>第百五十五条の二十九に規定する割合を乗じて計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'前項': 1}</span>第十二条第三項に規定する<span>政令{'財務省令': 1}</span>で定める金額は、同項の恒久的施設を有する外国法人の当該課税事業年度の<span>法{'特例': 1}</span>第<span>六条{'第一': 2}</span>第二号<span>イ{'第一': 4}</span>（１）に掲げる国内源泉所得に係る所得の金額につき<span>法人税法{'所得': 1}</span>その他の<span>法人税{'規定': 4, '所得': 1}</span>の<span>税額{'額': 2}</span>の<span>計算{'源泉徴収': 1}</span>に関する法令の規定（同法第百四十四条から第百四十四条の二の三までの規定を<span>除く{'準じ': 2}</span>。）により計算した法人税の額（附帯税の額を除く。）を法<span>第九条{'第一': 1}</span>に規定する<span>課税標準{'申告': 1}</span>法人税額として<span>法{'法人税法施行令': 1}</span>第十条及び第十二条の二の規定を<span>適用{'例': 1}</span>して<span>計算{'場合': 1}</span>した<span>地方法人税{'所得税': 1}</span>の額（当該課税事業年度の<span>当該{'所得': 2}</span><span>法人税{'所得税': 1}</span>の額のうちに租税特別措置法第三章第五節<span>又は{'及び': 1}</span>第五節の二の規定により<span>加算{'計算': 1, '控除': 1}</span>された金額がある場合には、当該<span>法人税{'所得税': 1, '取得': 1}</span>の額から<span>当該{'額': 1}</span>加算された<span>金額{'税': 1}</span>を控除した<span>残額{'金額': 4}</span>を当該<span>課税{'連結': 1}</span>事業年度の<span>法人税{'法人臨時特別税': 1}</span>の額とみなして法第九条、第十条及び第十二条の二の規定を適用して計算した<span>金額{'場合': 1}</span>）とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十二条第三項に規定する<span>政令{'財務省令': 2}</span>で定めるところにより<span>計算{'金額': 1}</span>した金額は、前項に規定する地方法人税の額に、当該<span>課税{'連結': 1}</span>事業年度に係る法人税法施行令第百九十四条第二項から第四項までの規定を適用して計算した同条第一項に規定する割合を乗じて計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'前項': 1}</span>第十二条第四項に規定する<span>政令{'財務省令': 2}</span>で定めるところにより<span>計算{'相当': 1, '金額': 1}</span>した金額は、同<span>項{'記載': 1, '当該': 1}</span>の<span>連結{'規定': 1}</span>親法人の当該<span>課税{'連結': 4}</span>事業年度の<span>法{'終了': 1}</span>第九条に規定する課税標準法人<span>税額{'所得税': 1}</span>につき法第十条及び第十二条の二の規定を適用して計算した<span>地方法人税{'所得税': 1, '法人税': 1}</span>の額（当該<span>課税{'連結': 1}</span>事業年度の基準法人税額のうちに<span>租税特別措置法{'減額': 1}</span>第六十八条の十一第五項、第六十八条の十三第四項、第六十八条の十五の四第五項、第六十八条の十五の五第五項又は第三章第十七節若しくは第十八節の規定により<span>加算{'控除': 1}</span>された金額が<span>ある{'満た': 1}</span>場合には、当該<span>基準{'申告': 1, '連結': 1}</span><span>法人{'金額': 1, '相続': 1}</span><span>税額{'額': 1}</span>から当該加算された金額を控除した<span>残額{'金額': 3}</span>を当該課税<span>事業年度{'物品': 1}</span>の基準法人<span>税額{'当該': 1}</span>とみなして法第九条、第十条及び第十二条の二の規定を適用して計算した<span>金額{'場合': 1}</span>）に、当該課税事業年度に係る法人税法施行令第百五十五条の二十八第二項から第五項までの規定を適用して計算した同条第一項に規定する割合を乗じて<span>計算{'算出': 1}</span>した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3_2">
+        <ArticleCaption>（分配時調整外国税相当額の控除）</ArticleCaption>
+        <ArticleTitle>第三条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'前項': 1, '旧法': 1}</span>第十二条の二第一項の規定により各課税事業年度の所得<span>地方法人税{'金額': 2}</span>額（法第十一条に規定する所得<span>地方法人税{'金額': 5, '割': 1}</span>額をいう。次項において同じ。）から<span>控除{'所得': 1, '相当': 1}</span>する<span>金額{'限度': 1}</span>は、当該課税<span>事業年度{'期間': 1}</span>における<span>法人税法施行令{'政令': 4}</span>第百四十八条第二項各号に定める分配時調整外国<span>税{'貨物': 1, '税額': 1}</span>相当額のうち当該課税事業年度の法第<span>六条{'規定': 1}</span><span>第一{'政令': 1, '規定': 1}</span>号に定める基準<span>法人{'所得': 2}</span>税額を超える金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'項': 1}</span>第十二条の二第二項の規定により各<span>課税{'当該': 1}</span>事業年度の<span>所得{'金額': 1, '規定': 1}</span><span>地方法人税{'金額': 6, '税額': 1}</span>額から<span>控除{'相当': 1}</span>する金額は、当該<span>課税{'連結': 1}</span><span>事業年度{'期間': 1}</span>における<span>法人税法施行令{'政令': 4}</span>第百五十五条の三十六第二項各号に定める分配時調整外国<span>税{'貨物': 1, '税額': 1}</span>相当額のうち当該<span>課税{'連結': 1}</span><span>事業年度{'信託': 1}</span>の法第<span>六条{'政令': 1, '規定': 1}</span>第三号に定める基準<span>法人{'所得': 1}</span>税額を超える金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'項': 1}</span>第十二条の二第三項の規定により各課税<span>事業年度{'物品': 1}</span>の法第<span>六条{'政令': 3}</span>第二号に定める基準法人税額に対する地方法人税の額から<span>控除{'相当': 1}</span>する金額は、当該<span>課税{'連結': 1, '当該': 1}</span><span>事業年度{'期間': 2}</span>における<span>法人税法施行令{'政令': 4}</span>第二百一条の二第二項各号に定める分配時調整外国<span>税{'貨物': 1, '税額': 1}</span>相当額のうち<span>法{'控除': 2}</span>第十二条の二第三項に規定する法人税の額を超える金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十二条の二第三項に規定する<span>政令{'財務省令': 3}</span>で定める金額は、同項の恒久的施設を有する外国法人の当該課税事業年度の<span>法{'特例': 1}</span>第<span>六条{'第一': 2}</span>第二号<span>イ{'第一': 4}</span>（１）に掲げる国内源泉所得に係る所得の金額につき<span>法人税法{'所得': 1}</span>その他の<span>法人税{'規定': 4, '所得': 1}</span>の<span>税額{'額': 2}</span>の<span>計算{'源泉徴収': 1}</span>に関する法令の規定（同法第百四十四条から第百四十四条の二の三までの規定を<span>除く{'準じ': 2}</span>。）により計算した法人税の額（附帯税の額を除く。）を法<span>第九条{'第一': 1}</span>に規定する<span>課税標準{'申告': 1}</span>法人税額として<span>法{'法人税法施行令': 1}</span>第十条の規定を<span>適用{'例': 1}</span>して計算した<span>地方法人税{'所得税': 2}</span>の額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（連結法人の地方法人税の個別帰属額の計算）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十五条第一項第一号に規定する<span>政令{'財務省令': 1}</span>で定める金額は、法第十一条に規定する<span>合計{'次': 1}</span>額に第一号に掲げる金額のうちに第二号に掲げる金額の占める割合を<span>乗じ{'いう': 1}</span>て計算した金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>連結{'当該': 1}</span><span>親{'事業年度': 1}</span>法人又は各連結子法人の連結個別留保<span>法人{'税額': 1, '所得': 1}</span>税額（<span>当該{'控除': 1}</span>連結親法人又は各連結子法人の<span>法人税法施行令{'項': 1}</span>第百五十五条の四十三第二項に規定する留保金個別帰属額から同条第四項に規定する留保<span>控除{'金額': 1}</span><span>個別{'金額': 1}</span><span>帰属{'金額': 2}</span>額を<span>控除{'部分': 1}</span>した金額を<span>法人税法{'前': 1, '法': 1}</span>第八十一条の十三第一項各号に掲げる<span>金額{'場合': 2}</span>に<span>区分{'計算': 1}</span>してそれぞれの金額に<span>当該{'合計': 1}</span>各号に定める<span>割合{'金額': 3}</span>を乗じて計算した金額の合計額をいう。次号において同じ。）の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>連結{'当該': 1}</span>親法人又は各連結子法人の連結個別留保<span>法人{'税額': 1, '所得': 1}</span>税額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十五条第一項第二号に規定する政令で定める<span>金額{'場合': 1}</span>は、法第十二条第二項の規定により当該<span>課税{'連結': 2}</span><span>事業年度{'貨物': 1}</span>の同<span>項{'当該': 1}</span>の<span>所得{'規定': 5}</span><span>地方法人税{'金額': 7}</span>額から控除される金額のうち連結親法人又は各連結子法人に帰せられる部分の金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十五条第一項第三号に規定する<span>政令{'財務省令': 3}</span>で定める金額は、法第十二条の二第二項の規定により当該<span>課税{'連結': 2}</span><span>事業年度{'貨物': 1}</span>の同<span>項{'当該': 1}</span>の<span>所得{'規定': 3}</span><span>地方法人税{'金額': 5}</span>額から控除される金額に、第一号に掲げる金額のうちに第二号に掲げる金額の占める割合を<span>乗じ{'いう': 1}</span>て計算した金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>連結{'当該': 1}</span><span>親{'事業年度': 1}</span>法人又は各連結子法人の<span>法人税法施行令{'項': 1, '法': 3}</span>第百五十五条の四十五の二第一号に規定する<span>個別{'収益': 1}</span>分配時調整外国<span>税{'税額': 1}</span>相当額（<span>次号{'控除': 1}</span>において「<span>個別{'外国法人': 1}</span>分配時調整外国<span>税{'税額': 1}</span>相当額」という。）の<span>合計{'記載': 1, '当該': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>連結親法人<span>又は{'及び': 1}</span>各連結子法人の<span>個別{'株式': 1}</span><span>分配{'所得': 1}</span>時調整<span>外国{'外国法人': 1}</span><span>税{'税額': 1}</span><span>相当{'法': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十五条第一項第四号に規定する<span>政令{'財務省令': 2}</span>で定める金額は、<span>法{'条': 1}</span>第二十三条第一項の規定により<span>還付{'適用': 3}</span>を受けるべき<span>金額{'場合': 3}</span>に、<span>当該{'相当': 1}</span>金額の<span>計算{'金額': 1}</span>の基礎と<span>なっ{'なる': 1}</span>た法人税法第八十一<span>条{'規定': 1}</span>の三十一第一項（同条第四項<span>又は{'及び': 1}</span>第五項において準用する場合を含む。）の規定により<span>還付{'適用': 7}</span>を受けるべき金額に係る<span>連結{'当該': 1}</span>親法人又は各連結子法人の<span>同法{'法': 1}</span>第八十一条の十八第一項第五号に掲げる金額の合計額のうちに当該連結親法人<span>又は{'及び': 1}</span>各<span>連結{'当該': 1}</span>子法人の同号に<span>掲げる{'帰せ': 2}</span>金額の占める割合を乗じて計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4_2">
+        <ArticleCaption>（電子情報処理組織による申告）</ArticleCaption>
+        <ArticleTitle>第四条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十九条の二第二項第一号に規定する政令で定める金額は、銀行等保有株式取得機構がその会員から銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第四十一条第一項及び第三項の規定により納付された同条第一項の<span>当初{'規定': 4}</span>拠出金の額及び同条第三項の<span>売却{'規定': 4}</span>時拠出金の額の合計額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第十九条の二第三項に規定する<span>政令{'財務省令': 2}</span>で定める法令は、<span>法人税法{'地方法人税法': 1, '規定': 1}</span>、<span>租税特別措置法{'規定': 2}</span>その他の<span>地方法人税{'規定': 4}</span>の申告に関する法令（<span>法{'規定': 5}</span>（これに基づく命令を含む。）及び国税通則法（昭和三十七年法律第六十六号）を除く。）とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（中間納付額の還付の手続）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>税務署長{'規定': 1}</span>は、法第十九条第一項第四号に掲げる<span>金額{'事項': 2}</span>の記載がある<span>地方法人税{'当該': 1, '規定': 1}</span><span>確定申告書{'申告': 1}</span>の提出があった場合には、当該<span>金額{'不足': 1}</span>が過大であると認められる事由がある<span>場合{'当該': 1}</span>を除き、遅滞なく、法第二十二条第一項又は第二項の規定による還付又は充当の手続をしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（還付すべき中間納付額の充当の順序）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十二条第一項又は第二項の規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合には、次の各号の順序により充当するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該還付金の計算の基礎とされた中間<span>納付{'申告': 1}</span>額に係る課税<span>事業年度{'期間': 1}</span>の法第六条<span>第一{'政令': 1, '規定': 1}</span>号から第三号までに定める基準<span>法人{'所得': 1}</span>税額に対する地方法人税で<span>修正申告{'確定申告書': 1, '申告': 1, '額': 1}</span>書の<span>提出{'申告': 1}</span>又は更正により納付すべきもの（中間<span>納付{'申告': 1}</span>額を除く。）があるときは、当該<span>地方法人税{'法人税': 1, '消費税': 1}</span>に充当する。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号の充当をしてもなお<span>還付{'控除': 1}</span>すべき金額がある場合において、同号に<span>規定{'当該': 1}</span>する中間<span>納付{'申告': 1}</span>額で未納のものがあるときは、当該未納の中間納付額に充当する。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号の充当をしてもなお還付すべき金額があるときは、その他の未納の国税及び滞納処分費に充当する。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（中間納付額に係る延滞税の還付金額及び還付加算金の額の計算）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'場合': 1}</span>第二十二条第二項に規定する政令で定めるところにより計算した金額は、第一号に掲げる金額から第二号に掲げる金額を控除した<span>残額{'金額': 3}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第二十二条第一項に規定する<span>地方法人税{'中間': 1}</span>中間申告書に係る中間<span>納付{'申告': 1}</span>額について納付された<span>延滞{'外国法人': 1}</span><span>税{'所得税': 1}</span>の額の<span>合計{'納付': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該中間納付額（法第二十二条第一項の規定による還付金をもって充当をされる部分の金額を除く。）のうち次に<span>定める{'掲げる': 2}</span><span>順序{'金額': 1}</span>により<span>当該{'前': 1}</span>中間納付額に係る課税<span>事業年度{'期間': 1}</span>の地方法人税確定申告書に記載された法第十九条第一項第二号に掲げる金額（前条第一号の<span>充当{'規定': 1}</span>をされる<span>地方法人税{'金額': 2}</span>がある場合には、当該<span>地方法人税{'法人税': 1}</span>の額を加算した金額）に達するまで順次求めた各中間納付額につき国税に関する法律の規定により計算される<span>延滞{'外国法人': 2}</span>税の額の合計額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該<span>中間{'国税': 1}</span>納付額のうち確定の日を異にするものについては、その確定の日の早いものを先<span>順位{'支払': 1}</span>とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の早いものを先順位とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第二十二条第一項の規定による還付金について還付加算金の<span>額{'金額': 1}</span>を計算する場合には、同<span>項{'規定': 1}</span>に規定する地方法人税中間<span>申告{'納付': 1}</span>書に係る<span>中間{'提出': 1}</span><span>納付{'申告': 1}</span>額（当該還付金をもって充当をされる部分の金額を除く。）のうち次に<span>定める{'掲げる': 2}</span><span>順序{'金額': 1}</span>により<span>当該{'前': 1, '規定': 1}</span><span>還付{'所得税': 1}</span>金の<span>額{'金額': 1}</span>（当該還付金をもって前条第一号又は第二号の<span>充当{'規定': 1}</span>をする場合には、当該充当をする還付金の額を<span>控除{'相当': 1}</span>した金額）に達するまで順次<span>遡っ{'さかのぼっ': 1}</span>て求めた各<span>中間{'金額': 1}</span>納付額を法第二十二条第三項に規定する還付をすべき中間納付額として、同項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該中間納付額のうち確定の日を異にするものについては、その確定の日の遅いものを先順位とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の遅いものを先順位とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（欠損金の繰戻しによる法人税の還付があった場合の還付の通知）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>税務署長は、<span>法{'当該': 1}</span>第二十三条第一項の内国<span>法人{'居住者': 1}</span>又は外国法人に対して法人税法第八十条第七項（同法第八十一条の三十一第六項又は第百四十四条の十三第十三項において準用する場合を含む。）の<span>規定{'揮発油税法': 2}</span>により<span>同法{'法': 1}</span>第八十条第一項に規定する還付<span>所得{'金額': 1}</span><span>事業年度{'金額': 2}</span>、<span>同法{'所得': 1}</span>第八十一条の三十一第一項に規定する還付所得<span>連結{'税額': 1}</span>事業年度、同法第百四十四条の十三<span>第一{'二条': 1}</span>項第一号に規定する還付所得<span>事業年度{'金額': 2, '税額': 1}</span>、同<span>項{'法人税法': 1}</span>第二号に規定する還付所得<span>事業年度{'金額': 3}</span>又は同条第二項に規定する<span>還付{'事業年度': 2}</span>所得<span>事業年度{'金額': 1, '場合': 1}</span>に該当する<span>課税{'連結': 1}</span><span>事業年度{'所得': 1, '特例': 1}</span>に係る<span>法人税{'所得': 1}</span>を<span>還付{'適用': 1}</span>する場合には、当該内国<span>法人{'居住者': 1}</span>又は<span>外国法人{'規定': 1}</span>に対し、当該課税事業年度の法第二十三条第一項に規定する確定<span>地方法人税{'金額': 1}</span>額のうち同<span>項{'国税通則法': 1}</span>の規定により還付すべきことと<span>なる{'受ける': 1}</span>金額を通知する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（更正等又は決定による中間納付額に係る延滞税の還付金額及び還付加算金の額の計算等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十八条第三項に規定する<span>政令{'財務省令': 2}</span>で定めるところにより計算した金額は、第一号に掲げる金額から第二号に掲げる金額を控除した<span>残額{'金額': 4}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>法{'合計': 1}</span>第二十八条第一項又は第二項に規定する地方法人税中間<span>申告{'納付': 1}</span>書に係る中間<span>納付{'申告': 1}</span>額について納付された<span>延滞{'外国法人': 1}</span><span>税{'所得税': 1}</span>の額の<span>合計{'額': 1}</span>額（当該<span>延滞{'利子': 1}</span>税のうちに既に法第二十二条第二項又は第二十八条第三項の規定により還付されるべきこととなったものがある場合には、その還付されるべきこととなった<span>延滞{'外国法人': 1, '外国': 1}</span><span>税{'所得税': 1}</span>の額を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該中間納付額（<span>法{'金額': 1}</span>第二十二条第一項又は第二十八条第一項若しくは第二項の規定による還付金をもって充当をされる部分の金額を除く。）のうち次に<span>定める{'掲げる': 2}</span><span>順序{'金額': 2}</span>により<span>当該{'前': 1, '規定': 1}</span>還付の<span>基{'額': 1}</span>因と<span>なる{'なっ': 1}</span>決定（<span>国税通則法{'項': 1}</span>第二十五条の規定による決定をいう。）又は更正等（同<span>項{'法': 2, '国税通則法': 1}</span>に規定する<span>更正{'譲渡': 1}</span>等をいう。）に係る法第十九条第一項第二号に掲げる<span>金額{'場合': 1}</span>（第四項において準用する第<span>六条{'場合': 2}</span><span>第一{'規定': 2}</span>号の<span>充当{'規定': 1}</span>をされる<span>地方法人税{'金額': 1}</span>がある場合には、当該<span>地方法人税{'法人税': 1}</span>の額を加算した金額）に達するまで順次求めた各中間納付額につき国税に関する法律の規定により計算される<span>延滞{'外国法人': 2}</span>税の額の合計額</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該<span>中間{'国税': 1}</span>納付額のうち確定の日を異にするものについては、その確定の日の早いものを先<span>順位{'支払': 1}</span>とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の早いものを先順位とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>法{'施行令': 1}</span>第二十八条第四項第二号イ（２）に規定する<span>政令{'財務省令': 2}</span>で定める理由は、<span>国税通則法{'項': 1, '法': 2}</span>第五十八条第五項に<span>規定{'施行令': 1}</span>する<span>政令{'財務省令': 3}</span>で定める理由とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第二十八条第一項又は第二項の規定による還付金について<span>還付{'金額': 2}</span><span>加算{'所得税': 1}</span>金の額を計算する場合には、これらの規定に規定する地方法人税中間申告書に係る中間<span>納付{'申告': 2}</span>額（既に法第二十二条第三項の<span>還付{'規定': 4}</span><span>加算{'法人税': 1}</span>金の<span>額{'金額': 1, '税': 1}</span>の計算の基礎とされた部分の金額が<span>あり{'除く': 1}</span>、又は法第二十八条第一項若しくは第二項の規定による還付金をもって充当をされる部分の<span>金額{'当該': 1}</span>が<span>ある{'超える': 1}</span>場合には、これらの金額を<span>除く{'及び': 1}</span>。以下この項において同じ。）のうち次に<span>定める{'掲げる': 3}</span><span>順序{'金額': 1}</span>により当該還付金の<span>額{'金額': 1}</span>（当該還付金をもって<span>次項{'前条': 1}</span>において<span>準用{'法': 1}</span>する第六条<span>第一{'還付': 1}</span>号又は第二号の充当をする場合には、当該充当をする還付金の額を<span>控除{'相当': 1}</span>した金額）に達するまで順次<span>遡っ{'さかのぼっ': 1}</span>て求めた各<span>中間{'金額': 1}</span>納付額を法第二十八条第四項に規定する還付すべき中間納付額として、同項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該中間納付額のうち確定の日を異にするものについては、その確定の日の遅いものを先順位とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の遅いものを先順位とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第六条の<span>規定{'法': 1}</span>は、法第二十八条第一項から第三項までの規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（仮装経理に基づく過大申告の場合の更正に伴う還付特例対象地方法人税額等の範囲）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十九条第一項に規定する<span>政令{'財務省令': 1}</span>で定める金額は、当該<span>課税{'連結': 1}</span><span>事業年度{'物品': 1}</span>の法第六条第一号又は第三号に定める<span>基準{'内国': 1}</span>法人税額に対する地方法人税の額のうち<span>内国{'当該': 1}</span>法人が<span>提出{'特定': 1, '規定': 1}</span>した地方法人税<span>確定申告書{'金額': 1}</span>に記載された<span>法{'事項': 1}</span>第十九条第一項第二号に掲げる金額として納付されたものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第二十九条第四項第三号に規定する<span>政令{'財務省令': 2, '適用': 1}</span>で定める事実は、次に掲げる<span>事実{'書類': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>特別清算{'事業年度': 1}</span>開始の決定があったこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法人税法施行令第二十四条の二第一項に規定する事実</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法令の規定による整理手続によらない<span>負債{'人別': 1}</span>の整理に関する<span>計画{'規定': 1}</span>の決定又は契約の締結で、第三者が関与する協議によるものとして財務省令で定めるものがあったこと（前号に掲げるものを除く。）。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、平成二十六年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（旧規定の適用がある場合における地方法人税の個別帰属額の計算等の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>次の各号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における法第十五条第一項に規定する加算<span>調整{'金額': 4}</span>額は、当該加算<span>調整{'金額': 1}</span>額に当該各号に掲げる規定に<span>規定{'還付': 1}</span>する<span>加算{'計算': 1, '適用': 1}</span>した金額のうち同<span>項{'当該': 1}</span>の<span>連結{'規定': 1}</span>親法人<span>又は{'及び': 1}</span>各連結子法人に帰せられる金額の百分の十・三に相当する金額を<span>加算{'相当': 1, '控除': 1, '当該': 1}</span>した金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>所得税法{'租税特別措置法': 1}</span>等の一部を改正する法律（平成十九年法律第六号。以下この<span>条{'項': 1, '次号': 1, '附則': 1}</span>において「平成十九年改正法」という。）附則第百十三条、第百十四条第六項、第百十五条又は第百十六条の<span>規定{'漁業法': 1}</span>（以下この号において「改正法<span>附則{'関税暫定措置法': 1, '法人税法施行令': 1, '租税特別措置法': 1}</span>規定」という。）によりなお従前の例によることとされる場合における平成十九年改正法第十二条の<span>規定{'前': 2}</span>による改正<span>前{'規定': 1}</span>の租税特別措置法第六十八条の十一第六項、第六十八条の十二第六項、第六十八条の十四第六項<span>又は{'及び': 1}</span>第六十八条の十五第六項の<span>規定{'所得税法': 1}</span>（以下この号において「旧<span>連結{'項': 1, '改正': 1, '租税特別措置法': 1}</span><span>規定{'法人': 2}</span>」という。）及び旧<span>連結{'規定': 1}</span><span>賃借{'事業年度': 1}</span>資産税額控除<span>規定{'限度': 1}</span>（改正法<span>附則{'所得税法': 1, '前': 1}</span>規定に類する規定によりなお従前の例によることとされる場合における旧連結<span>規定{'法人': 6}</span>に類する賃借した資産を事業の用に<span>供し{'供する': 1}</span>なくなった場合の<span>法人{'消費': 1}</span>税額に関する<span>規定{'特別控除': 1}</span>をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>経済<span>社会{'期間': 1}</span>の構造の変化に対応した税制の<span>構築{'整備': 1}</span>を図るための所得税法等の一部を改正する法律（平成二十三年法律第百十四号。以下この<span>条{'次号': 1, '附則': 1, '項': 1}</span>において「平成二十三年改正法」という。）附則第七十五条第一項の規定によりなお従前の例によることとされる<span>場合{'規定': 1}</span>における平成二十三年<span>改正{'同法': 3}</span>法第十九条の<span>規定{'前': 2}</span>による改正前の<span>租税特別措置法{'法人税法施行令': 1}</span>第六十八条の十二第七項の規定</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>次の各号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における法第十六条第一項第一号に規定する<span>地方法人税{'適用': 1}</span>額は、当該地方法人税額から当該各号に掲げる<span>規定{'金額': 4}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に<span>相当{'当該': 1}</span>する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成十九年改正法<span>附則{'規定': 1}</span>第八十九条、第九十条第六項、第九十一条又は第九十二条の規定（以下この号において「改正法<span>附則{'租税特別措置法': 1}</span>規定」という。）によりなお従前の例によることとされる場合における平成十九年改正法第十二条の<span>規定{'前': 2}</span>による改正前の租税特別措置法第四十二条の六第六項、第四十二条の七第六項、第四十二条の十第六項又は第四十二条の十一第六項の規定（以下この号において「旧単体規定」という。）及び旧単体賃借資産税額控除規定（改正法<span>附則{'所得税法': 1, '前': 1}</span>規定に類する規定によりなお従前の例によることとされる場合における旧単体規定に類する賃借した資産を事業の用に<span>供し{'供する': 1}</span>なくなった場合の<span>法人{'消費': 1}</span>税額に関する<span>規定{'特別控除': 1}</span>をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成二十三年改正法<span>附則{'一条': 1}</span>第五十八条の規定によりなお従前の例によることとされる<span>場合{'規定': 1}</span>における平成二十三年<span>改正{'同法': 3}</span>法第十九条の<span>規定{'前': 2}</span>による改正前の租税特別措置法第四十二条の七第七項の規定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>前項{'適用': 1}</span>各号に<span>掲げる{'及び': 1}</span><span>規定{'金額': 1, '書類': 1, '事項': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項各号に掲げる規定の適用がある場合における法第二十三条第一項に規定する基準法人税額に対する<span>地方法人税{'相当': 1}</span>の額は、<span>当該{'連結': 1}</span><span>基準{'連結': 1}</span><span>法人{'雇用者': 1}</span>税額に対する<span>地方法人税{'相当': 1}</span>の額から当該各号に掲げる<span>規定{'金額': 7}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に<span>相当{'控除': 1}</span>する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二項各号に掲げる<span>規定{'金額': 1}</span>の適用が<span>ある{'受ける': 1}</span>場合における法第二十九条第二項に規定する所得基準法人税額に対する<span>地方法人税{'所得税': 1}</span>の額は、当該所得<span>基準{'連結': 1}</span><span>法人{'所得': 1}</span>税額に対する地方法人税の額から当該各号に掲げる<span>規定{'金額': 7}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に相当する金額を<span>控除{'加算': 1}</span>した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二項第一号<span>又は{'及び': 1}</span>第二号に掲げる規定の適用が<span>ある{'受ける': 1}</span><span>場合{'法': 1}</span>における第三条第一項に規定する地方法人税の額は、当該地方法人税の額から第二項第一号又は第二号に掲げる<span>規定{'金額': 6}</span>により加算された金額の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二項第一号に掲げる<span>規定{'金額': 1}</span>の適用がある場合における第三条第三項に規定する地方法人税の額は、当該<span>地方法人税{'所得税': 1, '法人税': 1}</span>の額から同号に掲げる<span>規定{'金額': 7}</span>により加算された金額の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項各号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における第三条第五項に規定する地方法人税の額は、当該地方法人税の額から当該各号に掲げる<span>規定{'金額': 7}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日政令第一四三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この<span>政令{'法律': 1}</span>は、平成二十七年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第一条の<span>改正{'第三条': 1}</span>規定、<span>第三条{'二条': 1}</span>第一項の改正規定（「第三項において「平成二十二年改正法」を「第五項において「平成二十二年<span>改正{'規定': 14}</span>法」に、「第三項において「平成二十三年<span>改正{'規定': 13}</span>法」を「第五項において「平成二十三年<span>改正{'規定': 12}</span>法」に改める部分、「第三項において「平成二十四年改正法」を「第五項において「平成二十四年<span>改正{'規定': 13}</span>法」に改める部分及び「第八項」を「第五項」に改める部分に<span>限る{'除く': 5}</span>。）、同<span>条{'同法': 2, '第五': 1}</span>第三項の改正規定（「第十二条第三項」を「第十二条第四項」に改める部分<span>及び{'若しくは': 1}</span>「第六項」を「第五項」に改める部分に限る。）、同<span>項{'同法': 1}</span>を同条第五項とし、同条第二項の次に二項を加える改正規定、第八条の改正規定及び附則第二条の<span>改正{'規定': 1}</span>規定（同条第三項に係る部分を<span>除く{'限る': 2}</span>。）は、平成二十八年<span>四月一日{'政令': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>政令{'省令': 1, '法律': 1}</span>の施行の日から平成二十八年三月三十一日までの間における改正後の地方<span>法人税法施行令{'施行令': 1}</span>第三条第一項の規定の適用については、同<span>項{'条': 1}</span>中「及び第五項」とあるのは、「及び第三項」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'二条': 1}</span>第<span>二条{'目次': 1, '規定': 1}</span>第一項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に<span>限る{'除く': 1}</span>。）、同<span>条{'同法': 2}</span>第二項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に<span>限る{'除く': 1}</span>。）、同<span>条{'同法': 1}</span>第三項及び第四項の改正規定、同条第五項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に<span>限る{'除く': 1}</span>。）、同<span>条{'同法': 3}</span>第六項の改正規定並びに同<span>条{'第一': 1}</span>第七項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に<span>限る{'除く': 1}</span>。）並びに<span>次{'附則': 5}</span>条<span>及び{'並びに': 1}</span>附則<span>第三条{'第九条': 1}</span>の規定は、令和元年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（旧規定の適用がある場合における地方法人税の個別帰属額の計算等の特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正後の地方法人税法施行令（以下「新令」という。）附則第<span>二条{'第一': 1}</span>第一項の規定は、連結親法人又はその各連結子法人の令和元年十月一日以後に<span>開始{'当該': 2}</span>する<span>課税{'連結': 3}</span><span>事業年度{'特例': 1, '期間': 1}</span>又は<span>当該{'法人': 1}</span><span>課税{'連結': 4}</span><span>事業年度{'期間': 1}</span>終了の日の属する<span>連結{'課税': 1}</span>事業年度（法人税法（昭和四十年<span>法律{'二条': 5}</span>第三十四号）第十五条の二に<span>規定{'二条': 1}</span>する連結事業年度を<span>いう{'除く': 1}</span>。以下この項において同じ。）の所得税法等の一部を改正する法律（平成二十八年法律第十五号。以下「改正法」という。）<span>第三条{'附則': 1, '一条': 1}</span>の規定による改正後の<span>地方法人税法{'租税特別措置法': 3, '前': 1, '所得税法': 1}</span>（以下「新法」という。）第十五条第一項に規定する加算<span>調整{'規定': 1}</span>額について適用し、連結親法人又はその各連結子法人の同月一日前に<span>開始{'当該': 1}</span>した<span>課税{'連結': 4}</span><span>事業年度{'期間': 1}</span>又は当該<span>課税{'連結': 4}</span><span>事業年度{'期間': 1}</span>終了の日の属する連結事業年度の<span>改正{'法': 1}</span>法<span>第三条{'附則': 1}</span>の規定による改正<span>前{'規定': 1}</span>の<span>地方法人税法{'法人税法施行令': 1, '所得税法': 1, '租税特別措置法': 2}</span>（以下この条において「<span>旧法{'法人税法': 1}</span>」という。）第十五条第一項に規定する加算<span>調整{'税': 1, '金額': 1}</span>額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 1}</span>附則第二条第二項の規定は、法人の令和元年十月一日以後に開始する<span>新法{'法': 1}</span>第十六条<span>第一{'二条': 1}</span>項第一号に規定する前課税<span>事業年度{'特例': 1, '期間': 1}</span>の同号に規定する<span>地方法人税{'規定': 1}</span>額について適用し、法人の<span>同日{'施行日': 1}</span>前に開始した<span>旧法{'事業年度': 5, '租税特別措置法': 1}</span>第十六条第一項第一号に規定する前<span>課税{'連結': 1}</span><span>事業年度{'特例': 2, '期間': 1}</span>の同号に規定する地方法人税額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 1}</span>附則第<span>二条{'一条': 1}</span>第三項の規定は、<span>法人{'郵便貯金銀行': 1}</span>（法人税法第二条第八号に規定する人格のない社団等を<span>含む{'いう': 1, '及び': 1}</span>。以下この<span>条{'四月一日': 1, '施行日': 1}</span>において同じ。）の令和元年十月一日以後に開始する新法第二十三条第一項本文に規定する課税<span>事業年度{'物品': 1, '期間': 2}</span>の同項に規定する<span>基準{'対象': 1, '課税標準': 1}</span>法人税額に対する<span>地方法人税{'所得税': 1}</span>の<span>額{'規定': 1, '当該': 1}</span>について<span>適用{'当該': 1}</span>し、法人の<span>同日{'施行日': 1}</span>前に開始した<span>旧法{'事業年度': 3}</span>第二十三条第一項本文に規定する課税<span>事業年度{'物品': 1, '期間': 1}</span>の同項に規定する<span>基準{'対象': 1, '課税標準': 1}</span>法人税額に対する地方法人税の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 1}</span>附則第二条第四項の<span>規定{'内国': 1}</span>は、法人の令和元年十月一日以後に開始する新法第二十九条第二項の各課税<span>事業年度{'物品': 1, '期間': 1}</span>の同項に規定する所得<span>基準{'課税標準': 1, '調整': 1}</span>法人<span>税額{'所得': 1}</span>に対する<span>地方法人税{'所得税': 1}</span>の<span>額{'規定': 1}</span>について<span>適用{'当該': 1}</span>し、法人の同日前に開始した<span>旧法{'事業年度': 5}</span>第二十九条第二項の各課税<span>事業年度{'期間': 1}</span>の同項に規定する所得<span>基準{'課税標準': 1, '調整': 1}</span>法人税額に対する<span>地方法人税{'所得税': 1}</span>の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 2}</span>附則第二条第五項の規定は、内国法人の令和元年十月一日以後に開始する課税<span>事業年度{'特例': 1}</span>の<span>新令{'法': 1}</span>第三条第一項に規定する地方法人税の額について適用し、<span>内国{'沖縄': 1}</span>法人の同日前に開始した<span>課税{'連結': 1}</span><span>事業年度{'期間': 1, '特例': 1}</span>の改正<span>前{'規定': 1}</span>の地方<span>法人税法施行令{'法律': 1}</span>（以下この条において「旧<span>令{'規定': 1}</span>」という。）第三条第一項に規定する<span>地方法人税{'所得税': 1}</span>の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 2}</span>附則第<span>二条{'一条': 1}</span>第六項の<span>規定{'非課税': 1}</span>は、外国法人の令和元年十月一日以後に開始する課税<span>事業年度{'期間': 2, '特例': 1}</span>の新令第三条第三項に規定する<span>地方法人税{'所得税': 1}</span>の額について<span>適用{'規定': 1}</span>し、<span>外国法人{'法人': 2}</span>の同日前に開始した<span>課税{'連結': 1}</span><span>事業年度{'期間': 1, '信託': 1}</span>の旧令第三条第三項に規定する地方法人税の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>新令{'改正': 1}</span>附則第二条第七項の規定は、連結親法人の令和元年十月一日以後に開始する課税<span>事業年度{'期間': 1}</span>の新令第三条第五項に規定する地方法人税の額について適用し、連結親法人の同日前に<span>開始{'終了': 1}</span>した<span>課税{'連結': 2}</span><span>事業年度{'期間': 1}</span>の旧令第三条第五項に規定する地方法人税の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（地方法人税の個別帰属額の計算等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法<span>附則{'前': 1}</span>第三十条第二項に規定する法人税の<span>額{'還付': 1}</span>への<span>加算{'附則': 1, '計算': 1}</span>に関する<span>特例{'金額': 1}</span>を定めている規定として<span>政令{'財務省令': 2}</span>で定める規定は、次の各号に掲げる<span>規定{'場合': 1}</span>とし、同項に規定する附則の規定として<span>政令{'財務省令': 1}</span>で定める規定は、<span>当該{'財務省令': 1, '政令': 8}</span>各号に定める<span>規定{'施行': 3, '金額': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>所得税法等の一部を改正する法律（平成二十七年法律第九号。以下「平成二十七年改正法」という。）附則第八十四条第四項の規定によりなお従前の例によることとされる<span>場合{'規定': 1}</span>における平成二十七年<span>改正{'同法': 3}</span>法第八条の<span>規定{'前': 2}</span>による改正前の<span>租税特別措置法{'所得税法': 1}</span>（昭和三十二年<span>法律{'改正': 2}</span>第二十六号）第六十八条の九第十一項の<span>規定{'改正': 2}</span></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十七年改正法附則第八十四条第四項の<span>規定{'改正': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>改正法<span>附則{'法人税法施行令': 1, '租税特別措置法': 1}</span>第百十条第二項の規定によりなお従前の例によることとされる<span>場合{'規定': 1}</span>における<span>改正{'同法': 3}</span>法第十条の<span>規定{'前': 1}</span>による改正前の<span>租税特別措置法{'所得税法施行令': 1}</span>（以下「旧<span>租税特別措置法{'旧法': 2, '規定': 1}</span>」という。）第六十八条の十五第五項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法<span>附則{'租税特別措置法': 1}</span>第百十条第二項の規定</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令和元年十月一日以後に開始する新法第十六条第一項第一号に規定する前課税<span>事業年度{'期間': 1}</span>において次の各号に掲げる規定の適用が<span>ある{'受ける': 3}</span>場合における同条の規定の適用については、<span>当該{'項': 1}</span>前<span>課税{'連結': 2}</span>事業年度の同項第一号に規定する<span>地方法人税{'適用': 1}</span>額は、<span>当該{'政令': 3, '財務省令': 1}</span>各号に定める規定にかかわらず、当該地方法人税額から当該各号に掲げる<span>規定{'金額': 5}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に相当する金額を控除した<span>金額{'前項': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>平成二十七年改正法附則第七十三条第一項の規定によりなお従前の例によることとされる場合における平成二十七年<span>改正{'同法': 3}</span>法第八条の<span>規定{'前': 2}</span>による改正前の租税特別措置法第四十二条の四第十一項の<span>規定{'改正': 1}</span></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十七年改正法附則第七十三条第一項の規定</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>改正法附則第八十八条第二項又は第八十九条第二項の規定によりなお従前の例によることとされる場合における旧<span>租税特別措置法{'令': 1}</span>第四十二条の十第五項又は第四十二条の十一第五項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法<span>附則{'国税通則法': 1}</span>第八十八条第二項又は第八十九条第二項の規定</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前項第一号に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号に定める<span>規定{'ほか': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>改正法<span>附則{'法人税法施行令': 1, '租税特別措置法': 1}</span>第百九条第二項又は第百十条第二項の規定によりなお従前の例によることとされる場合における旧<span>租税特別措置法{'令': 1}</span>第六十八条の十四第五項又は第六十八条の十五第五項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法<span>附則{'国税通則法': 1}</span>第百九条第二項又は第百十条第二項の<span>規定{'施行日': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令和元年十月一日以後に開始する新法第二十三条第一項本文に規定する課税<span>事業年度{'期間': 2}</span>において前項各号に掲げる<span>規定{'書類': 1}</span>の適用が<span>ある{'受ける': 1}</span>場合における同条の規定の適用については、<span>当該{'項': 1}</span><span>課税{'事業年度': 1}</span><span>事業年度{'物品': 1}</span>の同条第一項に規定する<span>基準{'連結': 2, '課税標準': 1}</span><span>法人{'所得': 1}</span>税額に対する<span>地方法人税{'登録免許税': 1}</span>の額は、<span>当該{'政令': 1, '財務省令': 1}</span>各号に定める規定にかかわらず、当該<span>基準{'課税標準': 1}</span><span>法人{'所得': 1}</span>税額に対する<span>地方法人税{'所得税': 1, '登録免許税': 1, '相当': 1}</span>の額から当該各号に掲げる<span>規定{'金額': 7}</span>により加算された<span>金額{'税': 1}</span>の百分の十・三に相当する金額を<span>控除{'減算': 1}</span>した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令和元年十月一日以後に開始する新法第二十九条第二項の各<span>課税{'規定': 1}</span><span>事業年度{'期間': 1}</span>において第二項第一号又は第二号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における同条の規定の適用については、<span>当該{'項': 1}</span>各課税<span>事業年度{'物品': 1}</span>の同条第二項に規定する所得<span>基準{'課税標準': 1}</span>法人<span>税額{'所得': 1}</span>に対する<span>地方法人税{'所得税': 1, '登録免許税': 1}</span>の額は、第二項第一号又は第二号に定める<span>規定{'金額': 1}</span>にかかわらず、<span>当該{'規定': 1}</span><span>所得{'事業年度': 1}</span>基準法人税額に対する<span>地方法人税{'所得税': 1}</span>の<span>額{'規定': 1}</span>から同項第一号又は第二号に掲げる<span>規定{'金額': 5}</span>により加算された金額の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令和元年十月一日以後に<span>開始{'規定': 1, '当該': 1}</span>する課税<span>事業年度{'期間': 1}</span>において第二項第一号<span>又は{'及び': 1}</span>第二号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における<span>新令{'法': 1}</span>第三条第一項の規定の適用については、同項に規定する地方法人税の額は、第二項第一号又は第二号に定める<span>規定{'書類': 1, '金額': 1}</span>にかかわらず、<span>当該{'規定': 1}</span><span>地方法人税{'所得税': 1, '配当': 1, '登録免許税': 1}</span>の<span>額{'規定': 1}</span>から同項第一号又は第二号に掲げる<span>規定{'金額': 5}</span>により加算された金額の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令和元年十月一日以後に<span>開始{'当該': 1}</span>する課税<span>事業年度{'期間': 1, '規定': 1}</span>において第二項第三号又は第四号に掲げる規定の適用が<span>ある{'受ける': 1}</span>場合における<span>新令{'法': 1}</span>第三条第五項の規定の適用については、同項に規定する地方法人税の額は、第二項第三号又は第四号に定める<span>規定{'ほか': 1}</span>にかかわらず、<span>当該{'規定': 1}</span><span>地方法人税{'所得税': 1, '配当': 1, '登録免許税': 1}</span>の<span>額{'規定': 1}</span>から同項第三号又は第四号に掲げる<span>規定{'金額': 5}</span>により加算された金額の百分の十・三に相当する金額を控除した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年一一月二八日政令第三五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>政令{'法': 1, '法律': 1}</span>は、<span>公布{'四月一日': 3}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>政令{'省令': 1, '法律': 2}</span>は、平成二十九年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence><span>内国{'附則': 1}</span>法人の所得税法等の一部を改正する<span>等{'法律': 5}</span>の法律（平成二十九年法律第四号。以下「改正法」という。）第二条の規定による改正後の<span>法人税法{'関税暫定措置法': 1, '前': 2}</span>（昭和四十年<span>法律{'二条': 1}</span>第三十四号）第八十条第一項に規定する還付所得<span>事業年度{'金額': 1}</span>に該当する<span>課税{'当該': 1, '所得': 1}</span>事業年度のうちに令和元年十月一日前に開始した<span>課税{'連結': 6}</span><span>事業年度{'期間': 1}</span>に該当するものが<span>ある{'なっ': 4}</span>場合において、当該<span>課税{'連結': 1}</span><span>事業年度{'文書': 1, '期間': 1}</span>につき次の各号に掲げる規定の適用が<span>ある{'受ける': 1}</span>ときは、<span>改正{'場合': 2}</span>法<span>第三条{'規定': 1, '一条': 1}</span>の規定による改正後の<span>地方法人税法{'附則': 1, '関税暫定措置法': 1, '租税特別措置法': 1}</span>第二十三条の規定の適用については、当該<span>課税{'連結': 1}</span>事業年度の同条第一項に規定する<span>基準{'連結': 2, '課税標準': 1}</span><span>法人{'所得': 1}</span><span>税額{'所得': 1}</span>に対する地方法人税の額は、<span>当該{'連結': 1}</span><span>基準{'連結': 1}</span><span>法人{'雇用者': 1}</span>税額に対する<span>地方法人税{'相当': 1}</span>の額から当該各号に掲げる<span>規定{'金額': 7}</span>により加算された<span>金額{'税': 1}</span>の百分の四・四に相当する金額を控除した金額とする。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence>所得税法等の一部を改正する法律（平成二十八年法律第十五号。以下「平成二十八年改正法」という。）附則第八十八条第二項の規定によりなお従前の例によることとされる<span>場合{'規定': 1}</span>における平成二十八年<span>改正{'同法': 3}</span>法第十条の<span>規定{'前': 2}</span>による改正<span>前{'規定': 1}</span>の租税特別措置法（昭和三十二年<span>法律{'改正': 1, '効力': 2}</span>第二十六号。以下「平成二十八年旧<span>措置法{'改正': 1, '所得税法': 1}</span>」という。）第四十二条の十第五項の規定</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence>平成二十八年改正法附則第八十九条第二項の規定によりなお従前の例によることとされる場合における平成二十八年旧<span>措置法{'附則': 1}</span>第四十二条の十一第五項の<span>規定{'施行': 1}</span></Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月三一日政令第一三三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この<span>政令{'省令': 2, '法律': 1}</span>は、平成三十年<span>四月一日{'適用': 1}</span>から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>第<span>一条{'略': 1, '第三条': 1}</span>の改正<span>規定{'前': 1}</span>、第三条第一項の改正規定（「法第十条」を「<span>法{'下': 1}</span>第十条及び第十二条の二」に改める部分及び「及び第十条」を「、第十条及び第十二条の二」に改める部分に<span>限る{'除く': 5}</span>。）、同<span>条{'同法': 2}</span>第三項の改正規定、同条第五項の改正規定（「法第十条」を「<span>法{'下': 2, '第一': 1}</span>第十条及び第十二条の二」に改める部分及び「及び第十条」を「、第十条及び第十二条の二」に改める部分に<span>限る{'除く': 3}</span>。）、同<span>条{'同法': 3, '令': 1}</span>の次に<span>一条{'二条': 1}</span>を加える改正規定及び第四条の改正規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>令和二年一月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>第<span>二条{'ハ': 1, '目次': 1, '施行': 1}</span>第二項の改正規定、第四条の次に一条を加える改正規定及び<span>第九条{'令': 1}</span>第一項第二号の<span>改正{'第一': 1}</span>規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>令和二年<span>四月一日{'一月一日': 1}</span></Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第九七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

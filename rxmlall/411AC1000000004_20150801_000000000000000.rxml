@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="4" Year="11">
+  <LawNum>平成十一年法律第四号</LawNum>
+  <LawBody>
+    <LawTitle>特定融資枠契約に関する法律</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、特定融資枠契約に係る手数料について利息制限法（昭和二十九年法律第百号）及び出資の受入れ、預り金及び<span>金利{'規定': 1}</span>等の<span>取締り{'手続': 1}</span>に関する法律（昭和二十九年法律第百九十五号）の特例を定めることにより、企業の資金調達の機動性の増大を図り、もって国民経済の健全な発展に資することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律において「特定<span>融資枠{'手続': 1}</span>契約」とは、一定の期間及び融資の極度額の限度内において、<span>当事者{'規定': 1}</span>の一方の意思表示により当事者間において当事者の一方を借主として<span>金銭{'当該': 1}</span>を目的とする消費貸借を成立させることができる権利を相手方が当事者の一方に付与し、当事者の一方がこれに対して手数料を支払うことを約する契約であって、意思表示により借主となる当事者の一方が契約を締結する時に次に<span>掲げる{'ある': 1}</span>者であるものを<span>いう{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">会社法（平成十七年法律第八十六号）第二条第六号に規定する大会社</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">資本金の額が三億円を超える<span>株式会社{'場合': 1, '手続': 1}</span>（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">会社法第二条第二十四号に規定する最終事業年度の末日における純資産の額（貸借対照表上の資産の額から負債の額を控除して得た額をいう。第六号ロにおいて同じ。）が十億円を超える<span>株式会社{'場合': 1}</span>（前二号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融商品取引法（昭和二十三年法律第二十五号）第百九十三条の二第一項の規定による監査証明を受けなければならない株式会社で、同法第二十四条第一項各号に掲げる有価証券の発行者であるもの（前三号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げる者の子会社（会社法第二条第三号に規定する子会社をいい、前各号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">会社法第二条第二号に<span>規定{'法人': 1}</span>する<span>外国会社{'規定': 1}</span>であって、次のいずれかに該当するもの（前号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical"><span>資本金{'規定': 1}</span>の額又は出資の総額が三億円を超える者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">会社法第八百十九条第一項に規定する貸借対照表に相当するものにおける<span>純資産{'規定': 1}</span>の額に相当するものの額が十億円を超える者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">金融商品取引法第二条第八項第三号ロに規定する外国金融商品市場に上場されている有価証券の発行者である者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">保険業法（平成七年法律第百五号）第二条第五項に規定する相互会社</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融商品取引法第<span>二条{'政令': 1}</span>第九項に規定する金融商品取引業者であって、次のいずれかに該当するもの（第一号から第六号までに掲げる者を除く。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">金融商品取引法第二十八条第一項に規定する第一種金融商品取引業を行う者（同法第二十九条の四の二第九項に規定する第一種少額電子募集取扱業者を除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">金融商品取引法第二十八条第四項に規定する投資運用業を行う者</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">金融商品取引法第二条第三十項に規定する証券金融会社（第一号から第五号までに掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">貸金業法（昭和五十八年法律第三十二号）第二条第二項に規定する貸金業者（株式会社であるものに限り、第一号から第五号まで及び第八号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社（第五号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十三項に規定する登録投資法人（第五号に掲げる者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">一連の行為として、次のイからホまでに掲げる資金調達の方法により得られる金銭をもって資産を<span>取得{'手続': 1}</span>し、<span>当該{'規定': 1}</span><span>資産{'手続': 1}</span>の<span>管理{'手続': 1}</span>及び<span>処分{'規定': 1}</span>により<span>得{'ある': 1}</span>られる<span>金銭{'手続': 1}</span>をもって、それぞれ当該イから<span>ホ{'規定': 1}</span>までに<span>定める{'掲げる': 1}</span><span>行為{'事項': 1}</span>を専ら行うことを目的とする株式会社又は合同会社（第一号から第五号までに掲げる者を除く。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引法第二条第一項第五号に掲げる有価証券又は同項第十七号に掲げる<span>有価証券{'事項': 1}</span>のうち同項第五号に掲げる有価証券の性質を有する有価証券（同条第二項の規定により同号に掲げる有価証券又は同条第一項第十七号に掲げる有価証券のうち同項第五号に掲げる有価証券の性質を有する有価証券とみなされる権利を含む。）の発行</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その債務の履行</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引法第二条第一項第十五号に掲げる有価証券又は同項第十七号に掲げる<span>有価証券{'事項': 1}</span>のうち同項第十五号に掲げる有価証券の性質を有する有価証券（同条第二項の規定により同号に掲げる有価証券又は同条第一項第十七号に掲げる有価証券のうち同項第十五号に掲げる有価証券の性質を有する有価証券とみなされる権利を含む。）の発行</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その債務の履行</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">資金の<span>借入れ{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その債務の履行</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引法第二条第一項第九号に掲げる有価証券又は同項第十七号に掲げる<span>有価証券{'事項': 1}</span>のうち同項第九号に掲げる有価証券の性質を有する有価証券（同条第二項の規定により同号に掲げる有価証券又は同条第一項第十七号に掲げる有価証券のうち同項第九号に掲げる有価証券の性質を有する有価証券とみなされる権利を含む。）の発行</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">利益の配当及び<span>消却{'規定': 1}</span>のための取得又は残余財産の<span>分配{'規定': 1}</span></Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">商法（明治三十二年法律第四十八号）第五百三十五条に規定する匿名組合契約に基づく出資の受入れ</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">利益の分配又は出資の価額若しくは残額の返還</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">特定融資枠契約の当事者の一方である借主が前項第六号に規定する外国会社である場合において、同号イに規定する資本金の額若しくは出資の総額又は同号ロに規定する純資産の額に相当するものを本邦通貨に換算するときは、特定融資枠契約を締結する時の外国為替相場（外国為替及び外国貿易法（昭和二十四年法律第二百二十八号）第七条第一項に規定する基準外国為替相場又は裁定外国為替相場をいう。）によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（利息制限法等の適用除外）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">利息制限法第三条及び第六条並びに出資の受入れ、<span>預り金{'手続': 1}</span>及び<span>金利{'規定': 1}</span>等の取締りに関する法律第五条の四第四項の規定は、特定<span>融資枠{'手続': 1}</span>契約に係る前条第一項の手数料については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、<span>公布{'施行': 1, '規定': 1}</span>の日から<span>施行{'規定': 1}</span>し、この法律の施行後に締結される特定<span>融資枠{'手続': 1}</span>契約について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">特定<span>融資枠{'手続': 1}</span>契約に係る制度の在り方については、この法律の施行後二年を<span>目途{'規定': 1}</span><span>として{'とともに': 1}</span>、<span>検討{'規定': 1}</span>が<span>加え{'ある': 1}</span>られ、その<span>結果{'手続': 1}</span>に<span>基づい{'ある': 1}</span>て<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>が<span>講ぜ{'講ずる': 2, 'ある': 1}</span>られるべきものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第七八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>は、公布の日から施行し、改正後の特定<span>融資枠{'規定': 1}</span>契約に関する法律の規定は、この法律の施行後に締結される特定<span>融資枠{'規定': 1}</span>契約について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">特定<span>融資枠{'手続': 1}</span>契約に係る制度の在り方については、この法律の施行後二年を<span>目途{'規定': 1}</span><span>として{'とともに': 1}</span>、<span>検討{'規定': 1}</span>が<span>加え{'ある': 1}</span>られ、その<span>結果{'手続': 1}</span>に<span>基づい{'ある': 1}</span>て<span>必要{'手続': 1}</span>な<span>措置{'手続': 1}</span>が<span>講ぜ{'講ずる': 1, 'ある': 1}</span>られるべきものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>は、<span>公布{'手続': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年八月一日法律第一三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中目次の改正規定（「第四十三条」を「第四十二条の二」に改める部分に<span>限る{'除く': 1}</span>。）、第十<span>一条{'同法': 2}</span>の改正規定、第十<span>二条{'規定': 1}</span>の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span>、第三十六条<span>第一{'同法': 1, '規定': 1}</span>号の<span>改正{'規定': 1}</span>規定（「第十一条第二項、第十二条」を「第十一条第三項」に改める部分に限る。）、第三十七条第一項第三号の次に二号を<span>加える{'掲げる': 2, 'ある': 1}</span>改正規定（同項第四号に係る部分に限る。）、第六章中第四十三条の前に一条を<span>加える{'ある': 1}</span>改正規定、第四十七条の改正規定、同<span>条{'同法': 2}</span>の次に一条を加える改正規定、第四十八条<span>第一{'同法': 2}</span>号の改正規定、同条第三号を<span>削る{'ある': 1}</span>改正規定及び同<span>条{'同法': 1}</span>第二号を同条第三号とし、同号の次に五号を<span>加える{'ある': 1}</span>改正規定（同条第四号及び第五号に係る部分に限る。）、第四十九条第五号を削る改正規定、同条第三号を削る改正規定及び同<span>条{'同法': 2}</span>第一号の次に二号を<span>加える{'掲げる': 1, 'ある': 1}</span>改正規定（同条第二号に係る部分に限る。）<span>並び{'同法': 2, '規定': 1}</span>に第五十一条の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span><span>並び{'手続': 1}</span>に第二条<span>並びに{'ただし': 1}</span><span>附則{'規定': 1}</span>第六条、第八条から第十<span>一条{'規定': 1}</span>まで、第十<span>三条{'規定': 1}</span>、第十<span>六条{'規定': 1}</span>及び第十七条の<span>規定{'手続': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一月{'三月': 1, '六月': 1, '規定': 1}</span>を<span>経過{'手続': 1}</span>した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日（以下「<span>施行日{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="90">
+        <ArticleCaption>（特定融資枠契約に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第九十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に特定<span>融資枠{'規定': 1}</span>契約に関する法律第二条に規定する特定融資枠契約であった契約であって、意思表示により借主となる当事者の一方が契約を締結する時に旧特定<span>債権{'手続': 1}</span>法第二条第五項に規定する特定債権等譲受業者であったものについては、前条の規定による改正後の特定融資枠契約に関する法律第二条の規定にかかわらず、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="121">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第百二十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>の<span>施行{'手続': 1}</span><span>前{'手続': 1}</span>の<span>それぞれ{'規定': 1}</span>の<span>法律{'規定': 1}</span>（これに<span>基づく{'ある': 1}</span><span>命令{'規定': 1}</span>を<span>含む{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>において同じ。）の<span>規定{'手続': 1}</span>によって<span>した{'規定': 1}</span><span>処分{'規定': 1}</span>、<span>手続{'規定': 1}</span>その他の<span>行為{'規定': 1}</span>であって、<span>改正{'規定': 1}</span>後の<span>それぞれ{'規定': 2}</span>の<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>に相当の規定があるものは、この附則に<span>別段{'相当': 1}</span>の定めがあるものを除き、改正後のそれぞれの<span>法律{'規定': 1}</span>の<span>相当{'施行': 1, '手続': 1}</span>の<span>規定{'手続': 1}</span>によってしたものと<span>みなす{'取り消さ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="122">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span><span>並びに{'及び': 1}</span>この<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>及びこの<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="123">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'法律': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴い{'ある': 1}</span><span>必要{'規定': 1}</span>な<span>経過{'手続': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>は、<span>会社法{'信託': 1}</span>の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、平成十八年<span>証券取引法{'規定': 1}</span>改正法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年一二月二〇日法律第一一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日（以下「<span>施行日{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span>規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical"><span>略{'一条': 1, '附則': 1, '手続': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第四条、第五条、第七条及び第八条の<span>規定{'手続': 1}</span>並びに附則第十七条から第二十八条まで、第二十九条第三項、第三十五条、第四十六条、第四十七条、第五十一条から第五十三条まで及び第六十三条の二の<span>規定{'法律': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>施行{'公布': 2, '規定': 1}</span>日から<span>起算{'手続': 1}</span>して二年<span>六月{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'施行': 1, '手続': 1}</span>は、平成二十年十月一日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中金融商品取引法第百九十七条の二第十号の四を同条第十号の七とし、同条第十号の三の次に三号を<span>加える{'ある': 1}</span>改正<span>規定{'手続': 1}</span>、同法第百九十八条及び第二百七条第一項第三号の改正規定並びに同<span>項{'同法': 2, '規定': 1}</span>第六号の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span>（「第百九十八条（第五号及び第八号を除く。）」を「第百九十八条第四号の二」に改める部分に限る。）、第六条中<span>投資信託及び投資法人に関する法律{'規定': 2}</span>第二百四十八条の改正規定並びに<span>附則{'同法': 1}</span>第三十条及び第三十一条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'施行': 1, '規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（特定融資枠契約に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十三条の規定による改正後の特定<span>融資枠{'規定': 1}</span>契約に関する法律の規定は、この法律の施行後に締結される特定<span>融資枠{'規定': 1}</span>契約について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="30">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律（附則第一条各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>当該{'手続': 1}</span><span>規定{'手続': 1}</span>。以下この<span>条{'手続': 1}</span>において同じ。）の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span><span>及び{'ただし': 1}</span>この<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'新法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="31">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'法律': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>（<span>罰則{'規定': 1}</span>に関する<span>経過{'手続': 1}</span><span>措置{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）は、<span>政令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>政府{'手続': 1}</span>は、この<span>法律{'規定': 1}</span>の<span>施行{'会社法': 1, '規定': 1}</span>後五年以内に、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>の<span>状況{'規定': 1}</span>について<span>検討{'規定': 1}</span>を<span>加え{'ある': 1}</span>、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、その<span>結果{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て<span>所要{'手続': 1}</span>の<span>措置{'規定': 1}</span>を<span>講ずる{'ある': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年五月三〇日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第<span>一条{'規定': 1}</span>中<span>金融商品取引法{'規定': 1}</span>第八十七条の二第一項<span>ただし書{'規定': 1}</span>の<span>改正{'手続': 1}</span><span>規定{'手続': 1}</span>並びに<span>附則{'同法': 1, '規定': 1}</span>第十七条<span>及び{'ただし': 1}</span>第十八条の<span>規定{'手続': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'規定': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>（<span>附則{'規定': 1}</span>第<span>一条{'規定': 1}</span>各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>当該{'手続': 1}</span><span>規定{'手続': 1}</span>。以下この<span>条{'手続': 1}</span>において同じ。）の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span><span>及び{'ただし': 1}</span>この<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>によりなお<span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'新法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、なお<span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'規定': 1}</span>第二条から第<span>六条{'八条': 1, '規定': 1}</span>まで及び<span>前条{'規定': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'手続': 1}</span>、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>経過{'手続': 1}</span><span>措置{'規定': 1}</span>（<span>罰則{'規定': 1}</span>に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

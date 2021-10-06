@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="57" Year="11">
+  <LawNum>平成十一年大蔵省令第五十七号</LawNum>
+  <LawBody>
+    <LawTitle>特定金融会社等の開示に関する内閣府令</LawTitle>
+    <EnactStatement>金融業者の貸付業務のための社債の発行等に関する法律（平成十一年法律第三十二号）の施行に伴い、及び証券取引法（昭和二十三年法律第二十五号）の規定に基づき、特定金融会社等の開示に関する省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">特定金融会社等は、金融商品取引法の規定により有価証券届出書、発行登録書、発行登録追補書類、有価証券報告書、四半期報告書又は<span>半期報告書{'規定': 1}</span>を提出するためこれらの書類を作成するときは、企業内容等の開示に関する内閣府令（昭和四十八年大蔵省令第五号。以下「<span>開示{'規定': 1}</span>府令」という。）に<span>定める{'掲げる': 1}</span>事項のほか、この府令に定める<span>事項{'施行': 1}</span>をこの<span>府令{'内閣府令': 1}</span>の定めるところにより<span>記載{'施行': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令において、<span>次{'一条': 1}</span>の各号に<span>掲げる{'定める': 1}</span>用語の意義は、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">特定<span>金融{'資産': 1, '承継': 1}</span><span>会社{'指標': 1}</span>等</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融<span>業者{'機関': 1}</span>の貸付<span>業務{'債権': 1}</span>のための社債の発行等に関する法律（以下「社債法」という。）第二条第三項に規定する特定<span>金融{'有価証券': 1}</span>会社等をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">有価証券届出書</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法第二条第七項に規定する有価証券届出書のうち、同法第五条第一項（同法第二十七条において準用する場合を含む。以下同じ。）の規定によるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">発行登録書</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>金融商品取引法{'二条': 1}</span>第二十三条の三第一項に規定する発行登録書をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">発行登録追補書類</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法第二十三条の八第一項に規定する発行登録追補書類をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">有価証券報告書</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法第二十四条第一項（同法第二十七条において準用する場合を含む。以下同じ。）に規定する有価証券報告書をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">四半期報告書</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法第二十四条の四の七第一項（同法第二十七条において準用する場合を含む。以下同じ。）に規定する四半期報告書をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>半期報告書{'金融商品取引法': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">金融商品取引法第二十四条の五第一項（同法第二十七条において準用する場合を含む。以下同じ。）に規定する半期報告書をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（貸付金残高の内訳等の有価証券届出書における開示）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>金融商品取引法{'項': 1, '法': 1}</span>第五条第一項の規定により有価証券届出書を提出しようとする特定<span>金融{'承継': 2}</span><span>会社{'指標': 1}</span>等（以下「届出書<span>提出{'四半期報告書': 1}</span>特定金融会社等」という。）のうち次の各号に掲げる事項を記載した有価証券報告書、<span>四半期報告書{'提出': 3}</span>又は半期報告書を提出していない者は、当該有価証券届出書に、当該有価証券届出書の提出日の属する<span>事業年度{'当該': 1}</span>（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該届出書提出特定<span>金融{'承継': 2}</span>会社等に係る次の各号に掲げる<span>事項{'業務': 1, '規定': 1}</span>を、<span>当該{'金融庁長官': 1}</span>各号に定める<span>様式{'事項': 2}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">貸付金の種別残高内訳</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別紙様式第一号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">資金調達内訳</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別紙様式第二号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">業種別貸付金残高内訳</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別紙様式第三号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>担保{'作成': 1}</span>別貸付金残高内訳</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別紙様式第四号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>期間{'担保': 1, '作成': 1}</span>別貸付金残高内訳</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別紙様式第五号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'改正': 1}</span>の規定により同項に規定する事項を有価証券届出書に<span>記載{'当該': 1}</span>しようとする届出書提出特定<span>金融{'提出': 1}</span>会社等は、次の各号に掲げる<span>有価証券届出書{'別紙': 2}</span>の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第二部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第二号の三様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の四様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第二部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の五様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第三部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（貸付金残高の内訳等の発行登録書における開示）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">金融商品取引法第二十三条の三第一項の規定により<span>発行登録書{'四半期報告書': 1}</span>を提出しようとする特定<span>金融{'提出': 1}</span>会社等（以下「発行登録書提出特定金融会社等」という。）のうち前条第一項各号に掲げる事項を記載した有価証券報告書、<span>四半期報告書{'提出': 2}</span>又は半期報告書を提出していない者は、当該発行登録書に、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前<span>事業年度{'適用': 1}</span>終了の日における当該発行登録書提出特定<span>金融{'提出': 1}</span>会社等に係る同<span>項{'第三条': 1}</span>各号に掲げる<span>事項{'場合': 1}</span>を、<span>当該{'内閣府令': 1}</span>各号に定める<span>様式{'事項': 5}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'注意': 1, '事項': 2}</span>の<span>規定{'場合': 1}</span>により同<span>項{'前項': 1}</span>に規定する事項を<span>発行登録書{'別紙': 2}</span>に記載しようとする発行登録書提出特定<span>金融{'提出': 1}</span>会社等は、次の各号に掲げる発行登録書の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span><span>府令{'別紙': 2}</span>第十一号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十一号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十一号の二の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical"><span>証券{'改正': 1}</span>情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の<span>記載{'記録': 1}</span><span>事項{'準用': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（貸付金残高の内訳等の発行登録追補書類における開示）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>金融商品取引法{'法': 1}</span>第二十三条の八第一項の規定により発行登録追補書類を提出しようとする特定<span>金融{'提出': 1}</span>会社等（以下「発行登録特定<span>金融{'承継': 3}</span><span>会社{'法律': 1}</span>等」という。）のうち第三条第一項各号に掲げる<span>事項{'会社': 1}</span>を記載した有価証券報告書、<span>四半期報告書{'提出': 1}</span>又は半期報告書を提出していない者は、当該発行登録追補書類に、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該発行登録特定<span>金融{'承継': 1}</span>会社等に係る同項各号に掲げる<span>事項{'場合': 1}</span>を、<span>当該{'内閣府令': 1}</span>各号に定める<span>様式{'事項': 5}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'注意': 1, '事項': 2}</span>の<span>規定{'場合': 1}</span>により同<span>項{'前項': 1}</span>に規定する事項を発行登録追補書類に記載しようとする発行登録特定金融会社等は、次の各号に<span>掲げる{'除く': 1}</span><span>発行登録追補書類{'別紙': 2}</span>の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span><span>府令{'別紙': 2}</span>第十二号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十二号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical"><span>証券{'改正': 1}</span>情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の<span>記載{'記録': 1}</span><span>事項{'準用': 2}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（貸付金残高の内訳等の有価証券報告書における開示）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">金融商品取引法第二十四条第一項又は第三項の規定により有価証券報告書を提出すべき特定<span>金融{'承継': 1}</span>会社等（以下「報告書提出特定<span>金融{'承継': 2}</span>会社等」という。）は、当該有価証券報告書に、当該有価証券報告書に係る事業年度終了の日における当該報告書提出特定<span>金融{'承継': 2, '資産': 1}</span>会社等に係る第三条第一項各号に掲げる<span>事項{'規定': 1}</span>を、当該各号に定める<span>様式{'事項': 6}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'注意': 1, '事項': 2}</span>の<span>規定{'場合': 1}</span>により同<span>項{'前項': 1}</span>に規定する事項を有価証券報告書に記載しようとする<span>報告書{'事項': 1}</span>提出<span>特定{'会社': 1}</span><span>金融{'提出': 1, '承継': 1, '発行': 1}</span><span>会社{'指標': 1}</span>等は、次の各号に掲げる<span>有価証券報告書{'別紙': 2}</span>の<span>様式{'事項': 1}</span>の区分に応じ、<span>当該{'該各': 1}</span>各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span>府令第三号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同様{'様式': 1}</span>式の第一部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第三号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第一部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第四号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第一部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（貸付金残高の内訳等の第二・四半期に係る四半期報告書における開示）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">金融商品取引法第二十四条の四の七第一項の規定により四半期報告書を提出すべき<span>特定{'会社': 1}</span><span>金融{'提出': 1}</span>会社等（以下「四半期報告書提出特定金融会社等」という。）は、第二・四半期（事業年度における最初の四半期の<span>次{'会計期間': 1}</span>の四半期をいう。以下同じ。）に係る四半期報告書に、第二・四半期終了の日における当該四半期報告書提出特定<span>金融{'提出': 1}</span>会社等に係る第三条第一項各号に掲げる<span>事項{'規定': 1}</span>を、当該各号に定める<span>様式{'事項': 5}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'注意': 1, '事項': 2}</span>の<span>規定{'場合': 1}</span>により同項に規定する事項を第二・<span>四半期{'規定': 1}</span>に係る四半期報告書に記載しようとする四半期報告書提出特定金融会社等は、開示<span>府令{'内閣府令': 1}</span>第四号の三様式の第一部　企業情報の第２　事業の状況の１　生産、受注及び販売の状況の箇所に記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（貸付金残高の内訳等の半期報告書における開示）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">金融商品取引法第二十四条の五第一項の規定により半期報告書を提出すべき特定<span>金融{'提出': 1}</span>会社等（以下「半期報告書提出<span>特定{'会社': 1}</span>金融会社等」という。）は、当該半期報告書に、当該半期報告書に係る事業年度の<span>開始{'起算': 1}</span>の日から六月を経過する日における<span>当該{'間': 1}</span>半期報告書提出<span>特定{'会社': 1}</span><span>金融{'提出': 1}</span>会社等に係る第三条第一項各号に掲げる<span>事項{'規定': 1}</span>を、当該各号に定める<span>様式{'事項': 6}</span>により記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'注意': 1, '事項': 2}</span>の<span>規定{'場合': 1}</span>により同<span>項{'前項': 1}</span>に規定する<span>事項{'外国会社': 1}</span>を半期報告書に<span>記載{'書類': 1}</span>しようとする半期報告書提出特定金融会社等は、次の各号に掲げる<span>半期報告書{'別紙': 2}</span>の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span><span>府令{'内閣府令': 1}</span>第五号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同様{'様式': 1}</span>式の第<span>一部{'記載': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第五号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>同様{'様式': 1}</span>式の第<span>一部{'記載': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（不良債権の状況の有価証券届出書における開示）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">届出書提出<span>特定{'金融機関': 1}</span><span>金融{'提出': 1, '生命保険': 1, '承継': 1}</span>会社等のうち特定<span>金融{'承継': 1}</span>会社等の会計の整理に関する内閣府令（平成十一年総理府令・大蔵省令第三十二号。以下「会計府令」という。）第九条第一項の規定により同項各号に該当する貸付金（以下「不良債権」という。）に関する事項（以下「不良債権の状況」という。）を注記した財務諸表（貸借対照表、損益計算書、株主資本等変動計算書、キャッシュ・フロー計算書及び附属<span>明細{'明細書': 3}</span>表をいう。以下同じ。）を記載した有価証券報告書、会計<span>府令{'法': 1}</span>第二十<span>一条{'改正': 1}</span>第二項の規定により不良債権の状況を注記した第二・四半期に係る四半期財務諸表（四半期貸借対照表、四半期損益計算書及び四半期キャッシュ・フロー計算書をいう。以下同じ。）若しくは会計府令第二十四条第三項の規定により不良債権の状況を注記した第二・四半期に係る四半期連結財務諸表（四半期連結貸借対照表、四半期連結損益計算書及び四半期連結キャッシュ・フロー計算書をいう。以下同じ。）を記載した<span>四半期報告書{'書面': 1}</span>又は会計府令第二十二条第二項の規定により<span>不良債権{'作成': 1}</span>の状況を注記した中間財務諸表（中間貸借対照表、中間損益計算書、中間株主資本等変動計算書及び中間キャッシュ・フロー計算書をいう。以下同じ。）を記載した半期報告書を提出していない者は、有価証券届出書に、当該有価証券届出書の提出日の属する<span>事業年度{'当該': 1}</span>（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等に係る不良債権の状況を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項に規定する不良債権の状況の記載に当たっては、次の各号に掲げる場合の区分に応じ、当該各号に定める事項を記載するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">不良債権がある場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該不良債権の金額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">不良債権がない場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">その旨</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の規定により同項に規定する不良債権の状況を有価証券届出書に記載しようとする届出書提出特定<span>金融{'提出': 1}</span>会社等は、次の各号に掲げる<span>有価証券届出書{'別紙': 2}</span>の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第二部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第二号の三様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の四様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第二部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示府令第二号の五様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第三部</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">企業情報の第２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">事業の状況の２</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="5">
+                <Sentence WritingMode="vertical">生産、受注及び販売の状況</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（不良債権の状況の発行登録書における開示）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">発行登録書提出特定<span>金融{'提出': 1}</span>会社等のうち<span>会計{'開示': 1}</span>府令第九条第一項の規定により不良債権の状況を注記した財務諸表を記載した有価証券報告書、<span>会計{'開示': 1}</span>府令第二十<span>一条{'改正': 1}</span>第二項の規定により不良債権の状況を注記した第二・四半期に係る四半期財務諸表若しくは会計府令第二十四条第三項の規定により不良債権の状況を注記した第二・四半期に係る四半期連結財務諸表を記載した<span>四半期報告書{'書面': 1}</span>又は会計府令第二十二条第二項の規定により<span>不良債権{'作成': 1}</span>の<span>状況{'記載': 1}</span>を注記した中間財務諸表を記載した半期報告書を提出していない者は、<span>発行登録書{'場合': 1}</span>に、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前<span>事業年度{'適用': 1}</span>終了の日における当該発行登録書提出特定<span>金融{'提出': 1}</span>会社等に係る不良債権の状況を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前条第二項の規定は、前項の規定により同項に規定する不良債権の状況を<span>発行登録書{'別紙': 1}</span>に記載する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の規定により同項に規定する不良債権の状況を<span>発行登録書{'別紙': 1}</span>に記載しようとする発行登録書提出特定<span>金融{'提出': 1}</span>会社等は、次の各号に掲げる発行登録書の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span><span>府令{'別紙': 2}</span>第十一号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十一号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十一号の二の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載<span>事項{'書面': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（不良債権の状況の発行登録追補書類における開示）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>発行{'規定': 1}</span>登録<span>特定{'体制': 1}</span><span>金融{'承継': 1}</span>会社等のうち<span>会計{'開示': 1}</span>府令第九条第一項の規定により不良債権の状況を注記した財務諸表を記載した有価証券報告書、<span>会計{'開示': 1}</span>府令第二十<span>一条{'改正': 1}</span>第二項の規定により不良債権の状況を注記した第二・四半期に係る四半期財務諸表若しくは会計府令第二十四条第三項の規定により不良債権の状況を注記した第二・四半期に係る四半期連結財務諸表を記載した<span>四半期報告書{'書面': 1}</span>又は会計府令第二十二条第二項の規定により<span>不良債権{'作成': 1}</span>の<span>状況{'記載': 1}</span>を注記した中間財務諸表を記載した半期報告書を提出していない者は、<span>発行登録追補書類{'場合': 1}</span>に、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等に係る<span>不良債権{'実施': 1}</span>の状況を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第九条第二項の規定は、前項の規定により同項に規定する不良債権の状況を発行登録追補書類に記載する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の規定により同項に規定する不良債権の状況を発行登録追補書類に記載しようとする発行登録特定金融会社等は、次の各号に<span>掲げる{'除く': 1}</span><span>発行登録追補書類{'別紙': 2}</span>の様式の区分に応じ、当該各号に定める箇所に<span>記載{'事項': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical"><span>開示{'書面': 1}</span><span>府令{'別紙': 2}</span>第十二号様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical">証券情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">開示<span>府令{'別紙': 2, '内閣府令': 1}</span>第十二号の二様式</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">同様式の第<span>一部{'受益': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="3">
+                <Sentence WritingMode="vertical"><span>証券{'改正': 1}</span>情報の第３</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="4">
+                <Sentence WritingMode="vertical">その他の記載事項</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、社債法の施行の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（不良債権の状況の開示の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">報告書提出特定<span>金融{'提出': 1, '承継': 1}</span>会社等は、平成十二年三月三十一日<span>前{'事業年度': 1}</span>に終了する事業年度に係る<span>有価証券報告書{'財務諸表': 1}</span>を提出しようとするときは、当該有価証券報告書に、<span>当該{'事業年度': 1}</span>事業年度<span>終了{'末日': 1}</span>の日における当該報告書提出特定<span>金融{'提出': 1, '資産': 1}</span>会社等に係る不良債権の状況を記載しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該不良債権の状況を記載することが困難なときは、当該<span>報告書{'半期報告書': 1}</span><span>提出{'発行': 1}</span>特定<span>金融{'提出': 1}</span>会社等の貸付金のうち当該不良債権に準ずるものに関する事項を記載することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第六条第二項及び第八条第二項の規定は、前項の規定により同項に規定する不良債権の状況（同項ただし書に規定する場合にあっては、同項ただし書に規定する不良債権に準ずるものに関する事項）を有価証券報告書に記載する<span>場合{'事項': 1}</span>について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical"><span>半期報告書{'規定': 1}</span>提出特定<span>金融{'提出': 1}</span>会社等は、平成十二年三月三十一日<span>前{'事業年度': 1}</span>に終了する事業年度に係る<span>半期報告書{'財務諸表': 1, '有価証券報告書': 1}</span>を提出しようとするときは、当該半期報告書に、当該事業年度の開始の日から六月を<span>経過{'期間': 1}</span>する日における<span>当該{'間': 1}</span>半期報告書提出<span>特定{'会社': 1}</span><span>金融{'提出': 1}</span>会社等に係る不良債権の状況を記載しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該不良債権の状況を記載することが困難なときは、当該半期報告書提出<span>特定{'会社': 1}</span><span>金融{'提出': 1}</span>会社等の貸付金のうち当該不良債権に準ずるものに関する事項を記載することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第七条第二項及び第八条第二項の規定は、前項の規定により同項に規定する不良債権の状況（同項ただし書に規定する場合にあっては、同項ただし書に規定する不良債権に準ずるものに関する事項）を半期報告書に記載する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（不良債権の状況の開示に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第八条第一項の<span>規定{'場合': 1}</span>の適用については、平成十一年十二月三十一日までに当該有価証券届出書を提出する場合であって、当該<span>有価証券届出書{'有価証券報告書': 1, '書類': 1}</span>の提出日の属する<span>事業年度{'当該': 1}</span>（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等の不良債権の状況を記載することが困難なときは、同項の規定にかかわらず、当該有価証券届出書の提出日の属する事業年度の<span>直前{'当該': 1}</span>事業年度終了の日における当該届出書提出特定金融会社等の不良債権の状況又は当該有価証券届出書の提出日の属する<span>事業年度{'会社': 1}</span>（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である<span>場合{'経過': 1}</span>には、その日の<span>属する{'あっ': 1}</span><span>事業年度{'会計年度': 1}</span>又はその直前<span>事業年度{'事業': 1, '当該': 1}</span>）の直前事業年度終了の日における当該届出書提出特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第九条第一項の規定の適用については、平成十一年十二月三十一日までに発行登録書を提出する場合であって、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前<span>事業年度{'適用': 1}</span>終了の日における当該発行登録書提出特定<span>金融{'提出': 1}</span>会社等の不良債権の状況を記載することが困難なときは、同項の規定にかかわらず、当該発行登録書の提出日の属する事業年度の直前事業年度終了の日における当該発行登録書提出特定<span>金融{'提出': 1}</span>会社等の不良債権の状況又は当該発行登録書の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である<span>場合{'経過': 1}</span>には、その日の<span>属する{'あっ': 1}</span><span>事業年度{'会計年度': 1}</span>又はその直前<span>事業年度{'事業': 1, '当該': 1}</span>）の直前事業年度終了の日における当該発行登録書提出特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十条第一項の規定の適用については、平成十一年十二月三十一日までに発行登録書を提出する場合であって、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である場合には、その<span>直前{'当該': 2}</span>事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等の<span>不良債権{'実施': 1}</span>の状況を記載することが困難なときは、同項の規定にかかわらず、当該発行登録追補書類の提出日の属する事業年度の直前事業年度終了の日における当該発行登録特定金融会社等の<span>不良債権{'財産': 1}</span>の状況又は当該発行登録追補書類の提出日の属する<span>事業年度{'会社': 1}</span>（その日が事業年度開始後<span>三月{'事業年度': 2}</span>以内の日である<span>場合{'経過': 1}</span>には、その日の<span>属する{'あっ': 1}</span><span>事業年度{'会計年度': 1}</span>又はその直前<span>事業年度{'事業': 1, '当該': 1}</span>）の直前事業年度終了の日における当該発行登録特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年六月二六日総理府令第六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成十二年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年一〇月一〇日総理府令第一一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>中央省庁{'政令': 1}</span>等改革のための内閣関係政令等の整備に関する政令（平成十二年政令第三百三号）第九十三条の規定による改正前の企業会計審議会により公表された基準は、同条の規定による改正後の<span>企業会計審議会{'規定': 1}</span>により公表された基準とみなして、この府令による改正後の<span>財務諸表{'規定': 2}</span>等の監査証明に関する内閣府令第三条第三項、財務諸表等の用語、様式及び作成方法に関する規則第一条第二項、<span>連結財務諸表{'規定': 2}</span>の用語、様式及び作成方法に関する規則第一条第二項、<span>中間{'規定': 1}</span><span>財務諸表等の用語、様式及び作成方法に関する規則{'事業年度': 1}</span>第<span>一条{'貸借対照表': 1}</span>第二項及び<span>中間{'規定': 1}</span>連結財務諸表の<span>用語{'別紙': 1}</span>、様式及び作成方法に関する規則第一条第二項の規定を適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二六日内閣府令第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、会社法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年九月五日内閣府令第六七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、<span>証券取引法等の一部を改正する法律{'六月一日': 1}</span>の<span>施行{'府令': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年三月三一日内閣府令第一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第二条の<span>規定{'府令': 1}</span>による改正後の特定<span>金融{'承継': 1}</span>会社等の開示に関する内閣府令第七条の規定は、平成二十年四月一日以後に開始する事業年度から<span>適用{'書類': 2}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二四日内閣府令第一四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第１号</AppdxStyleTitle>
+      <RelatedArticleNum>（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項、第８条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H11F03401000057_2003251003_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第２号</AppdxStyleTitle>
+      <RelatedArticleNum>（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項、第８条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H11F03401000057_2003251003_002.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第３号</AppdxStyleTitle>
+      <RelatedArticleNum>（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項、第８条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H11F03401000057_2003251003_003.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第４号</AppdxStyleTitle>
+      <RelatedArticleNum>（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項、第８条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H11F03401000057_2003251003_004.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第５号</AppdxStyleTitle>
+      <RelatedArticleNum>（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項、第８条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H11F03401000057_2003251003_005.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

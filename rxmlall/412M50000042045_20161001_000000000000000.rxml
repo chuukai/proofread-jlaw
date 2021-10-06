@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="45" Year="12">
+  <LawNum>平成十二年総理府・大蔵省令第四十五号</LawNum>
+  <LawBody>
+    <LawTitle>保険業法第百三十二条第二項に規定する区分等を定める命令</LawTitle>
+    <EnactStatement>中央省庁等改革関係法施行法（平成十一年法律第百六十号）の一部の施行に伴い、並びに保険業法（平成七年法律第百五号）第百二十七条第七号、第百三十二条第二項、第二百四条第二項、第二百三十条第二項及び第三百十一条の三第二項の規定に基づき、保険業法第百三十二条第二項に規定する区分等を定める命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（届出事項）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>保険業法（以下「法」という。）第百二十七条第一項第八号に規定する内閣府令・<span>財務省令{'厚生労働省令': 1}</span>で定める場合は、次に掲げる場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>破産手続開始の決定を受け、破産手続開始の決定に対して抗告をし、又は抗告に対して裁判所の決定を受けた場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>再生<span>手続{'特別清算': 1}</span>開始の<span>申立て{'決定': 3}</span>をし、<span>再生{'更生': 1}</span>計画<span>認可{'事由': 1}</span>の決定が<span>確定{'計画': 1}</span>し、又は再生計画がその<span>効力{'決定': 1}</span>を失った場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>更生{'当該': 2}</span>手続開始の<span>申立て{'決定': 1}</span>をし、更生計画認可の決定が確定し、又は更生計画がその<span>効力{'決定': 1}</span>を失った<span>場合{'行為': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（保険会社の保険金等の支払能力の充実の状況に係る区分に応じた命令）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第百三十二条第二項の保険会社（<span>法{'保険業法': 1}</span>第二条第二項に規定する保険会社をいう。以下同じ。）の保険金等の<span>支払{'業務': 1}</span><span>能力{'自己資本': 1}</span>の充実の状況に係る区分に応じ内閣府令・財務省令で定める<span>命令{'内閣総理大臣': 1}</span>は、次条に<span>定める{'掲げる': 3}</span>場合を除き、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn colspan="2">
+                  <Sentence><span>保険金{'規定': 1}</span>等の<span>支払{'規定': 1}</span><span>能力{'自己資本': 1}</span>の充実の状況に係る区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>命令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>非対象区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>二〇〇パーセント以上</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>一〇〇パーセント以上二〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>経営の健全性を確保するための合理的と認められる改善計画の提出の求め及びその実行の命令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第二区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント以上一〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>次の各号に掲げる保険金等の支払能力の充実に資する<span>措置{'法律': 1}</span>に係る命令</Sentence>
+                  <Sentence>一　保険金等の支払能力の充実に係る<span>合理{'状況': 1}</span>的と認められる計画の提出及びその<span>実行{'契約者': 1}</span></Sentence>
+                  <Sentence>二　配当の禁止又はその額の抑制</Sentence>
+                  <Sentence>三　契約者配当又は社員に対する剰余金の分配の禁止又はその額の抑制</Sentence>
+                  <Sentence>四　新規に締結しようとする保険契約に係る保険料の計算の方法（その計算の基礎となる係数を要する場合においては、その係数を含む。）の変更</Sentence>
+                  <Sentence>五　役員賞与の禁止又はその額の抑制その他の事業費の抑制</Sentence>
+                  <Sentence>六　一部の方法による<span>資産{'当該': 1}</span>の運用の禁止又はその額の抑制</Sentence>
+                  <Sentence>七　一部の営業所又は事務所における業務の縮小</Sentence>
+                  <Sentence>八　<span>本店{'営業所': 2}</span>又は主たる事務所を除く一部の営業所又は事務所の廃止</Sentence>
+                  <Sentence>九　子会社等の業務の縮小</Sentence>
+                  <Sentence>十　子会社等の株式又は持分の<span>処分{'取得': 1}</span></Sentence>
+                  <Sentence>十一　法第九十八条第一項各号に掲げる<span>業務{'事項': 1}</span>その他の法第九十七条の規定により行う<span>業務{'規定': 1}</span>に付随する業務、法第九十九条の規定により行う業務又は他の<span>法律{'業務': 1}</span>により行う業務の縮小又は新規の取扱いの禁止</Sentence>
+                  <Sentence>十二　その他金融庁長官が必要と認める措置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>保険金{'元利': 1}</span>等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>期限を付した業務の全部又は一部の停止の命令</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'違反': 1}</span>の<span>表{'規定': 2}</span>中「<span>保険金{'規定': 1}</span>等の支払能力の充実の状況を示す比率」とは、<span>法{'当該': 1}</span>第百三十条の<span>保険会社{'規定': 1}</span>又は保険会社及びその子会社等に係る同条各号に掲げる額を用いて<span>定め{'いう': 1}</span>た保険金等の支払能力の充実の状況が適当であるかどうかの基準に係る算式により得られる比率をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の表中「契約者配当」とは、法第百十四条第一項に規定する契約者<span>配当{'支払': 1}</span>を<span>いう{'行う': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の表中「子会社等」とは、<span>法{'銀行法': 1, '前項': 1}</span>第百十条第二項に規定する子会社等をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>保険会社{'保険持株会社': 1, '少額短期保険業者': 1}</span>が、その<span>保険金{'顧客': 1}</span>等の支払能力の充実の状況を示す比率（<span>前条{'法': 1}</span>第二項に規定する保険金等の支払能力の充実の状況を示す比率をいう。以下この条において同じ。）が<span>当該{'規定': 3}</span>保険会社が従前に該当していた前条第一項の<span>表{'場合': 1, '規定': 1}</span>の<span>区分{'規定': 2}</span>に係る<span>保険金{'記載': 1}</span>等の支払能力の充実の状況を示す比率の範囲を超えて低下したことを知った後、速やかに、その保険金等の支払能力の充実の状況を示す比率を当該<span>保険会社{'少額短期保険業者': 1}</span>が該当する同表の区分に係る保険金等の支払能力の充実の状況を示す比率の範囲を超えて確実に改善するための合理的と認められる<span>計画{'場合': 1}</span>を<span>金融庁長官{'大蔵大臣': 2}</span>に提出した場合には、当該<span>保険会社{'少額短期保険業者': 1}</span>について、当該区分に<span>応じ{'定める': 1}</span>た命令は、当該<span>保険会社{'少額短期保険業者': 1}</span>の保険金等の支払能力の<span>充実{'調査': 1}</span>の状況を示す比率以上で当該計画の実施後に見込まれる当該<span>保険会社{'保険持株会社': 1, '少額短期保険業者': 1}</span>の保険金等の支払能力の充実の状況を示す比率以下の保険金等の支払能力の充実の状況を示す比率に係る同表の<span>区分{'規定': 1}</span>（非対象区分を除く。）に掲げる命令とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該計画が<span>合理{'提出': 1}</span>的でないことが明らかになった場合には、当該保険会社について、当該<span>保険会社{'少額短期保険業者': 1}</span>が該当する同表の区分に係る命令は、同項のとおりとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前条第一項の表の第三区分に該当する保険会社の貸借対照表の資産の部に計上されるべき金額（<span>次{'合計': 1}</span>の各号に掲げる<span>資産{'場合': 3}</span>にあっては、当該各号に定める価額。次項において同じ。）の合計額（貸借対照表のその他有価証券評価差額金（純資産の部に計上されるその他有価証券（財務諸表等の用語、様式及び作成方法に関する規則（昭和三十八年大蔵省令第五十九号。以下この項において「財務諸表等規則」という。）第八条第二十二項に規定するその他有価証券をいう。以下この項において同じ。）の評価差額をいう。以下この項において同じ。）の科目に計上した額及び貸借対照表の繰延ヘッジ損益（ヘッジ対象（ヘッジ<span>手段{'暗号': 1}</span>（<span>資産{'対象': 1}</span>若しくは負債又はデリバティブ取引に係る価格変動、金利変動及び為替変動による損失の<span>危険{'可能性': 1}</span>を減殺することを目的とし、かつ、当該損失の危険を減殺することが客観的に認められる取引をいう。以下この<span>項{'子会社': 1}</span>において同じ。）の対象である<span>資産{'注記': 1, '会社': 1}</span>若しくは負債又はデリバティブ取引をいう。）に係る損益が認識されるまで繰り延べられるヘッジ手段に係る損益又は時価評価差額をいう。以下この項において同じ。）の科目に計上した額に係る繰延税金資産（税効果会計（貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の金額との間に差異がある場合において、当該差異に係る法人税等（法人税その他利益又は剰余に関連する金額を課税標準として課される<span>租税{'事業税': 1}</span>をいう。以下この項において同じ。）の金額を適切に期間配分することにより、法人税等を控除する前の当期純利益又は当期純剰余の<span>金額{'額': 1}</span>と法人税等の金額を合理的に対応させるための会計処理をいう。）の適用により<span>資産{'財務諸表': 1}</span>として計上される金額をいう。）に相当する額を除く。次項において同じ。）又は連結貸借対照表の資産の<span>部{'価額': 1}</span>に計上されるべき<span>金額{'額': 1}</span>（<span>次{'合計': 1}</span>の各号に掲げる<span>資産{'場合': 3}</span>にあっては、当該各号に定める価額。次項において同じ。）の合計額（連結貸借対照表のその他<span>有価証券{'計上': 1}</span>評価差額金の科目に計上した額及び連結貸借対照表の<span>繰延{'計上': 1}</span>ヘッジ損益の科目に計上した額並びに未認識数理計算上の差異（財務諸表等規則第八条第六十二項に規定する未<span>認識{'会社': 1}</span>数理計算上の差異をいう。）の額及び未認識過去勤務費用（財務諸表等規則第八条第六十三項に規定する未認識過去勤務費用をいう。）の額に係る繰延税金資産（税効果会計（連結貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の<span>金額{'額': 1}</span>との間に差異がある場合において、当該差異に係る法人税等の金額を適切に期間配分することにより、法人税等を控除する前の当期純利益又は当期純剰余の金額と法人税等の金額を合理的に対応させるための会計処理をいう。）の適用により<span>資産{'財務諸表': 1}</span>として計上される金額をいう。）に相当する額を除く。次項並びに第七条第二項及び第三項において同じ。）が貸借対照表<span>又は{'及び': 1}</span>連結貸借対照表の負債の部に計上されるべき金額の合計額を基礎として<span>金融庁長官{'内閣総理大臣': 1}</span>及び<span>財務大臣{'厚生労働大臣': 1}</span>が定めるところにより計算した金額を上回る場合又は上回ると見込まれる場合には、当該保険会社について、当該区分に応じた命令は、同表の第二区分に掲げる命令を含むものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>有価証券</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence><span>保険金{'規定': 1}</span>等の<span>支払{'規定': 1}</span>能力の充実の状況を示す比率の算出を行う日（以下この項において「算出日」という。）の公表されている最終価格に基づき算出した価額<span>又は{'若しくは': 1}</span>これに準ずるものとして合理的な方法により算出した<span>価額{'金額': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>有形固定資産</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>算出日の適正な評価価格に基づき算出した価額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前二号に掲げる資産以外の資産で帳簿価額が算出日において<span>評価{'方法': 1}</span>した価額と著しく異なるもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>当該<span>評価{'譲渡': 1, '保険': 1}</span>した<span>価額{'方法': 1, '額': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前条{'次': 1}</span>第一項の<span>表{'規定': 1}</span>の第三<span>区分{'規定': 1}</span>以外の区分に<span>該当{'当該': 1}</span>する保険会社の貸借対照表の資産の部に計上されるべき<span>金額{'額': 1}</span>の合計額又は連結貸借対照表の資産の部に計上されるべき<span>金額{'額': 1, '資産': 1}</span>の<span>合計{'中間': 1}</span>額が<span>貸借対照表{'額': 1}</span>又は連結貸借対照表の<span>負債{'資産': 1}</span>の部に計上されるべき金額の合計額を基礎として<span>金融庁長官{'内閣総理大臣': 1}</span>及び<span>財務大臣{'厚生労働大臣': 1}</span>が定めるところにより計算した金額を下回る場合又は下回ると見込まれる場合には、当該保険会社について、当該区分に応じた命令は、同表の第三<span>区分{'欄': 1}</span>に掲げる命令を含むものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>保険会社が地震保険に関する法律（昭和四十一年法律第七十三号）<span>第三条{'規定': 1}</span>第一項（政府の再保険）に<span>規定{'契約': 1}</span>する再保険契約を政府との間で締結している場合には、当該保険会社について、当該保険会社が該当する<span>前条{'表': 1}</span>第一項の<span>表{'規定': 2}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'掲げる': 2}</span>た命令は、同表の非<span>対象{'欄': 1}</span>区分に掲げる命令とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（外国保険会社等の保険金等の支払能力の充実の状況に係る区分に応じた命令）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二百四条第二項の<span>外国{'規定': 3}</span>保険会社等（法第二条第七項に規定する外国<span>保険会社{'金融商品市場': 1}</span>等を<span>いう{'含む': 1}</span>。以下この条において同じ。）の保険金等の支払能力の充実の状況に係る区分に応じ内閣府令・財務省令で<span>定める{'でき': 1}</span>命令は、第五項において準用する前条第一項から第三項までに<span>定める{'掲げる': 1}</span>場合を除き、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence><span>保険金{'規定': 1}</span>等の<span>支払{'規定': 1}</span><span>能力{'自己資本': 1}</span>の充実の状況に係る区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>非対象区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>二〇〇パーセント以上</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>一〇〇パーセント以上二〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>日本における業務の運営の健全性を確保するための合理的と認められる改善計画の提出の求め及びその実行の命令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第二区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント以上一〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>次の各号に掲げる保険金等の支払能力の充実に資する<span>措置{'法律': 1}</span>に係る命令</Sentence>
+                  <Sentence>一　保険金等の支払能力の充実に係る<span>合理{'状況': 1}</span>的と認められる計画の提出及びその実行</Sentence>
+                  <Sentence>二　<span>契約者{'剰余金': 1}</span>配当又は社員に対する剰余金の分配の禁止又はその額の抑制</Sentence>
+                  <Sentence>三　日本において新規に締結しようとする保険契約に係る保険料の計算の方法（その計算の基礎となる係数を要する場合においては、その係数を含む。）の変更</Sentence>
+                  <Sentence>四　日本における保険業に係る事業費の抑制</Sentence>
+                  <Sentence>五　一部の方法による支店等における資産の<span>運用{'流動': 1}</span>の禁止又はその額の抑制</Sentence>
+                  <Sentence>六　一部の支店等における業務の縮小</Sentence>
+                  <Sentence>七　日本における主たる店舗を除く一部の支店等の廃止</Sentence>
+                  <Sentence>八　法第百九十九条において準用する<span>法{'金融商品取引法': 1}</span>第九十八条第一項各号に掲げる<span>業務{'有価証券': 1, '事項': 1}</span>その他の法第百九十九条において準用する法第九十七条の<span>規定{'業務': 1}</span>により行う業務に付随する業務、法第百九十九条において準用する法第九十九条の規定により行う業務又は他の<span>法律{'業務': 1}</span>により行う業務の縮小又は新規の取扱いの禁止</Sentence>
+                  <Sentence>九　その他金融庁長官が必要と認める措置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>保険金{'元利': 1}</span>等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>期限を付した日本における業務の全部<span>又は{'若しくは': 1}</span>一部の停止の命令</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'違反': 1}</span>の<span>表{'規定': 2}</span>中「<span>保険金{'規定': 1}</span>等の支払能力の充実の状況を示す比率」とは、法第二百二条の<span>保険金{'規定': 4}</span>等の支払能力の充実の状況が適当であるかどうかの基準に係る算式により得られる比率をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の表中「支店等」とは、<span>法{'前項': 1}</span>第百八十五条第一項に規定する支店等をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の<span>表{'支店': 1}</span>中「日本における主たる店舗」とは、法第百八十七条第一項第四号に規定する日本における主たる店舗をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前条第一項から第三項までの規定は、外国保険会社等について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同<span>条{'項': 1}</span>第一項から第三項までの規定中「前条第一項」とあるのは「第四条第一項」と、同条第一項中「前条第二項」とあるのは「第四条第二項」と、同条第二項及び第三項中「貸借対照表又は<span>連結貸借対照表{'損益計算書': 1}</span>」とあるのは「日本における保険業の貸借対照表」と、同条第二項中「の貸借対照表の」と<span>ある{'いう': 1}</span>のは「の日本における保険業の貸借対照表の」と、「（貸借対照表」とあるのは「（日本における<span>保険業{'中間': 1}</span>の貸借対照表」と、「及び貸借対照表」と<span>ある{'いう': 1}</span>のは「及び日本における保険業の貸借対照表」と、「利益又は剰余」とあるのは「利益」と、「当期純利益又は当期純剰余」とあるのは「当期純利益」と、「同じ。）又は連結貸借対照表の資産の部に計上されるべき<span>金額{'額': 1}</span>（<span>次{'合計': 1}</span>の各号に掲げる<span>資産{'場合': 3}</span>にあっては、当該各号に定める価額。次項において同じ。）の合計額（連結貸借対照表のその他<span>有価証券{'計上': 1}</span>評価差額金の科目に計上した額及び連結貸借対照表の<span>繰延{'計上': 1}</span>ヘッジ損益の科目に計上した額並びに未認識数理計算上の差異（財務諸表等規則第八条第六十二項に規定する未<span>認識{'会社': 1}</span>数理計算上の差異をいう。）の額及び未認識過去勤務費用（財務諸表等規則第八条第六十三項に規定する未認識過去勤務費用をいう。）の額に係る繰延税金資産（税効果会計（連結貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の<span>金額{'額': 1}</span>との間に差異がある場合において、当該差異に係る法人税等の金額を適切に期間配分することにより、法人税等を控除する前の当期純利益又は当期純剰余の金額と法人税等の金額を合理的に対応させるための会計処理をいう。）の適用により<span>資産{'財務諸表': 1}</span>として計上される金額をいう。）に相当する額を除く。次項並びに第七条第二項及び第三項において同じ。）」とあるのは「同じ。）」と、同条第三項中「貸借対照表の資産の部に計上されるべき<span>金額{'額': 1}</span>の合計額又は連結貸借対照表」とあるのは「<span>日本{'場合': 1, '規定': 1}</span>における保険業の貸借対照表」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（免許特定法人及び引受社員の支払能力の充実の状況に係る区分に応じた命令）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"><span>前条{'銀行法': 1}</span>第一項の規定は、免許特定法人（法第二百二十三条第一項に規定する免許<span>特定{'申請': 1}</span>法人をいう。以下この条において同じ。）及び<span>引受{'次': 1}</span>社員（<span>法{'条': 1}</span>第二百十九条第一項に規定する引受社員をいう。以下この<span>条{'法': 2}</span>において同じ。）について準用する。</Sentence>
+            <Sentence Num="2">この場合において、前条第一項中「<span>法{'規定': 1}</span>第二百四条第二項」とあるのは「法第二百三十条第二項」と、「<span>外国{'規定': 2}</span>保険会社等」とあるのは「引受社員」と、「第五項」とあるのは「第五条第三項」と、「日本における業務」とあるのは「引受社員の日本における業務」と、「契約者配当又は社員に対する剰余金の分配」とあるのは「契約者配当」と、「支店等」とあるのは「総代理店の事務所」と、「日本における主たる<span>店舗{'代理': 1}</span>」とあるのは「総代理店の本店」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により準用する<span>前条{'場合': 1}</span>第一項の<span>表{'規定': 2}</span>中「<span>保険金{'規定': 1}</span>等の支払能力の充実の状況を示す比率」とは、法第二百二十八条の<span>引受{'規定': 4}</span>社員の保険金等の支払<span>能力{'自己資本': 2}</span>の充実の状況が適当であるかどうかの基準に係る算式により得られる比率をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の規定により準用する<span>前条{'金融商品取引法': 1, '場合': 2}</span>第一項の<span>表{'規定': 1}</span>中「総<span>代理店{'規定': 1, '準用': 1}</span>」とは、法第二百十九条第一項に規定する総代理店をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第三条第一項から第三項までの規定は、免許特定法人及び引受社員について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同<span>条{'項': 1}</span>第一項から第三項までの規定中「前条第一項」とあるのは「第五条第一項において<span>準用{'場合': 3}</span>する第四条第一項」と、「<span>当該{'場合': 1}</span>保険会社について」とあるのは「当該免許特定法人<span>又は{'及び': 1}</span>引受社員について」と、同<span>条{'外国': 2, '当該': 1}</span>第一項中「保険会社が、」とあるのは「<span>免許{'当該': 1}</span>特定法人又は引受社員が、」と、「その」とあるのは「引受社員の」と、「前条第二項」とあるのは「第五条第二項」と、「<span>当該{'外国': 1}</span>保険会社が」とあるのは「当該引受社員が」と、「<span>当該{'外国': 1}</span>保険会社の」とあるのは「当該引受社員の」と、同条第二項及び第三項中「貸借対照表又は<span>連結貸借対照表{'損益計算書': 1}</span>」とあるのは「日本における保険業の貸借対照表」と、同条第二項中「保険会社の貸借対照表」とあるのは「引受社員の<span>日本{'貸借対照表': 1}</span>における保険業の貸借対照表」と、「（<span>貸借対照表{'事業年度': 1}</span>」とあるのは「（日本における<span>保険業{'中間': 1}</span>の貸借対照表」と、「及び貸借対照表」と<span>ある{'いう': 1}</span>のは「及び日本における保険業の貸借対照表」と、「利益又は剰余」とあるのは「利益」と、「当期純利益又は当期純剰余」とあるのは「当期純利益」と、「同じ。）又は連結貸借対照表の資産の部に計上されるべき<span>金額{'額': 1}</span>（<span>次{'合計': 1}</span>の各号に掲げる<span>資産{'場合': 3}</span>にあっては、当該各号に定める価額。次項において同じ。）の合計額（連結貸借対照表のその他<span>有価証券{'計上': 1}</span>評価差額金の科目に計上した額及び連結貸借対照表の<span>繰延{'計上': 1}</span>ヘッジ損益の科目に計上した額並びに未認識数理計算上の差異（財務諸表等規則第八条第六十二項に規定する未<span>認識{'会社': 1}</span>数理計算上の差異をいう。）の額及び未認識過去勤務費用（財務諸表等規則第八条第六十三項に規定する未認識過去勤務費用をいう。）の額に係る繰延税金資産（税効果会計（連結貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の<span>金額{'額': 1}</span>との間に差異がある場合において、当該差異に係る法人税等の金額を適切に期間配分することにより、法人税等を控除する前の当期純利益又は当期純剰余の金額と法人税等の金額を合理的に対応させるための会計処理をいう。）の適用により<span>資産{'財務諸表': 1}</span>として計上される金額をいう。）に相当する額を除く。次項並びに第七条第二項及び第三項において同じ。）」とあるのは「同じ。）」と、同条第三項中「保険会社の貸借対照表の資産の部に計上されるべき金額の合計額又は連結貸借対照表」とあるのは「引受社員の日本における保険業の貸借対照表」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（保険持株会社の子会社である保険会社の保険金等の支払能力の充実の状況に係る区分に応じた命令）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二百七十一条の二十九第二項の<span>保険持株会社{'規定': 1}</span>（<span>法{'保険業法': 1}</span>第二条第十六項に規定する保険持株会社を<span>いう{'及び': 1}</span>。以下同じ。）の<span>子会社{'次号': 1}</span>である保険会社の保険金等の支払能力の充実の状況に係る区分に応じ<span>内閣府{'内閣府令': 1}</span>・財務省令で定める<span>命令{'内閣総理大臣': 1}</span>は、次条に<span>定める{'掲げる': 3}</span>場合を除き、次の表のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn colspan="2">
+                  <Sentence><span>保険金{'規定': 1}</span>等の<span>支払{'規定': 1}</span><span>能力{'自己資本': 1}</span>の充実の状況に係る区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>命令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>非対象区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>二〇〇パーセント以上</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>一〇〇パーセント以上二〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>経営の健全性を確保するための合理的と認められる改善計画の提出の求め及びその実行の命令</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第二区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>保険金等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント以上一〇〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>次の各号に掲げる保険金等の支払能力の充実に資する<span>措置{'法律': 1}</span>に係る命令</Sentence>
+                  <Sentence>一　保険金等の支払能力の充実に係る<span>合理{'状況': 1}</span>的と認められる<span>計画{'資料': 1}</span>の提出及びその<span>実行{'当該': 2}</span></Sentence>
+                  <Sentence>二　<span>保険持株会社{'契約者': 1}</span>の配当の禁止又はその額の抑制</Sentence>
+                  <Sentence>三　役員賞与の禁止又はその額の抑制その他の事業費の抑制</Sentence>
+                  <Sentence>四　一部の方法による<span>資産{'当該': 1}</span>の運用の禁止又はその額の抑制</Sentence>
+                  <Sentence>五　子会社等（保険会社及び少額短期保険業者を除く。）の株式又は持分の処分</Sentence>
+                  <Sentence>六　その他金融庁長官が必要と認める措置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>第三区分</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>保険金{'元利': 1}</span>等の支払能力の充実の状況を示す比率</Sentence>
+                  <Sentence>〇パーセント未満</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence><span>子会社{'当該': 1}</span>等（保険会社<span>及び{'又は': 1}</span>少額短期保険業者に限る。）の株式の<span>処分{'取得': 1}</span></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の表中「保険金等の支払能力の充実の状況を示す比率」とは、法第二百七十一条の二十八の二の<span>保険持株会社{'規定': 6}</span>の子会社である保険会社における保険金等の支払能力の充実の状況が適当であるかどうかの基準に係る算式により得られる比率をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の表中「子会社等」とは、<span>法{'銀行法': 1, '財務諸表等規則': 1}</span>第百十条第二項に規定する子会社等をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><span>保険持株会社{'少額短期保険業者': 1}</span>が、保険金等の支払能力の充実の状況を示す比率（<span>前条{'法': 1}</span>第二項に規定する保険金等の支払能力の充実の状況を示す比率をいう。以下この条において同じ。）が<span>当該{'規定': 2}</span><span>保険持株会社{'保険会社': 1}</span>が従前に該当していた前条第一項の<span>表{'場合': 1}</span>の<span>区分{'規定': 1}</span>に係る<span>保険金{'記載': 1}</span>等の支払能力の充実の状況を示す比率の範囲を超えて低下したことを知った後、速やかに、その保険金等の支払能力の充実の状況を示す比率を当該<span>保険持株会社{'少額短期保険業者': 1}</span>が該当する同<span>表{'子会社': 1}</span>の区分に係る<span>保険金{'事業': 1}</span>等の支払能力の充実の状況を示す比率の範囲を超えて確実に改善するための合理的と認められる<span>計画{'場合': 1}</span>を<span>金融庁長官{'大蔵大臣': 2}</span>に提出した<span>場合{'内閣総理大臣': 1}</span>には、<span>当該{'取締役': 1}</span><span>保険持株会社{'少額短期保険業者': 1}</span>について、当該<span>区分{'命令': 1}</span>に<span>応じ{'定める': 1}</span>た命令は、当該<span>保険持株会社{'保険会社': 1, '少額短期保険業者': 1}</span>に係る保険金等の<span>支払{'当該': 1}</span>能力の<span>充実{'調査': 1}</span>の状況を示す比率以上で当該計画の実施後に見込まれる当該<span>保険持株会社{'保険会社': 1, '少額短期保険業者': 1}</span>に係る保険金等の支払能力の充実の状況を示す比率以下の保険金等の支払能力の充実の状況を示す比率に係る同表の<span>区分{'規定': 1}</span>（非対象区分を除く。）に掲げる命令とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該計画が<span>合理{'提出': 1}</span>的でないことが明らかになった場合には、当該保険持株会社について、当該<span>保険持株会社{'次': 1}</span>が該当する同表の区分に係る命令は、同項のとおりとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前条第一項の表の第三区分に該当する保険持株会社の<span>連結貸借対照表{'貸借対照表': 1}</span>の資産の部に計上されるべき<span>金額{'額': 1}</span>（次の各号に掲げる資産については、当該各号に定める価額とする。次項において同じ。）の<span>合計{'中間': 1}</span>額が<span>連結貸借対照表{'貸借対照表': 1}</span>の<span>負債{'資産': 1}</span>の<span>部{'額': 1}</span>に計上されるべき金額の合計額を基礎として<span>金融庁長官{'内閣総理大臣': 1}</span>及び<span>財務大臣{'厚生労働大臣': 1}</span>が定めるところにより計算した金額を上回る場合又は上回ると見込まれる場合には、当該保険持株会社について、当該区分に<span>応じ{'定める': 1}</span>た命令は、同表の第二区分に掲げる命令を含むものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>有価証券</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence><span>保険金{'規定': 1}</span>等の<span>支払{'規定': 1}</span>能力の充実の状況を示す比率の算出を行う日（以下この項において「算出日」という。）の公表されている最終価格に基づき算出した価額<span>又は{'若しくは': 1}</span>これに準ずるものとして合理的な方法により算出した<span>価額{'金額': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>有形固定資産</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>算出日の適正な評価価格に基づき算出した価額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前二号に掲げる資産以外の資産で帳簿価額が算出日において<span>評価{'方法': 1}</span>した価額と著しく異なるもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>当該<span>評価{'譲渡': 1, '保険': 1}</span>した<span>価額{'方法': 1, '額': 1}</span></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前条{'次': 1}</span>第一項の<span>表{'規定': 1}</span>の第三区分以外の区分に<span>該当{'当該': 1}</span>する保険持株会社の連結貸借対照表の資産の部に計上されるべき<span>金額{'額': 1}</span>の合計額が<span>連結貸借対照表{'貸借対照表': 1}</span>の<span>負債{'資産': 1}</span>の部に計上されるべき金額の合計額を基礎として<span>金融庁長官{'内閣総理大臣': 1}</span>及び<span>財務大臣{'厚生労働大臣': 1}</span>が定めるところにより計算した金額を下回る場合又は下回ると見込まれる場合には、当該保険持株会社について、当該区分に<span>応じ{'定める': 1}</span>た命令は、同表の第三<span>区分{'欄': 1}</span>に掲げる命令を含むものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（財務大臣への通知）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>法{'二条': 1}</span>第三百十一条の三第二項に規定する内閣府令・<span>財務省令{'厚生労働省令': 1}</span>で定めるもの（同項第一号に掲げる規定による届出に限る。）は、第一条各号に掲げる<span>場合{'要件': 1}</span>に<span>該当{'規定': 1}</span>するときにする届出とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、平成十二年<span>七月一日{'規定': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年一〇月一〇日総理府・大蔵省令第五九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年三月三〇日内閣府・財務省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>命令{'府令': 1}</span>は、平成十三年三月三十一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年三月二八日内閣府・財務省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、平成十四年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月二八日内閣府・財務省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>命令{'法律': 1}</span>は、平成十七年<span>一月一日{'四月一日': 2, '七月一日': 1, '公布': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月一〇日内閣府・財務省令第二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>命令{'法律': 1}</span>は、保険業法等の<span>一部{'法律': 1}</span>を改正する法律（<span>次{'附則': 1}</span>条において「改正法」という。）の施行の日（平成十八年<span>四月一日{'七月一日': 2}</span>）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二六日内閣府・財務省令第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>命令{'府令': 2, '政令': 1}</span>は、会社法の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年九月一九日内閣府・財務省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>命令{'法律': 2}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年三月三一日内閣府・財務省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>命令{'府令': 1}</span>は、金融商品取引法等の一部を改正する法律附則第一条第三号に掲げる規定（<span>同法{'施行': 1}</span><span>第三条{'改正': 1}</span>の<span>規定{'部分': 3}</span>に限る。）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年二月二八日内閣府・財務省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、平成二十六年三月三十一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月二八日内閣府・財務省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、平成二十八年三月三十一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

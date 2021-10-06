@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="08">
+  <LawNum>平成八年自治省令第二十七号</LawNum>
+  <LawBody>
+    <LawTitle>地方財政法第三十三条の三第二項の額の算定に関する省令</LawTitle>
+    <EnactStatement>地方財政法（昭和二十三年法律第百九号）第三十三条の三第二項の規定に基づき、地方財政法第三十三条の三第二項の額の算定に関する省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>地方財政法（昭和二十三年法律第百九号）第三十三条の三第二項に規定する地方税法（昭和二十五年法律第二百二十六号）附則第三条の四の規定の適用がないものとした場合における<span>地方公共団体{'年度': 1}</span>の平成八年度の個人の道府県民税<span>又は{'及び': 1}</span>市町村民税の所得割の<span>収入{'納税義務': 1}</span>見込額から当該<span>地方公共団体{'年度': 1}</span>の同年度の個人の道府県民税<span>又は{'及び': 2}</span>市町村民税の所得<span>割{'金額': 1}</span>の<span>収入{'納税義務': 1}</span>見込額を控除した額として<span>自治省{'政令': 3, '総務省令': 1}</span>令で定めるところにより算定した額は、次の各号に掲げる地方公共団体の<span>種類{'区分': 3}</span>に応じ、当該各号に定める方法によって算定した額とする。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>都道府県</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>次の算式により算定した額とする。</Sentence>
+            </Column>
+          </ItemSentence>
+          <List>
+            <ListSentence>
+              <Sentence>算式</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>Ａ＋Ｂ×<ArithFormula><Fig src="./pict/H08F04301000027-001.jpg"/></ArithFormula><ArithFormula><Fig src="./pict/H08F04301000027-002.jpg"/></ArithFormula></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence><ArithFormula><Fig src="./pict/H08F04301000027-001.jpg"/></ArithFormula>Ｃ×<ArithFormula>
+<Fig src="./pict/H08F04301000027-002.jpg"/></ArithFormula></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence></Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence></Sentence>
+            </Column>
+          </ItemSentence>
+          <List>
+            <ListSentence>
+              <Sentence></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence><ArithFormula><Fig src="./pict/H08F04301000027-001.jpg"/></ArithFormula><ArithFormula><Fig src="./pict/H08F04301000027-002.jpg"/></ArithFormula></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence><ArithFormula><Fig src="./pict/H08F04301000027-001.jpg"/></ArithFormula><ArithFormula><Fig src="./pict/H08F04301000027-002.jpg"/></ArithFormula>端数があるときは、その端数を切り捨てる。</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>算式の符号</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence>Ａ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+        </Item>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

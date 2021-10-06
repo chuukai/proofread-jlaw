@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="91" Year="01">
+  <LawNum>平成元年法律第九十一号</LawNum>
+  <LawBody>
+    <LawTitle>民事保全法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　保全命令に関する手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第九条・第十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　保全命令</SectionTitle>
+          <TOCSubsection Num="1">
+            <SubsectionTitle>第一款　通則</SubsectionTitle>
+            <ArticleRange>（第十一条―第十九条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2">
+            <SubsectionTitle>第二款　仮差押命令</SubsectionTitle>
+            <ArticleRange>（第二十条―第二十二条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="3">
+            <SubsectionTitle>第三款　仮処分命令</SubsectionTitle>
+            <ArticleRange>（第二十三条―第二十五条の二）</ArticleRange>
+          </TOCSubsection>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　保全異議</SectionTitle>
+          <ArticleRange>（第二十六条―第三十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　保全取消し</SectionTitle>
+          <ArticleRange>（第三十七条―第四十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　保全抗告</SectionTitle>
+          <ArticleRange>（第四十一条・第四十二条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　保全執行に関する手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第四十三条―第四十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　仮差押えの執行</SectionTitle>
+          <ArticleRange>（第四十七条―第五十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　仮処分の執行</SectionTitle>
+          <ArticleRange>（第五十二条―第五十七条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　仮処分の効力</ChapterTitle>
+        <ArticleRange>（第五十八条―第六十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第六十六条・第六十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>民事訴訟の本案の権利の実現を保全するための仮差押え及び係争物に関する仮処分並びに民事訴訟の本案の権利関係につき仮の地位を<span>定める{'ある': 1}</span>ための仮処分（以下「民事保全」と<span>総称{'処分': 2}</span>する。）については、<span>他{'規定': 1}</span>の法令に定めるものの<span>ほか{'手続': 1}</span>、この<span>法律{'手続': 1}</span>の<span>定める{'ある': 1}</span>ところに<span>よる{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（民事保全の機関及び保全執行裁判所）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>民事{'法律': 1, '規定': 1}</span><span>保全{'規定': 1}</span>の<span>命令{'手続': 1, '規定': 1}</span>（以下「<span>保全命令{'手続': 1}</span>」と<span>いう{'ある': 1}</span>。）は、<span>申立て{'規定': 1}</span>により、<span>裁判所{'規定': 1}</span>が<span>行う{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>民事{'手続': 1, '規定': 1}</span><span>保全{'規定': 1}</span>の<span>執行{'規定': 1}</span>（以下「<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span>」という。）は、申立てにより、裁判所又は<span>執行官{'規定': 1}</span>が行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>裁判所が行う保全執行に関してはこの<span>法律{'規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>執行{'保全': 1, '規定': 1}</span>処分を行うべき裁判所をもって、<span>執行官{'規定': 1}</span>が行う保全執行の<span>執行{'保全': 1}</span>処分に関してはその<span>執行官{'規定': 1}</span>の所属する地方裁判所をもって保全執行<span>裁判所{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（任意的口頭弁論）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>民事{'規定': 1}</span><span>保全{'規定': 1}</span>の<span>手続{'規定': 1}</span>に関する<span>裁判{'規定': 1}</span>は、<span>口頭弁論{'手続': 1}</span>を経ないですることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（担保の提供）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">この法律の規定により担保を立てるには、<span>担保{'場合': 1}</span>を立てるべきことを命じた裁判所又は保全執行裁判所の所在地を管轄する<span>地方裁判所{'登記所': 1}</span>の<span>管轄区域{'規定': 1}</span>内の供託所に金銭又は担保を立てるべきことを命じた裁判所が相当と認める有価証券（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二百七十八条第一項に規定する振替債を含む。）を<span>供託{'次': 1}</span>する<span>方法{'規定': 1}</span>その他最高裁判所規則で定める方法に<span>よら{'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<span>当事者{'規定': 1}</span>が<span>特別{'手続': 1}</span>の<span>契約{'手続': 1}</span>をしたときは、その<span>契約{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>民事訴訟法{'手続': 1}</span>（平成八年<span>法律{'手続': 1}</span>第百九号）第七十七条、第七十九条及び第八十条の<span>規定{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>担保{'合意': 1, '規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（事件の記録の閲覧等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1"><span>保全命令{'更生': 1, '規定': 1}</span>に関する<span>手続{'規定': 1}</span>又は<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span>に関し<span>裁判所{'規定': 1}</span>が<span>行う{'ある': 1}</span><span>手続{'規定': 1}</span>について、<span>利害関係{'規定': 1}</span>を<span>有する{'ある': 1}</span>者は、<span>裁判所書記官{'規定': 1}</span>に対し、事件の記録の閲覧若しくは<span>謄写{'規定': 1}</span>、その正本、謄本若しくは抄本の交付又は<span>事件{'規定': 1}</span>に関する<span>事項{'手続': 1}</span>の<span>証明書{'手続': 1}</span>の<span>交付{'規定': 1}</span>を<span>請求{'規定': 1}</span>することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<span>債権者{'規定': 1}</span>以外の者に<span>あっ{'ある': 1}</span>ては、<span>保全命令{'手続': 1}</span>の申立てに関し口頭弁論若しくは債務者を<span>呼び出す{'ある': 1}</span>審尋の期日の指定があり、又は<span>債務{'規定': 1}</span>者に対する<span>保全命令{'規定': 1}</span>の<span>送達{'規定': 1}</span>が<span>ある{'でき': 1}</span>までの<span>間{'手続': 1}</span>は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（専属管轄）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'規定': 1}</span>に<span>規定{'手続': 1}</span>する<span>裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>は、<span>専属{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>特別{'裁判所': 1, '規定': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、<span>民事{'規定': 2}</span><span>保全{'規定': 1}</span>の<span>手続{'規定': 1}</span>に関しては、<span>民事訴訟法{'手続': 1}</span>の<span>規定{'手続': 1}</span>を<span>準用{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この<span>法律{'規定': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>民事{'規定': 1}</span><span>保全{'規定': 1}</span>の<span>手続{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な事項は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　保全命令に関する手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Num="9">
+            <ArticleCaption>（釈明処分の特例）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、争いに係る事実関係に関し、当事者の主張を明瞭にさせる必要があるときは、口頭弁論又は審尋の<span>期日{'規定': 1}</span>において、<span>当事者{'規定': 1}</span>のため<span>事務{'手続': 1}</span>を<span>処理{'規定': 1}</span>し、又は<span>補助{'規定': 1}</span>する者で、裁判所が相当と認めるものに陳述をさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>削除{'手続': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　保全命令</SectionTitle>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　通則</SubsectionTitle>
+            <Article Num="11">
+              <ArticleCaption>（保全命令事件の管轄）</ArticleCaption>
+              <ArticleTitle>第十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令の申立ては、日本の裁判所に本案の訴えを提起することができるとき、又は仮に差し押さえるべき物若しくは係争物が日本国内にあるときに限り、することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="12">
+              <ArticleTitle>第十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令事件は、本案の管轄裁判所又は仮に差し押さえるべき物若しくは係争物の所在地を管轄する地方裁判所が管轄する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1">本案の訴えが民事訴訟法第六条第一項に規定する<span>特許権{'規定': 1}</span>等に関する訴えである場合には、保全命令事件は、前項の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、本案の管轄裁判所が管轄する。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、仮に差し押さえるべき物又は係争物の所在地を管轄する地方裁判所が同条第一項各号に定める<span>裁判所{'規定': 1}</span>であるときは、その<span>裁判所{'規定': 1}</span>もこれを<span>管轄{'規定': 1}</span>する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1"><span>本案{'規定': 1}</span>の<span>管轄裁判所{'規定': 1}</span>は、<span>第一審裁判所{'規定': 1}</span>とする。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、本案が<span>控訴審{'訴訟': 1}</span>に係属するときは、控訴裁判所とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1">仮に差し押さえるべき物又は係争物が債権（民事執行法（昭和五十四年法律第四号）第百四十三条に規定する債権を<span>いう{'ある': 1}</span>。以下この<span>条{'規定': 1}</span>において同じ。）であるときは、その<span>債権{'規定': 1}</span>は、その債権の債務者（以下「第三債務者」という。）の<span>普通裁判籍{'規定': 1}</span>の所在地にあるものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、船舶（同法第百十二条に規定する船舶をいう。以下同じ。）又は動産（同法第百二十二条に規定する動産をいう。以下同じ。）の引渡しを目的とする債権及び物上の担保権により担保される債権は、その物の所在地にあるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>前項本文の規定は、仮に差し押さえるべき物又は係争物が民事執行法第百六十七条第一項に規定する財産権（以下「その他の財産権」という。）で第三<span>債務者{'規定': 1}</span>又はこれに<span>準ずる{'ある': 1}</span>者が<span>ある{'でき': 1}</span>ものである<span>場合{'手続': 1}</span>（<span>次項{'手続': 1}</span>に規定する場合を除く。）について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>仮に差し押さえるべき物又は係争物がその他の財産権で権利の移転について登記又は<span>登録{'規定': 1}</span>を<span>要する{'ある': 1}</span>ものであるときは、その<span>財産権{'規定': 1}</span>は、その<span>登記{'手続': 1}</span>又は<span>登録{'規定': 1}</span>の<span>地{'届出': 1}</span>に<span>ある{'でき': 1}</span>ものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="13">
+              <ArticleCaption>（申立て及び疎明）</ArticleCaption>
+              <ArticleTitle>第十三条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence><span>保全命令{'手続': 1}</span>の<span>申立て{'手続': 1}</span>は、その<span>趣旨{'手続': 1}</span>並びに<span>保全{'規定': 1}</span>すべき<span>権利{'処分': 1, '規定': 1}</span>又は権利関係及び保全の<span>必要性{'規定': 1}</span>を明らかにして、これをしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>保全すべき権利又は権利関係及び保全の<span>必要性{'規定': 1}</span>は、疎明しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="14">
+              <ArticleCaption>（保全命令の担保）</ArticleCaption>
+              <ArticleTitle>第十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令は、担保を立てさせて、若しくは<span>相当{'規定': 1}</span>と認める一定の期間内に<span>担保{'異議': 1}</span>を<span>立てる{'ある': 1}</span>ことを保全執行の実施の条件として、又は<span>担保{'一部': 1, '規定': 1}</span>を立てさせないで発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>前項の担保を<span>立てる{'ある': 1}</span>場合において、遅滞なく第四条第一項の供託所に供託することが<span>困難{'規定': 1}</span>な<span>事由{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>裁判所{'手続': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'手続': 1}</span>て、<span>債権者{'手続': 1}</span>の<span>住所{'規定': 1}</span>地又は<span>事務所{'規定': 1}</span>の<span>所在地{'規定': 1}</span>その他<span>裁判所{'規定': 1}</span>が<span>相当{'手続': 1}</span>と認める地を管轄する地方裁判所の管轄区域内の供託所に供託することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="15">
+              <ArticleCaption>（裁判長の権限）</ArticleCaption>
+              <ArticleTitle>第十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令は、急迫の事情があるときに限り、裁判長が発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="16">
+              <ArticleCaption>（決定の理由）</ArticleCaption>
+              <ArticleTitle>第十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1">保全命令の申立てについての決定には、理由を<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、<span>口頭弁論{'破産手続': 1, '規定': 1}</span>を<span>経{'ある': 1}</span>ないで決定をする場合には、理由の要旨を<span>示せ{'ある': 1}</span>ば足りる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="17">
+              <ArticleCaption>（送達）</ArticleCaption>
+              <ArticleTitle>第十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令は、当事者に送達しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="18">
+              <ArticleCaption>（保全命令の申立ての取下げ）</ArticleCaption>
+              <ArticleTitle>第十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>保全命令の<span>申立て{'規定': 1}</span>を<span>取り下げる{'ある': 1}</span>には、<span>保全{'規定': 1}</span><span>異議{'規定': 1}</span>又は<span>保全{'規定': 2}</span><span>取消し{'規定': 1}</span>の<span>申立て{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た後においても、<span>債務者{'規定': 1}</span>の<span>同意{'規定': 1}</span>を<span>得る{'ある': 1}</span>ことを要<span>しない{'手続': 1}</span>。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19">
+              <ArticleCaption>（却下の裁判に対する即時抗告）</ArticleCaption>
+              <ArticleTitle>第十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence><span>保全命令{'規定': 1}</span>の<span>申立て{'手続': 1}</span>を<span>却下{'手続': 1}</span>する<span>裁判{'規定': 1}</span>に対しては、<span>債権者{'規定': 1}</span>は、<span>告知{'規定': 1}</span>を<span>受け{'ある': 1}</span>た日から二週間の<span>不変{'規定': 1}</span><span>期間内{'手続': 1}</span>に、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence><span>前項{'手続': 1}</span>の<span>即時抗告{'規定': 1}</span>を<span>却下{'手続': 1}</span>する<span>裁判{'規定': 1}</span>に対しては、<span>更に{'相当': 1}</span><span>抗告{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>第十<span>六条{'規定': 1}</span><span>本文{'規定': 1}</span>の<span>規定{'手続': 1}</span>は、第一項の<span>即時抗告{'規定': 1}</span>についての<span>決定{'手続': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　仮差押命令</SubsectionTitle>
+            <Article Num="20">
+              <ArticleCaption>（仮差押命令の必要性）</ArticleCaption>
+              <ArticleTitle>第二十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence><span>仮差押{'規定': 1}</span><span>命令{'規定': 1}</span>は、<span>金銭{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>目的{'規定': 1}</span>とする<span>債権{'規定': 1}</span>について、<span>強制執行{'手続': 1}</span>をすることが<span>でき{'ある': 1}</span>なく<span>なる{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span>とき、<span>又は{'ただし': 1}</span><span>強制執行{'規定': 1}</span>をするのに<span>著しい{'なく': 1}</span><span>困難{'規定': 1}</span>を<span>生ずる{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span>ときに<span>発する{'ある': 1}</span>ことができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence><span>仮差押{'規定': 1}</span><span>命令{'規定': 1}</span>は、前項の債権が条件付又は<span>期限{'規定': 1}</span>付である場合においても、これを発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="21">
+              <ArticleCaption>（仮差押命令の対象）</ArticleCaption>
+              <ArticleTitle>第二十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1"><span>仮差押{'管理': 1}</span>命令は、特定の物について発しなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、動産の仮差押命令は、目的物を特定<span>しない{'適格消費者団体': 1}</span>で発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="22">
+              <ArticleCaption>（仮差押解放金）</ArticleCaption>
+              <ArticleTitle>第二十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>仮差押命令においては、<span>仮差押え{'手続': 1}</span>の<span>執行{'規定': 1}</span>の<span>停止{'規定': 1}</span>を<span>得る{'ある': 1}</span>ため、又は<span>既に{'相当': 1}</span>した<span>仮差押え{'規定': 1}</span>の<span>執行{'手続': 1}</span>の<span>取消し{'規定': 1}</span>を<span>得る{'ある': 1}</span>ために<span>債務者{'規定': 1}</span>が<span>供託{'規定': 1}</span>すべき<span>金銭{'規定': 1}</span>の<span>額{'規定': 1}</span>を<span>定め{'規定': 1}</span>なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence><span>前項{'手続': 1}</span>の金銭の供託は、<span>仮差押{'管理': 1}</span>命令を<span>発し{'ある': 1}</span>た裁判所又は保全執行裁判所の所在地を管轄する地方裁判所の管轄区域内の供託所にしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="3">
+            <SubsectionTitle>第三款　仮処分命令</SubsectionTitle>
+            <Article Num="23">
+              <ArticleCaption>（仮処分命令の必要性等）</ArticleCaption>
+              <ArticleTitle>第二十三条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>係争物に関する仮処分命令は、その現状の変更により、債権者が権利を実行することができなく<span>なる{'ある': 1}</span>おそれが<span>ある{'でき': 1}</span>とき、又は<span>権利{'規定': 1}</span>を<span>実行{'規定': 1}</span>するのに<span>著しい{'なく': 1}</span>困難を生ずるおそれがあるときに発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>仮の地位を定める<span>仮処分{'手続': 1}</span>命令は、<span>争い{'定め': 1}</span>がある権利関係について債権者に生ずる著しい損害又は急迫の危険を避けるためこれを必要とするときに発することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>第二十条第二項の規定は、仮処分命令について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1">第二項の<span>仮処分{'規定': 1}</span>命令は、口頭弁論又は債務者が立ち会うことができる審尋の期日を経なければ、これを発することができない。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、その期日を経ることにより<span>仮処分{'保護': 1}</span>命令の申立ての目的を達することができない事情があるときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="24">
+              <ArticleCaption>（仮処分の方法）</ArticleCaption>
+              <ArticleTitle>第二十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>裁判所は、<span>仮処分{'管理': 1}</span>命令の申立ての目的を達するため、債務者に対し一定の行為を命じ、若しくは<span>禁止{'規定': 1}</span>し、若しくは給付を命じ、又は保管人に<span>目的物{'規定': 1}</span>を保管させる処分その他の必要な処分をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25">
+              <ArticleCaption>（仮処分解放金）</ArticleCaption>
+              <ArticleTitle>第二十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>裁判所は、<span>保全{'規定': 1}</span>すべき<span>権利{'規定': 1}</span>が<span>金銭{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>受ける{'ある': 1}</span>こと<span>をもって{'とともに': 1}</span>その<span>行使{'規定': 1}</span>の<span>目的{'規定': 1}</span>を<span>達する{'ある': 1}</span>ことができるものであるときに限り、債権者の意見を聴いて、<span>仮処分{'手続': 1}</span>の執行の停止を得るため、又は既にした<span>仮処分{'規定': 1}</span>の執行の取消しを得るために債務者が供託すべき金銭の額を<span>仮処分{'規定': 1}</span>命令において定めることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>第二十二条第二項の規定は、前項の<span>金銭{'規定': 1}</span>の供託について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25_2">
+              <ArticleCaption>（債務者を特定しないで発する占有移転禁止の仮処分命令）</ArticleCaption>
+              <ArticleTitle>第二十五条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>占有移転禁止の仮処分命令（<span>係争{'規定': 1}</span>物の引渡し又は明渡しの請求権を保全するための<span>仮処分{'管理': 1}</span>命令のうち、次に掲げる事項を内容とするものをいう。以下この条、第五十四条の二及び第六十二条において同じ。）であって、<span>係争{'規定': 1}</span>物が不動産であるものについては、その執行前に債務者を特定することを<span>困難{'規定': 1}</span>とする<span>特別{'規定': 1}</span>の<span>事情{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>裁判所{'手続': 1}</span>は、債務者を特定しないで、これを発することができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>債務者に対し、係争物の占有の移転を禁止し、及び係争物の占有を解いて執行官に引き渡すべきことを命ずること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>執行官に、係争物の保管をさせ、かつ、債務者が係争物の占有の移転を禁止されている旨及び執行官が係争物を保管している旨を公示させること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>前項の規定による占有移転禁止の仮処分命令の執行がされたときは、当該執行によって係争物である不動産の占有を解かれた者が、債務者となる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1">第一項の規定による占有移転禁止の仮処分<span>命令{'処分': 1}</span>は、第四十三条第二項の期間内にその執行がされなかったときは、債務者に対して送達することを要<span>しない{'規定': 1}</span>。</Sentence>
+                  <Sentence Num="2">この<span>場合{'規定': 1}</span>において、第四条第二項において<span>準用{'規定': 1}</span>する<span>民事訴訟法{'規定': 1}</span>第七十九条第一項の<span>規定{'手続': 1}</span>による<span>担保{'規定': 1}</span>の<span>取消し{'規定': 1}</span>の<span>決定{'手続': 1}</span>で第十四条第一項の<span>規定{'手続': 1}</span>により<span>立て{'ある': 1}</span>させた<span>担保{'規定': 1}</span>に係るものは、<span>裁判所{'規定': 1}</span>が<span>相当{'手続': 1}</span>と<span>認める{'ある': 1}</span><span>方法{'規定': 1}</span>で<span>申立{'規定': 1}</span>人に<span>告知{'規定': 1}</span>することによって、その<span>効力{'規定': 1}</span>を生ずる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　保全異議</SectionTitle>
+          <Article Num="26">
+            <ArticleCaption>（保全異議の申立て）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保全命令に対しては、<span>債務者{'保護': 1}</span>は、その命令を<span>発し{'ある': 1}</span>た裁判所に保全<span>異議{'規定': 1}</span>を申し立てることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（保全執行の停止の裁判等）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保全異議の<span>申立て{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>において、<span>保全命令{'規定': 1}</span>の<span>取消し{'規定': 1}</span>の<span>原因{'規定': 1}</span>と<span>なる{'ある': 1}</span>ことが<span>明らか{'手続': 1}</span>な事情及び<span>保全{'業務': 1}</span>執行により<span>償う{'ある': 1}</span>ことができない損害を生ずるおそれがあることにつき<span>疎明{'場合': 1}</span>が<span>あっ{'ある': 1}</span>たときに<span>限り{'ある': 1}</span>、<span>裁判所{'規定': 1}</span>は、<span>申立て{'当該': 1, '手続': 1}</span>により、<span>保全{'規定': 1}</span><span>異議{'処分': 1, '規定': 1}</span>の<span>申立て{'規定': 1}</span>についての<span>決定{'手続': 1}</span>において第三項の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>をするまでの<span>間{'手続': 1}</span>、担保を立てさせて、又は担保を<span>立てる{'ある': 1}</span>ことを条件として<span>保全{'権利': 1}</span><span>執行{'処分': 1}</span>の停止<span>又は{'ただし': 1}</span><span>既に{'相当': 1}</span>した<span>執行{'規定': 1}</span><span>処分{'規定': 1}</span>の<span>取消し{'手続': 1}</span>を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>抗告裁判所が保全命令を<span>発し{'ある': 1}</span>た場合において、事件の記録が原<span>裁判所{'規定': 1}</span>に存するときは、その裁判所も、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'規定': 1}</span>は、<span>保全{'規定': 1}</span><span>異議{'規定': 1}</span>の<span>申立て{'規定': 1}</span>についての<span>決定{'規定': 1}</span>において、既にした第一項の規定による裁判を取り消し、<span>変更し{'規定': 1}</span>、又は認可しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項及び前項の規定による<span>裁判{'規定': 1}</span>に対しては、<span>不服{'規定': 1}</span>を<span>申し立てる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十五条の<span>規定{'手続': 1}</span>は、第一項の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（事件の移送）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'規定': 1}</span>は、<span>当事者{'規定': 1}</span>、<span>尋問{'規定': 1}</span>を<span>受ける{'ある': 1}</span>べき証人及び審尋を受けるべき<span>参考{'手続': 1}</span>人の住所その他の事情を考慮して、保全異議事件につき著しい遅滞を<span>避け{'ある': 1}</span>、又は当事者間の衡平を図るために必要が<span>ある{'でき': 1}</span>ときは、<span>申立て{'手続': 1}</span>により又は<span>職権{'規定': 1}</span>で、<span>当該{'手続': 1}</span><span>保全命令{'申立て': 1, '規定': 1}</span><span>事件{'手続': 1}</span>につき<span>管轄権{'手続': 1}</span>を<span>有する{'ある': 1}</span>他の<span>裁判所{'手続': 1}</span>に<span>事件{'規定': 1}</span>を<span>移送{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（保全異議の審理）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>裁判所{'規定': 1}</span>は、口頭弁論又は当事者双方が<span>立ち会う{'ある': 1}</span>ことができる審尋の期日を経なければ、保全異議の申立てについての決定をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（審理の終結）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">裁判所は、審理を終結するには、相当の猶予期間を置いて、審理を終結する日を<span>決定{'定め': 1}</span>しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、口頭弁論又は当事者双方が<span>立ち会う{'ある': 1}</span>ことができる審尋の期日においては、直ちに審理を終結する旨を宣言することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（保全異議の申立てについての決定）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>裁判所は、保全<span>異議{'処分': 1}</span>の申立てについての決定においては、保全命令を認可し、<span>変更し{'手続': 1}</span>、又は取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>裁判所は、前項の決定において、<span>相当{'手続': 1}</span>と<span>認める{'ある': 1}</span>一定の期間内に債権者が担保を<span>立てる{'ある': 1}</span>こと又は第十四条第一項の規定による担保の額を増加した上、相当と認める一定の期間内に債権者がその<span>増加{'当該': 1}</span>額につき担保を<span>立てる{'ある': 1}</span>ことを保全執行の<span>実施{'社員': 1}</span>又は続行の条件とする旨を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>裁判所は、第一項の規定による<span>保全命令{'決定': 1}</span>を取り消す<span>決定{'再生': 1}</span>について、債務者が担保を立てることを条件とすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十六条本文及び第十七条の規定は、第一項の決定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（原状回復の裁判）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>仮処分{'管理': 1}</span>命令に基づき、債権者が<span>物{'規定': 1}</span>の引渡し若しくは明渡し若しくは金銭の支払を受け、又は物の使用若しくは保管をしているときは、裁判所は、債務者の申立てにより、前条第一項の規定により<span>仮処分{'中止': 1, '規定': 1}</span>命令を取り消す決定において、債権者に対し、債務者が引き渡し、<span>若しくは{'ただし': 1}</span>明け渡した物の返還、債務者が支払った金銭の返還又は債権者が使用若しくは<span>保管{'規定': 1}</span>をしている物の<span>返還{'規定': 1}</span>を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（保全命令を取り消す決定の効力）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>裁判所{'手続': 1}</span>は、第三十二条第一項の<span>規定{'手続': 1}</span>により<span>保全命令{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>決定{'規定': 1}</span>において、その<span>送達{'手続': 1}</span>を<span>受け{'ある': 1}</span>た日から二週間を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内で<span>相当{'規定': 1}</span>と<span>認める{'ある': 1}</span><span>一定{'手続': 1}</span>の<span>期間{'規定': 1}</span>を<span>経過{'規定': 1}</span>しなければその<span>決定{'規定': 1}</span>の<span>効力{'前': 1, '手続': 1}</span>が<span>生じ{'ある': 1}</span>ない旨を<span>宣言{'規定': 1}</span>することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、その<span>決定{'規定': 1}</span>に対して<span>保全{'手続': 1}</span><span>抗告{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ないときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（保全異議の申立ての取下げ）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>保全{'規定': 1}</span><span>異議{'処分': 1, '規定': 1}</span>の<span>申立て{'裁判': 1, '規定': 1}</span>を<span>取り下げる{'ある': 1}</span>には、<span>債権者{'規定': 1}</span>の<span>同意{'規定': 1}</span>を<span>得る{'ある': 1}</span>ことを要<span>しない{'規定': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（判事補の権限の特例）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保全<span>異議{'処分': 1}</span>の申立てについての裁判は、判事補が単独ですることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　保全取消し</SectionTitle>
+          <Article Num="37">
+            <ArticleCaption>（本案の訴えの不提起等による保全取消し）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保全命令を発した裁判所は、債務者の申立てにより、債権者に対し、相当と<span>認める{'ある': 1}</span><span>一定{'規定': 1}</span>の<span>期間内{'規定': 1}</span>に、<span>本案{'規定': 1}</span>の<span>訴え{'規定': 1}</span>を<span>提起{'規定': 1}</span>するとともにその<span>提起{'規定': 1}</span>を<span>証する{'ある': 1}</span><span>書面{'規定': 1}</span>を<span>提出{'規定': 1}</span>し、<span>既に{'相当': 1}</span><span>本案{'規定': 1}</span>の<span>訴え{'規定': 1}</span>を<span>提起{'手続': 1}</span>しているときはその<span>係属{'規定': 1}</span>を<span>証する{'ある': 1}</span><span>書面{'場合': 1, '規定': 1}</span>を<span>提出{'規定': 1}</span>すべきことを<span>命じ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>期間{'規定': 1}</span>は、二週間以上でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>債権者{'手続': 1}</span>が第一項の<span>規定{'手続': 1}</span>により<span>定め{'規定': 1}</span>られた<span>期間内{'規定': 1}</span>に同<span>項{'規定': 1}</span>の<span>書面{'規定': 1}</span>を<span>提出{'規定': 1}</span>しなかったときは、<span>裁判所{'規定': 1}</span>は、<span>債務者{'規定': 1}</span>の<span>申立て{'規定': 1}</span>により、<span>保全命令{'規定': 1}</span>を<span>取り消さ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の<span>書面{'規定': 1}</span>が提出された後に、同項の本案の訴えが<span>取り下げ{'ある': 1}</span>られ、又は却下された場合には、その書面を<span>提出{'特例民法法人': 1}</span>しなかったものと<span>みなす{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項及び第三項の<span>規定{'手続': 1}</span>の<span>適用{'規定': 1}</span>については、<span>本案{'規定': 1}</span>が<span>家事事件手続法{'規定': 1}</span>（平成二十三年<span>法律{'手続': 1}</span>第五十二号）第二百五十七条第一項に<span>規定{'手続': 1}</span>する<span>事件{'規定': 1}</span>であるときは家庭裁判所に対する調停の申立てを、本案が<span>労働審判法{'規定': 1}</span>（平成十六年法律第四十五号）第一条に規定する事件であるときは地方裁判所に対する労働審判手続の申立てを、本案に関し仲裁合意があるときは<span>仲裁{'場合': 1}</span>手続の開始の手続を、本案が公害紛争処理法（昭和四十五年法律第百八号）第二条に規定する公害に係る被害についての損害賠償の請求に関する事件であるときは同法第四十二条の十二第一項に規定する損害賠償の責任に関する裁定（次項において「責任裁定」という。）の申請を本案の訴えの提起と<span>みなす{'でき': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の調停の事件、同項の労働審判手続、同項の仲裁手続又は同項の責任裁定の手続が調停の成立、労働審判（労働審判法第二十九条第二項において準用する民事調停法（昭和二十六年法律第二百二十二号）第十六条の規定による調停の成立及び労働審判法第二十四条第一項の規定による労働審判<span>事件{'手続': 1}</span>の<span>終了{'規定': 1}</span>を含む。）、仲裁判断又は責任裁定（公害紛争処理法第四十二条の二十四第二項の当事者間の合意の成立を含む。）によらないで終了したときは、<span>債権者{'規定': 1}</span>は、その<span>終了{'手続': 1}</span>の日から第一項の<span>規定{'手続': 1}</span>により<span>定め{'手続': 1}</span>られた<span>期間{'規定': 1}</span>と<span>同一{'規定': 1}</span>の<span>期間内{'規定': 1}</span>に<span>本案{'規定': 1}</span>の<span>訴え{'規定': 1}</span>を<span>提起{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第三項の<span>規定{'手続': 1}</span>は<span>債権者{'規定': 1}</span>が<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>本案{'規定': 1}</span>の<span>訴え{'規定': 1}</span>の<span>提起{'手続': 1}</span>をしなかった<span>場合{'手続': 1}</span>について、第四項の<span>規定{'手続': 1}</span>は<span>前項{'規定': 1}</span>の本案の訴えが提起され、又は<span>労働審判法{'規定': 1}</span>第二十二条第一項（同法第二十三条第二項及び第二十四条第二項において準用する場合を含む。）の<span>規定{'手続': 1}</span>により<span>訴え{'規定': 1}</span>の提起があったものとみなされた後にその訴えが<span>取り下げ{'ある': 1}</span>られ、又は却下された場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十六条<span>本文{'規定': 1}</span>及び第十七条の<span>規定{'手続': 1}</span>は、第三項（<span>前項{'規定': 1}</span>において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（事情の変更による保全取消し）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>保全{'規定': 1}</span>すべき<span>権利{'規定': 1}</span>若しくは権利関係又は保全の<span>必要性{'規定': 1}</span>の消滅その他の事情の変更があるときは、保全命令を<span>発し{'ある': 1}</span>た裁判所又は本案の裁判所は、債務者の<span>申立て{'規定': 1}</span>により、<span>保全命令{'規定': 1}</span>を<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>事情{'規定': 1}</span>の<span>変更{'規定': 1}</span>は、<span>疎明{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十<span>六条{'手続': 1}</span><span>本文{'手続': 1}</span>、第十<span>七条{'手続': 1}</span><span>並び{'規定': 1}</span>に第三十二条第二項及び第三項の規定は、第一項の申立てについての決定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（特別の事情による保全取消し）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>仮処分命令により償うことができない損害を生ずるおそれがあるときその他の特別の事情があるときは、<span>仮処分{'規定': 1}</span>命令を発した裁判所又は本案の裁判所は、債務者の申立てにより、担保を立てることを条件として仮処分命令を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の特別の事情は、<span>疎明{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十<span>六条{'手続': 1}</span><span>本文{'手続': 1}</span><span>及び{'又は': 1}</span>第十七条の<span>規定{'手続': 1}</span>は、第一項の<span>申立て{'規定': 1}</span>についての<span>決定{'手続': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40">
+            <ArticleCaption>（保全異議の規定の準用等）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">第二十七条から第二十九条まで、第三十一条<span>及び{'ただし': 1}</span>第三十三条から第三十六条までの<span>規定{'手続': 1}</span>は、<span>保全{'規定': 1}</span><span>取消し{'処分': 2, '規定': 1}</span>に関する<span>裁判{'規定': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、第二十七条から第二十九条まで、第三十一条、第三十三条、第三十四条及び第三十六条の<span>規定{'手続': 1}</span>は、第三十七条第一項の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>において<span>準用{'規定': 1}</span>する第二十七条第一項の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>は、保全取消しの申立てが保全命令を<span>発し{'ある': 1}</span>た裁判所以外の本案の裁判所にされた場合において、事件の記録が保全命令を<span>発し{'ある': 1}</span>た裁判所に存するときは、その裁判所も、これをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　保全抗告</SectionTitle>
+          <Article Num="41">
+            <ArticleCaption>（保全抗告）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">保全<span>異議{'申立て': 1}</span>又は<span>保全{'規定': 2}</span><span>取消し{'規定': 1}</span>の<span>申立て{'決定': 1, '手続': 1}</span>についての<span>裁判{'規定': 1}</span>（第三十三条（<span>前条{'手続': 1}</span>第一項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）に対しては、その<span>送達{'規定': 1}</span>を<span>受け{'ある': 1}</span>た日から二週間の<span>不変{'規定': 1}</span><span>期間内{'規定': 1}</span>に、<span>保全{'規定': 1}</span><span>抗告{'裁判所': 1}</span>をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、抗告裁判所が<span>発し{'でき': 1}</span>た保全命令に対する保全異議の申立てについての裁判に対しては、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>原{'規定': 1}</span>裁判所は、<span>保全{'規定': 1}</span><span>抗告{'処分': 2, '規定': 1}</span>を受けた場合には、保全<span>抗告{'処分': 1}</span>の<span>理由{'手続': 1}</span>の<span>有無{'規定': 1}</span>につき<span>判断{'裁判所': 1, '規定': 1}</span>しないで、<span>事件{'規定': 1}</span>を<span>抗告{'規定': 1}</span><span>裁判所{'手続': 1}</span>に<span>送付{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>保全{'規定': 1}</span><span>抗告{'規定': 2}</span>についての<span>裁判{'手続': 1}</span>に対しては、<span>更に{'相当': 1}</span><span>抗告{'規定': 1}</span>をすることが<span>でき{'ある': 1}</span>ない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十<span>六条{'規定': 1}</span><span>本文{'規定': 1}</span>、第十<span>七条{'規定': 1}</span><span>並び{'規定': 1}</span>に第三十二条第二項及び第三項の<span>規定{'手続': 1}</span>は<span>保全{'手続': 1}</span><span>抗告{'処分': 2, '規定': 1}</span>についての<span>決定{'手続': 1}</span>について、第二十七条第一項、第四項及び第五項、第二十九条、第三十一条並びに第三十三条の<span>規定{'手続': 1}</span>は<span>保全{'規定': 1}</span><span>抗告{'処分': 1, '規定': 2}</span>に関する<span>裁判{'手続': 1}</span>について、<span>民事訴訟法{'手続': 1}</span>第三百四十九条の<span>規定{'手続': 1}</span>は<span>保全{'規定': 1}</span><span>抗告{'処分': 1, '規定': 1}</span>をすることができる<span>裁判{'手続': 1}</span>が<span>確定{'準用': 1, '手続': 1}</span>した<span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>において<span>準用{'規定': 1}</span>する第二十七条第一項の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>は、<span>事件{'規定': 1}</span>の<span>記録{'規定': 1}</span>が原<span>裁判所{'規定': 1}</span>に<span>存する{'でき': 1}</span>ときは、その<span>裁判所{'規定': 1}</span>も、これをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（保全命令を取り消す決定の効力の停止の裁判）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>保全命令{'手続': 1}</span>を<span>取り消す{'ある': 1}</span><span>決定{'規定': 2}</span>に対して保全抗告があった場合において、<span>原{'規定': 1}</span>決定の取消しの原因となることが明らかな事情及びその命令の<span>取消し{'執行': 1}</span>により<span>償う{'ある': 1}</span>ことができない損害を生ずるおそれがあることにつき<span>疎明{'場合': 1}</span>が<span>あっ{'ある': 1}</span>たときに<span>限り{'ある': 1}</span>、<span>抗告{'裁判所': 1, '即時抗告': 1, '規定': 1}</span><span>裁判所{'手続': 1}</span>は、<span>申立て{'規定': 1}</span>により、<span>保全{'規定': 1}</span><span>抗告{'規定': 1}</span>についての<span>裁判{'手続': 1}</span>をするまでの<span>間{'手続': 1}</span>、担保を立てさせて、又は担保を<span>立てる{'ある': 1}</span>ことを条件として保全命令を取り消す決定の<span>効力{'手続': 1}</span>の<span>停止{'手続': 1}</span>を<span>命ずる{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十五条、第二十七条第四項及び<span>前条{'規定': 1}</span>第五項の<span>規定{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>裁判{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　保全執行に関する手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Num="43">
+            <ArticleCaption>（保全執行の要件）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>保全{'規定': 1}</span><span>執行{'規定': 1}</span>は、<span>保全命令{'規定': 1}</span>の<span>正本{'規定': 1}</span>に<span>基づい{'ある': 1}</span>て<span>実施{'手続': 1}</span>する。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、<span>保全命令{'規定': 1}</span>に<span>表示{'規定': 1}</span>された当事者以外の者に対し、又はその者のためにする保全執行は、<span>執行文{'規定': 1}</span>の付された保全命令の正本に基づいて実施する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>保全{'規定': 1}</span><span>執行{'規定': 1}</span>は、<span>債権者{'規定': 1}</span>に対して<span>保全命令{'規定': 1}</span>が<span>送達{'手続': 1}</span>された日から二週間を<span>経過{'手続': 1}</span>したときは、これをしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>保全{'規定': 1}</span><span>執行{'処分': 1, '規定': 1}</span>は、<span>保全命令{'規定': 1}</span>が<span>債務者{'規定': 1}</span>に<span>送達{'手続': 1}</span>される<span>前{'手続': 1}</span>であっても、これをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（追加担保を提供しないことによる保全執行の取消し）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第三十二条第二項（第三十八条第三項及び第四十<span>一条{'同法': 1, '規定': 1}</span>第四項において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を含む。以下この項において同じ。）の規定により担保を立てることを<span>保全{'場合': 1}</span>執行の続行の条件とする旨の<span>裁判{'場合': 1}</span>があったときは、<span>債権者{'場合': 1}</span>は、第三十二条第二項の規定により<span>定め{'手続': 1}</span>られた<span>期間内{'規定': 1}</span>に<span>担保{'規定': 1}</span>を<span>立て{'ある': 1}</span>たことを証する書面をその期間の末日から<span>一週間{'規定': 1}</span>以内に保全執行裁判所又は執行官に<span>提出{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>債権者が前項の規定による書面の提出をしない<span>場合{'再生': 1, '規定': 1}</span>において、<span>債務者{'規定': 1}</span>が同<span>項{'規定': 1}</span>の<span>裁判{'規定': 1}</span>の<span>正本{'規定': 1}</span>を<span>提出{'規定': 1}</span>したときは、保全執行裁判所又は<span>執行官{'規定': 1}</span>は、既にした執行処分を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>民事執行法第四十条第二項の<span>規定{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>執行{'保全': 1, '規定': 1}</span><span>処分{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>場合{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（第三者異議の訴えの管轄裁判所の特例）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>高等裁判所{'規定': 2}</span>が<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span><span>裁判所{'規定': 1}</span><span>として{'とともに': 1}</span><span>した{'規定': 1}</span><span>保全{'規定': 1}</span><span>執行{'処分': 1}</span>に対する第三者異議の訴えは、仮に差し押さえるべき物又は係争物の所在地を管轄する地方裁判所が管轄する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（民事執行法の準用）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この章に<span>特別{'規定': 1}</span>の<span>定め{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、<span>民事執行法{'手続': 1}</span>第五条から第十四条まで、第十<span>六条{'規定': 1}</span>、第十<span>八条{'規定': 1}</span>、第二十三条<span>第一{'手続': 1}</span>項、第二十六条、第二十七条第二項、第二十八条、第三十条第二項、第三十二条から第三十四条まで、第三十六条から第三十八条まで、第三十九条第一項第一号から第四号まで、第六号及び第七号、第四十条並びに第四十一条の<span>規定{'手続': 1}</span>は、<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　仮差押えの執行</SectionTitle>
+          <Article Num="47">
+            <ArticleCaption>（不動産に対する仮差押えの執行）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1"><span>民事執行法{'規定': 1}</span>第四十三条第一項に<span>規定{'手続': 1}</span>する<span>不動産{'規定': 1}</span>（同<span>条{'規定': 1}</span>第二項の<span>規定{'手続': 1}</span>により<span>不動産{'規定': 1}</span>と<span>みなさ{'ある': 1}</span>れるものを<span>含む{'ある': 1}</span>。）に対する<span>仮差押え{'規定': 1}</span>の<span>執行{'当該': 1, '規定': 1}</span>は、仮差押えの登記をする方法又は強制管理の方法により行う。</Sentence>
+                <Sentence Num="2">これらの方法は、併用することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>仮差押えの登記をする方法による仮差押えの執行については、<span>仮差押{'管理': 1}</span>命令を<span>発し{'ある': 1}</span>た裁判所が、保全執行裁判所として<span>管轄{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>仮差押えの登記は、裁判所書記官が嘱託する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>強制管理{'規定': 1}</span>の方法による仮差押えの執行においては、管理人は、次項において<span>準用{'規定': 1}</span>する民事執行法第百七条第一項の規定により計算した配当等に<span>充てる{'ある': 1}</span>べき金銭を<span>供託{'財産': 1}</span>し、その事情を保全執行<span>裁判所{'規定': 1}</span>に<span>届け出{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>民事執行法{'規定': 1}</span>第四十六条第二項、第四十七条第一項、第四十八条第二項、第五十三条及び第五十四条の<span>規定{'手続': 1}</span>は<span>仮差押え{'規定': 1}</span>の<span>登記{'手続': 1}</span>をする<span>方法{'規定': 1}</span>による<span>仮差押え{'手続': 1}</span>の<span>執行{'手続': 1}</span>について、<span>同法{'規定': 1}</span>第四十四条、第四十六条第一項、第四十七条第二項、第六項<span>本文{'規定': 1}</span>及び第七項、第四十八条、第五十三条、第五十四条、第九十三条から第九十三条の三まで、第九十四条から第百四条まで、第百六条並びに第百七条第一項の規定は<span>強制管理{'手続': 1}</span>の方法による<span>仮差押え{'規定': 1}</span>の<span>執行{'手続': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（船舶に対する仮差押えの執行）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">船舶に対する仮差押えの執行は、仮差押えの登記をする方法又は<span>執行官{'製造': 1, '規定': 1}</span>に対し船舶の国籍を証する文書その他の船舶の航行のために必要な文書（以下この条において「船舶国籍証書等」という。）を取り上げて保全執行裁判所に提出すべきことを命ずる方法により行う。</Sentence>
+                <Sentence Num="2">これらの方法は、<span>併用{'手続': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>仮差押えの登記をする方法による仮差押えの執行は<span>仮差押{'管理': 1}</span>命令を発した裁判所が、船舶国籍証書等の取上げを命ずる方法による仮差押えの執行は船舶の<span>所在地{'規定': 1}</span>を<span>管轄{'規定': 1}</span>する<span>地方裁判所{'規定': 1}</span>が、<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span><span>裁判所{'規定': 1}</span><span>として{'とともに': 1}</span><span>管轄{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前条{'規定': 1}</span>第三項並びに<span>民事執行法{'規定': 1}</span>第四十六条第二項、第四十七条第一項、第四十八条第二項、第五十三条及び第五十四条の<span>規定{'手続': 1}</span>は<span>仮差押え{'規定': 1}</span>の<span>登記{'手続': 1}</span>をする<span>方法{'規定': 1}</span>による<span>仮差押え{'手続': 1}</span>の執行について、同法第四十五条第三項、第四十七条第一項、第五十三条、第百十六条及び第百十八条の規定は船舶国籍証書等の取上げを命ずる方法による仮差押えの執行について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（動産に対する仮差押えの執行）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>動産に対する仮差押えの執行は、<span>執行官{'規定': 1}</span>が目的物を占有する方法により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">執行官は、仮差押えの執行に係る金銭を供託しなければならない。</Sentence>
+                <Sentence Num="2">仮差押えの執行に係る手形、小切手その他の金銭の支払を目的とする有価証券でその権利の行使のため定められた期間内に引受け若しくは支払のための提示又は支払の請求を要するものについて執行官が支払を受けた金銭についても、<span>同様{'支払': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>仮差押えの<span>執行{'農業': 1}</span>に係る<span>動産{'規定': 1}</span>について著しい価額の減少を生ずるおそれがあるとき、又はその保管のために不相応な費用を要するときは、執行官は、民事執行法の規定による動産執行の売却の手続によりこれを売却し、その売得金を供託しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>民事執行法第百二十三条から第百二十九条まで、第百三十一条、第百三十二条及び第百三十六条の<span>規定{'農業': 1}</span>は、動産に対する仮差押えの執行について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（債権及びその他の財産権に対する仮差押えの執行）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>民事執行法第百四十三条に規定する<span>債権{'規定': 1}</span>に対する<span>仮差押え{'業務': 1, '手続': 1}</span>の<span>執行{'規定': 1}</span>は、<span>保全{'規定': 1}</span>執行裁判所が第三債務者に対し債務者への<span>弁済{'財産': 1}</span>を禁止する命令を発する方法により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の仮差押えの執行については、仮差押命令を<span>発し{'ある': 1}</span>た裁判所が、保全執行裁判所として<span>管轄{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">第三<span>債務者{'規定': 1}</span>が<span>仮差押え{'規定': 1}</span>の<span>執行{'手続': 1}</span>がされた<span>金銭{'規定': 1}</span>の<span>支払{'規定': 1}</span>を<span>目的{'規定': 1}</span>とする<span>債権{'規定': 1}</span>の<span>額{'手続': 1}</span>に<span>相当{'規定': 1}</span>する<span>金銭{'手続': 1}</span>を<span>供託{'規定': 1}</span>した<span>場合{'規定': 1}</span>には、<span>債務者{'手続': 1}</span>が第二十二条第一項の<span>規定{'手続': 1}</span>により<span>定め{'規定': 1}</span>られた<span>金銭{'規定': 1}</span>の<span>額{'規定': 1}</span>に<span>相当{'規定': 1}</span>する<span>金銭{'額': 1, '規定': 1}</span>を<span>供託{'方法': 1, '規定': 1}</span>したものと<span>みなす{'ある': 1}</span>。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、その<span>金銭{'規定': 1}</span>の<span>額{'規定': 1}</span>を<span>超える{'ある': 1}</span><span>部分{'手続': 1}</span>については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項及び第二項の<span>規定{'財産': 1, '手続': 1}</span>は、その他の<span>財産権{'前項': 1, '規定': 1}</span>に対する<span>仮差押え{'規定': 1}</span>の<span>執行{'手続': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>民事執行法{'規定': 1}</span>第百四十五条第二項から第六項まで、第百四十六条から第百五十三条まで、第百五十六条、第百六十四条第五項及び第六項並びに第百六十七条の<span>規定{'手続': 1}</span>は、第一項の<span>債権{'規定': 1}</span>及びその他の<span>財産権{'規定': 1}</span>に対する<span>仮差押え{'規定': 1}</span>の<span>執行{'手続': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（仮差押解放金の供託による仮差押えの執行の取消し）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>債務者{'規定': 1}</span>が第二十二条第一項の<span>規定{'手続': 1}</span>により<span>定め{'規定': 1}</span>られた<span>金銭{'規定': 1}</span>の<span>額{'規定': 1}</span>に<span>相当{'規定': 1}</span>する<span>金銭{'規定': 1}</span>を<span>供託{'規定': 1}</span>したことを<span>証明{'規定': 1}</span>したときは、<span>保全{'規定': 1}</span><span>執行{'規定': 1}</span><span>裁判所{'規定': 1}</span>は、<span>仮差押え{'規定': 1}</span>の<span>執行{'規定': 1}</span>を<span>取り消さ{'ある': 2}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence><span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>は、第四十六条において<span>準用{'手続': 1}</span>する民事執行法第十二条第二項の規定にかかわらず、即時にその効力を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　仮処分の執行</SectionTitle>
+          <Article Num="52">
+            <ArticleCaption>（仮処分の執行）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>仮処分の<span>執行{'命令': 1, '手続': 1}</span>については、この節に定めるもののほか、仮差押えの執行又は強制執行の例による。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>物の給付その他の作為又は不作為を命ずる仮処分の執行については、仮処分命令を債務名義とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（不動産の登記請求権を保全するための処分禁止の仮処分の執行）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>不動産に関する<span>権利{'規定': 1}</span>についての<span>登記{'目的': 1}</span>（仮登記を除く。）を請求する<span>権利{'規定': 1}</span>（以下「登記請求権」という。）を保全するための処分禁止の仮処分の執行は、処分禁止の登記をする方法により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>不動産に関する所有権以外の<span>権利{'規定': 1}</span>の保存、設定又は変更についての登記請求権を保全するための<span>処分{'規定': 1}</span>禁止の仮処分の執行は、前項の<span>処分{'規定': 1}</span>禁止の登記とともに、仮処分による<span>仮登記{'規定': 1}</span>（以下「保全仮登記」という。）をする方法により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四十七条第二項及び第三項並びに民事執行法第四十八条第二項、第五十三条及び第五十四条の規定は、前二項の処分禁止の仮処分の<span>執行{'場合': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（不動産に関する権利以外の権利についての登記又は登録請求権を保全するための処分禁止の仮処分の執行）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>前条の規定は、不動産に関する権利以外の権利で、その処分の制限につき登記又は登録を<span>対抗要件{'届出': 1}</span>又は効力発生要件とするものについての登記（<span>仮登記{'手続': 1}</span>を除く。）又は登録（仮登録を除く。）を請求する権利を保全するための<span>処分{'規定': 1}</span><span>禁止{'効力': 1}</span>の<span>仮処分{'業務': 1}</span>の<span>執行{'場合': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54_2">
+            <ArticleCaption>（債務者を特定しないで発された占有移転禁止の仮処分命令の執行）</ArticleCaption>
+            <ArticleTitle>第五十四条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第二十五条の二第一項の規定による占有移転禁止の仮処分命令の執行は、係争物である不動産の占有を解く際にその占有者を特定することができない場合は、することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（建物収去土地明渡請求権を保全するための建物の処分禁止の仮処分の執行）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>建物の収去及びその敷地の明渡しの請求権を保全するため、その建物の処分禁止の<span>仮処分{'管理': 1}</span>命令が発せられたときは、その仮処分の執行は、処分禁止の登記をする方法により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第四十七条第二項及び第三項並びに<span>民事執行法{'規定': 1}</span>第四十八条第二項、第五十三条及び第五十四条の規定は、前項の<span>処分{'規定': 2}</span>禁止の仮処分の執行について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（法人の代表者の職務執行停止の仮処分等の登記の嘱託）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1"><span>法人{'規定': 1}</span>を代表する者その他法人の<span>役員{'手続': 1}</span><span>として{'とともに': 1}</span><span>登記{'規定': 1}</span>された者について、その<span>職務{'規定': 1}</span>の執行を停止し、若しくはその職務を代行する者を選任する仮処分命令又はその仮処分命令を変更し、<span>若しくは{'又は': 1}</span>取り消す決定がされた場合には、裁判所書記官は、法人の本店又は主たる事務所の所在地（外国法人にあっては、各事務所の所在地）を管轄する登記所にその<span>登記{'嘱託': 1, '規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、これらの<span>事項{'当該': 1, '規定': 1}</span>が<span>登記{'裁判': 1, '手続': 1}</span>すべきものでないときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="57">
+            <ArticleCaption>（仮処分解放金の供託による仮処分の執行の取消し）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence><span>債務者{'手続': 1}</span>が第二十五条第一項の<span>規定{'手続': 1}</span>により<span>定め{'規定': 1, '手続': 1}</span>られた<span>金銭{'規定': 1}</span>の<span>額{'規定': 1}</span>に<span>相当{'規定': 1}</span>する<span>金銭{'規定': 1}</span>を<span>供託{'規定': 1}</span>したことを証明したときは、保全執行裁判所は、<span>仮処分{'規定': 1}</span>の執行を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第五十一条第二項の規定は、前項の規定による<span>決定{'場合': 1}</span>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　仮処分の効力</ChapterTitle>
+        <Article Num="58">
+          <ArticleCaption>（不動産の登記請求権を保全するための処分禁止の仮処分の効力）</ArticleCaption>
+          <ArticleTitle>第五十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十三条第一項の<span>処分{'規定': 1}</span><span>禁止{'規定': 1}</span>の登記の後にされた登記に係る権利の取得又は処分の制限は、同項の仮処分の債権者が保全すべき登記請求権に係る登記をする場合には、その登記に係る権利の取得又は<span>消滅{'手続': 1}</span>と<span>抵触{'手続': 1}</span>する<span>限度{'手続': 1}</span>において、その<span>債権者{'手続': 1}</span>に<span>対抗{'行為': 1}</span>することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の<span>場合{'規定': 2}</span>においては、第五十三条第一項の<span>仮処分{'相続': 1}</span>の債権者（同<span>条{'当該': 1}</span>第二項の仮処分の債権者を除く。）は、同条第一項の<span>処分{'規定': 2}</span>禁止の登記に後れる登記を抹消することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第五十三条第二項の仮処分の債権者が保全すべき登記請求権に係る登記をするには、保全仮登記に基づく本登記をする方法による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第五十三条第二項の仮処分の債権者は、前項の規定により登記をする場合において、その仮処分により保全すべき登記請求権に係る権利が不動産の使用又は収益をするものであるときは、不動産の使用<span>若しくは{'又は': 1}</span>収益をする権利（所有権を除く。）又はその権利を<span>目的{'規定': 1}</span>とする<span>権利{'手続': 1}</span>の取得に関する登記で、同条第一項の<span>処分{'規定': 1}</span>禁止の登記に後れるものを<span>抹消{'規定': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="59">
+          <ArticleCaption>（登記の抹消の通知）</ArticleCaption>
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>仮処分の<span>債権者{'登記': 2}</span>が前条第二項又は第四項の規定により登記を抹消するには、<span>あらかじめ{'相当': 1}</span>、その<span>登記{'規定': 1}</span>の<span>権利{'規定': 1}</span>者に対し、その旨を<span>通知{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>通知{'規定': 1}</span>は、これを<span>発する{'受け': 1, 'ある': 1}</span>時の同<span>項{'規定': 1}</span>の<span>権利{'規定': 1}</span>者の登記簿上の住所又は事務所にあてて発することができる。</Sentence>
+              <Sentence Num="2">この場合には、その通知は、遅くとも、これを発した日から一週間を経過した時に到達したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60">
+          <ArticleCaption>（仮処分命令の更正等）</ArticleCaption>
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>保全仮登記に係る権利の表示がその保全仮登記に基づく本登記をすべき旨の本案の債務名義における権利の表示と符合しないときは、第五十三条第二項の処分禁止の<span>仮処分{'管理': 1}</span>の命令を発した裁判所は、債権者の申立てにより、その命令を更正しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence><span>前項{'届出': 1}</span>の<span>規定{'届出': 1}</span>による<span>更正{'規定': 1}</span><span>決定{'裁判': 1, '手続': 1}</span>に対しては、<span>即時抗告{'裁判': 1, '手続': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の<span>規定{'手続': 1}</span>による<span>更正{'終局': 1, '規定': 1}</span>決定が確定したときは、裁判所書記官は、保全<span>仮登記{'手続': 1}</span>の更正を嘱託しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleCaption>（不動産に関する権利以外の権利についての登記又は登録請求権を保全するための処分禁止の仮処分の効力）</ArticleCaption>
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前三条の規定は、第五十四条に規定する処分<span>禁止{'規定': 1}</span>の仮処分の効力について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="62">
+          <ArticleCaption>（占有移転禁止の仮処分命令の効力）</ArticleCaption>
+          <ArticleTitle>第六十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><span>占有{'場合': 1}</span>移転<span>禁止{'規定': 1}</span>の<span>仮処分{'管理': 1}</span>命令の執行がされたときは、債権者は、本案の債務名義に基づき、次に掲げる者に対し、係争物の引渡し又は明渡しの強制執行をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該占有移転禁止の仮処分命令の執行がされたことを知って当該係争物を占有した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該占有<span>移転{'経過': 1}</span>禁止の仮処分命令の執行後にその執行がされたことを知らないで当該係争物について債務者の占有を承継した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>占有移転禁止の仮処分命令の執行後に当該係争物を占有した者は、その執行がされたことを知って占有したものと推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="63">
+          <ArticleCaption>（執行文の付与に対する異議の申立ての理由）</ArticleCaption>
+          <ArticleTitle>第六十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項の本案の債務名義につき同項の債務者以外の者に対する執行文が付与されたときは、その者は、執行文の付与に対する異議の申立てにおいて、債権者に対抗することができる権原により当該物を占有していること、又はその仮処分の執行がされたことを知らず、かつ、債務者の占有の承継人でないことを理由とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="64">
+          <ArticleCaption>（建物収去土地明渡請求権を保全するための建物の処分禁止の仮処分の効力）</ArticleCaption>
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十五条第一項の処分禁止の登記がされたときは、債権者は、本案の債務名義に基づき、その登記がされた後に建物を譲り受けた者に対し、建物の収去及びその敷地の明渡しの強制執行をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="65">
+          <ArticleCaption>（詐害行為取消権を保全するための仮処分における解放金に対する権利の行使）</ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">民法（明治二十九年法律第八十九号）第四百二十四条第一項の規定による詐害行為取消権を保全するための仮処分命令において定められた第二十五条第一項の金銭の額に相当する金銭が供託されたときは、同法第四百二十四条第一項の債務者は、<span>供託金{'規定': 2}</span>の還付を請求する権利（以下「還付請求権」という。）を取得する。</Sentence>
+              <Sentence Num="2">この場合において、その還付請求権は、その<span>仮処分{'業務': 1}</span>の執行が第五十七条第一項の規定により取り消され、かつ、<span>保全{'規定': 1}</span>すべき権利についての本案の判決が確定した後に、その<span>仮処分{'手続': 1}</span>の債権者が<span>同法{'再生': 1}</span>第四百二十四条第一項の債務者に対する債務名義によりその還付<span>請求権{'規定': 1}</span>に対し強制執行をするときに限り、これを行使することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="66">
+          <ArticleCaption>（公示書等損壊罪）</ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十二条第一項の規定によりその例によることとされる民事執行法第百六十八条の二第三項又は第四項の規定により執行官が公示するために施した公示書その他の標識を損壊した者は、一年以下の懲役又は百万円以下の罰金に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67">
+          <ArticleCaption>（陳述等拒絶の罪）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五十二条第一項の規定によりその例によることとされる民事執行法第百六十八条第二項の規定による<span>執行官{'違反': 1}</span>の質問又は文書の提出の要求に対し、正当な<span>理由{'規定': 1}</span>なく、<span>陳述{'手続': 1}</span>をせず、若しくは<span>文書{'規定': 1}</span>の<span>提示{'規定': 1}</span>を<span>拒み{'ある': 1}</span>、又は<span>虚偽{'規定': 1}</span>の<span>陳述{'報告': 1, '記載': 1, '規定': 1}</span>をし、若しくは<span>虚偽{'規定': 1}</span>の<span>記載{'規定': 1}</span>をした<span>文書{'規定': 1}</span>を<span>提示{'規定': 1}</span>した<span>債務者{'手続': 1}</span>又は同<span>項{'規定': 1}</span>に<span>規定{'手続': 1}</span>する<span>不動産{'規定': 1}</span>等を<span>占有{'規定': 1}</span>する<span>第三者{'手続': 1}</span>は、<span>六月{'規定': 1}</span>以下の<span>懲役{'規定': 1}</span>又は五十万円以下の<span>罰金{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において政令で定める日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="408110" AmendLawNum="平成八年六月二六日法律第一一〇号" Extract="true" Id="50f1dfc7-181d-450f-be5c-c1380fa13d8f" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この法律は、新民訴法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="414065" AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true" Id="ecba4da2-d3b3-11e9-ab6a-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成十五年一月六日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="85">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415108" AmendLawNum="平成一五年七月一六日法律第一〇八号" Extract="true" Id="bcbad411-2b44-4dc5-bbbc-e86b37ca337c" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'六月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（特許権等に関する訴え及び意匠権等に関する訴えに係る訴訟の管轄等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>にした<span>申立て{'行為': 1, '規定': 1}</span>に係る保全命令事件であって本案の訴えが<span>特許権{'規定': 1}</span>等に関する訴えであるものの管轄については、なお従前の例に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415134" AmendLawNum="平成一五年八月一日法律第一三四号" Extract="true" Id="917802d4-d3b5-11e9-ab6a-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'三月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>施行日{'施行': 1, '手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、<span>なお{'相当': 1}</span><span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415138" AmendLawNum="平成一五年八月一日法律第一三八号" Extract="true" Id="6161b3aa-47dd-11e5-9289-f7b4623905e7" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して<span>九月{'一年': 2, '三月': 1, '規定': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>及び<span>附則{'規定': 1}</span>第五条の<span>規定{'手続': 1}</span>により<span>なお{'相当': 1}</span><span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'新法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、<span>なお{'相当': 1}</span><span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416045" AmendLawNum="平成一六年五月一二日法律第四五号" Extract="true" Id="4f005662-47dd-11e5-8e90-2b1d031ee3bd" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して五年を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日（以下「<span>施行日{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="135">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>（<span>附則{'規定': 1}</span>第<span>一条{'規定': 2}</span><span>ただし書{'規定': 1}</span>に<span>規定{'手続': 1}</span>する<span>規定{'手続': 1}</span>については、<span>当該{'手続': 1}</span><span>規定{'手続': 1}</span>。以下この<span>条{'規定': 1}</span>において同じ。）の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span><span>並びに{'及び': 3, 'ただし': 1}</span>この<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>なお{'相当': 1}</span><span>従前{'規定': 1}</span>の<span>例{'手続': 1}</span>によることとされる<span>場合{'規定': 1}</span>及び<span>なお{'相当': 1}</span>その<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる<span>場合{'手続': 1}</span>におけるこの<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、<span>なお{'相当': 1}</span><span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="136">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'法律': 1, '手続': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>は、新<span>不動産登記法{'信託': 1, '会社法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416152" AmendLawNum="平成一六年一二月三日法律第一五二号" Extract="true" Id="cb4b5a94-bc3c-4d5e-b14e-a92c1685a484" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'手続': 1}</span>の<span>施行{'手続': 1}</span><span>前{'規定': 1}</span>にした<span>行為{'規定': 1}</span>及びこの<span>附則{'規定': 1}</span>の<span>規定{'手続': 1}</span>により<span>なお{'相当': 1}</span><span>従前{'規定': 1}</span>の<span>例{'規定': 1}</span>によることとされる<span>場合{'規定': 1}</span>におけるこの<span>法律{'新法': 1, '規定': 1}</span>の<span>施行{'規定': 1}</span>後にした<span>行為{'規定': 1}</span>に対する<span>罰則{'規定': 1}</span>の<span>適用{'手続': 1}</span>については、<span>なお{'相当': 1}</span><span>従前{'手続': 1}</span>の<span>例{'手続': 1}</span>に<span>よる{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><span>附則{'規定': 1}</span><span>第三条{'八条': 1, '規定': 1}</span>から第十条まで、第二十九条<span>及び{'ただし': 1}</span>前<span>二条{'規定': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'手続': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し<span>必要{'規定': 1}</span>な<span>経過{'規定': 1}</span><span>措置{'規定': 1}</span>は、<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416165" AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true" Id="47609212-d3b3-11e9-ab6a-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'一年': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>附則{'一条': 1, '規定': 1}</span>第四条<span>及び{'ただし': 1}</span>第五条の<span>規定{'手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>会社法{'規定': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'規定': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence>第二百四十二条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>この法律の公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、郵政民営化法の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第六十二条中租税特別措置法第八十四条の五の見出しの改正規定及び同<span>条{'同法': 1}</span>に一項を加える改正規定、第百二十四条中証券決済制度等の改革による証券市場の整備のための関係法律の整備等に関する法律<span>附則{'規定': 1}</span>第<span>一条{'規定': 2}</span>第二号の<span>改正{'規定': 1}</span><span>規定{'手続': 1}</span>及び<span>同法{'規定': 2}</span><span>附則{'規定': 1}</span>第八十五条を<span>同法{'規定': 1}</span>附則第八十六条とし、同法附則第八十二条から第八十四条までを一条ずつ繰り下げ、同法附則第八十一条の次に一条を加える改正規定並びに<span>附則{'同法': 1}</span>第三十条、第三十一条、第三十四条、第六十条第十二項、第六十六条第一項、第六十七条及び第九十三条第二項の規定は、<span>郵政民営化法{'四月一日': 1, '規定': 1}</span>附則第一条第一号に掲げる規定の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="418050" AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true" Id="994c58f6-0a18-11e8-af63-742b6287e916" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'政令': 1}</span>は、<span>一般社団・財団法人法{'会社法': 1, '規定': 1}</span>の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423036" AmendLawNum="平成二三年五月二日法律第三六号" Extract="true" Id="3f149075-9678-4090-b5e6-59e034dc505a" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して<span>一年{'規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'手続': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第二条の<span>規定{'法律': 2, '手続': 1}</span>による<span>改正{'規定': 1}</span>後の<span>民事保全法{'規定': 1}</span>第十<span>一条{'手続': 1}</span>の<span>規定{'手続': 1}</span>は、この<span>法律{'手続': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にした<span>申立て{'規定': 1}</span>に係る<span>保全命令{'規定': 1}</span><span>事件{'規定': 1}</span>については、<span>適用{'手続': 1}</span>しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>法律{'規定': 1}</span>は、新<span>非訟事件手続法{'手続': 1}</span>の<span>施行{'規定': 1}</span>の日から<span>施行{'手続': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して二十日を<span>経過{'規定': 1}</span>した日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="501002" AmendLawNum="令和元年五月一七日法律第二号" Extract="true" Id="cba33f8c-7b63-11e9-814e-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'六月': 1, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、<span>次{'規定': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>規定{'手続': 1}</span>は、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span>日から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence><span>附則{'一条': 1, '手続': 1}</span>第二十条の<span>規定{'手続': 1}</span></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence><span>公布{'規定': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>附則{'規定': 1}</span>に<span>規定{'手続': 1}</span>するものの<span>ほか{'規定': 1}</span>、この<span>法律{'規定': 1}</span>の<span>施行{'規定': 1}</span>に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

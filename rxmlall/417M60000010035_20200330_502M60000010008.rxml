@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="035" Year="17">
+  <LawNum>平成十七年法務省令第三十五号</LawNum>
+  <LawBody>
+    <LawTitle>夫婦財産契約登記規則</LawTitle>
+    <EnactStatement>非訟事件手続法（明治三十一年法律第十四号）第百二十五条第二項の規定に基づき、夫婦財産契約登記取扱手続（明治三十二年司法省令第十五号）の全部を改正する省令を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　登記記録等</ChapterTitle>
+        <ArticleRange>（第一条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　登記手続</ChapterTitle>
+        <ArticleRange>（第六条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　登記事項の証明等</ChapterTitle>
+        <ArticleRange>（第十二条―第十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　登記記録等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（登記記録の編成）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">夫婦財産契約に関する登記記録（以下「登記記録」という。）は、<span>別表{'規定': 1}</span>の第一<span>欄{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>欄{'区分': 1, '規定': 1}</span>に<span>区分{'規定': 1}</span>し、同<span>表{'規定': 1}</span>の第一<span>欄{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>欄{'規定': 1}</span>に同<span>表{'規定': 1}</span>の第二<span>欄{'手続': 1}</span>に<span>掲げる{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記録{'規定': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（登記官の識別番号の記録等）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>登記記録{'手続': 1}</span>に<span>登記事項{'規定': 1}</span>を<span>記録{'手続': 1}</span>し、若しくは<span>登記事項{'規定': 1}</span>を抹消する記号を記録するとき又は登記を移記するときは、登記官の<span>識別番号{'手続': 1}</span>を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登記官は、登記記録を<span>閉鎖{'記録': 1}</span>するときは、閉鎖の事由及びその年月日を記録するほか、登記官の識別番号を記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（帳簿）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登記所には、次に掲げる帳簿を備えるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">受付帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>申請書類{'規定': 1}</span>つづり込み帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">決定原本つづり込み帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">審査請求<span>書類{'規定': 1}</span>等<span>つづり{'規定': 1}</span>込み帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>請求{'規定': 1}</span><span>書類{'規定': 1}</span><span>つづり{'手続': 1}</span>込み帳</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（保存期間）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号に<span>掲げる{'ある': 1}</span><span>情報{'規定': 1}</span>の<span>保存{'規定': 1}</span>期間は、当該各号に定めるとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">登記記録（閉鎖登記記録（閉鎖した登記記録をいう。以下同じ。）を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">永久</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">閉鎖登記記録</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">閉鎖した日から三十年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">受付帳に記録された情報</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">受付の年の<span>翌年{'手続': 1}</span>から十年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>申請{'手続': 1}</span><span>情報{'手続': 1}</span><span>及び{'ただし': 1}</span>その<span>添付{'嘱託': 1, '規定': 1}</span><span>情報{'手続': 1}</span>（<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>及びその添付情報以外の情報であって<span>申請書類{'規定': 1}</span>つづり込み帳につづり込まれた書類に記載されたものを<span>含む{'ある': 1}</span>。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>受付{'規定': 1}</span>の日から十年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>決定{'規定': 1}</span><span>原本{'手続': 1}</span><span>つづり{'規定': 1}</span>込み帳又は<span>審査請求{'規定': 1}</span><span>書類{'規定': 1}</span>等<span>つづり{'規定': 1}</span>込み帳に<span>つづり{'規定': 1}</span><span>込ま{'ある': 1}</span>れた<span>書類{'規定': 1}</span>に<span>記載{'規定': 1}</span>された<span>情報{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>登記{'届出': 1}</span>の<span>申請{'手続': 1}</span><span>若しくは{'ただし': 1}</span><span>申出{'規定': 1}</span>を<span>却下{'規定': 1}</span>した<span>決定{'手続': 1}</span>又は<span>審査請求{'規定': 1}</span>の<span>受付{'規定': 1}</span>の<span>年{'規定': 1}</span>の<span>翌年{'規定': 1}</span>から五年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>請求{'手続': 1}</span><span>書類{'規定': 1}</span><span>つづり{'規定': 1}</span>込み帳に<span>つづり{'規定': 1}</span><span>込ま{'ある': 1}</span>れた<span>書類{'規定': 1}</span>に<span>記載{'つづり': 1, '規定': 1}</span>された<span>情報{'規定': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>受付{'規定': 1}</span>の日から一年間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>不動産登記規則{'手続': 1}</span>（平成十七年<span>法務省令{'規定': 1}</span>第十八号）第五条、第六条、<span>第九条{'規定': 1}</span>、第十<span>七条{'規定': 1}</span>、第十<span>九条{'規定': 1}</span>、第二十四条、第二十五条、第二十七条<span>第一{'手続': 1}</span>項第一号、第二号及び第六号並びに第二項並びに第二十九条から第三十二条までの規定は、<span>夫婦{'規定': 1}</span>財産<span>契約{'規定': 1}</span>に関する登記について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　登記手続</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（登記事項）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">夫婦財産契約に関する登記の登記事項は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">各契約者の<span>氏名{'規定': 1}</span>及び<span>住所{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>の<span>目的{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">登記原因及びその日付</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">夫婦財産契約の内容</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（申請情報）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">夫婦<span>財産{'当該': 1}</span>契約に関する登記の申請をする場合に登記所に提供しなければならない外国法人の登記及び夫婦財産契約の登記に関する法律（明治三十一年法律第十四号。以下「<span>法{'整備法': 1, '規定': 1}</span>」と<span>いう{'ある': 1}</span>。）第八条において<span>準用{'規定': 1}</span>する<span>不動産登記法{'規定': 1}</span>（平成十六年<span>法律{'規定': 1}</span>第百二十三号）第十八条の<span>申請{'規定': 2}</span><span>情報{'規定': 1}</span>の<span>内容{'規定': 1}</span>は、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>申請{'手続': 1}</span>人の<span>氏名{'手続': 1}</span><span>及び{'又は': 1, 'ただし': 1}</span><span>住所{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>代理人{'規定': 1}</span>によって<span>登記{'手続': 1}</span>を<span>申請{'手続': 1}</span>するときは、<span>当該{'手続': 1}</span><span>代理人{'規定': 1}</span>の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span>並びに<span>代理人{'手続': 1}</span>が<span>法人{'手続': 1}</span>であるときはその<span>代表{'手続': 1}</span>者の<span>氏名{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>の<span>目的{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">登記原因及びその日付</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（添付情報）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>夫婦{'規定': 1}</span>財産契約に関する登記の申請をする場合には、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>情報{'規定': 1}</span>をその<span>申請{'規定': 1}</span><span>情報{'手続': 1}</span>と<span>併せ{'ある': 1}</span>て<span>登記所{'手続': 1}</span>に<span>提供{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>代理人{'規定': 1}</span>によって<span>登記{'手続': 1}</span>を<span>申請{'手続': 1}</span>するときは、<span>当該{'手続': 1}</span><span>代理人{'規定': 1}</span>の<span>権限{'手続': 1}</span>を<span>証する{'ある': 1}</span><span>情報{'書面': 1, '規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第七条第二項の<span>規定{'手続': 1}</span>により<span>提供{'規定': 1}</span>しなければならない<span>情報{'規定': 1}</span>その他の登記原因を証する情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>夫婦{'規定': 1}</span>財産契約の設定の登記を申請するときは、<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>情報{'規定': 1}</span></Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">各契約者の住所を証する<span>情報{'書面': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">各<span>契約者{'申請': 1}</span>が婚姻の届出をしていないことを証する情報（外国法によって夫婦財産契約がされた場合にあっては、これを証する情報）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（申請人の特則）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">夫婦の一方の死亡により<span>夫婦{'信託': 1}</span>財産契約が終了した場合の<span>夫婦{'信託': 1}</span>財産契約の登記の抹消は、<span>法{'前項': 1}</span>第七条第一項の規定にかかわらず、他の一方が単独で申請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（登記の方法）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登記官は、夫婦財産契約に関する登記をする場合には、登記記録中<span>相当{'規定': 1}</span><span>欄{'手続': 1}</span>に<span>登記事項{'規定': 1}</span>及び登記の年月日を記録しなけれ<span>ばら{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">不動産登記令（平成十六年政令第三百七十九号）第十条、第十二条、第十四条、第十五条、第十<span>六条{'規定': 1}</span>第一項から第三項まで及び第五項、第十<span>七条{'規定': 1}</span>第一項並びに第十八条第一項から第三項まで並びに<span>不動産登記規則{'規定': 1}</span>第三十四条<span>第一{'規定': 1}</span>項第一号<span>及び{'並びに': 1}</span>第六号から第八号まで、第三十七条の二、第三十八条、第三十九条、第四十一条、第四十二条、第四十三条<span>第一{'規定': 1}</span>項第一号及び第三号<span>並び{'規定': 1}</span>に第二項、第四十四条第一項、第四十五条、第四十六条第一項及び第二項、第四十七条<span>第一{'規定': 1}</span>号及び第二号、第四十八条第二号、第四十九条<span>第一{'規定': 1}</span>項第一号及び第三号<span>並び{'規定': 1}</span>に第二項<span>第一{'規定': 1}</span>号、第二号及び第五号、第五十一条から第六十条まで、第九十二条、第百五十条、第百五十一条、第百五十二条第一項、第百五十三条から第百五十五条まで、第百八十五条第一項、第百八十六条、第百八十八条、第百八十九条第一項前段並びに第百九十一条の規定は、<span>夫婦{'信託': 1, '規定': 1}</span>財産契約に関する登記について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　登記事項の証明等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（登記事項証明書の種類等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">登記事項証明書の記載事項は、次の各号の種類の区分に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>掲げる{'定める': 2, 'ある': 1}</span><span>事項{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">全部事項証明書</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">登記記録（<span>閉鎖{'規定': 1}</span>登記記録を除く。次号において同じ。）に記録されている事項の全部</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>現在事項証明書{'手続': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">登記記録に記録されている事項のうち現に効力を有するもの</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項第一号の規定は、閉鎖登記記録に係る登記事項証明書の記載事項について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>登記{'場合': 1}</span>官は、登記事項証明書を<span>作成{'交付': 1}</span>するときは、請求に係る登記記録に記録された事項の<span>全部{'手続': 1}</span>である旨の<span>認証{'手続': 1}</span><span>文{'規定': 1}</span>を<span>付し{'ある': 1}</span>た上で、<span>作成{'手続': 1}</span>の<span>年月日{'手続': 1}</span>及び<span>職{'規定': 1}</span><span>氏名{'手続': 1}</span>を<span>記載{'規定': 1}</span>し、<span>職印{'規定': 1}</span>を<span>押印{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（登記事項要約書の作成）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>登記事項{'規定': 1}</span><span>要約{'手続': 1}</span>書は、<span>登記記録{'手続': 1}</span>に<span>記録{'手続': 1}</span>されている<span>事項{'手続': 1}</span>のうち<span>現に{'相当': 1}</span><span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>ものを<span>記載{'手続': 1}</span>して<span>作成{'規定': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>不動産登記規則{'手続': 1}</span>第百九十三条（第一項<span>第五{'手続': 1}</span>号及び第六号を<span>除く{'ある': 1}</span>。）、第百九十四条、第百九十七条第五項及び第六項、第百九十七条の二、第二百二条、第二百三条第一項、第二百四条並びに第二百五条第一項及び第二項の規定は、<span>夫婦{'規定': 1}</span>財産契約に関する登記について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、<span>不動産登記法{'規定': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴う{'取り消さ': 1}</span><span>関係{'規定': 1}</span>法律の整備等に関する法律（平成十六年法律第百二十四号。以下「<span>整備法{'改正': 1}</span>」という。）の施行の日（平成十七年三月七日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置の原則等）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">不動産登記規則附則第二条、第三条、第七条第一項及び第二項並びに第八条第一項、第二項及び第四項の規定は、この省令による<span>夫婦{'規定': 1}</span>財産契約登記取扱手続（明治三十二年司法省令第十五号。以下「旧規則」と<span>いう{'ある': 1}</span>。）の改正に伴う経過措置について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">印鑑簿及び受領証原符元帳は、法務局又は地方法務局の長の認可を受けて、廃棄することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（未指定事務に係る登記簿に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>省令{'法律': 1}</span>による<span>改正{'規定': 1}</span>後の夫婦<span>財産{'任意後見': 1}</span>契約登記規則（以下「新規則」という。）第<span>一条{'規定': 1}</span>、第五条（<span>不動産登記規則{'規定': 1}</span><span>第九条{'規定': 1}</span>の<span>準用{'規定': 1}</span>に係る<span>部分{'規定': 1}</span>に<span>限る{'ある': 1}</span>。）、第十二条、第十三条及び第十四条（<span>登記簿{'規定': 2}</span>の<span>附属{'規定': 1}</span>書類の閲覧に係る部分を除く。）の規定は、<span>整備法{'法': 1, '規定': 1}</span>第九十一条第一項において<span>準用{'規定': 1}</span>する不動産登記法（平成十六年法律第百二十三号）附則<span>第三条{'一条': 2, '規定': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>指定{'規定': 1}</span>（以下「<span>第三条{'規定': 1}</span><span>指定{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）を<span>受け{'ある': 1}</span>た<span>事務{'規定': 1}</span>について、その<span>第三条{'規定': 1}</span><span>指定{'規定': 2}</span>の日から<span>適用{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>第三条{'規定': 2}</span><span>指定{'規定': 2}</span>がされるまでの<span>間{'規定': 1}</span>は、<span>第三条{'規定': 1}</span><span>指定{'規定': 1}</span>を<span>受け{'ある': 1}</span>ていない<span>事務{'規定': 1}</span>に係る<span>登記簿{'規定': 1}</span>（<span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'手続': 1}</span>による<span>取扱い{'規定': 1}</span>に<span>適合{'使用': 1, '手続': 1}</span>しない<span>登記簿{'手続': 1}</span>を含む。）については、旧規則第一条、第二条、第三条<span>ノ{'とともに': 1}</span>二及び第八条の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる旧<span>規則{'規定': 1}</span>第<span>一条{'手続': 1}</span>の規定にかかわらず、同項の登記簿は、バインダー式帳簿とし、夫婦財産契約の登記用紙をつづり込んでこれを<span>調製{'規定': 1}</span>することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>においては、同<span>項{'手続': 1}</span>の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を有することとされる旧規則第二条及び第三条ノ二の規定にかかわらず、見出帳を調製することを要しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三条指定がされるまでの間における第二項の<span>事務{'規定': 1}</span>についての新<span>規則{'手続': 1}</span>の<span>規定{'手続': 1}</span>の<span>適用{'規定': 1}</span>については、新<span>規則{'規定': 1}</span>第二条及び第十条中「<span>登記記録{'規定': 1}</span>」と<span>ある{'取り消さ': 1}</span>のは「<span>登記{'手続': 1}</span><span>用紙{'規定': 1}</span>」と、新規則第三条中「次に」とあるのは「<span>見出{'手続': 1}</span>帳及び次に」と、新規則第四条第一号中「登記記録（<span>閉鎖{'規定': 1}</span>登記記録（閉鎖した登記記録をいう。以下同じ。）」とあるのは「登記用紙に記載された情報（閉鎖登記用紙に記載された<span>情報{'事項': 1}</span>」と、同条第二号中「閉鎖<span>登記記録{'記録': 1}</span>」とあるのは「閉鎖登記用紙に記載された情報」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三条<span>指定{'規定': 1}</span>を<span>受け{'でき': 1}</span>ていない<span>事務{'規定': 1}</span>について<span>登記{'手続': 1}</span><span>用紙{'規定': 1}</span>に<span>記録{'手続': 1}</span>された<span>事項{'手続': 1}</span>を抹消する記号を記録するには、当該事項を朱抹するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三条指定を受けていない事務について登記用紙に登記官の<span>識別番号{'ファイル': 1, '手続': 1}</span>を記録するには、登記用紙に<span>登記{'記録': 1}</span>官が登記<span>官印{'規定': 1}</span>を押印するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条指定を受けていない事務について、<span>整備法{'規定': 1}</span>第九十一条第一項において準用する<span>不動産登記法{'法': 1}</span>附則第三条第四項の<span>規定{'手続': 1}</span>によりなおその<span>効力{'規定': 1}</span>を<span>有する{'ある': 1}</span>こととされる<span>改正{'手続': 1}</span><span>前{'規定': 2}</span>の<span>不動産登記法{'手続': 1}</span>（明治三十二年<span>法律{'規定': 1}</span>第二十四号）第二十<span>一条{'規定': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>登記簿{'規定': 1}</span>の<span>謄本{'規定': 1}</span><span>若しくは{'又は': 1}</span><span>抄本{'規定': 1}</span>の<span>交付{'規定': 1}</span>又は<span>登記簿{'規定': 1}</span>の<span>閲覧{'規定': 1}</span>の<span>請求{'手続': 1}</span>をする<span>場合{'手続': 1}</span>については、<span>不動産登記規則{'手続': 1}</span>第百九十三条<span>第一{'規定': 1}</span>項第一号から第三号まで、第百九十四条第一項、第二百二条第一項、第二百三条第一項及び第二百四条の<span>規定{'手続': 1}</span>並びに改正前の不動産登記法施行細則（明治三十二年司法省令第十一号）第三十五条及び第三十五条ノ二の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、不動産登記規則第百九十三条第一項第三号中「通数」と<span>ある{'認める': 1}</span>のは「<span>通{'手続': 1}</span>数（<span>登記簿{'規定': 1}</span>の<span>抄本{'規定': 1}</span>の<span>交付{'規定': 1}</span>を<span>請求{'規定': 1}</span>する<span>場合{'規定': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>抄本{'当該': 1, '規定': 1}</span>の<span>交付{'規定': 1}</span>を請求する部分を含む。）」と、同規則第二百二条第一項中「地図等又は登記簿の附属書類」とあるのは「<span>登記簿{'申請': 1}</span>」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（電子申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新規則中<span>電子{'手続': 1}</span><span>申請{'規定': 2}</span>（<span>法{'規定': 1}</span>第八条において<span>準用{'規定': 1}</span>する<span>不動産登記法{'規定': 1}</span>第十八条<span>第一{'規定': 1}</span>号の<span>規定{'手続': 1}</span>による<span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'規定': 1}</span>する方法による申請をいう。）に関する規定は、<span>整備法{'手続': 1}</span>第九十一条第一項において<span>準用{'規定': 1}</span>する<span>不動産登記法{'法': 1}</span><span>附則{'規定': 1}</span>第<span>六条{'規定': 1}</span>第一項の<span>指定{'規定': 1}</span>の日から<span>当該{'規定': 1}</span><span>指定{'規定': 1}</span>に係る<span>登記{'規定': 1}</span><span>手続{'規定': 1}</span>について<span>適用{'手続': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十<span>四条{'規定': 2}</span>（<span>電子{'規定': 1}</span><span>情報処理{'規定': 1}</span><span>組織{'規定': 1}</span>を<span>使用{'手続': 1}</span>する<span>方法{'規定': 1}</span>による<span>請求{'手続': 1}</span>に係る<span>部分{'手続': 1}</span>に<span>限る{'ある': 1}</span>。）の規定は、法務大臣が指定した<span>登記所{'受け': 1}</span>における<span>登記事項証明書{'規定': 1}</span>の交付の請求について、当該<span>指定{'規定': 1}</span>の日から当該指定に係る<span>登記所{'規定': 2}</span>ごとに<span>適用{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>指定{'規定': 1}</span>は、<span>告示{'規定': 1}</span>してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年八月一五日法務省令第八二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>省令{'法律': 1}</span>は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年八月一日法務省令第四九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、<span>整備法{'規定': 1}</span>の施行の日（平成二十年十二月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年四月一日法務省令第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年三月二五日法務省令第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、平成二十三年<span>四月一日{'規定': 1}</span>から<span>施行{'規定': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年一二月二八日法務省令第四六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、<span>非訟事件手続法{'規定': 1}</span>及び<span>家事事件手続法{'規定': 1}</span>の<span>施行{'規定': 1}</span>に<span>伴う{'取り消さ': 1}</span><span>関係{'手続': 1}</span><span>法律{'手続': 1}</span>の整備等に関する法律（平成二十三年<span>法律{'施行': 1}</span>第五十三号）の施行の日（平成二十五年<span>一月一日{'規定': 1}</span>）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月二八日法務省令第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'政令': 1}</span>は、<span>不動産登記令{'住民基本台帳法': 1, '会社法': 1}</span>等の一部を改正する<span>政令{'法律': 2, '規定': 1}</span>の<span>施行{'規定': 1}</span>の日（平成二十七年十一月二日）から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日法務省令第八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'手続': 1}</span>は、令和二年三月三十日から<span>施行{'規定': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>省令{'規定': 1}</span>の<span>施行{'規定': 1}</span><span>前{'規定': 1}</span>にされた登記、筆界特定及び<span>鉱害{'規定': 1}</span>賠償の登録の申請並びに登記識別情報に関する申出及び請求については、第一条の規定による<span>改正{'手続': 1}</span>後の<span>不動産登記規則{'規定': 1}</span>第三十六条、第四十八条から第五十条まで、第五十五条、第六十五条及び第六十八条（これらの<span>規定{'手続': 1}</span>をこの<span>省令{'規定': 1}</span>及び<span>他{'規定': 1}</span>の<span>法令{'規定': 1}</span>において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）<span>並び{'規定': 1}</span>に第二百九条の規定並びに第二条の規定による改正後の<span>鉱害{'規定': 2}</span>賠償登録規則第二十条の規定並びに第三条の規定による改正後の<span>企業{'規定': 2}</span>担保登記<span>規則{'登録': 1}</span>第五条の規定並びに第四条の<span>規定{'一部': 1}</span>による改正後の<span>船舶登記{'規定': 1}</span>規則第二十一条の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
+      <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第一欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第二欄</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>契約者{'規定': 1}</span>欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">各契約者の氏名及び住所</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"><span>夫婦{'規定': 1}</span>財産契約欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">登記の目的</Sentence>
+              <Sentence WritingMode="vertical">登記原因及びその日付</Sentence>
+              <Sentence WritingMode="vertical"><span>夫婦{'規定': 1}</span>財産契約の内容</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">登記記録欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">登記記録を<span>起こし{'ある': 1}</span>た事由及び年月日</Sentence>
+              <Sentence WritingMode="vertical">登記記録を閉鎖した事由及び年月日</Sentence>
+              <Sentence WritingMode="vertical">登記記録を回復した事由及び年月日</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+  </LawBody>
+</Law>

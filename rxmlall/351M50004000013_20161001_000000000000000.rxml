@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="013" Year="51">
+  <LawNum>昭和五十一年建設省令第十三号</LawNum>
+  <LawBody>
+    <LawTitle>河川管理施設等構造令施行規則</LawTitle>
+    <EnactStatement>河川管理施設等構造令（昭和五十一年政令第百九十九号）の規定に基づき、及び同令を実施するため、河川管理施設等構造令施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（ダムの構造計算）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>ダムの堤体及び基礎地盤（これと堤体との接合部を含む。次項及び第八条において同じ。）に関する構造計算は、ダムの非越流部の直上流部における水位が次の各号に掲げる場合及びダムの危険が予想される場合における荷重を採用して行うものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>常時満水位である場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>サーチャージ水位である場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>設計洪水位である場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>フィルダムの堤体及び基礎地盤に関する構造計算は、前項の規定によるほか、ダムの非越流部の直上流部における水位が常時満水位以下で、かつ、水位を急速に低下させる場合における荷重を採用して行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（ダムの構造計算に用いる設計震度）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>ダムの構造計算に用いる設計震度は、ダムの種類及び地域の区分に応じ、次の表に掲げる値以上の値で当該ダムの実情に応じて定める値とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn colspan="4" rowspan="2">
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+                <TableColumn colspan="3" rowspan="1">
+                  <Sentence>域の区分</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>強震帯地域</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>中震帯地域</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>弱震帯地域</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="1" rowspan="4">
+                  <Sentence>ダムの種類</Sentence>
+                </TableColumn>
+                <TableColumn rowspan="1">
+                  <Sentence>一</Sentence>
+                </TableColumn>
+                <TableColumn colspan="2" rowspan="1">
+                  <Sentence>重力式コンクリートダム</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一二</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一二</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一〇</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn rowspan="1">
+                  <Sentence>二</Sentence>
+                </TableColumn>
+                <TableColumn colspan="2" rowspan="1">
+                  <Sentence>アーチ式コンクリートダム</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・二四</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・二四</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・二〇</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="1" rowspan="2">
+                  <Sentence>三</Sentence>
+                </TableColumn>
+                <TableColumn rowspan="2">
+                  <Sentence>フィルダム</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>ダムの堤体がおおむね均一の材料によるもの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一五</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一五</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>その他のもの</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一五</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一二</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>〇・一〇</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>ダムの非越流部の直上流部における水位がサーチャージ水位である場合は、第四条第二項の場合を除き、ダムの構造計算に用いる設計震度は、前項の規定により定めた値の二分の一の値とすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>アーチ式コンクリートダムのゲートを堤体以外の場所に設ける場合における当該ゲートの構造計算に用いる設計震度は、前二項の規定により定めた値の二分の一の値とすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の表に掲げる強震帯地域、中震帯地域及び弱震帯地域は、国土交通大臣が別に定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（ダムの堤体の自重）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>河川管理施設等構造令（以下「令」という。）第六条のダムの堤体の自重は、ダムの堤体の材料の単位体積重量を基礎として計算するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（貯留水による静水圧の力）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令第六条の貯留水による静水圧の力は、ダムの堤体と貯留水との接触面に対して垂直に作用するものとし、次の式によつて計算するものとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>Ｐ＝Ｗ０ｈ０</Sentence>
+            </ListSentence>
+          </List>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn colspan="5">
+                  <Sentence>この式において、Ｐ、Ｗ０及びｈ０は、それぞれ次の数値を表すものとする。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="5">
+                  <Sentence>Ｐ　貯留水による静水圧の力（単位　一平方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="5">
+                  <Sentence>Ｗ０　水の単位体積重量（単位　一立方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="5">
+                  <Sentence>ｈ０　次の表の中欄に掲げる区分に応じ、同表の下欄に掲げる水位からダムの堤体と貯留水との接触面上の静水圧の力を求めようとする点までの水深（単位　メートル）</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>貯水池の水位</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>ダムの非越流部の直上流部における波浪を考慮した水位（単位　メートル）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>一</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>ダムの非越流部の直上流部における水位が常時満水位である場合</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>常時満水位に風による波浪の貯水池の水面からの高さ及び地震による波浪の貯水池の水面からの高さを加えた水位</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>ダムの非越流部の直上流部における水位がサーチャージ水位である場合</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>サーチャージ水位に風による波浪の貯水池の水面からの高さ及び地震による波浪の貯水池の水面からの高さの二分の一を加えた水位</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>三</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>ダムの非越流部の直上流部における水位が設計洪水位である場合</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>設計洪水位に風による波浪の貯水池の水面からの高さを加えた水位</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>令第五条第一項及び前項の地震による波浪の貯水池の水面からの高さは、第二条第一項の規定により定めた設計震度の値を用いて計算するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（貯水池内に<Ruby>堆<Rt>たい</Rt>
+</Ruby>積する泥土による力）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令第六条の貯水池内に<Ruby>堆<Rt>たい</Rt></Ruby>積する泥土による力は、ダムの堤体と貯水池内に<Ruby>堆<Rt>たい</Rt></Ruby>積する泥土との接触面において鉛直方向及び水平方向に作用するものとし、鉛直方向に作用する力は<Ruby>堆<Rt>たい</Rt></Ruby>積する泥土の水中における単位体積重量を基礎として計算するものとし、水平方向に作用する力は次の式によつて計算するものとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>Ｐｅ＝ＣｅＷ１ｄ</Sentence>
+            </ListSentence>
+          </List>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>この式において、Ｐｅ、Ｃｅ、Ｗ１及びｄは、それぞれ次の数値を表すものとする。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｐｅ　泥土による水平力（単位　一平方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｃｅ　適切な工学試験の結果又は類似のダムの構造計算に用いられた値に基づき定める泥圧係数</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｗ１　<Ruby>堆<Rt>たい</Rt></Ruby>積する泥土の水中における単位体積重量（単位　一立方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>ｄ　貯水池内に<Ruby>堆<Rt>たい</Rt></Ruby>積すると予想される泥土面からダムの堤体と<Ruby>堆<Rt>たい</Rt></Ruby>積する泥土との接触面上の泥土による水平力を求めようとする点までの深さ（単位　メートル）</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（地震時におけるダムの堤体の慣性力）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令第六条の地震時におけるダムの堤体の慣性力は、ダムの堤体に水平方向に作用するものとし、次の式によつて計算するものとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>Ｉ＝ＷＫｄ</Sentence>
+            </ListSentence>
+          </List>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>この式において、Ｉ、Ｗ及びＫｄは、それぞれ次の数値を表すものとする。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｉ　地震時におけるダムの堤体の慣性力（単位　一立方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｗ　ダムの堤体の自重（単位　一立方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｋｄ　第二条第一項又は第二項の規定により定めた設計震度</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（地震時における貯留水による動水圧の力）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令第六条の地震時における貯留水による動水圧の力は、ダムの堤体と貯留水との接触面に対して垂直に作用するものとし、適切な工学試験又は類似のダムの構造計算に用いられた方法に基づき定める場合を除き、次の式によつて計算するものとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>Ｐｄ＝０．８７５Ｗ０Ｋｄ√（Ｈ１ｈ１）</Sentence>
+            </ListSentence>
+          </List>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>この式において、Ｐｄ、Ｗ０、Ｋｄ、Ｈ１及びｈ１は、それぞれ次の数値を表すものとする。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｐｄ　地震時における貯留水による動水圧の力（単位　一平方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｗ０　水の単位体積重量（単位　一立方メートルにつき重量トン）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｋｄ　第二条第一項又は第二項の規定により定めた設計震度</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>Ｈ１　ダムの非越流部の直上流部における水位から基礎地盤までの水深（単位　メートル）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>ｈ１　ダムの非越流部の直上流部における水位からダムの堤体と貯留水との接触面上の動水圧を求めようとする点までの水深（単位　メートル）</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（貯留水による揚圧力）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令第六条の貯留水による揚圧力は、ダムの堤体及び基礎地盤における揚圧力を求めようとする断面に対して垂直上向きに作用するものとし、断面の区分に応じ、次の表に掲げる値を基礎として計算するものとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn colspan="3" rowspan="3">
+                  <Sentence>                  </Sentence>
+                </TableColumn>
+                <TableColumn colspan="5" rowspan="1">
+                  <Sentence>面上の位置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>（一）</Sentence>
+                </TableColumn>
+                <TableColumn colspan="3" rowspan="1">
+                  <Sentence>（二）</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（三）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>上流端</Sentence>
+                </TableColumn>
+                <TableColumn colspan="3" rowspan="1">
+                  <Sentence>上流端と下流端との間</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>下流端</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="1" rowspan="4">
+                  <Sentence>断面の区分</Sentence>
+                </TableColumn>
+                <TableColumn colspan="1" rowspan="3">
+                  <Sentence>一</Sentence>
+                </TableColumn>
+                <TableColumn colspan="1" rowspan="3">
+                  <Sentence>排水孔の効果が及ぶ断面</Sentence>
+                </TableColumn>
+                <TableColumn colspan="1" rowspan="3">
+                  <Sentence>上流側水圧の値</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（イ）</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（ロ）</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（ハ）</Sentence>
+                </TableColumn>
+                <TableColumn colspan="1" rowspan="3">
+                  <Sentence>下流側水圧の値</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>上流端と排水孔との間</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>排水孔</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>排水孔と下流端との間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>（一）欄の値と（二）の（ロ）欄の値とを直線的に変化させた値</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（一）欄の値と（三）欄の値との差の五分の一以上の値に（三）欄の値を加えた値</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>（二）の（ロ）欄の値と（三）欄の値とを直線的に変化させた値</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>二</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>排水孔の効果が及ばない断面又は排水孔の無いダムの断面</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>上流側水圧と下流側水圧との差の三分の一以上の値に下流側水圧を加えた値</Sentence>
+                </TableColumn>
+                <TableColumn colspan="3" rowspan="1">
+                  <Sentence>（一）欄の値と（三）欄の値とを直線的に変化させた値</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>下流側水圧の値</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（コンクリートダムの安定性及び強度）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>コンクリートダムは、第一条第一項に規定する場合において、ダムの堤体と基礎地盤との接合部及びその付近における<Ruby>剪<Rt>せん</Rt></Ruby>断力による滑動に対し、必要な<Ruby>剪<Rt>せん</Rt></Ruby>断摩擦抵抗力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の<Ruby>剪<Rt>せん</Rt></Ruby>断摩擦抵抗力は、次のイの式によつて計算するものとし、かつ、次のロの式を満たすものでなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>イ</ItemTitle>
+            <ItemSentence>
+              <Sentence>Ｒｂ＝ｆＶ＋τ０ｌ０</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>ロ</ItemTitle>
+            <ItemSentence>
+              <Sentence>Ｒｂ≧４Ｈ</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>これらの式において、Ｒｂ、ｆ、Ｖ、τ０、ｌ０及びＨは、それぞれ次の数値を表すものとする。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>Ｒｂ　単位幅当たりの<Ruby>剪<Rt>せん</Rt></Ruby>断摩擦抵抗力（単位　一メートルにつき重量トン）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>ｆ　適切な工学試験の結果又は類似のダムの構造計算に用いられた値に基づき定める内部摩擦係数</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>Ｖ　単位幅当たりの<Ruby>剪<Rt>せん</Rt></Ruby>断面に作用する垂直力（単位　一メートルにつき重量トン）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>τ０　類似のダムに関する資料及び岩盤性状等により明らかな場合を除き、現場試験の結果に基づき定める<Ruby>剪<Rt>せん</Rt></Ruby>断強度（単位　一平方メートルにつき重量トン）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>ｌ０　<Ruby>剪<Rt>せん</Rt></Ruby>断抵抗力が生ずる<Ruby>剪<Rt>せん</Rt></Ruby>断面の長さ（単位　メートル）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>Ｈ　単位幅当たりの<Ruby>剪<Rt>せん</Rt></Ruby>断力（単位　一メートルにつき重量トン）</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">コンクリートダムの堤体に生ずる応力は、第一条第一項に規定する場合において、標準許容応力を超えてはならないものとする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、地震時において、ダムの堤体に生ずる圧縮応力については、標準許容応力にその三十パーセント以内の値を加えた値を超えてはならないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の標準許容応力は、ダムの堤体の材料として用いられるコンクリートの圧縮強度を基準とし、安全率を四以上として定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">重力式コンクリートダムの堤体は、第一条第一項に規定する場合において、その上流面に引つ張り応力を生じない構造とするものとする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、局部的な引つ張り応力に対して鉄筋等で補強されているダムの堤体の部分については、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（フィルダムの安定性及び堤体材料）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>フィルダムは、第一条第一項及び第二項に規定する場合において、ダムの堤体の材料の性質及び基礎地盤の状況を考慮し、ダムの堤体の内部、ダムの堤体と基礎地盤との接合部及びその付近における滑りに対し、必要な滑り抵抗力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の滑り抵抗力は、次のイの式によつて計算するものとし、かつ、次のロの式を満たすものでなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>イ</ItemTitle>
+            <ItemSentence>
+              <Sentence>Ｒｓ＝Σ｛（Ｎ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>ロ</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>φ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>Ｃ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>１</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（ダムのゲートに作用する荷重）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"><Ruby><Rt></Rt></Ruby></Sentence>
+            <Sentence Num="2"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence>、</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn colspan="3">
+                  <Sentence></Sentence>
+                  <Sentence>、</Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（ダムの越流型洪水吐きのゲート等の構造）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_2">
+        <ArticleCaption>（ダムの越流型洪水吐きの越流部の幅の特例）</ArticleCaption>
+        <ArticleTitle>第十二条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"></Sentence>
+            <Sentence Num="2"><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（貯水池に沿つて設置する樹林帯の構造）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>は、</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13_2">
+        <ArticleCaption>（高規格堤防の構造計算）</ArticleCaption>
+        <ArticleTitle>第十三条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>の<Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13_3">
+        <ArticleCaption>（高規格堤防の構造計算に用いる設計震度）</ArticleCaption>
+        <ArticleTitle>第十三条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>を</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>す</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13_4">
+        <ArticleCaption>（高規格堤防に作用する荷重）</ArticleCaption>
+        <ArticleTitle>第十三条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">の</Sentence>
+            <Sentence Num="2">する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence>ｓ</Sentence>
+            </ListSentence>
+          </List>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence>位</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence></Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="13_5">
+        <ArticleCaption>（高規格堤防の安定性）</ArticleCaption>
+        <ArticleTitle>第十三条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>の</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>り抵抗力</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（堤防の側帯）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>ートルに</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>ト</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="14_2">
+        <ArticleCaption>（堤防に沿つて設置する樹林帯の構造）</ArticleCaption>
+        <ArticleTitle>第十四条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（堤防の管理用通路）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+      <FigStruct>
+        <Fig src="./pict/S51F04201000013-001.jpg"/>
+      </FigStruct>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（床止めの設置に伴い必要となる護岸）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">上</Sentence>
+              <Sentence Function="proviso" Num="2"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16_2">
+        <ArticleCaption>（床止めの設置に伴い必要となる魚道）</ArticleCaption>
+        <ArticleTitle>第十六条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>部<Ruby><Rt></Rt></Ruby></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>に</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（可動<Ruby>堰<Rt>ぜき</Rt>
+</Ruby>の可動部の径間長の特例）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2">する</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（可動<Ruby>堰<Rt>ぜき</Rt>
+</Ruby>の可動部が起伏式である場合における可動部の径間長の特例）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（可動<Ruby>堰<Rt>ぜき</Rt>
+</Ruby>の可動部のうち土砂吐き等としての効用を兼ねる部分以外の部分の径間長の特例）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">の<Ruby><Rt></Rt></Ruby></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence></Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence></Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（可動<Ruby>堰<Rt>ぜき</Rt>
+</Ruby>の可動部のゲートに作用する荷重）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">の<Ruby><Rt></Rt></Ruby></Sentence>
+            <Sentence Num="2"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby>直<Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（可動<Ruby>堰<Rt>ぜき</Rt>
+</Ruby>の可動部が起伏式である場合におけるゲートの構造）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">位</Sentence>
+              <Sentence Function="proviso" Num="2"></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">メートル</Sentence>
+              <Sentence Function="proviso" Num="2">つき</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（<Ruby>堰<Rt>せき</Rt>
+</Ruby>の設置に伴い必要となる護岸等）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"><Ruby><Rt></Rt></Ruby></Sentence>
+            <Sentence Num="2"><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（水門の径間長の特例）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"></Sentence>
+            <Sentence Num="2"><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（管理用通路としての効用を兼ねる水門の構造）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1"></Sentence>
+              <Sentence Function="proviso" Num="2"></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleCaption>（水門又は<Ruby>樋<Rt>ひ</Rt>
+</Ruby>門の設置に伴い必要となる護岸）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><Ruby><Rt></Rt></Ruby></Sentence>
+            <Sentence Function="proviso" Num="2">り</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1"></Sentence>
+              <Sentence Num="2">の</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1"><Ruby><Rt></Rt></Ruby><Ruby><Rt></Rt></Ruby></Sentence>
+              <Sentence Num="2"><Ruby><Rt></Rt></Ruby></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleCaption>（取水塔の設置に伴い必要となる護岸）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"></Sentence>
+            <Sentence Num="2"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="27">
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（主要な公共施設に係る橋）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>する</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（近接橋の特則）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"><Ruby><Rt></Rt></Ruby>の</Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>た</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>の間</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（橋面）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（橋の設置に伴い必要となる護岸）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1"></Sentence>
+              <Sentence Num="2"></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（管理用通路の保全のための橋の構造）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1"></Sentence>
+            <Sentence Function="proviso" Num="2"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleCaption>（適用除外の対象とならない区域）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence><Ruby><Rt></Rt></Ruby></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（治水上の影響が著しく小さい橋）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>に</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleCaption>（暫定改良工事実施計画が定められた場合の特例）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>量</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleCaption>（小河川の特例）</ArticleCaption>
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence></Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence>　</Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence></Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+      <FigStruct>
+        <Fig src="./pict/S51F04201000013-002.jpg"/>
+      </FigStruct>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>の</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="356017" AmendLawNum="昭和五六年一〇月一六日建設省令第一七号" Id="bfd95f62-195b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>の</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1"></Sentence>
+          <Sentence Function="proviso" Num="2"></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="403014" AmendLawNum="平成三年七月一〇日建設省令第一四号" Id="c00d1bf4-195b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="404002" AmendLawNum="平成四年一月三一日建設省令第二号" Id="c040d8ea-195b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="409019" AmendLawNum="平成九年一一月二八日建設省令第一九号" Id="c074f4cc-195b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>（</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="412041" AmendLawNum="平成一二年一一月二〇日建設省令第四一号" Extract="true" Id="7a55a4b2-f352-11e6-941f-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="425059" AmendLawNum="平成二五年七月五日国土交通省令第五九号" Id="c0dcfc66-195b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence></Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

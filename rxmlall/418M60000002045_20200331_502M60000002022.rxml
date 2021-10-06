@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="045" Year="18">
+  <LawNum>平成十八年内閣府令第四十五号</LawNum>
+  <LawBody>
+    <LawTitle>特定目的会社の監査に関する規則</LawTitle>
+    <EnactStatement>資産の流動化に関する法律（平成十年法律第百五号）の規定に基づき、特定目的会社の監査報告書に関する規則（平成十年総理府・大蔵省令第九号）の全部を改正する内閣府令を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　計算関係書類の監査</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　会計監査人設置会社でない特定目的会社における監査</SectionTitle>
+          <ArticleRange>（第六条・第七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　会計監査人設置会社における監査</SectionTitle>
+          <ArticleRange>（第八条―第十三条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　事業報告の監査</ChapterTitle>
+        <ArticleRange>（第十四条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　計算書類等の承認の特則に関する要件</ChapterTitle>
+        <ArticleRange>（第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　清算特定目的会社の監査</ChapterTitle>
+        <ArticleRange>（第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この府令は、監査役及び会計監査人（以下「監査人」という。）が資産の流動化に関する法律（以下「法」という。）の規定に基づき行う監査の内容その他必要な<span>事項{'府令': 1}</span>を定めることを<span>目的{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この府令において、「特定目的会社」又は「会計監査人設置会社」とは、それぞれ法第二条第三項又は第二十一条第二項第二号に規定する特定目的会社又は<span>会計監査人設置会社{'法人': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">電磁的記録</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第四条第四項に規定する電磁的記録をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">計算関係書類</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">各事業年度に係る計算書類（<span>法{'二条': 1}</span>第百二条第二項に規定する計算書類をいう。以下同じ。）及びその附属明細書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">清算<span>特定目的会社{'預託': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百六十五条に規定する清算特定目的会社をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">清算<span>事務{'営業': 1}</span>年度</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百七十七条第一項に規定する清算<span>事務{'営業': 1}</span>年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（意思疎通）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">監査人は、その職務を適切に遂行するため、次に掲げる者との意思疎通を図り、情報の収集及び監査の環境の整備に努めなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、取締役又は<span>清算人{'取締役会': 1}</span>は、監査人の<span>職務{'適正': 1}</span>の執行のための必要な体制の整備に留意しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該<span>特定目的会社{'金庫': 1, '相互会社': 1}</span>の取締役又は清算人、会計参与及び<span>使用人{'監査役': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他監査人が適切に職務を遂行するに当たり意思疎通を図るべき者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の規定は、<span>監査{'監事': 2, '監査役': 1}</span>人が<span>公正{'受け': 1}</span>不偏の態度及び独立の立場を保持することができなくなるおそれのある関係の創設及び維持を認めるものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>監査{'監事': 2, '監査役': 1}</span>人は、その職務の遂行に当たり、必要に応じ、<span>当該{'他': 1}</span><span>特定目的会社{'内部統制': 1}</span>の他の監査人、当該<span>特定目的会社{'法人': 1}</span>の支配社員（特定目的会社の計算に関する規則（平成十八年内閣府令第四十四号）第二条第二項第一号に規定する支配<span>社員{'株主': 1}</span>をいう。）が会社である場合の当該会社の監査人その他これらに<span>相当{'委員': 1}</span>する者との<span>意思{'業務': 1}</span>疎通及び情報の交換を図るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（監査役の調査の対象）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第九十条において準用する<span>会社法{'金融商品取引法': 1, '銀行法': 1}</span>（平成十七年<span>法律{'一条': 1}</span>第八十六号）第三百八十四条に規定する内閣府令で定めるものは、<span>電磁的記録{'場合': 1}</span>その他の資料とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　計算関係書類の監査</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法{'提出': 1}</span>第百二条第五項及び第六項の規定による監査（<span>事業報告{'報告': 1}</span>及びその附属明細書に係るものを<span>除く{'限る': 1}</span>。以下この章において同じ。）については、同章の定めるところによる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項に規定する監査には、<span>公認会計士法{'証明': 1}</span>（昭和二十三年<span>法律{'金融商品取引法': 1}</span>第百三号）第二条第一項に規定する監査のほか、計算関係書類に表示された情報と計算関係書類に表示すべき情報との合致の程度を確かめ、かつ、その結果を利害関係者に伝達するための手続を含むものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　会計監査人設置会社でない特定目的会社における監査</SectionTitle>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（会計監査人設置会社でない監査役の監査報告の内容）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">監査役（会計監査人設置会社の監査役を除く。以下この節において同じ。）は、計算関係書類を受領したときは、次に掲げる事項を<span>内容{'記載': 2, '内部統制': 1}</span>とする<span>監査{'監査役': 1}</span>報告を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>監査役{'監事': 3}</span>の<span>監査{'前': 1}</span>の<span>方法{'報告': 1}</span>及びその内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">計算関係書類が法令、資産流動化計画及び定款に従い、<span>当該{'清算': 1}</span>特定目的会社の<span>財産{'状況': 1}</span>及び<span>損益{'財産': 1}</span>の状況を<span>すべて{'全て': 1}</span>の重要な点において適正に表示しているかどうかについての意見</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>監査{'異議': 1}</span>のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>追記{'当該': 1, '規定': 1}</span>情報</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">監査報告を作成した日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項第四号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、監査役の判断に関して説明を付す必要がある事項又は計算<span>関係{'規定': 1}</span>書類の<span>内容{'事業年度': 1}</span>のうち強調する必要がある事項とする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計方針の変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要な<span>偶発{'影響': 1}</span>事象</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要な<span>後発事象{'事項': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（会計監査人設置会社でない監査役の監査報告の通知期限等）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">特定<span>監査役{'監事': 1}</span>は、次に掲げる日のいずれか遅い日までに、特定<span>取締役{'理事': 1}</span>に対し、各<span>事業年度{'執行役': 1}</span>に係る計算書類及びその附属明細書についての<span>監査{'会計監査': 2}</span>報告の内容を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該計算書類の全部を受領した日から四週間を経過した日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該計算書類の附属明細書を受領した日から一週間を経過した日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">特定<span>取締役{'理事': 3}</span>及び特定監査役が合意により定めた日があるときは、その日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">計算関係書類については、<span>特定{'提出': 1}</span><span>取締役{'理事': 2}</span>が前項の規定による監査報告の内容の通知を受けた日に、<span>監査役{'監事': 2}</span>の監査を受けたものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項に規定する「特定<span>取締役{'監査役': 1}</span>」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める者（当該<span>特定目的会社{'相互会社': 1}</span>が会計参与設置会社（法第四条第二項第四号に規定する会計参与設置会社をいう。以下同じ。）である場合にあっては、当該各号に定める者及び会計参与）をいう。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">第一項の規定による通知を受ける者を定めた場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該通知を受ける者として<span>定め{'なる': 1}</span>られた者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">監査を受けるべき計算<span>関係{'説明': 1}</span>書類の作成に関する職務を行った<span>取締役{'場合': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項に規定する「特定監査役」とは、次の各号に掲げる区分に応じ、当該各号に定める者とする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">二以上の<span>監査役{'額': 1}</span>が存する場合において、第一項の<span>規定{'当該': 1}</span>による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき監査役を定めたとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>当該{'場合': 1}</span>通知をすべき監査役として定められた監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">二以上の監査役が存する場合において、第一項の規定による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき<span>監査{'監事': 1}</span>役を<span>定め{'報告': 2}</span>ていないとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>すべて{'場合': 1}</span>の監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">前二号に<span>掲げる{'ある': 1}</span><span>場合{'法人': 1}</span>以外の場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　会計監査人設置会社における監査</SectionTitle>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（計算関係書類の提供）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">計算関係書類を作成した取締役は、会計監査人に対して計算<span>関係{'説明': 1}</span>書類を提供しようとするときは、<span>監査役{'監事': 1}</span>に対しても計算関係書類を提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（会計監査報告の内容）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">会計監査人は、計算関係書類を受領したときは、次に掲げる事項を<span>内容{'記載': 1}</span>とする<span>会計監査{'監査': 1, '監査役': 1}</span>報告を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計監査人の監査の<span>方法{'受け': 1, '報告': 1}</span>及びその内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">計算関係書類が、法令、資産流動化計画及び定款に従い、<span>当該{'清算': 1}</span>特定目的会社の<span>財産{'状況': 1}</span>及び<span>損益{'財産': 1}</span>の状況を<span>全て{'すべて': 1}</span>の重要な点において適正に表示しているかどうかについての意見が<span>ある{'いう': 1}</span>ときは、<span>次{'場合': 1}</span>の<span>イ{'第一': 1}</span>から<span>ハ{'次': 1}</span>までに掲げる<span>意見{'場合': 3}</span>の区分に応じ、当該イからハまでに<span>定める{'掲げる': 1}</span>事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">無限定適正意見</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">監査の対象となった計算関係書類が法令、資産流動化計画及び定款に従い、<span>当該{'特定目的会社': 1}</span>計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">除外事項を付した限定付適正意見</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">監査の対象となった<span>計算{'財務諸表': 1}</span>関係書類が<span>除外{'記載': 1}</span>事項を除き、法令、資産流動化計画<span>及び{'若しくは': 1}</span>定款に従い、<span>当該{'特定目的会社': 1}</span>計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨、除外事項並びに除外事項を付した限定付適正意見とした理由</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">不適正意見</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">監査の対象となった<span>計算{'特定': 1}</span>関係書類が不適正である旨及びその<span>理由{'解任': 1}</span></Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号の意見がないときは、その旨及びその理由</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">継続企業の前提（特定目的会社の計算に関する規則第五十一条に規定する継続企業の前提をいう。）に関する注記に係る<span>事項{'事業年度': 1, '情報': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">追記情報</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計監査報告を作成した日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項第五号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は計算<span>関係{'規定': 1}</span>書類の<span>内容{'事業年度': 1}</span>のうち強調する必要がある事項とする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計方針の変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要な<span>偶発{'影響': 1}</span>事象</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要な<span>後発事象{'事項': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（会計監査人設置会社の監査役の監査報告の内容）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">会計監査人設置会社の監査役は、計算関係書類及び会計監査報告（次条第三項に規定する場合にあっては、計算関係<span>書類{'債権': 1}</span>）を受領したときは、次に掲げる事項を<span>内容{'記載': 2, '内部統制': 1}</span>とする<span>監査{'監査役': 1}</span>報告を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>監査役{'監事': 3}</span>の監査の方法及びその内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>会計監査人{'監査': 1}</span>の監査の方法又は結果を相当でないと認めたときは、その旨及びその理由（<span>次{'一条': 1}</span>条第三項に規定する場合にあっては、<span>会計監査{'当該': 1}</span>報告を受領していない旨）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要な<span>後発事象{'事項': 1}</span>（会計監査報告の内容となっているものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計監査人の職務の遂行が適正に実施されることを<span>確保{'体制': 1}</span>するための体制に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその<span>理由{'会計監査人': 1}</span></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>監査{'規定': 2}</span>報告を作成した日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（会計監査報告の通知期限等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>会計監査人{'場合': 2}</span>は、次に掲げる日のいずれか遅い日までに、特定<span>監査役{'監事': 1}</span>及び特定<span>取締役{'理事': 1}</span>に対し、各事業年度に係る計算書類及びその附属明細書についての<span>会計監査{'監査': 2}</span>報告の内容を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該計算書類の全部を受領した日から四週間を経過した日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該計算書類の附属明細書を受領した日から一週間を経過した日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">特定<span>取締役{'理事': 2}</span>、特定監査役及び会計監査人の間で合意により定めた日があるときは、その日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">計算関係書類については、特定<span>監査役{'監事': 1}</span>及び特定取締役が前項の規定による会計監査報告の内容の<span>通知{'承認': 1}</span>を受けた日に、会計監査人の監査を受けたものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、会計監査人が第一項の規定により通知をすべき日までに同項の規定による会計監査報告の内容の通知をしない場合には、当該通知をすべき日に、計算関係書類については、<span>会計監査人{'監事': 1, '監査役': 1}</span>の監査を受けたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項及び第二項に規定する「特定<span>取締役{'理事': 3}</span>」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める者（当該<span>特定目的会社{'相互会社': 1}</span>が会計参与設置会社である場合にあっては、<span>当該{'内閣府令': 1}</span>各号に定める者及び会計参与）をいう（第十三条において同じ。）。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">第一項の規定による通知を受ける者を定めた場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該通知を受ける者として<span>定め{'なる': 1}</span>られた者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">監査を受けるべき計算<span>関係{'説明': 1}</span>書類の<span>作成{'場合': 1}</span>に関する職務を行った<span>取締役{'理事': 2, '場合': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項及び第二項に規定する「特定監査役」とは、次の各号に掲げる<span>場合{'相互会社': 1}</span>の区分に応じ、当該各号に定める者とする（以下この節において同じ。）。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">二以上の<span>監査役{'継続': 1}</span>が存する場合において、第一項の規定による会計監査報告の内容の通知を受ける<span>監査役{'監事': 2}</span>を定めたとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該通知を受ける<span>監査{'監事': 2}</span>役として定められた監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">二以上の監査役が存する場合において、第一項の規定による会計監査報告の内容の通知を受ける<span>監査役{'監事': 2}</span>を定めていないとき</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>すべて{'場合': 1}</span>の監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前{'決議': 1}</span>二号に掲げる場合以外の<span>場合{'ロ': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">監査役</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（会計監査人の職務の遂行に関する事項）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">会計監査人は、前条第一項の規定による特定<span>監査{'監事': 1}</span>役に対する会計監査報告の内容の通知に際して、当該会計監査人についての次に掲げる事項（当該事項に係る定めがない場合にあっては、当該事項を定めていない旨）を通知しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>すべて{'全て': 1}</span>の<span>監査役{'監事': 1}</span>が既に当該事項を知っている場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">独立性に関する事項その他監査に関する法令及び<span>規程{'年月日': 1}</span>の遵守に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">監査、<span>監査{'業務': 1}</span>に準ずる業務及びこれらに関する業務の契約の受任及び継続の方針に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計監査人の職務の遂行が適正に行われることを確保するための体制に関するその他の事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（会計監査人設置会社の監査役の監査報告の通知期限等）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">会計監査人設置会社の特定<span>監査役{'監事': 1}</span>は、次に掲げる日のいずれか遅い日までに、特定<span>取締役{'理事': 1}</span>及び会計監査人に対し、計算関係書類についての監査報告の内容を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">会計監査報告を受領した日（第十一条第三項に規定する場合に<span>あっ{'含む': 1}</span>ては、同項の規定により<span>監査{'事項': 1}</span>を受けたものとみなされた日）から一週間を経過した日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">特定<span>取締役{'理事': 2}</span>及び特定監査役の間で合意により定めた日があるときは、その日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>計算{'場合': 1}</span>関係書類については、<span>特定{'提出': 1}</span><span>取締役{'理事': 3}</span>及び<span>会計監査人{'規定': 1}</span>が前項の<span>規定{'内部統制': 1}</span>による監査<span>報告{'報酬': 1}</span>の内容の通知を受けた日に、<span>監査役{'監事': 2}</span>の監査を受けたものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　事業報告の監査</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（通則）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'計算書類': 1}</span>第百二条第五項及び第六項の規定による監査（事業報告及びその附属明細書に係るものに限る。）については、この<span>章{'次': 1}</span>の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（監査役の監査報告の内容）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">監査役は、事業報告及びその附属明細書を受領したときは、次に掲げる事項を<span>内容{'記載': 2}</span>とする<span>監査{'監査役': 1}</span>報告を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>監査役{'規定': 1, '監事': 3, '会計監査人設置会社': 1}</span>の監査（計算関係書類に係るものを除く。以下この<span>章{'作成': 1}</span>において同じ。）の方法及びその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業報告及びその附属明細書が法令、資産流動化計画及び定款に従い当該<span>特定目的会社{'財産': 1}</span>の状況を正しく示しているかどうかについての意見</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該<span>特定目的会社{'金庫': 1}</span>の取締役の<span>職務{'取引': 1}</span>の<span>遂行{'規定': 1, '執行': 1}</span>に関し、不正の<span>行為{'法令': 1}</span>又は法令、資産流動化<span>計画{'法令': 1}</span>若しくは定款に違反する重大な<span>事実{'場合': 1, '変更': 1}</span>があったときは、その事実</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定目的会社{'規定': 1}</span>の計算に関する<span>規則{'前項': 1}</span>第六十二条第二号に規定する<span>事項{'附属': 1}</span>が<span>事業報告{'記載': 1}</span>の内容となっているとき又は同令第六十九条第五項第四号に<span>規定{'計算書類': 1}</span>する事項が事業報告の附属明細書の<span>内容{'受領': 1}</span>となっているときは、<span>当該{'記載': 1}</span>事項についての<span>意見{'提供': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>監査{'内部統制': 1}</span>報告を<span>作成{'内容': 1}</span>した日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（監査役の監査報告の通知期限等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>監査役{'監事': 2}</span>は、次に掲げる日のいずれか遅い日までに、特定<span>取締役{'内部統制': 1}</span>に対して、監査報告の内容を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業報告を<span>受領{'事業年度': 1}</span>した日から四週間を経過した日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業報告の附属明細書を受領した日から一週間を経過した日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定<span>取締役{'理事': 3}</span>及び特定監査役の間で<span>合意{'計算書類': 1}</span>した日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">事業報告及びその附属明細書については、特定<span>取締役{'理事': 1}</span>が前項の規定による監査報告の内容の通知を受けた日に、<span>監査役{'監事': 2}</span>の監査を受けたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項に規定する「特定<span>取締役{'監査役': 1}</span>」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める者をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第一項の規定による<span>通知{'適用': 1}</span>を受ける者を定めた場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該通知を受ける者と定められた者</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>事業報告{'貸借対照表': 1}</span>及びその附属明細書の作成に関する職務を行った取締役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項に規定する「特定<span>監査役{'持株会社': 1}</span>」とは、次の各号に掲げる<span>場合{'相互会社': 1}</span>の区分に応じ、当該各号に定める者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">二以上の<span>監査役{'額': 1}</span>が存する場合において、第一項の<span>規定{'当該': 1}</span>による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき監査役を定めたとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>当該{'場合': 1}</span>通知をすべき監査役として定められた監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">二以上の監査役が存する場合において、第一項の規定による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき<span>監査{'監事': 1}</span>役を<span>定め{'報告': 2}</span>ていないとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>すべて{'場合': 1}</span>の監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">前二号に掲げる場合以外の場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　計算書類等の承認の特則に関する要件</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百四条第四項（以下この条において「<span>承認{'規定': 1}</span>特則規定」という。）に規定する内閣府令で定める要件は、次のいずれにも該当することとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認特則規定に規定する計算関係書類についての会計監査報告の内容に<span>第九条{'イ': 1}</span>第一項第二号<span>イ{'内閣府令': 2}</span>に<span>定める{'掲げる': 5}</span>事項が含まれていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号の会計監査報告に係る<span>監査役{'中間': 1, '監事': 3}</span>の監査報告の内容として<span>会計監査人{'定め': 1}</span>の監査の方法又は結果を相当でないと認める意見がないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認<span>特{'法': 1}</span>則<span>規定{'法': 1}</span>に規定する計算関係書類が第十一条第三項の規定により監査を受けたものとみなされたものでないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　清算特定目的会社の監査</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百七十七条第二項の規定による監査については、この<span>条{'政令': 1, '証明': 1}</span>の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">清算<span>特定目的会社{'金庫': 1, '相互会社': 1}</span>の監査役は、各清算<span>事務{'営業': 1}</span>年度に係る貸借対照表及び<span>事務{'規定': 1}</span>報告並びにこれらの附属<span>明細書{'情報': 1}</span>を受領したときは、次に掲げる事項を<span>内容{'記載': 2}</span>とする<span>監査{'監査役': 1}</span>報告を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>監査役{'監事': 3}</span>の監査の方法及びその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">各清算<span>事務{'連結会計': 2}</span>年度に係る貸借対照表及びその附属明細書が当該清算<span>特定目的会社{'金庫': 2, '保険会社': 1, '相互会社': 1}</span>の財産の状況をすべての重要な点において<span>適正{'事項': 1}</span>に表示しているかどうかについての意見</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">各<span>清算{'前': 1}</span><span>事務{'営業': 1}</span>年度に係る事務報告及びその附属明細書が法令、資産流動化計画及び定款に従い<span>当該{'特定目的会社': 1}</span>清算特定目的会社の状況を正しく示しているかどうかについての意見</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算人の職務の<span>遂行{'法令': 1}</span>に関し、不正の行為又は法令、資産流動化<span>計画{'法令': 1}</span>若しくは定款に違反する重大な<span>事実{'場合': 1, '変更': 1}</span>があったときは、その事実</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>監査{'規定': 1, '内部統制': 1}</span>報告を作成した日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定<span>監査役{'監事': 1}</span>は、<span>法{'貸借対照表': 1}</span>第百七十七条第一項の<span>貸借対照表{'規定': 3}</span>及び事務報告の全部を受領した日から四週間を経過した日（特定清算人（次の各号に掲げる場合の区分に応じ、当該各号に定める者をいう。以下この条において同じ。）及び<span>特定{'次': 1}</span><span>監査{'監事': 2}</span>役の間で合意した日がある場合にあっては、<span>当該日{'当該': 2}</span>）までに、<span>特定{'規定': 1, '当該': 1, '記載': 1}</span>清算人に対して、監査報告の内容を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">この<span>項{'前項': 1}</span>の規定による通知を受ける者を定めた場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該通知を受ける者として<span>定め{'なる': 1}</span>られた者</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百七十七条第一項の貸借対照表及び事務報告並びにこれらの附属明細書の作成に関する職務を行った清算人</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百七十七条第一項の貸借対照表及び事務報告並びにこれらの附属明細書については、特定清算人が前項の規定による監査報告の内容の通知を受けた日に、<span>監査役{'監事': 2}</span>の<span>監査{'委託': 1}</span>を受けたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項に規定する「特定<span>監査役{'取締役': 1}</span>」とは、次の各号に掲げる<span>場合{'相互会社': 1}</span>の区分に応じ、当該各号に定める者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">二以上の<span>監査役{'額': 1}</span>が存する場合において、第三項の<span>規定{'当該': 1}</span>による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき監査役を定めたとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>当該{'場合': 1}</span>通知をすべき監査役として定められた監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">二以上の監査役が存する場合において、第三項の規定による監査<span>報告{'報酬': 1}</span>の内容の通知をすべき<span>監査{'監事': 1}</span>役を<span>定め{'報告': 2}</span>ていないとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>すべて{'場合': 1}</span>の監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">前二号に<span>掲げる{'ある': 1}</span>場合以外の場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">監査役</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、会社法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年四月二〇日内閣府令第二七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、<span>公布{'六月一日': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年七月八日内閣府令第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特定目的会社の監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条の<span>規定{'府令': 1}</span>による改正後の<span>特定目的会社{'財務諸表': 2, '規定': 1, '投資法人': 1}</span>の監査に関する規則の規定は、平成二十三年四月一日以後に<span>開始{'終了': 1}</span>する事業年度に係る<span>会計参与{'会計監査': 1, '業務': 1}</span>報告について適用し、<span>同日{'施行日': 2}</span>前に開始する事業年度に係る<span>会計参与{'業務': 3}</span>報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年四月二八日内閣府令第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'法律': 1}</span>は、<span>会社法{'金融商品取引法': 2}</span>の一部を改正する法律の施行の日（平成二十七年<span>五月一日{'四月一日': 1}</span>）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日内閣府令第二二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 1}</span>は、令和二年三月三十一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特定目的会社の監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条の規定による改正後の<span>特定目的会社{'投資法人': 1}</span>の<span>監査{'連結財務諸表': 1}</span>に関する規則の規定は、施行日以後に終了する事業年度に係る会計監査<span>報告{'書類': 1}</span>について適用し、<span>施行日{'同日': 2}</span>前に終了する事業年度に係る<span>会計監査{'業務': 3}</span>報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Act" Num="038" Year="02">
+  <LawNum>令和二年法律第三十八号</LawNum>
+  <LawBody>
+    <LawTitle>特定デジタルプラットフォームの透明性及び公正性の向上に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　特定デジタルプラットフォームの透明性及び公正性の向上に関する措置等</ChapterTitle>
+        <ArticleRange>（第四条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <ArticleRange>（第十七条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <ArticleRange>（第二十三条―第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、近年の情報通信技術の分野における<span>技術革新{'当該': 1}</span>の<span>進展{'当該': 1}</span>により、<span>データ{'当該': 1}</span>を<span>活用{'当該': 1}</span>した<span>新た{'当該': 1}</span>な<span>産業{'当該': 1}</span>が<span>創出{'産業': 1}</span>され、<span>世界的{'当該': 1}</span><span>規模{'変更': 1}</span>で<span>社会経済{'当該': 1}</span><span>構造{'当該': 1}</span>の<span>変化{'当該': 1}</span>が<span>生じ{'行わ': 1}</span>、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'産業': 1}</span>の<span>果たす{'行わ': 1}</span><span>役割{'変更': 1}</span>の<span>重要性{'変更': 1}</span>が<span>増大{'当該': 1}</span>している中で、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者の<span>自主性{'当該': 1}</span>及び<span>自律{'当該': 1}</span>性に<span>配慮{'当該': 1}</span>しつつ、<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>等の<span>利益{'当該': 1}</span>の<span>保護{'当該': 1}</span>を<span>図る{'行わ': 1}</span>ことが<span>課題{'当該': 1}</span>と<span>なっ{'行わ': 1}</span>ている<span>状況{'当該': 1}</span>に<span>鑑み{'行わ': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者の<span>指定{'当該': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>による<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>等の<span>開示{'当該': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性についての<span>評価{'当該': 1}</span>その他の<span>措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ことにより、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性の<span>向上{'当該': 1}</span>を<span>図り{'行わ': 1}</span>、<span>もっ{'行わ': 1}</span>て<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>に関する<span>公正{'当該': 1}</span>かつ<span>自由{'当該': 1}</span>な<span>競争{'法': 1}</span>の<span>促進{'当該': 1}</span><span>を通じて{'とともに': 1}</span>、<span>国民{'当該': 1}</span><span>生活{'当該': 1}</span>の<span>向上{'当該': 1}</span>及び<span>国民経済{'当該': 1}</span>の<span>健全{'当該': 1}</span>な<span>発展{'当該': 1}</span>に<span>寄与{'当該': 1}</span>することを<span>目的{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>」とは、<span>多数{'当該': 1}</span>の者が<span>利用{'当該': 1}</span>することを<span>予定{'当該': 1}</span>して<span>電子計算機{'当該': 1}</span>を<span>用い{'行わ': 1}</span>た<span>情報処理{'当該': 1}</span>により<span>構築{'当該': 1}</span><span>した{'当該': 1}</span>場であって、<span>当該{'主務大臣': 1}</span>場において<span>商品{'当該': 1}</span>、<span>役務{'協同組合': 1, '当該': 1}</span>又は<span>権利{'当該': 1}</span>（以下「<span>商品{'当該': 1}</span>等」と<span>いう{'行わ': 1}</span>。）を<span>提供{'当該': 1}</span>しようとする者の<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等に係る<span>情報{'当該': 1}</span>を<span>表示{'当該': 1}</span>することを<span>常態{'当該': 1}</span>とするもの（<span>次{'当該': 1}</span>の各号のいずれかに<span>掲げる{'行わ': 1}</span><span>関係{'事項': 1, '当該': 1}</span>を<span>利用{'当該': 1}</span>したものに<span>限る{'行わ': 1}</span>。）を、<span>多数{'当該': 1}</span>の者に<span>インターネット{'当該': 1}</span>その他の<span>高度{'当該': 1}</span><span>情報通信{'変更': 1}</span><span>ネットワーク{'当該': 1}</span>（<span>放送法{'当該': 1}</span>（昭和二十五年<span>法律{'当該': 1}</span>第百三十二号）第<span>二条{'当該': 1}</span><span>第一{'当該': 1}</span>号に<span>規定{'当該': 1}</span>する<span>放送{'当該': 1}</span>に<span>用い{'行わ': 1}</span>られるものを<span>除く{'行わ': 1}</span>。）を通じて<span>提供{'当該': 1}</span>する<span>役務{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>役務{'当該': 1}</span>を<span>利用{'当該': 1}</span>して<span>商品{'当該': 1}</span>等を<span>提供{'当該': 1}</span>しようとする者（以下この号及び<span>次号{'当該': 1}</span>において「<span>提供者{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）の<span>増加{'当該': 1}</span>に<span>伴い{'行わ': 1}</span>、<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等の<span>提供{'当該': 1}</span>を<span>受けよ{'行わ': 1}</span>うとする者（以下この号において「被<span>提供者{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）の<span>便益{'当該': 1}</span>が著しく<span>増進{'当該': 1}</span>され、これにより被<span>提供者{'当該': 1}</span>が<span>増加{'当該': 1}</span>し、その<span>増加{'当該': 1}</span>に<span>伴い{'行わ': 1}</span><span>提供者{'当該': 1}</span>の<span>便益{'当該': 1}</span>が著しく<span>増進{'当該': 1}</span>され、これにより<span>提供者{'当該': 1}</span>が更に<span>増加{'当該': 1}</span>する<span>関係{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>役務{'当該': 1}</span>を<span>利用{'当該': 1}</span>する者（<span>提供者{'当該': 1}</span>を<span>除く{'行わ': 1}</span>。以下この号において同じ。）の<span>増加{'当該': 1}</span>に<span>伴い{'行わ': 1}</span>、<span>他{'当該': 1}</span>の<span>当該{'主務大臣': 1}</span><span>役務{'当該': 1}</span>を<span>利用{'当該': 1}</span>する者の<span>便益{'当該': 1}</span>が著しく<span>増進{'当該': 1}</span>され、これにより<span>当該{'主務大臣': 1}</span><span>役務{'当該': 1}</span>を<span>利用{'当該': 1}</span>する者が更に<span>増加{'当該': 1}</span>するとともに、その<span>増加{'当該': 1}</span>に<span>伴い{'行わ': 1}</span><span>提供者{'当該': 1}</span>の<span>便益{'当該': 1}</span>も著しく<span>増進{'当該': 1}</span>され、これにより<span>提供者{'当該': 1}</span>も<span>増加{'当該': 1}</span>する<span>関係{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>利用者{'当該': 1}</span>」とは、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>する者を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>」とは、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'業務': 1, '当該': 1}</span>を<span>商品{'当該': 1}</span>等を<span>提供{'当該': 1}</span>する<span>目的{'当該': 1}</span>で<span>利用{'当該': 1}</span>する者を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>一般{'当該': 1}</span><span>利用者{'当該': 1}</span>」とは、<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>以外の<span>利用者{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>」とは、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>を<span>単独{'当該': 1}</span>で又は<span>共同{'当該': 1}</span>して<span>提供{'当該': 1}</span>する<span>事業者{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>において「<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>」とは、第四条第一項の<span>規定{'当該': 1}</span>により<span>指定{'当該': 1}</span>された<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>（以下「<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）の<span>当該{'主務大臣': 1}</span><span>指定{'当該': 1}</span>に係る<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性の<span>向上{'当該': 1}</span>に関する<span>施策{'当該': 1}</span>は、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>が、<span>利用者{'当該': 1}</span>の<span>便益{'当該': 1}</span>の<span>増進{'産業': 1}</span>に<span>寄与{'当該': 1}</span>し、<span>我が国{'当該': 1}</span>の<span>経済{'当該': 1}</span><span>社会{'当該': 1}</span>の<span>活力{'当該': 1}</span>の<span>向上{'当該': 1}</span>及び<span>持続的{'当該': 1}</span><span>発展{'当該': 1}</span>にとって<span>重要{'当該': 1}</span>な<span>役割{'変更': 1}</span>を<span>果たす{'行わ': 1}</span>ものであることに<span>鑑み{'行わ': 1}</span>、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性の<span>向上{'産業': 1}</span>のための<span>取組{'当該': 1}</span>を<span>自主的{'当該': 1}</span>かつ<span>積極的{'当該': 1}</span>に<span>行う{'行わ': 1}</span>ことを<span>基本{'当該': 1}</span>とし、<span>国{'当該': 1}</span>の<span>関与{'当該': 1}</span>その他の<span>規制{'当該': 1}</span>を<span>必要{'当該': 1}</span><span>最小限{'当該': 1}</span>のものとすることにより<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'産業': 1}</span>者の<span>創意{'産業': 1}</span>と<span>工夫{'変更': 1}</span>が十分に<span>発揮{'当該': 1}</span>されること及び<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者と<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者との<span>間{'当該': 1}</span>の<span>取引{'当該': 1}</span><span>関係{'当該': 1}</span>における<span>相互理解{'当該': 1}</span>の<span>促進{'当該': 1}</span>を<span>図る{'行わ': 1}</span>ことを<span>旨{'当該': 1}</span><span>として{'とともに': 1}</span>、<span>行わ{'なっ': 1}</span>れなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　特定デジタルプラットフォームの透明性及び公正性の向上に関する措置等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者の指定）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>のうち、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事業{'当該': 1}</span>の<span>区分{'当該': 1}</span>ごとに、その<span>事業{'当該': 1}</span>の<span>規模{'当該': 1}</span>が<span>当該{'主務大臣': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>における<span>商品{'当該': 1}</span>等の<span>売上額{'当該': 1}</span>の<span>総額{'当該': 1}</span>、<span>利用者{'当該': 1}</span>の数その他の<span>当該{'主務大臣': 1}</span><span>事業{'当該': 1}</span>の<span>規模{'当該': 1}</span>を<span>示す{'行わ': 1}</span><span>指標{'法': 1, '当該': 1}</span>により<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>規模{'当該': 1}</span>以上であるものを<span>提供{'当該': 1}</span>する<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者を、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性の<span>自主{'当該': 1}</span>的な<span>向上{'法': 1}</span>に<span>努める{'行わ': 1}</span>ことが<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>な者<span>として{'とともに': 1}</span>、<span>指定{'当該': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、その<span>提供{'当該': 1}</span>する<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>が<span>前項{'当該': 1}</span>に<span>規定{'当該': 1}</span>する<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>に<span>該当{'当該': 1}</span>するときは、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>に関し、同<span>項{'当該': 1}</span>の<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事業{'当該': 1}</span>の<span>区分{'当該': 1}</span>ごとに<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>経済産業大臣{'当該': 1}</span>に<span>届け出{'行わ': 1}</span>なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その<span>提供{'当該': 1}</span>する<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>が<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>であるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事業{'当該': 1}</span>の<span>区分{'当該': 1}</span>及び<span>規模{'当該': 1}</span>は、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>が<span>国民{'主務大臣': 1}</span><span>生活{'当該': 1}</span>において広く<span>利用{'当該': 1}</span>されている<span>状況{'当該': 1}</span>及び<span>一部{'当該': 1}</span>の<span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>に対する<span>利用{'当該': 1}</span>が<span>集中{'当該': 1}</span>している<span>状況{'当該': 1}</span>も<span>踏まえ{'行わ': 1}</span>、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者と<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者との<span>間{'当該': 1}</span>の<span>取引{'当該': 1}</span>の<span>実情{'当該': 1}</span>及び<span>動向{'当該': 1}</span>並びにこの<span>法律{'当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者の<span>利益{'当該': 1}</span>の<span>保護{'当該': 1}</span>の<span>必要性{'当該': 1}</span>（<span>他{'当該': 1}</span>の<span>法律{'当該': 1}</span>による<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>の<span>規制{'当該': 1}</span>及び<span>適正化{'当該': 1}</span>のための<span>措置{'当該': 1}</span>その他の<span>当該{'主務大臣': 1}</span><span>事業{'当該': 1}</span>に関する<span>施策{'当該': 1}</span>の<span>実施{'当該': 1}</span><span>状況{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）を<span>勘案{'当該': 1}</span>し、<span>前条{'当該': 1}</span>の<span>基本{'変更': 1}</span><span>理念{'変更': 1}</span>に<span>のっとり{'行わ': 1}</span>、同<span>項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>指定{'当該': 1}</span>が<span>必要{'主務大臣': 1}</span>な<span>最小{'当該': 1}</span><span>限度{'請求': 1, '当該': 1}</span>の<span>範囲{'主務大臣': 1}</span>に<span>限っ{'行わ': 1}</span>て<span>行わ{'なっ': 1}</span>れるよう<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（特定デジタルプラットフォームの提供条件等の開示）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>利用者{'当該': 1}</span>（<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>するものに<span>限る{'行わ': 1}</span>。以下この<span>項{'当該': 1}</span>、<span>第九条{'当該': 1}</span>第四項並びに第十条第一項及び第二項において同じ。）に対して<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>提供{'当該': 1}</span>する<span>場合{'当該': 1}</span>の<span>条件{'当該': 1}</span>（以下この<span>条{'当該': 1}</span>及び<span>次{'当該': 1}</span>条第一項において「<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>開示{'当該': 1}</span>するに当たっては、<span>当該{'主務大臣': 1}</span><span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>に関する<span>利用者{'当該': 1}</span>の<span>理解{'当該': 1}</span>の<span>増進{'当該': 1}</span>が<span>図ら{'行わ': 1}</span>れるよう、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>方法{'当該': 1}</span>により、これを<span>行わ{'なっ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span>者に対して<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>提供{'当該': 1}</span>するときは、<span>当該{'主務大臣': 1}</span>者に対し、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span><span>として{'とともに': 1}</span><span>当該{'主務大臣': 1}</span>各号に<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>開示{'提供': 1, '当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>（<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>するものに<span>限る{'行わ': 1}</span>。以下この<span>条{'当該': 1}</span>、第七条第一項及び第三項、第十<span>二条{'当該': 1}</span>第三項並びに第十三条<span>第一{'当該': 1}</span>号及び第二号において同じ。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical"><span>次{'当該': 1}</span>に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>拒絶{'当該': 1}</span>することが<span>ある{'行わ': 1}</span><span>場合{'当該': 1}</span>における<span>拒絶{'当該': 1}</span>するか<span>どう{'更に': 1}</span>かを<span>判断{'当該': 1}</span>するための<span>基準{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>の<span>提供{'主務大臣': 1}</span>に<span>併せ{'行わ': 1}</span>て<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対して<span>自己{'当該': 1}</span>の<span>指定{'当該': 1}</span>する<span>商品{'当該': 1}</span>若しくは<span>権利{'役務': 1, '当該': 1}</span>を<span>購入{'当該': 1}</span>すること又は<span>自己{'当該': 1}</span>の<span>指定{'当該': 1}</span>する他の<span>役務{'当該': 1}</span>の<span>有償{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>ことを<span>要請{'当該': 1}</span>する<span>場合{'当該': 1}</span>におけるその<span>内容{'当該': 1}</span>及び<span>理由{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>において、<span>一般{'当該': 1}</span><span>利用者{'当該': 1}</span>（<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>するものに<span>限る{'行わ': 1}</span>。以下この<span>条{'主務大臣': 1}</span>において同じ。）が<span>検索{'当該': 1}</span>により<span>求める{'行わ': 1}</span><span>商品{'当該': 1}</span>等に係る<span>情報{'当該': 1}</span>その他の<span>商品{'当該': 1}</span>等に係る<span>情報{'当該': 1}</span>に<span>順位{'当該': 1}</span>を<span>付し{'行わ': 1}</span>て<span>表示{'当該': 1}</span>する<span>場合{'当該': 1}</span>における、<span>当該{'主務大臣': 1}</span><span>順位{'当該': 1}</span>を<span>決定{'当該': 1}</span>するために<span>用い{'行わ': 1}</span>られる<span>主要{'当該': 1}</span>な<span>事項{'当該': 1}</span>（<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者からの<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'変更': 1}</span>者に対する<span>広告{'変更': 1}</span><span>宣伝{'変更': 1}</span>の<span>費用{'変更': 1}</span>その他の<span>金銭{'当該': 1}</span>の<span>支払{'当該': 1}</span>が、<span>当該{'変更': 1}</span><span>順位{'主務大臣': 1}</span>に<span>影響{'支払': 1, '変更': 1}</span>を<span>及ぼす{'行わ': 1}</span><span>可能性{'当該': 1}</span>が<span>ある{'行わ': 1}</span><span>場合{'当該': 1}</span>には、その旨を<span>含む{'行わ': 1}</span>。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>（<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>が<span>提供{'当該': 1}</span>する<span>商品{'当該': 1}</span>等の<span>売上額{'当該': 1}</span>の<span>推移{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>その他の<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>が<span>提供{'当該': 1}</span>する<span>商品{'当該': 1}</span>等に係る<span>データ{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。以下この<span>ニ{'当該': 1}</span>及び<span>ホ{'当該': 1}</span>において同じ。）を<span>取得{'当該': 1}</span>し、又は<span>使用{'当該': 1}</span>する<span>場合{'当該': 1}</span>における<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>の<span>内容{'当該': 1}</span>及びその<span>取得{'当該': 1}</span>又は<span>使用{'当該': 1}</span>に関する<span>条件{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>が<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者の<span>保有{'当該': 1}</span>する<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>を<span>取得{'当該': 1}</span>し、又は<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者をして<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>を<span>他{'当該': 1}</span>の者に<span>提供{'当該': 1}</span>させることの<span>可否{'項': 1, '事業活動': 1, '当該': 1}</span>並びに<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>の<span>取得{'当該': 1}</span>又は<span>提供{'当該': 1}</span>が<span>可能{'当該': 1}</span>な<span>場合{'当該': 1}</span>における<span>当該{'主務大臣': 1}</span><span>商品{'情報': 1, '当該': 1}</span>等<span>提供{'当該': 1}</span><span>データ{'当該': 1}</span>の<span>内容{'当該': 1}</span>並びにその<span>取得{'当該': 1}</span>又は<span>提供{'当該': 1}</span>に関する<span>方法{'当該': 1}</span>及び<span>条件{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>が<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者に対して<span>苦情{'当該': 1}</span>の<span>申出{'当該': 1}</span>又は<span>協議{'当該': 1}</span>の<span>申入れ{'当該': 1}</span>をするための<span>方法{'法': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="7">
+                <Subitem1Title>ト</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>イ{'主務大臣': 1}</span>から<span>ヘ{'当該': 1}</span>までに<span>掲げる{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>のうち<span>開示{'当該': 1}</span>することが<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>なもの<span>として{'とともに': 1}</span><span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>一般{'当該': 1}</span><span>利用者{'当該': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>前{'当該': 1}</span>号<span>ハ{'当該': 1}</span>に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>商品{'当該': 1}</span>等<span>購入{'当該': 1}</span><span>データ{'当該': 1}</span>（<span>一般{'当該': 1}</span><span>利用者{'当該': 1}</span>による<span>商品{'当該': 1}</span>等に係る<span>情報{'当該': 1}</span>の<span>検索{'当該': 1}</span>若しくは<span>閲覧{'当該': 1}</span>又は<span>商品{'当該': 1}</span>等の<span>購入{'当該': 1}</span>に係る<span>データ{'当該': 1}</span>を<span>いう{'行わ': 1}</span>。以下この<span>ロ{'当該': 1}</span>において同じ。）を<span>取得{'当該': 1}</span>し、又は<span>使用{'当該': 1}</span>する<span>場合{'当該': 1}</span>における<span>当該{'主務大臣': 1}</span><span>商品{'当該': 1}</span>等<span>購入{'当該': 1}</span><span>データ{'当該': 1}</span>の<span>内容{'当該': 1}</span>及びその<span>取得{'当該': 1}</span>又は<span>使用{'当該': 1}</span>に関する<span>条件{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>イ{'当該': 1}</span><span>及び{'又は': 1}</span><span>ロ{'当該': 1}</span>に<span>掲げる{'行わ': 1}</span>ものの<span>ほか{'業務': 1, '当該': 1}</span>、<span>一般{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>のうち<span>開示{'当該': 1}</span>することが<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>なもの<span>として{'とともに': 1}</span><span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>行為{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>行為{'当該': 1}</span>の<span>相手方{'当該': 1}</span>に対し、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span>各号に<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>開示{'当該': 1}</span>しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>開示{'当該': 1}</span>することにより<span>一般{'当該': 1}</span><span>利用{'当該': 1}</span>者の<span>利益{'当該': 1}</span>を<span>害する{'行わ': 1}</span><span>場合{'当該': 1}</span>その他の<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>場合{'方法': 1, '当該': 1}</span>は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'主務大臣': 1}</span><span>条件{'法': 1}</span>に<span>よら{'行わ': 1}</span>ない<span>取引{'当該': 1}</span>の<span>実施{'当該': 1}</span>の<span>要請{'当該': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その<span>内容{'当該': 1}</span>及び<span>理由{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>継続{'当該': 1}</span>して<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>する<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>の<span>拒絶{'当該': 1}</span>（<span>当該{'主務大臣': 1}</span><span>提供{'当該': 1}</span>の<span>全部{'当該': 1}</span>を<span>拒絶{'当該': 1}</span>する<span>場合{'当該': 1}</span>を<span>除く{'行わ': 1}</span>。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その<span>内容{'当該': 1}</span>及び<span>理由{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>前{'当該': 1}</span>号に<span>掲げる{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>により<span>行わ{'なっ': 1}</span>れる<span>行為{'当該': 1}</span>のうち、<span>当該{'主務大臣': 1}</span><span>行為{'当該': 1}</span>の<span>相手方{'当該': 1}</span>の<span>利益{'当該': 1}</span>を<span>損なう{'行わ': 1}</span>おそれが<span>ある{'行わ': 1}</span>ため、その<span>内容{'当該': 1}</span>、<span>理由{'当該': 1}</span>その他の<span>事項{'当該': 1}</span>を<span>開示{'当該': 1}</span>することが<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>であるもの<span>として{'とともに': 1}</span><span>経済産業省令{'政令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span><span>行為{'当該': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その<span>内容{'当該': 1}</span>、<span>理由{'当該': 1}</span>その他の<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>次{'当該': 1}</span>の各号に<span>掲げる{'行わ': 1}</span><span>行為{'当該': 1}</span>を<span>行う{'行わ': 1}</span><span>場合{'当該': 1}</span>は、<span>当該{'事業者': 1, '主務大臣': 1}</span><span>行為{'中小企業者': 1, '当該': 1}</span>の<span>相手方{'当該': 1}</span>に対し、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>当該{'主務大臣': 1}</span><span>行為{'当該': 1}</span>を<span>行う{'行わ': 1}</span>日<span>以前{'当該': 1}</span>の<span>経済産業省令{'政令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span>日までに、<span>当該{'主務大臣': 1}</span>各号に<span>定める{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>開示{'当該': 1}</span>しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>開示{'当該': 1}</span>することにより<span>一般{'当該': 1}</span><span>利用{'当該': 1}</span>者の<span>利益{'当該': 1}</span>を<span>害する{'行わ': 1}</span><span>場合{'当該': 1}</span>その他の<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>場合{'方法': 1, '当該': 1}</span>は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>の<span>変更{'当該': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その<span>内容{'当該': 1}</span>及び<span>理由{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>継続{'当該': 1}</span>して<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>を<span>利用{'当該': 1}</span>する<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>の<span>全部{'当該': 1}</span>の<span>拒絶{'当該': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">その旨及び<span>理由{'当該': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>第一{'当該': 1}</span>項、第二項第一号<span>ト{'当該': 1}</span>若しくは第二号<span>ハ{'当該': 1}</span>若しくは第三項第三号の<span>経済産業省令{'当該': 1}</span>を<span>定め{'定める': 1, '行わ': 1}</span>、又はこれを<span>変更{'当該': 1}</span>するときは、<span>あらかじめ{'更に': 1}</span>、<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（開示に関する勧告、命令等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'主務大臣': 1}</span>が<span>前条{'当該': 1}</span>第一項から第四項までの<span>規定{'主務大臣': 1}</span>を<span>遵守{'当該': 1}</span>していないと<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、<span>速やか{'当該': 1}</span>に同<span>条{'当該': 1}</span>第一項に<span>規定{'当該': 1}</span>する<span>方法{'当該': 1}</span>による<span>提供{'当該': 1}</span><span>条件{'当該': 1}</span>の<span>開示{'当該': 1}</span>、同<span>条{'当該': 1}</span>第二項各号、第三項各号又は第四項各号に<span>定める{'行わ': 1}</span><span>事項{'方法': 1, '当該': 1}</span>の<span>開示{'当該': 1}</span>その他の<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>とる{'行わ': 1}</span>べき<span>旨{'当該': 1}</span>の<span>勧告{'当該': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>勧告{'当該': 1}</span>をする<span>場合{'受け': 1, '当該': 1}</span>において、<span>当該{'規定': 1, '主務大臣': 1}</span><span>勧告{'当該': 1}</span>の<span>内容{'当該': 1}</span>が<span>情報{'当該': 1}</span>の<span>電磁{'当該': 1}</span>的<span>流通{'当該': 1}</span>に<span>関わる{'行わ': 1}</span>ものであるときは、あらかじめ、<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第一項の<span>勧告{'当該': 1}</span>をしたときは、その旨を<span>公表{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第一項の<span>勧告{'当該': 1}</span>を<span>受け{'行わ': 1}</span>た<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span><span>提供者{'変更': 1}</span>が、<span>正当{'当該': 1}</span>な<span>理由{'当該': 1}</span>がなく、<span>当該{'主務大臣': 1}</span><span>勧告{'当該': 1}</span>に係る<span>措置{'主務大臣': 1}</span>を<span>とら{'行わ': 1}</span>なかったときは、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、<span>当該{'主務大臣': 1}</span><span>措置{'当該': 1}</span>を<span>とる{'行わ': 1}</span>べきことを<span>命ずる{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>命令{'当該': 1}</span>をする<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>命令{'信用協同組合': 1, '当該': 1}</span>の<span>内容{'当該': 1}</span>が<span>情報{'当該': 1}</span>の<span>電磁{'当該': 1}</span>的<span>流通{'当該': 1}</span>に<span>関わる{'行わ': 1}</span>ものであるときは、<span>あらかじめ{'更に': 1}</span>、<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第四項の<span>規定{'当該': 1}</span>による<span>命令{'当該': 1}</span>をしたときは、その旨を<span>公表{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者が講ずべき措置）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者と<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者との<span>間{'当該': 1}</span>の<span>取引{'当該': 1}</span><span>関係{'当該': 1}</span>における<span>相互理解{'当該': 1}</span>の<span>促進{'当該': 1}</span>を<span>図る{'行わ': 1}</span>ために<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>講じ{'行わ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>に<span>基づき{'行わ': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>講ず{'行わ': 1}</span>べき<span>措置{'当該': 1}</span>に関して、その<span>適切{'当該': 1}</span>かつ<span>有効{'当該': 1}</span>な<span>実施{'当該': 1}</span>に<span>資する{'図る': 1, '行わ': 1}</span>ために<span>必要{'当該': 1}</span>な<span>指針{'当該': 1}</span>（以下この<span>条{'当該': 1}</span>及び<span>第九条{'次': 1, '当該': 1}</span>第二項において<span>単に{'更に': 1}</span>「<span>指針{'当該': 1}</span>」と<span>いう{'行わ': 1}</span>。）を<span>定める{'定め': 1, '行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>指針{'当該': 1}</span>においては、次に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>定める{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者と<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者との<span>間{'当該': 1}</span>の<span>取引{'当該': 1}</span><span>関係{'当該': 1}</span>における<span>相互理解{'当該': 1}</span>の<span>促進{'当該': 1}</span>を<span>図る{'行わ': 1}</span>ために<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>に関する<span>基本{'当該': 1}</span>的な<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対する<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>が<span>公正{'当該': 1}</span>に<span>行わ{'でき': 1}</span>れることを<span>確保{'当該': 1}</span>するために<span>必要{'当該': 1}</span>な<span>体制{'当該': 1}</span>及び<span>手続{'当該': 1}</span>の<span>整備{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>についての<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者からの<span>苦情{'当該': 1}</span>の<span>処理{'当該': 1}</span>及び<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者と<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者との<span>間{'当該': 1}</span>の<span>紛争{'当該': 1}</span>の<span>解決{'当該': 1}</span>のために<span>必要{'業務': 1, '当該': 1}</span>な<span>体制{'当該': 1}</span>及び<span>手続{'当該': 1}</span>の<span>整備{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'主務大臣': 1}</span>その他の<span>関係者{'当該': 1}</span>と<span>緊密{'当該': 1}</span>に<span>連絡{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ために<span>国内{'当該': 1}</span>において<span>必要{'当該': 1}</span>な<span>業務{'当該': 1}</span>の<span>管理{'当該': 1}</span>を<span>行う{'行わ': 1}</span>者の<span>選任{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前各号に<span>掲げる{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者の<span>意見{'当該': 1}</span>その他の<span>事情{'当該': 1}</span>を十分に<span>考慮{'当該': 1}</span>するために<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>指針{'当該': 1}</span>を<span>定める{'行わ': 1}</span>ときは、<span>あらかじめ{'更に': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>大臣{'当該': 1}</span>、<span>公正取引委員会{'当該': 1}</span>及び<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>指針{'当該': 1}</span>を<span>定め{'行わ': 1}</span>たときは、<span>遅滞{'当該': 1}</span>なく、これを<span>公表{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前二項の<span>規定{'当該': 1}</span>は、<span>指針{'当該': 1}</span>の<span>変更{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者が講ずべき措置に関する勧告等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'内閣総理大臣': 1, '当該': 1}</span>は、<span>前条{'当該': 1}</span>第一項の<span>規定{'当該': 1}</span>に<span>基づき{'行わ': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>講ず{'行わ': 1}</span>べき<span>措置{'当該': 1}</span>に関して、その<span>適切{'当該': 1}</span>かつ<span>有効{'当該': 1}</span>な<span>実施{'当該': 1}</span>を<span>図る{'行わ': 1}</span>ために<span>特に{'更に': 1}</span><span>必要{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>講ず{'行わ': 1}</span>べき<span>旨{'当該': 1}</span>の<span>勧告{'当該': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第<span>六条{'法': 1, '当該': 1}</span>第二項及び第三項の<span>規定{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>勧告{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者による報告書の提出、評価等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'法': 1}</span>は、毎<span>年度{'当該': 1}</span>、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>報告書{'当該': 1}</span>を<span>経済産業大臣{'当該': 1}</span>に<span>提出{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>事業{'当該': 1}</span>の<span>概要{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>についての<span>苦情{'当該': 1}</span>の<span>処理{'当該': 1}</span>及び<span>紛争{'当該': 1}</span>の<span>解決{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第五条第一項から第四項までの<span>規定{'法': 1, '当該': 1}</span>に<span>基づく{'行わ': 1}</span><span>開示{'当該': 1}</span>の<span>状況{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第七条第一項の<span>規定{'当該': 1}</span>に<span>基づき{'行わ': 1}</span><span>講じ{'行わ': 1}</span>た<span>措置{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>前{'当該': 1}</span>三号に<span>掲げる{'行わ': 1}</span><span>事項{'当該': 1}</span>について<span>自ら{'当該': 1}</span><span>行っ{'行わ': 1}</span>た<span>評価{'当該': 1}</span>に関する<span>事項{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>報告書{'当該': 1}</span>の<span>提出{'当該': 1}</span>を<span>受け{'行わ': 1}</span>たときは、<span>当該{'主務大臣': 1}</span><span>報告{'当該': 1}</span>書の<span>内容{'当該': 1}</span>及び<span>次{'当該': 1}</span>条第一項の<span>規定{'該当': 1, '当該': 1}</span>により<span>申出{'当該': 1}</span>の<span>あっ{'行わ': 1}</span>た<span>事実{'当該': 1}</span>その他の<span>経済産業大臣{'当該': 1}</span>が<span>把握{'当該': 1}</span>する<span>事実{'当該': 1}</span>に<span>基づき{'行わ': 1}</span>、<span>指針{'当該': 1}</span>を<span>勘案{'当該': 1}</span>して、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性についての<span>評価{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>評価{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ときは、<span>あらかじめ{'更に': 1}</span>、<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第二項の<span>評価{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ときは、<span>あらかじめ{'更に': 1}</span>、<span>利用者{'当該': 1}</span>又はその<span>組織{'当該': 1}</span>する<span>団体{'当該': 1}</span>、<span>学識経験者{'当該': 1}</span>その他の<span>経済産業大臣{'当該': 1}</span>が<span>必要{'当該': 1}</span>と<span>認める{'行わ': 1}</span>者の<span>意見{'当該': 1}</span>を<span>聴く{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'前項': 1, '当該': 1}</span>は、第二項の<span>規定{'当該': 1}</span>による<span>評価{'当該': 1}</span>の<span>結果{'当該': 1}</span>を第一項の<span>報告書{'当該': 1}</span>の<span>概要{'当該': 1}</span>とともに<span>公表{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>により<span>公表{'当該': 1}</span>された<span>評価{'当該': 1}</span>の<span>結果{'当該': 1}</span>を<span>踏まえ{'行わ': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性の<span>自主{'当該': 1}</span>的な<span>向上{'当該': 1}</span>に<span>努め{'行わ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（経済産業大臣に対する申出等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>利用者{'当該': 1}</span>は、第五条第一項から第四項まで及び第七条第一項の<span>規定{'当該': 1}</span>に<span>基づき{'行わ': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>が<span>講ず{'行わ': 1}</span>べき<span>措置{'当該': 1}</span>が<span>講じ{'行わ': 1}</span>られていないと<span>認める{'行わ': 1}</span>ときは、<span>経済産業大臣{'当該': 1}</span>に対し、その旨を<span>申し出{'行わ': 1}</span>て、<span>適当{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>とる{'行わ': 1}</span>べきことを<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>利用者{'当該': 1}</span>が<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>申出{'当該': 1}</span>及び<span>求め{'当該': 1}</span>をしたことを<span>理由{'当該': 1}</span><span>として{'とともに': 1}</span>、<span>当該{'主務大臣': 1}</span><span>利用者{'当該': 1}</span>に対し、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>の<span>拒絶{'当該': 1}</span>その他の<span>不利益{'当該': 1}</span>な<span>取扱い{'当該': 1}</span>をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span><span>提供{'主務大臣': 1}</span>者について、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>に<span>違反{'当該': 1}</span>する<span>行為{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、<span>速やか{'当該': 1}</span>にその<span>不利益{'当該': 1}</span>な<span>取扱い{'当該': 1}</span>を<span>やめる{'行わ': 1}</span>べきことその他<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>とる{'行わ': 1}</span>べき<span>旨{'当該': 1}</span>の<span>勧告{'当該': 1}</span>をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第<span>六条{'当該': 1}</span>第二項<span>及び{'又は': 1}</span>第三項の<span>規定{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>勧告{'当該': 1}</span>について<span>準用{'当該': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者の指定の取消し）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>は、<span>次{'当該': 1}</span>の各号のいずれかに<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>が<span>生じ{'行わ': 1}</span>たときは、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>経済産業大臣{'当該': 1}</span>に、第四条第一項の<span>規定{'当該': 1}</span>による<span>指定{'当該': 1}</span>を<span>取り消す{'行わ': 1}</span>べき<span>旨{'当該': 1}</span>の<span>申出{'当該': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>提供{'当該': 1}</span>を<span>行わ{'なっ': 1}</span>なく<span>なっ{'行わ': 1}</span>たとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>事業{'当該': 1}</span>の<span>規模{'当該': 1}</span>が第四条第一項の<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span><span>規模{'当該': 1}</span>を<span>下回っ{'行わ': 1}</span>た<span>場合{'当該': 1}</span>において、<span>再び{'更に': 1}</span><span>当該{'法': 1}</span><span>規模{'主務大臣': 1}</span>以上と<span>なる{'行わ': 1}</span>ことがないと<span>明らか{'当該': 1}</span>に<span>認め{'行わ': 1}</span>られるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>申出{'規定': 1, '当該': 1}</span>が<span>あっ{'行わ': 1}</span>た<span>場合{'当該': 1}</span>において、<span>当該{'主務大臣': 1}</span><span>申出{'当該': 1}</span>に<span>理由{'必要': 1, '当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認める{'行わ': 1}</span>ときは、<span>経済産業省令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>ところにより、<span>遅滞{'当該': 1}</span>なく、第四条第一項の<span>規定{'当該': 1}</span>による<span>指定{'当該': 1}</span>を<span>取り消す{'行わ': 1}</span>ものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical"><span>前項{'当該': 1}</span>の<span>申出{'規定': 1, '当該': 1}</span>がない<span>場合{'当該': 1}</span>において、同<span>項{'当該': 1}</span>各号のいずれかに<span>掲げる{'行わ': 1}</span><span>事由{'当該': 1}</span>が<span>生じ{'行わ': 1}</span>たと<span>認め{'あっ': 1, '行わ': 1}</span>られるときも、<span>同様{'当該': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（報告及び検査）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第四条第一項の<span>規定{'当該': 1}</span>による<span>指定{'理由': 1, '当該': 1}</span>及び<span>前条{'当該': 1}</span>第二項の<span>規定{'当該': 1}</span>による<span>指定{'当該': 1}</span>の<span>取消し{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ために<span>必要{'当該': 1}</span>な<span>限度{'当該': 1}</span>において、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>の<span>状況{'当該': 1}</span>に関し<span>報告{'当該': 1}</span>をさせ、又はその<span>職員{'当該': 1}</span>に、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者の<span>事務所{'当該': 1}</span>その他の<span>事業場{'当該': 1}</span>に<span>立ち入り{'行わ': 1}</span>、<span>帳簿{'当該': 1}</span>、<span>書類{'当該': 1}</span>その他の<span>物件{'当該': 1}</span>を<span>検査{'当該': 1}</span>させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第<span>六条{'当該': 1}</span>第一項及び第四項、第八条第一項並びに第十条第三項の<span>規定{'当該': 1}</span>の<span>施行{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>限度{'当該': 1}</span>において、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>に対し、その<span>取引{'当該': 1}</span>に関し<span>報告{'当該': 1}</span>をさせ、又はその<span>職員{'当該': 1}</span>に、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者の<span>事務所{'当該': 1}</span>その他の<span>事業場{'当該': 1}</span>に<span>立ち入り{'行わ': 1}</span>、<span>帳簿{'当該': 1}</span>、<span>書類{'当該': 1}</span>その他の<span>物件{'当該': 1}</span>を<span>検査{'当該': 1}</span>させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第<span>六条{'当該': 1}</span>第一項及び第四項、第八条第一項並びに第十条第三項の<span>規定{'当該': 1}</span>の<span>施行{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>限度{'特定': 1, '当該': 1}</span>において、<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対し、その<span>取引{'当該': 1}</span>に関し<span>報告{'当該': 1}</span>をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項及び第二項の<span>規定{'当該': 1}</span>により<span>立入検査{'当該': 1}</span>をする<span>職員{'当該': 1}</span>は、その<span>身分{'当該': 1}</span>を<span>示す{'行わ': 1}</span><span>証明{'主務大臣': 1}</span>書を<span>携帯{'当該': 1}</span>し、<span>関係{'関係者': 2, '産業': 1}</span>人に<span>提示{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項及び第二項の<span>規定{'当該': 1}</span>による<span>立入検査{'当該': 1}</span>の<span>権限{'主務大臣': 1}</span>は、<span>犯罪{'当該': 1}</span><span>捜査{'当該': 1}</span>のために<span>認め{'行わ': 1}</span>られたものと<span>解釈{'当該': 1}</span>してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（公正取引委員会への措置請求）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供{'当該': 1}</span>者について<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性を<span>阻害{'当該': 1}</span>する<span>行為{'当該': 1}</span>が<span>あり{'行わ': 1}</span>、その<span>事実{'当該': 1}</span>が<span>私的独占の禁止及び公正取引の確保に関する法律{'当該': 1}</span>（昭和二十二年<span>法律{'当該': 1}</span>第五十四号）第十九条の<span>規定{'当該': 1}</span>に<span>違反{'当該': 1}</span>していると<span>認める{'行わ': 1}</span>ときは、<span>公正取引委員会{'当該': 1}</span>に対し、<span>同法{'当該': 1}</span>の<span>規定{'当該': 1}</span>に従い<span>適当{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>とる{'行わ': 1}</span>べきことを<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span>ときは、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>行為{'当該': 1}</span>が<span>多数{'当該': 1}</span>の<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対して<span>行わ{'でき': 1}</span>れていると<span>認め{'行わ': 1}</span>られるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'主務大臣': 1}</span><span>行為{'当該': 1}</span>によって<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用者{'当該': 1}</span>が<span>受ける{'行わ': 1}</span><span>不利益{'当該': 1}</span>の<span>程度{'当該': 1}</span>が大きいと<span>認め{'行わ': 1}</span>られるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前二号に<span>掲げる{'行わ': 1}</span>ものの<span>ほか{'当該': 1}</span>、<span>特定{'当該': 1}</span><span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>の<span>透明性{'当該': 1}</span>及び<span>公正{'当該': 1}</span>性を<span>阻害{'当該': 1}</span>する<span>重大{'当該': 1}</span>な<span>事実{'当該': 1}</span>が<span>ある{'行わ': 1}</span>と<span>認め{'行わ': 1}</span>られるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（適用除外）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四条から<span>前条{'当該': 1}</span>までの<span>規定{'当該': 1}</span>は、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>に<span>該当{'当該': 1}</span>する<span>役務{'当該': 1}</span>の<span>提供{'当該': 1}</span>のうち、<span>他{'当該': 1}</span>の<span>法律{'当該': 1}</span>の<span>規定{'当該': 1}</span>によって<span>商品{'情報': 1, '当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者の<span>利益{'当該': 1}</span>を<span>保護{'当該': 1}</span>することができると<span>認め{'資する': 1, '行わ': 1}</span>られるもの<span>として{'とともに': 1}</span><span>政令{'経済産業省令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span><span>役務{'情報': 1, '当該': 1}</span>の<span>提供{'当該': 1}</span>については、<span>適用{'業務': 1, '当該': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（資料の提出の要求等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、第四条第一項の<span>政令{'当該': 1}</span>の<span>制定{'当該': 1}</span>又は<span>改正{'当該': 1}</span>の<span>立案{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>限度{'当該': 1}</span>において、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>又は<span>商品{'当該': 1}</span>等<span>提供{'当該': 1}</span><span>利用{'当該': 1}</span>者に対し、<span>必要{'当該': 1}</span>な<span>資料{'方法': 1, '当該': 1}</span>の<span>提出{'当該': 1}</span>及び<span>説明{'当該': 1}</span>を<span>求める{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>資料{'当該': 1}</span>の<span>提出{'当該': 1}</span>及び<span>説明{'当該': 1}</span>の<span>求め{'当該': 1}</span>を<span>行う{'行わ': 1}</span>ときは、<span>あらかじめ{'更に': 1}</span>、<span>当該{'主務大臣': 1}</span><span>求め{'当該': 1}</span>に係る<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>大臣{'当該': 1}</span>及び<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（政令の立案等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前条{'当該': 1}</span>第一項の<span>資料{'当該': 1}</span>及び<span>説明{'当該': 1}</span>に<span>基づき{'行わ': 1}</span>、第四条第一項の<span>政令{'当該': 1}</span>の<span>制定{'当該': 1}</span>又は<span>改正{'主務大臣': 1}</span>の<span>立案{'当該': 1}</span>を<span>行い{'行わ': 1}</span>、及びこの<span>法律{'当該': 1}</span>の<span>円滑{'当該': 1}</span>な<span>実施{'当該': 1}</span>に<span>必要{'当該': 1}</span>な<span>措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>措置{'当該': 1}</span>を<span>講ずる{'行わ': 1}</span>ときは、<span>あらかじめ{'更に': 1}</span>、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>を<span>所管{'当該': 1}</span>する<span>大臣{'当該': 1}</span>及び<span>総務大臣{'当該': 1}</span>に<span>協議{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>場合{'当該': 1}</span>においては、<span>デジタル{'当該': 1}</span><span>プラットフォーム{'主務大臣': 1}</span>に関する<span>国際的{'当該': 1}</span><span>動向{'当該': 1}</span>並びに<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span><span>提供者{'当該': 1}</span>及び<span>利用者{'当該': 1}</span>の<span>意見{'当該': 1}</span>に十分<span>配慮{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（他の施策との関係）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、この<span>法律{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>措置{'当該': 1}</span>を<span>実施{'当該': 1}</span>するに当たっては、<span>他{'当該': 1}</span>の<span>法律{'当該': 1}</span>による<span>デジタル{'当該': 1}</span><span>プラットフォーム{'当該': 1}</span>により<span>提供{'主務大臣': 1}</span>される<span>場{'当該': 1}</span>に係る<span>事業{'当該': 1}</span>の<span>規制{'当該': 1}</span>及び<span>適正化{'当該': 1}</span>のための<span>措置{'当該': 1}</span>その他の<span>当該{'主務大臣': 1}</span><span>事業{'当該': 1}</span>に関する<span>施策{'当該': 1}</span>の<span>実施{'当該': 1}</span><span>状況{'当該': 1}</span>を<span>勘案{'当該': 1}</span>しつつ、<span>必要{'当該': 1}</span><span>最小限{'当該': 1}</span>のものと<span>なる{'行わ': 1}</span>よう<span>努め{'行わ': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>に<span>基づき{'基づく': 1, '行わ': 1}</span><span>命令{'当該': 1}</span>を<span>制定{'当該': 1}</span>し、又は<span>改廃{'当該': 1}</span>する<span>場合{'当該': 1}</span>においては、その<span>命令{'当該': 1}</span>で、その<span>制定{'当該': 1}</span>又は<span>改廃{'当該': 1}</span>に<span>伴い{'行わ': 1}</span><span>合理的{'当該': 1}</span>に<span>必要{'変更': 1}</span>と<span>判断{'当該': 1}</span>される<span>範囲{'当該': 1}</span>内において、<span>所要{'当該': 1}</span>の<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>（<span>罰則{'当該': 1}</span>に関する<span>経過{'当該': 1}</span><span>措置{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）を<span>定める{'行わ': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleCaption>（送達すべき書類）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第四条第一項の<span>規定{'当該': 1}</span>による<span>指定{'当該': 1}</span>、第<span>六条{'当該': 1}</span>第一項の<span>勧告{'当該': 1}</span>若しくは同<span>条{'当該': 1}</span>第四項の<span>規定{'当該': 1}</span>による<span>命令{'当該': 1}</span>又は第十二条第一項から第三項までの<span>規定{'当該': 1}</span>による<span>報告{'当該': 1}</span>の<span>徴収{'項': 1, '当該': 1}</span>は、<span>経済産業省令{'政令': 1, '当該': 1}</span>で<span>定める{'行わ': 1}</span><span>書類{'当該': 1}</span>を<span>送達{'当該': 1}</span>して<span>行う{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の<span>規定{'場合': 1, '当該': 1}</span>による<span>指定{'当該': 1}</span>又は第<span>六条{'当該': 1}</span>第四項の<span>規定{'当該': 1}</span>による<span>命令{'法': 1}</span>に係る<span>行政手続法{'当該': 1}</span>（平成五年<span>法律{'当該': 1}</span>第八十八号）第三十条の<span>規定{'当該': 1}</span>による<span>通知{'当該': 1}</span>は、同<span>条{'当該': 1}</span>の<span>書類{'規定': 1, '当該': 1}</span>を<span>送達{'当該': 1}</span>して<span>行う{'行わ': 1}</span>。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>同法{'当該': 1}</span>第三十一条において<span>読み替え{'行わ': 1}</span>て<span>準用{'当該': 1}</span>する<span>同法{'当該': 1}</span>第十五条第三項の<span>規定{'当該': 1}</span>は<span>適用{'当該': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（送達に関する民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前条{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>送達{'当該': 1}</span>については、<span>民事訴訟法{'当該': 1}</span>（平成八年<span>法律{'当該': 1}</span>第百九号）第九十九条、第百一条、第百三条、第百五条、第百六条、第百八条及び第百九条の<span>規定{'当該': 1}</span>を<span>準用{'当該': 1}</span>する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'当該': 1}</span>において、<span>同法{'当該': 1}</span>第九十九条第一項中「<span>執行官{'当該': 1}</span>」と<span>ある{'行わ': 1}</span>のは「<span>経済産業大臣{'当該': 1}</span>の<span>職員{'当該': 1}</span>」と、<span>同法{'当該': 1}</span>第百八条中「<span>裁判長{'当該': 1}</span>」と<span>あり{'行わ': 1}</span>、及び<span>同法{'当該': 1}</span>第百九条中「<span>裁判所{'当該': 1}</span>」と<span>ある{'行わ': 1}</span>のは「<span>経済産業大臣{'当該': 1}</span>」と<span>読み替える{'行わ': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（公示送達）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>は、<span>次に{'更に': 1}</span><span>掲げる{'行わ': 1}</span><span>場合{'事項': 1, '当該': 1}</span>には、<span>公示送達{'当該': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>送達{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>べき者の<span>住所{'当該': 1}</span>、<span>居所{'当該': 1}</span>その他<span>送達{'当該': 1}</span>をすべき<span>場所{'当該': 1}</span>が<span>知れ{'行わ': 1}</span>ない<span>場合{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>外国{'当該': 1}</span>においてすべき<span>送達{'当該': 1}</span>について、<span>前条{'当該': 1}</span>において<span>読み替え{'行わ': 1}</span>て<span>準用{'当該': 1}</span>する<span>民事訴訟法{'特許法': 1, '当該': 1}</span>第百八条の<span>規定{'当該': 1}</span>によることが<span>でき{'行わ': 1}</span>ず、又はこれによっても<span>送達{'当該': 1}</span>をすることが<span>でき{'行わ': 1}</span>ないと<span>認める{'行わ': 1}</span>べき<span>場合{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>前条{'当該': 1}</span>において<span>読み替え{'行わ': 1}</span>て<span>準用{'当該': 1}</span>する<span>民事訴訟法{'当該': 1}</span>第百八条の<span>規定{'当該': 1}</span>により<span>外国{'当該': 1}</span>の<span>管轄{'当該': 1}</span><span>官庁{'当該': 1}</span>に<span>嘱託{'当該': 1}</span>を<span>発し{'行わ': 1}</span>た後<span>六月{'当該': 1}</span>を<span>経過{'当該': 1}</span>してもその<span>送達{'当該': 1}</span>を<span>証する{'行わ': 1}</span><span>書面{'当該': 1}</span>の<span>送付{'当該': 1}</span>がない<span>場合{'提出': 1, '当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>公示送達{'当該': 1}</span>は、<span>送達{'当該': 1}</span>をすべき<span>書類{'当該': 1}</span>を<span>送達{'当該': 1}</span>を<span>受ける{'行わ': 1}</span>べき者にいつでも<span>交付{'当該': 1}</span>すべき<span>旨{'当該': 1}</span>を<span>経済産業省{'当該': 1}</span>の<span>掲示{'当該': 1}</span>場に<span>掲示{'当該': 1}</span>することにより<span>行う{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>公示送達{'当該': 1}</span>は、<span>前項{'当該': 1}</span>の<span>規定{'当該': 1}</span>による<span>掲示{'当該': 1}</span>を<span>始め{'行わ': 1}</span>た日から二週間を<span>経過{'当該': 1}</span>することによって、その<span>効力{'当該': 1}</span>を<span>生ずる{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>外国{'当該': 1}</span>においてすべき<span>送達{'当該': 1}</span>についてした<span>公示送達{'場合': 1, '当該': 1}</span>に<span>あっ{'行わ': 1}</span>ては、<span>前項{'当該': 1}</span>の<span>期間{'当該': 1}</span>は、六週間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（電子情報処理組織の使用）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>経済産業大臣{'当該': 1}</span>の<span>職員{'当該': 1}</span>が、<span>情報通信{'当該': 1}</span><span>技術{'当該': 1}</span>を<span>活用{'当該': 1}</span>した<span>行政{'当該': 1}</span>の<span>推進{'当該': 1}</span>等に関する<span>法律{'当該': 1}</span>（平成十四年<span>法律{'当該': 1}</span>第百五十一号）<span>第三条{'六条': 2, '当該': 1}</span><span>第九{'当該': 1}</span>号に<span>規定{'当該': 1}</span>する<span>処分{'当該': 1}</span><span>通知{'当該': 1}</span>等であって第十九条の<span>規定{'当該': 1}</span>により<span>書類{'当該': 1}</span>を<span>送達{'当該': 1}</span>して<span>行う{'行わ': 1}</span>こととしているものに関する<span>事務{'当該': 1}</span>を、<span>同法{'当該': 1}</span>第七条第一項の<span>規定{'当該': 1}</span>により<span>同法{'当該': 1}</span>第<span>六条{'当該': 1}</span>第一項に<span>規定{'当該': 1}</span>する<span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して行ったときは、第二十条において<span>読み替え{'行わ': 1}</span>て<span>準用{'当該': 1}</span>する<span>民事訴訟法{'当該': 1}</span>第百九条の<span>規定{'当該': 1}</span>による<span>送達{'当該': 1}</span>に関する<span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>した<span>書面{'当該': 1}</span>の<span>作成{'当該': 1}</span>及び<span>提出{'当該': 1}</span>に<span>代え{'行わ': 1}</span>て、<span>当該{'主務大臣': 1}</span><span>事項{'当該': 1}</span>を<span>当該{'主務大臣': 1}</span><span>電子{'当該': 1}</span><span>情報処理{'当該': 1}</span><span>組織{'当該': 1}</span>を<span>使用{'当該': 1}</span>して<span>経済産業大臣{'当該': 1}</span>の<span>使用{'当該': 1}</span>に係る<span>電子計算機{'当該': 1}</span>（<span>入出力{'当該': 1}</span><span>装置{'当該': 1}</span>を<span>含む{'行わ': 1}</span>。）に<span>備え{'行わ': 1}</span>られた<span>ファイル{'当該': 1}</span>に<span>記録{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第<span>六条{'当該': 1}</span>第四項の<span>規定{'当該': 1}</span>による<span>命令{'当該': 1}</span>に<span>違反{'当該': 1}</span>した<span>場合{'当該': 1}</span>には、<span>当該{'主務大臣': 1}</span><span>違反行為{'当該': 1}</span>をした者は、百万円以下の<span>罰金{'事業者': 1, '当該': 1}</span>に<span>処する{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次{'当該': 1}</span>の各号のいずれかに<span>該当{'当該': 1}</span>する<span>場合{'当該': 1}</span>には、<span>当該{'主務大臣': 1}</span><span>違反行為{'当該': 1}</span>をした者は、五十万円以下の<span>罰金{'当該': 1}</span>に<span>処する{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第四条第二項の<span>規定{'当該': 1}</span>による<span>届出{'当該': 1}</span>をせず、又は<span>虚偽{'当該': 1}</span>の<span>届出{'当該': 1}</span>をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>第九条{'当該': 1}</span>第一項の<span>規定{'当該': 1}</span>による<span>報告書{'当該': 1}</span>を<span>提出{'当該': 1}</span>せず、又は<span>報告書{'当該': 1}</span>に<span>記載{'当該': 1}</span>すべき<span>事項{'当該': 1}</span>を<span>記載{'当該': 1}</span>せず、若しくは<span>虚偽{'当該': 1}</span>の<span>記載{'当該': 1}</span>をして<span>報告書{'書面': 1, '当該': 1}</span>を<span>提出{'当該': 1}</span>したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第十<span>二条{'当該': 1}</span>第一項から第三項までの<span>規定{'当該': 1}</span>による<span>報告{'当該': 1}</span>をせず、<span>若しくは{'又は': 1}</span><span>虚偽{'当該': 1}</span>の<span>報告{'当該': 1}</span>をし、又は同<span>条{'当該': 1}</span>第一項若しくは第二項の<span>規定{'当該': 1}</span>による<span>検査{'当該': 1}</span>を<span>拒み{'行わ': 1}</span>、<span>妨げ{'行わ': 1}</span>、若しくは<span>忌避{'当該': 1}</span>したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人{'当該': 1}</span>の<span>代表者{'当該': 1}</span>又は<span>法人{'当該': 1}</span>若しくは<span>人{'当該': 1}</span>の<span>代理人{'当該': 1}</span>、<span>使用人{'当該': 1}</span>その他の<span>従業者{'当該': 1}</span>が、その<span>法人{'当該': 1}</span>又は<span>人{'当該': 1}</span>の<span>業務{'当該': 1}</span>に関し、前<span>二条{'前条': 2, '前項': 1, '当該': 1}</span>の<span>違反行為{'当該': 1}</span>をしたときは、<span>行為{'当該': 1}</span>者を<span>罰する{'行わ': 1}</span><span>ほか{'当該': 1}</span>、その<span>法人{'当該': 1}</span>又は<span>人{'当該': 1}</span>に対して各<span>本条{'項': 2, '条': 2, '当該': 1}</span>の<span>刑{'罰金刑': 1, '当該': 1}</span>を<span>科する{'行わ': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'当該': 1}</span>は、<span>公布{'当該': 1}</span>の日から<span>起算{'当該': 1}</span>して<span>一年{'三月': 1, '当該': 1}</span>を<span>超え{'行わ': 1}</span>ない<span>範囲{'当該': 1}</span>内において<span>政令{'当該': 1}</span>で<span>定める{'行わ': 1}</span>日から<span>施行{'当該': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical"><span>政府{'当該': 1}</span>は、この<span>法律{'当該': 1}</span>の<span>施行{'主務大臣': 1}</span>後三年を<span>目途{'当該': 1}</span>として、この<span>法律{'新法': 1, '当該': 1}</span>の<span>規定{'当該': 1}</span>の<span>施行{'当該': 1}</span>の<span>状況{'当該': 1}</span>及び<span>経済{'当該': 1}</span><span>社会{'当該': 1}</span><span>情勢{'当該': 1}</span>の<span>変化{'当該': 1}</span>を<span>勘案{'当該': 1}</span>し、この<span>法律{'当該': 1}</span>の<span>規定{'当該': 1}</span>について<span>検討{'当該': 1}</span>を<span>加え{'行わ': 1}</span>、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

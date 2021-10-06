@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="98" Year="33">
+  <LawNum>昭和三十三年法律第九十八号</LawNum>
+  <LawBody>
+    <LawTitle>首都圏の近郊整備地帯及び都市開発区域の整備に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　工業団地造成事業等</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　工業団地造成事業</SectionTitle>
+          <ArticleRange>（第三条の二―第十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　施行計画及び処分管理計画</SectionTitle>
+          <ArticleRange>（第十八条・第十八条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　造成敷地等の処分及び管理等</SectionTitle>
+          <ArticleRange>（第十九条―第二十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　補則</SectionTitle>
+          <ArticleRange>（第二十六条の二―第三十条の三）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <ArticleRange>（第三十一条―第三十五条の三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <ArticleRange>（第三十六条―第四十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、首都圏の建設とその秩序ある発展に寄与するため、近郊整備地帯内及び都市開発区域内における宅地の造成その他近郊整備地帯及び都市開発区域の整備に関し必要な事項を定め、近郊整備地帯において計画的に市街地を整備し、及び都市開発区域を<span>工業都市{'物件': 1}</span>、住居都市その他の都市として発展させることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「近郊整備地帯」とは、首都圏整備法（昭和三十一年法律第八十三号。以下「法」という。）第二十四条第一項の規定により指定された<span>区域{'浸水': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「都市開発<span>区域{'事業': 1}</span>」とは、法第二十五条第一項の<span>規定{'形成': 1}</span>により指定された区域をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「近郊整備地帯整備計画」又は「都市開発区域整備計画」とは、それぞれ近郊整備地帯又は都市開発区域の整備に関する事項についての法第<span>二条{'一条': 1}</span>第二項に規定する首都圏整備計画をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「製造工場等」とは、製造業（物品の加工修理業を含む。）又は電気供給業若しくは<span>ガス{'物件': 1}</span><span>供給{'物件': 1}</span>業に<span>必要{'物件': 1}</span>な<span>工場{'物件': 1}</span>及びその附属施設をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「工業団地<span>造成{'整備': 1}</span>事業」とは、近郊整備地帯内又は<span>都市{'市街地': 1}</span>開発区域内において、都市計画法（昭和四十三年法律第百号）及びこの法律で定めるところに従つて行われる、<span>製造工場{'経過': 1}</span>等の敷地の造成及びその敷地と併せて整備されるべき<span>道路{'形成': 1}</span>、<span>排水{'月割': 1}</span><span>施設{'部分': 1}</span>、<span>鉄道{'形成': 1}</span>、倉庫その他の<span>施設{'物件': 1}</span>の敷地の造成又はそれらの施設の<span>整備{'事由': 1}</span>に関する<span>事業{'物件': 1}</span>並びにこれに附帯する事業（造成された敷地又は<span>整備{'物件': 1}</span>された施設の<span>処分{'事由': 1}</span>及び<span>管理{'物件': 1}</span>に関するものを除く。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「造成敷地等」とは、工業団地造成事業により造成された敷地及び整備された<span>施設{'使用': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「造成工場敷地」とは、工業団地造成事業により造成された製造工場等の敷地をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律で「公共施設」とは、道路、下水道その他政令で定める公共の<span>用{'物件': 1}</span>に供する<span>施設{'部分': 1}</span>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（近郊整備地帯等の都市計画）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">都市計画法第五条第三項又は第四項後段の<span>規定{'物件': 1}</span>にかかわらず、都市開発<span>区域{'事業': 1}</span>による<span>都市計画区域{'教育委員': 1}</span>の指定に関しては、関係市町村の意見はきくことを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、法第二十二条第一項又は第二十三条第一項の規定により近郊整備地帯整備計画又は都市開発<span>区域{'浸水': 1}</span>整備計画の<span>決定{'概要': 1}</span>又は変更をしたときは、速やかに当該近郊整備地帯整備計画又は都市開発区域整備計画に従つて<span>都市計画法{'概要': 1}</span>の規定による都市計画を定めるように努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">都県又は市町村は、法第二十二条第三項（法第二十三条第二項において準用する場合を含む。）の規定により近郊整備地帯整備計画又は都市開発区域整備計画の送付を受けたときは、速やかに当該近郊整備地帯整備計画又は都市開発区域整備計画に従つて<span>都市計画法{'概要': 1}</span>の規定による都市計画を定めるように努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　工業団地造成事業等</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　工業団地造成事業</SectionTitle>
+          <Article Delete="false" Hide="false" Num="3_2">
+            <ArticleCaption>（工業団地造成事業に係る市街地開発事業等予定区域に関する都市計画）</ArticleCaption>
+            <ArticleTitle>第三条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">都市計画法第十二条の二第二項の規定により工業団地造成事業に係る市街地開発事業等予定<span>区域{'清掃': 1}</span>について都市計画に定めるべき区域は、次の各号に掲げる<span>条件{'一体': 1}</span>に<span>該当{'した': 1}</span>する<span>土地{'浸水': 1}</span>の<span>区域{'物件': 1}</span>でなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">次に<span>掲げる{'示す': 1}</span><span>区域{'公告': 1}</span>内にあつて、それぞれ当該区域の整備発展の<span>中核{'物件': 1}</span>となるべき相当規模の区域であること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">近郊整備地帯内において工業市街地として整備することが適当な区域</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>工業都市{'物件': 1}</span>として発展させることが適当な都市開発区域</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号イの区域については近郊整備地帯整備計画が、同号ロの区域については当該都市開発<span>区域{'浸水': 1}</span>に係る都市開発<span>区域{'事業': 1}</span>整備計画が<span>整備{'概要': 1}</span>されていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該区域内において<span>建築物{'物件': 1}</span>の敷地として利用されている土地がきわめて少ないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">都市計画法第八条第一項第一号の工業専用地域内にあること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国土交通大臣は、工業団地造成事業に係る市街地開発事業等予定<span>区域{'年月日': 1}</span>に関する都市計画を定め、又はその<span>決定{'物件': 1}</span>若しくは変更に同意しようとするときは、あらかじめ、工業<span>立地{'物件': 1}</span>上の観点からする経済産業大臣の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（工業団地造成事業に関する都市計画）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">都市計画法第十二条第二項の規定により<span>工業団地{'物件': 1}</span>造成事業について<span>都市計画{'政令': 1}</span>に定めるべき施行区域は、<span>前条{'次': 1}</span>第一項各号に掲げる条件に<span>該当{'した': 1}</span>する<span>土地{'当該': 1, '浸水': 1}</span>の区域でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前条第二項の規定は、国土交通大臣が<span>工業団地{'市町村': 1}</span>造成事業に関する都市計画を定め、又はその<span>決定{'物件': 1}</span>若しくは変更に同意しようとする場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業に関する都市計画においては、都市計画法第十二条第二項に定める事項のほか、公共施設の<span>配置{'物件': 1}</span>及び規模並びに宅地（<span>工業団地{'物件': 1}</span>造成事業により造成される敷地のうち公共施設の<span>用{'物件': 1}</span>に供する<span>土地{'部分': 1}</span>を除く。）の利用計画を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業に関する都市計画は、次の各号に掲げるところに従つて定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>道路{'公共': 1}</span>、<span>下水道{'都市計画': 1}</span>その他の<span>施設{'台帳': 1}</span>に関する都市計画が<span>定め{'物件': 1}</span>られている<span>場合{'形成': 1}</span>においては、その都市計画に適合するように定めること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該区域が製造工場等の生産能率が十分に発揮されるよう適切な配置及び規模の道路、排水<span>施設{'場所': 1}</span>、公園又は緑地その他の施設を備えた工業団地となるように定めること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（工業団地造成事業の施行）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業は、<span>都市計画{'施行': 1}</span>事業として施行する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（施行者）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業は、地方公共団体が施行する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>削除{'物件': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>削除{'物件': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>削除{'物件': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>削除{'物件': 1}</span></Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　施行計画及び処分管理計画</SectionTitle>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（施行計画）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者（工業団地造成事業を施行する者をいう。以下同じ。）は、国土交通省令で定めるところにより、工業団地造成事業に関する施行計画（以下「施行計画」という。）を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">施行者は、施行計画を定めたときは、国土交通省令で定めるところにより、これを<span>都県{'公告': 1}</span>にあつては国土交通大臣に、その他の者にあつては都県知事に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">施行計画を変更したときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者は、施行計画を<span>定め{'事由': 1}</span>、又は<span>変更{'物件': 1}</span>しようとするときは、あらかじめ、施行<span>計画{'事由': 1}</span>又はその<span>変更{'物件': 1}</span>に<span>関係{'事情': 1}</span>のある公共施設の<span>管理者{'物件': 1}</span>又は<span>管理{'起算': 1}</span>者となるべき者その他<span>政令{'国土交通省令': 1}</span>で定める者に<span>協議{'存': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18_2">
+            <ArticleCaption>（処分管理計画）</ArticleCaption>
+            <ArticleTitle>第十八条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者は、国土交通省令で定めるところにより、造成敷地等の<span>処分{'場所': 1}</span>及び管理に関する計画（以下「<span>処分{'概要': 1}</span>管理計画」という。）を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者は、<span>処分{'公募': 1}</span>管理計画を<span>定め{'概要': 1}</span>たときは、国土交通省令で定めるところにより、これを国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国土交通大臣{'市町村長': 1}</span>は、前項の届出が<span>あつ{'命じよ': 1}</span>た場合においては、関係行政機関の長の意見をきき、この法律及び近郊整備地帯整備計画又は当該都市開発<span>区域{'事業': 1}</span>に係る都市開発<span>区域{'事業': 1}</span>整備計画の<span>趣旨{'概要': 1}</span>に照らして必要があると認めるときは、当該処分管理計画の<span>変更{'概要': 1}</span>を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定は、施行者又は<span>施行{'物件': 1}</span>者であつた者が処分管理<span>計画{'物件': 1}</span>を<span>変更{'概要': 1}</span>した場合に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前条第三項の規定は、処分管理計画を<span>定め{'概要': 1}</span>、又は変更しようとする場合に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　造成敷地等の処分及び管理等</SectionTitle>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（工事の完了の公告）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者は、製造工場等の敷地の造成に関する工事（施行計画で特に定める<span>工事{'施行': 1}</span>を除く。）を完了したときは、遅滞なく、その旨を都県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">都県知事は、前項の届出があつた場合において、その届出に係る工事が施行<span>計画{'方法': 1}</span>に<span>適合{'概要': 1}</span>していると認めたときは、遅滞なく、当該工事が完了した旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（造成敷地等の処分及び管理）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>施行{'物件': 1}</span>者であつた者は、<span>造成{'経過': 1}</span>敷地等をこの<span>法律{'場所': 1}</span>及び処分<span>管理{'概要': 1}</span>計画に従つて処分し、又は管理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者がこの<span>法律{'前項': 1}</span>の規定により行う<span>造成{'経過': 1}</span><span>敷地{'物件': 1}</span>等の<span>処分{'物件': 1}</span>については、<span>地方公共団体{'使用': 1}</span>の財産の処分に関する法令の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20_2">
+            <ArticleCaption>（工業団地造成事業の施行により設置された公共施設の管理）</ArticleCaption>
+            <ArticleTitle>第二十条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><span>工業団地{'施行': 1}</span>造成事業の施行により公共施設が設置された<span>場合{'物件': 1}</span>においては、その<span>公共施設{'物件': 1}</span>は、第十<span>九条{'物件': 1}</span>第二項の<span>公告{'物件': 1}</span>の日の<span>翌日{'存': 1}</span>において、その<span>公共施設{'概要': 1}</span>の<span>存{'旨': 1}</span>する<span>市町村{'物件': 1}</span>の<span>管理{'所有': 1}</span>に属するものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、他の法律に基づき<span>管理{'物件': 1}</span>すべき者が別に<span>ある{'でき': 1}</span>とき、又は<span>処分{'物件': 1}</span>管理<span>計画{'協定': 1}</span>に特に<span>管理{'旨': 1}</span>すべき者の<span>定め{'形成': 1}</span>があるときは、それらの者の管理に属するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者は、第十<span>九条{'規定': 1}</span>第二項の公告の日以前においても、公共施設に関する工事が完了した場合においては、前項の規定にかかわらず、その公共施設を管理すべき者にその管理を引き継ぐことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者は、第十九条第二項の公告の日の翌日において、公共施設に関する<span>工事{'物件': 1}</span>が完了していない場合においては、第一項の規定にかかわらず、その<span>工事{'施行': 1, '物件': 1}</span>が完了したときにおいて、その公共施設を管理すべき者にその管理を引き継ぐことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">公共施設を管理すべき者は、前二項の規定により施行者又は施行者であつた者からその公共施設について管理の<span>引継ぎ{'物件': 1}</span>の申出があつた場合においては、その公共施設に関する工事が施行計画に適合しない場合のほか、その引継ぎを拒むことができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20_3">
+            <ArticleCaption>（公共施設の用に供する土地の帰属）</ArticleCaption>
+            <ArticleTitle>第二十条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業の施行により、従前の公共施設に代えて新たな<span>公共施設{'物件': 1}</span>が<span>設置{'使用': 1}</span>されることとなる<span>場合{'存': 1}</span>においては、<span>従前{'存': 1}</span>の<span>公共施設{'公共': 1}</span>の<span>用{'物件': 1}</span>に<span>供{'権利': 1}</span>していた<span>土地{'部分': 1}</span>で<span>国又{'所有者': 1, '物件': 1}</span>は<span>地方公共団体{'物件': 1}</span>が<span>所有{'物件': 1}</span>するものは、第十九条第二項の公告の日の<span>翌日{'存': 1}</span>において施行者であつた者に<span>帰属{'方法': 1}</span>するものとし、これに代わるものとして処分管理<span>計画{'構成': 1}</span>で定める<span>新た{'旨': 1}</span>な<span>公共施設{'存': 1}</span>の用に<span>供する{'立ち入ろ': 1}</span><span>土地{'部分': 1}</span>は、その日において<span>それぞれ{'物件': 1}</span>国又は当該地方公共団体に帰属するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業の施行により設置された公共施設の<span>用{'物件': 1}</span>に<span>供する{'つき': 1}</span><span>土地{'部分': 1}</span>は、<span>前項{'物件': 1}</span>に<span>規定{'物件': 1}</span>するもの及び<span>処分{'物件': 1}</span>管理<span>計画{'物件': 1}</span>で<span>特別{'概要': 1}</span>の<span>定め{'つき': 1}</span>をしたものを除き、第十<span>九条{'存': 1}</span>第二項の<span>公告{'物件': 1}</span>の日の翌日において、当該<span>公共施設{'形成': 1}</span>を<span>管理{'物件': 1}</span>すべき者（その者が地方自治法（昭和二十二年<span>法律{'存': 1}</span>第六十七号）第二条第九項第一号に規定する<span>第一{'物件': 1}</span>号<span>法定受託事務{'該当': 1}</span>（以下単に「<span>第一{'物件': 1}</span>号法定受託事務」と<span>いう{'示す': 1}</span>。）として<span>当該{'旨': 1}</span><span>公共施設{'建造': 1}</span>を<span>管理{'物件': 1}</span>する地方公共団体であるときは、国）に帰属するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（造成工場敷地の譲受人の公募）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>施行{'拡大': 1}</span>者であつた者は、造成<span>工場{'物件': 1}</span><span>敷地{'物件': 1}</span>について、国土交通省令で<span>定める{'用い': 1}</span>ところにより、その<span>譲受人{'物件': 1}</span>を<span>公募{'価額': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（造成工場敷地の譲受人の資格）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">造成工場<span>敷地{'物件': 1}</span>の<span>譲受人{'場所': 1}</span>は、少なくとも、次の各号に掲げる条件を<span>備え{'示す': 1}</span>た者でなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'存': 1}</span>造成工場敷地において自ら製造工場等を経営しようとする者であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">製造工場等の建設及び経営に必要な資力及び<span>信用{'物件': 1}</span>を<span>有する{'でき': 1}</span>者であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>譲渡{'価額': 1}</span>の<span>対価{'価額': 1}</span>の<span>支払{'物件': 1}</span><span>能力{'物件': 1}</span>がある者であること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（造成工場敷地の譲受人の選考）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>施行{'価額': 1}</span>者であつた者は、造成<span>工場{'前': 1}</span>敷地の譲受人を、公正な方法で選考して決定するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、製造工場等の敷地を当該工業団地造成事業に<span>必要{'施行': 1}</span>な土地として提供した者に対しては、その他の者に<span>優先{'存': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（製造工場等の建設）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者から造成工場敷地を譲り受けた者は、国土交通省令で定めるところにより製造工場等の建設の工期、工事概要等に関する計画を定めて、施行者であつた者の承認を受け、当該計画に従つて製造工場等を建設しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者から造成工場敷地を<span>譲り受け{'つき': 1}</span>た者が前項の規定により承認を受けた計画を<span>変更{'物件': 1}</span>しようとする場合において、変更に係る事項が国土交通省令で定める軽微なものであるときは、同<span>項{'変更': 1}</span>の規定による承認を要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>施行{'物件': 1}</span>者であつた者は、第一項の<span>規定{'経過': 1}</span>に違反した者に対して、<span>造成{'物件': 1}</span><span>工場{'物件': 1}</span><span>敷地{'物件': 1}</span>の<span>譲渡{'物件': 1}</span><span>契約{'部分': 1}</span>を解除することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption>（造成工場敷地に関する権利の処分の制限）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第十九条第二項の<span>公告{'物件': 1}</span>の日の翌日から起算して十年間は、<span>造成{'存': 1}</span>工場敷地の所有権、地上権、<span>質権{'物件': 1}</span>、使用貸借による権利又は賃借権その他の使用及び<span>収益{'物件': 1}</span>を<span>目的{'浸水': 1}</span>とする<span>権利{'浸水': 1}</span>の<span>設定{'物件': 1}</span>又は<span>移転{'事業': 1}</span>については、国土交通省令で定めるところにより、<span>当事者{'存': 1}</span>が施行者であつた者の長の承認を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに<span>掲げる{'命じよ': 1}</span>場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>相続{'該当': 1}</span>その他の一般承継により<span>当該{'物件': 1}</span>権利が移転する場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">滞納処分、強制執行、担保権の実行としての競売（その例による競売を含む。）又は企業担保権の実行により当該権利が移転する場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">土地収用法（昭和二十六年<span>法律{'物件': 1}</span>第二百十九号）その他の法律により当該造成工場敷地が<span>収用{'物件': 1}</span>され、又は使用される場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する承認には、造成工場敷地の<span>製造工場{'物件': 1}</span>等の敷地としての合理的な利用を確保するため必要な条件を<span>附する{'でき': 1}</span>ことができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、その条件は、当該承認を受けた者に不当な<span>義務{'物件': 1}</span>を課するものであつてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption>（造成工場敷地を表示した図書の備置き等）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>施行{'物件': 1}</span>者であつた者は、第十九条第二項の公告があつたときは、造成<span>工場{'物件': 1}</span><span>敷地{'事由': 1}</span>の<span>存する{'つき': 1}</span><span>市町村{'使用': 1}</span>の長に対し、<span>国土交通省令{'政令': 2}</span>で定めるところにより、<span>当該{'存': 1}</span>造成<span>工場{'物件': 1}</span>敷地の<span>存する{'用い': 1}</span><span>区域{'物件': 1}</span>を<span>表示{'物件': 1}</span>した<span>図書{'事由': 1}</span>を送付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の図書の送付を受けた市町村長は、第十九条第二項の公告の日の<span>翌日{'物件': 1}</span>から起算して十年間、その図書を当該市町村の役場に備え置いて、関係人の請求があつたときは、これを閲覧させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者は、国土交通省令で定めるところにより、第十九条第二項の公告の日の翌日から起算して十年間、工業団地造成事業を施行した土地の区域内の<span>見{'定める': 1}</span>やすい場所に、工業団地造成事業を施行した土地である旨を表示した<span>標識{'物件': 1}</span>を<span>設置{'使用': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>何人{'物件': 1}</span>も、前項の<span>規定{'各階平面図': 1}</span>により設けられた<span>標識{'物件': 1}</span>を<span>設置{'した': 1}</span>者の<span>承諾{'物件': 1}</span>を<span>得{'設ける': 1}</span>ないで<span>移転{'占有者': 1}</span>し、若しくは<span>除{'した': 1}</span><span>却{'物件': 1}</span>し、又は汚損し、若しくは損壊してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　補則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="26_2">
+            <ArticleCaption>（測量のための標識の設置）</ArticleCaption>
+            <ArticleTitle>第二十六条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>工業団地{'市町村': 1, '物件': 1}</span>造成事業を施行しようとする者又は施行者は、工業団地造成事業の施行の準備又は施行に必要な測量を行なうため必要がある場合においては、国土交通省令で定める<span>標識{'存': 1}</span>を<span>設ける{'つき': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>何人{'物件': 1}</span>も、前項の規定により設けられた<span>標識{'物件': 1}</span>を<span>設置{'した': 1}</span>者の<span>承諾{'物件': 1}</span>を<span>得{'設ける': 1}</span>ないで<span>移転{'占有者': 1}</span>し、若しくは<span>除{'した': 1}</span><span>却{'物件': 1}</span>し、又は汚損し、若しくは損壊してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_3">
+            <ArticleCaption>（関係簿書の閲覧等）</ArticleCaption>
+            <ArticleTitle>第二十六条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>工業団地{'市町村': 1, '物件': 1}</span>造成事業を施行しようとする者又は施行者は、工業団地造成事業の施行の準備又は施行のため必要がある場合においては、工業団地造成事業を施行しようとする、又は施行する土地を管轄する登記所に対し、又はその他の官公署の長に対し、無償で必要な簿書の閲覧若しくは<span>謄写{'物件': 1}</span>又はその謄本若しくは抄本若しくは登記事項証明書の交付を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_4">
+            <ArticleCaption>（建築物等の収用の請求）</ArticleCaption>
+            <ArticleTitle>第二十六条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業につき都市計画法第六十九条の規定により適用される土地収用法の規定により土地又は権利が<span>収用{'使用': 1}</span>される場合において、権原により<span>当該{'物件': 1}</span>土地又は当該<span>権利{'存': 1}</span>の<span>目的{'権利': 1}</span>である<span>土地{'権利': 1}</span>に<span>建築物{'権利': 1}</span>その他の<span>土地{'物件': 1}</span>に定着する工作物を所有する者は、その工作物の<span>収用{'物件': 1}</span>を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">土地収用法第八十七条の規定は、前項の規定による収用の請求について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption>（費用の負担）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">工業団地造成事業に要する費用は、<span>施行{'一部': 1}</span>者が負担する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27_2">
+            <ArticleCaption>（書類の送付に代わる公告）</ArticleCaption>
+            <ArticleTitle>第二十七条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者又は施行者であつた者は、工業団地造成事業の施行に関し書類を送付する場合において、送付を受けるべき者がその書類の受領を<span>拒ん{'命じよ': 1}</span>だとき、又は過失がなくて、その者の住所、居所その他書類を送付すべき場所を確知することが<span>でき{'証する': 1}</span>ないときは、その書類の内容を<span>公告{'物件': 1}</span>することをもつて書類の送付に代えることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'存': 1}</span>の公告があつた場合においては、その<span>公告{'物件': 1}</span>の日の<span>翌日{'物件': 1}</span>から<span>起算{'概要': 1}</span>して十日を<span>経過{'場合': 1}</span>した日に、当該書類が送付を受けるべき者に到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption>（監督）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国土交通大臣は施行者である都県に対し、都県知事は施行者であるその他の地方公共団体に対し、それぞれ、それらの者が定めた施行計画又はそれらの者が行う工事が、この法律、この法律に基づく命令若しくは<span>工業団地{'物件': 1}</span>造成事業である都市計画事業の内容又は施行計画に従つていないと認める場合においては、工業団地造成事業の適正な施行を確保するため<span>必要{'物件': 1}</span>な限度において、施行計画の変更又は工事の中止若しくは<span>変更{'物件': 1}</span>その他必要な措置を<span>講ず{'でき': 1}</span>べきことを求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者である<span>地方公共団体{'方法': 1}</span>は、前項の規定による<span>要求{'勧告': 1}</span>を<span>受け{'命ずる': 1}</span>たときは、当該<span>施行{'構成': 1}</span>計画の変更又は<span>当該{'物件': 1}</span>工事の中止若しくは<span>変更{'した': 1}</span>その他必要な<span>措置{'負担': 1}</span>を<span>講じ{'でき': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国土交通大臣は、第二十一条から第二十三条までの規定に違反する譲受人の決定又は<span>違法{'部分': 1}</span>若しくは不当な第二十五条の規定に基づく承認若しくは<span>不承認{'した': 1}</span>の処分が行われたときは、造成工場敷地の<span>適正{'概要': 1}</span>な<span>処分{'物件': 1}</span>及び<span>管理{'形成': 1}</span>を<span>確保{'形成': 1}</span>するため<span>必要{'部分': 1}</span>な限度において、施行者であつた者に対し、造成工場敷地の処分の<span>差止め{'物件': 1}</span>を求め、又は承認若しくは不承認の処分を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">施行者であつた者は、前項の規定による要求を受けたときは、当該処分を差し止めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleCaption>（報告、勧告等）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国土交通大臣は施行者に対して、都県知事は施行者である市町村に対して、それぞれその施行する工業団地造成事業の施行に関し、この法律の施行のため<span>必要{'経過': 1}</span>な<span>限度{'経過': 1}</span>において、<span>報告{'経過': 1}</span>若しくは資料の提出を求め、又は<span>工業団地{'物件': 1}</span>造成事業の施行の促進を図るため必要な<span>勧告{'使用': 1}</span>、助言若しくは<span>援助{'勧告': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国土交通大臣{'存': 1}</span>は施行者若しくはその<span>長又{'存': 1}</span>は施行者であつた者若しくはその長に対して、都<span>県知事{'存': 1}</span>は施行者である、若しくは施行者であつた市町村又はその<span>長{'物件': 1}</span>に対して、<span>それぞれ{'存': 1}</span>その行う造成敷地等の<span>処分{'物件': 1}</span>及び管理に関し、この<span>法律{'処分': 1}</span>の施行のため必要な限度において、報告若しくは<span>資料{'意匠': 1}</span>の<span>提出{'浸水': 1}</span>を求め、又は<span>造成{'物件': 1}</span><span>敷地{'概要': 1}</span>等の<span>処分{'場所': 1}</span>及び<span>管理{'物件': 1}</span>を<span>適正{'処分': 1, '方法': 1}</span>に<span>行わ{'示す': 1}</span>せるため<span>必要{'物件': 1}</span>な<span>勧告{'物件': 1}</span>若しくは<span>助言{'物件': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleCaption>（審査請求）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>施行{'した': 1}</span>者であつた者が第二十四条第一項の規定に基づいてした承認又は<span>不承認{'物件': 1}</span>の処分に不服がある者は、国土交通大臣に対して審査請求をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30_2">
+            <ArticleCaption>（不動産登記法の特例）</ArticleCaption>
+            <ArticleTitle>第三十条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>工業団地{'提起': 1}</span>造成事業を施行すべき土地の区域内の土地及び建物の登記については、政令で不動産登記法（平成十六年法律第百二十三号）の特例を<span>定める{'つき': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30_3">
+            <ArticleCaption>（政令への委任）</ArticleCaption>
+            <ArticleTitle>第三十条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この章に特に定めるもののほか、この章の<span>規定{'物件': 1}</span>によりすべき<span>公告{'物件': 1}</span>の<span>方法{'物件': 1}</span>その他この章の規定の<span>実施{'物件': 1}</span>のため必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（国の援助）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、近郊整備地帯整備計画又は都市開発<span>区域{'浸水': 1}</span>整備計画に基づいて土地区画整理事業、工業用水道の布設その他の事業を実施する地方公共団体に対し、必要な資金の確保その他の援助に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（宅地の造成等についての配慮）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体が近郊整備地帯整備計画又は都市開発区域整備<span>計画{'物件': 1}</span>に基づいて一<span>団地{'旨': 1}</span>の<span>宅地{'旨': 1}</span>を<span>造成{'物件': 1}</span>する<span>場合{'関係': 1}</span>においては、<span>関係{'存': 1}</span><span>行政機関{'構成': 1}</span>の長は、その<span>宅地{'事由': 1}</span>の<span>造成{'使用': 1}</span>が円滑に遂行されるように配慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体が近郊整備地帯整備計画又は都市開発<span>区域{'浸水': 1}</span>整備計画に基づく事業を実施するために地方公共団体の財政の健全化に関する法律（平成十九年法律第九十四号）第十条第三項の同意を得ている財政再生<span>計画{'使用': 1}</span>を<span>変更{'概要': 1}</span>しようとするときは、総務大臣は、その財政の再生（<span>同法{'物件': 1}</span>第二条第六号に<span>規定{'物件': 1}</span>する<span>財政{'物件': 1}</span>の<span>再生{'使用': 1}</span>をいう。）が<span>合理的{'物件': 1}</span>に達成することができると認める限り、同法第十条第六項の規定による<span>財政{'物件': 1}</span>再生計画の変更の同意に当たつて、これらの事業の実施が確保されるように配慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33_2">
+          <ArticleCaption>（地方税の不均一課税に伴う措置）</ArticleCaption>
+          <ArticleTitle>第三十三条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">低開発地域<span>工業{'集約都市': 1}</span>開発促進法（昭和三十六年<span>法律{'物件': 1}</span>第二百十六号）第五条の<span>規定{'物件': 1}</span>その他政令で定める法律の規定が<span>適用{'物件': 1}</span>される場合を除き、<span>地方税法{'物件': 1}</span>（昭和二十五年法律第二百二十六号）第六条の規定により、政令で<span>定める{'示す': 1}</span><span>地方公共団体{'存': 1}</span>が、<span>都市{'経過': 1}</span>開発区域内において製造の事業の用に供する設備を<span>新設{'物件': 1}</span>し、又は増設した者について、その<span>事業{'物件': 1}</span>に係る<span>工場{'物件': 1}</span>用の建物若しくはその敷地である土地の取得に対する<span>不動産取得税{'物件': 1}</span>又はその事業に係る機械及び装置若しくはその<span>事業{'物件': 1}</span>に係る<span>工場{'物件': 1}</span>用の建物若しくはその敷地である土地に対する固定資産税に係る不<span>均一{'物件': 1}</span>の課税をした場合において、これらの措置が<span>政令{'総務省令': 1}</span>で定める場合に該当するものと認められるときは、<span>地方交付税法{'文化財保護法': 1}</span>（昭和二十五年法律第二百十一号）第十四条の規定による当該地方公共団体の各年度における基準財政収入額は、同条の規定にかかわらず、当該地方公共団体の当該各<span>年度{'物件': 1}</span>分の減収額（固定資産税に関するこれらの措置による減収額にあつては、これらの措置がなされた最初の年度以降三箇年度におけるものに限る。）のうち総務省令で定めるところにより算定した額を同条の規定による当該地方公共団体の当該各年度（これらの措置が総務省令で定める日以後において<span>行なわ{'行わ': 1}</span>れたときは、当該減収額について当該各年度の翌年度）における基準財政収入額となるべき額から控除した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（国有財産の売払代金等の特約）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">各省各庁の長（国有財産法（昭和二十三年法律第七十三号）第四条第二項に規定する各省各庁の長をいう。以下この<span>条{'当該': 1}</span>において同じ。）は、近郊整備地帯内又は都市開発区域内において政令で定める製造業（物品の<span>加工{'地域': 1}</span>修理業を含む。）又は電気供給業若しくは<span>ガス{'物件': 1}</span><span>供給{'物件': 1}</span>業を営む者に対し、その<span>事業{'物件': 1}</span>に<span>必要{'物件': 1}</span>な工場又は政令で定めるその他の施設の用に供するため普通財産である国有財産を譲渡する場合において、近郊整備地帯整備計画又は当該都市開発<span>区域{'事業': 1}</span>に係る都市開発<span>区域{'事業': 1, '浸水': 1}</span>整備計画に照らして適当であると認められるときは、その売払代金又は交換差金について、確実な担保を徴し、かつ、利息を附して、十年以内の延納の特約をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">各省各庁の長は、前項の規定により延納の特約をしようとするときは、延納期限、担保及び利率について、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">各省各庁の長は、第一項の規定により延納の特約をした場合において、当該財産の譲渡を受けた者のする管理が適当でないと認めるときは、ただちにその特約を解除しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（鉄道又は軌道の敷設等のための資金のあつせん）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、一般公衆の利用に供する鉄道又は軌道で近郊整備地帯又は都市開発区域を育成<span>発展{'周辺': 1}</span>させるため<span>必要{'物件': 1}</span>であると認められるものを敷設する者に対し、必要な資金のあつせんに努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、近郊整備地帯内又は都市開発区域内における工場その他の施設の新設又は増設で近郊整備地帯整備計画又は当該都市開発<span>区域{'事業': 1, '浸水': 1}</span>に係る都市開発<span>区域{'事業': 1}</span>整備計画に照らして適当であると認められるものをする者に対し、必要な資金の<span>あつせ{'高い': 1}</span>んに努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35_2">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第三十五条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35_3">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第三十五条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第十九条第二項の規定により<span>都県{'特別区': 1}</span>が処理することとされている事務（都県が施行する工業団地造成事業に係るものに限る。）は、第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十六条第二項の規定により市町村が処理することとされている事務（都県が造成した造成工場敷地に係るものに限る。）は、<span>地方自治法{'部分': 1}</span>第二条第九項第二号に<span>規定{'物件': 1}</span>する第二号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（罰則）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十四条第一項の規定に違反して、造成工場敷地を<span>製造工場{'周辺': 1}</span>等の建設以外の目的に使用した者は、一年以下の懲役又は十万円以下の<span>罰金{'盛土': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>次{'した': 1}</span>の各号の一に<span>該当{'違反': 1}</span>する者は、<span>六月{'法人': 1}</span>以下の<span>懲役{'した': 1}</span>又は三万円以下の<span>罰金{'浸水': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十四条第一項の<span>規定{'該当': 1}</span>に<span>違反{'勧告': 1}</span>して、<span>計画{'負担': 1}</span>の<span>承認{'概要': 1}</span>を受ける手続をせず、又は承認を受けた計画に従つて製造工場等を建設しなかつた者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十五条第一項の規定に違反して、同項に掲げる<span>権利{'該当': 1}</span>の設定又は<span>移転{'物件': 1}</span>につき<span>承認{'物件': 1}</span>を受けないで、造成工場敷地を権利者に引き渡した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十五条第二項の規定により附した条件に<span>違反{'した': 1}</span>した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十六条第四項又は第二十六条の二第二項の<span>規定{'物件': 1}</span>に違反して、第二十六条第三項又は第二十六条の二第一項の規定による<span>標識{'した': 1}</span>を<span>移転{'違反': 1}</span>し、<span>除{'浸水': 1}</span><span>却{'前': 1}</span>し、汚損し、又は<span>損壊{'物件': 1}</span>した者は、三万円以下の<span>罰金{'浸水': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="39">
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二十五条第一項の<span>承認{'該当': 1}</span>について<span>虚偽{'各階平面図': 1}</span>の<span>申請{'した': 1}</span>をした者は、十万円以下の<span>過料{'罰金': 1, '負担': 1}</span>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人{'該当': 1}</span>の<span>代表者{'した': 1}</span>又は<span>法人{'物件': 1}</span>若しくは<span>人{'した': 1}</span>の<span>代理人{'物件': 1}</span>、<span>使用人{'物件': 1}</span>その他の<span>従業者{'した': 1}</span>が、その<span>法人{'した': 1}</span>又は<span>人{'物件': 1}</span>の<span>業務{'物件': 1}</span>又は<span>財産{'物件': 1}</span>に関し、第三十六条又は第三十七条の違反行為をしたときは、<span>行為{'した': 1}</span>者を<span>罰する{'つき': 1}</span><span>ほか{'物件': 1}</span>、その<span>法人{'物件': 1}</span>又は<span>人{'物件': 1}</span>に対して各<span>本条{'物件': 1}</span>の<span>罰金刑{'物件': 1}</span>を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三五年六月三〇日法律第一一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、昭和三十五年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（経過規定）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前のそれぞれの法律の規定により内閣総理大臣若しくは自治庁長官がし、又は国家消防本部においてした許可、認可その他これらに準ずる処分は、この法律による改正後のそれぞれの法律の相当規定に基づいて、自治大臣がし、又は消防庁においてした許可、認可その他これらに準ずる処分とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前のそれぞれの法律の規定により内閣総理大臣若しくは自治庁長官又は国家消防本部に対してした許可、認可その他これらに準ずる処分の申請、届出その他の行為は、この法律による改正後のそれぞれの法律の相当規定に基づいて、自治大臣又は消防庁に対してした許可、認可その他これらに準ずる処分の申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年五月一六日法律第一三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>改正{'附則': 1}</span>後の第三十条の規定は、行政不服審査法の<span>施行{'規定': 1, '物件': 1}</span>の日から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四〇年六月二九日法律第一三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、<span>公布{'当該': 1}</span>の日から起算して一年を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">略</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">第二条中首都圏市街地開発区域整備法の<span>題名{'物件': 1}</span>並びに同法第一条から第三条まで、第四条第一項第一号及び第二号<span>並び{'物件': 1}</span>に第三十一条から第三十五条までの改正規定（第三十三条の次に<span>一条{'物件': 1}</span>を加える改正規定を含み、<span>第三条{'物件': 1}</span>に二項を加える改正<span>規定{'事由': 1}</span>及び第三十五条の次に<span>一条{'物件': 1}</span>を加える改正規定を除く。）</Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical"><span>首都圏整備委員会{'起算': 1}</span>は、前項ただし書の政令で定める日前においても、同<span>項{'事由': 1}</span>第一号及び第二号に掲げる規定による改正後の規定の施行の準備のため必要な限度において、近郊整備地帯及び都市開発区域の指定並びに首都圏整備計画の改定のため必要な手続その他の行為を改正後の規定の<span>例{'物件': 1}</span>によりすることができる。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、従前の市街地開発<span>区域{'開発': 1}</span>の<span>区域{'存': 1}</span>により都市開発<span>区域{'事業': 1, '集約': 1}</span>を指定し、かつ、当該都市開発<span>区域{'事業': 1}</span>に係る整備計画を<span>当該{'概要': 1}</span>市街地<span>開発{'集約': 1}</span>区域に係る整備計画と同一の内容に定めようとするときは、首都圏整備委員会規則の定めるところにより、その旨を告示すれば足りるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行の際現に施行されている<span>工業団地{'物件': 1}</span>造成事業については、この法律による改正後の首都圏の近郊整備地帯及び都市開発区域の整備に関する法律第十四条の二から第十四条の四までの規定は、適用せず、また、政令で、同法中事業計画及び処分管理計画に関する規定並びに工業団地造成事業の施行により公共施設が設置された<span>場合{'物件': 1}</span>の公共施設の<span>管理{'物件': 1}</span>及び公共施設の<span>用{'物件': 1}</span>に供する<span>土地{'物件': 1}</span>の<span>帰属{'同法': 1, '物件': 1}</span>に関する<span>規定{'事項': 1, '物件': 1}</span>を適用しない旨を<span>定め{'提起': 1}</span>、又はこれらの<span>規定{'物件': 1}</span>の<span>特例{'政令': 1}</span>を定めることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四一年六月三〇日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四二年七月二一日法律第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律（第一条を除く。）は、改正法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四三年六月一五日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律（第一条を除く。）は、新法の<span>施行{'物件': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四五年六月一日法律第一〇九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四九年六月一日法律第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四九年六月一日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を<span>こえ{'超え': 2}</span>ない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前にした<span>行為{'経過': 1}</span>に対する罰則の適用については、なお<span>従前{'提起': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四九年六月二六日法律第九八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>は、<span>公布{'物件': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="53">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第五十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前の国土総合開発法、首都圏整備法、首都圏の近郊整備地帯及び都市開発区域の整備に関する法律、首都圏の既成市街地における工業等の制限に関する法律、首都圏近郊緑地保全法、筑波研究学園都市建設法、近畿圏整備法、近畿圏の既成都市区域における工場等の制限に関する法律、近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律、近畿圏の保全区域の整備に関する法律、琵琶湖総合開発特別措置法、中部圏開発整備法、新産業都市建設促進法、過疎地域対策緊急措置法、奄美群島振興開発特別措置法、小笠原諸島復興特別措置法、奄美群島振興特別措置法及び小笠原諸島復興特別措置法の一部を改正する法律、小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律、防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律、地価公示法、不動産の鑑定評価に関する法律（不動産鑑定士特例試験及び不動産鑑定士補特例試験に関する法律において準用する場合を含む。）又は水資源開発公団法（以下「国土総合開発法等」と総称する。）の規定により国の機関がした許可、<span>承認{'した': 1}</span>、<span>指定{'負担': 1}</span>その他の<span>処分{'事由': 1}</span>又は通知その他の行為は、この法律による改正後の国土総合開発法等の相当規定に基づいて、相当の国の機関がした許可、<span>承認{'した': 1}</span>、<span>指定{'負担': 1}</span>その他の<span>処分{'事由': 1}</span>又は<span>通知{'物件': 1}</span>その他の<span>行為{'提起': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'存': 1}</span>の<span>施行{'物件': 1}</span>の際現にこの法律による改正前の国土総合開発法等の規定により国の機関に対してされている申請、届出その他の行為は、この法律による改正後の国土総合開発法等の相当規定に基づいて、相当の国の機関に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="54">
+        <ArticleTitle>第五十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'存': 1}</span>の施行の際現に効力を有する<span>首都圏整備委員会{'物件': 1}</span>規則、建設省令又は自治省令で、この法律による改正後の国土総合開発法等の規定により総理府令で定めるべき事項を定めているものは、この法律の施行後は、総理府令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="55">
+        <ArticleTitle>第五十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">従前の首都圏整備委員会の首都圏整備審議会及びその委員、建設省の土地鑑定委員会並びにその委員長、委員及び試験委員、自治省の奄美群島振興開発審議会並びにその会長及び委員並びに自治省の小笠原諸島復興審議会並びにその会長、委員及び特別委員は、それぞれ総理府又は国土庁の相当の機関及び職員となり、同一性をもつて存続するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五〇年六月二五日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、民事執行法（昭和五十四年法律第四号）の施行の日（昭和五十五年十月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律の施行前に申し立てられた民事執行、企業担保権の実行及び破産の事件については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">前項の事件に関し執行官が受ける手数料及び支払又は<span>償還{'物件': 1}</span>を受ける費用の額については、同項の規定にかかわらず、最高裁判所規則の定めるところによる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五六年五月二二日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十一条から第五十五条までの規定は、<span>公布{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年六月一六日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から<span>施行{'起算': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十七条から第七十二条までの規定は、<span>公布{'物件': 1}</span>の日から<span>起算{'物件': 1}</span>して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から<span>施行{'物件': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中地方自治法第二百五十条の次に五条、<span>節名{'物件': 1}</span>並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法<span>附則{'物件': 1}</span>第九項及び第十項の<span>改正{'物件': 1}</span>規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（<span>農業改良助長法{'物件': 1}</span>第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに<span>附則{'物件': 1}</span>第七条、第十条、第十二条、<span>第五{'物件': 1}</span>十九条<span>ただし書{'事由': 1}</span>、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の<span>規定{'起算': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><span>公布{'改正': 1}</span>の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="29">
+        <ArticleCaption>（首都圏の近郊整備地帯及び都市開発区域の整備に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前に第六十条の規定による改正前の首都圏の近郊整備地帯及び都市開発区域の整備に関する法律第二十八条第一項の規定により建設大臣が都県に対してした命令若しくは都県知事がその他の施行者に対してした命令又は同条第二項の規定により国土庁長官が地方公共団体に対してした命令は、<span>それぞれ{'事由': 1}</span>第六十条の規定による改正後の同法第二十八条第二項の規定により建設大臣が都県に対してした要求若しくは都県知事がその他の地方公共団体に対してした要求又は同条第四項の規定により国土庁長官が地方公共団体に対してした要求とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="159">
+        <ArticleCaption>（国等の事務）</ArticleCaption>
+        <ArticleTitle>第百五十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行<span>前{'経過': 1}</span>において、<span>地方公共団体{'使用': 1}</span>の機関が<span>法律{'物件': 1}</span>又はこれに基づく<span>政令{'物件': 1}</span>により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく<span>政令{'物件': 1}</span>により当該<span>地方公共団体{'物件': 1}</span>の<span>事務{'物件': 1}</span>として処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="160">
+        <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律（附則第<span>一条{'事由': 1}</span>各号に掲げる規定については、<span>当該{'物件': 1}</span>各<span>規定{'物件': 1}</span>。以下この<span>条{'物件': 1}</span>及び<span>附則{'物件': 1}</span>第百六十三条において同じ。）の施行前に<span>改正{'提起': 1}</span>前のそれぞれの<span>法律{'物件': 1}</span>の規定によりされた<span>許可{'物件': 1}</span>等の処分その他の<span>行為{'物件': 1}</span>（以下この<span>条{'した': 1}</span>において「処分等の行為」という。）又はこの<span>法律{'物件': 1}</span>の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の<span>申請{'該当': 1}</span>その他の行為（以下この条において「申請等の行為」という。）で、この<span>法律{'存': 1}</span>の施行の日においてこれらの<span>行為{'経過': 1}</span>に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの<span>規定{'物件': 1}</span>又は<span>改正{'物件': 1}</span>後のそれぞれの<span>法律{'物件': 1}</span>（これに基づく<span>命令{'使用': 1}</span>を含む。）の<span>経過{'物件': 1}</span>措置に関する<span>規定{'物件': 1}</span>に定めるものを除き、この<span>法律{'存': 1}</span>の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの<span>法律{'物件': 1}</span>の相当規定によりされた処分等の行為又は<span>申請{'物件': 1}</span>等の<span>行為{'提起': 1}</span>とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に<span>改正{'概要': 1}</span>前のそれぞれの法律の規定により<span>国又{'物件': 1}</span>は<span>地方公共団体{'物件': 1}</span>の機関に対し報告、<span>届出{'物件': 1}</span>、提出その他の<span>手続{'提起': 1}</span>をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、<span>届出{'物件': 1}</span>、提出その他の手続をしなければならない<span>事項{'物件': 1}</span>についてその手続がされていないものとみなして、この<span>法律{'物件': 1}</span>による改正後の<span>それぞれ{'事由': 1}</span>の法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="161">
+        <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた<span>国等{'物件': 1}</span>の事務に係る処分であって、当該処分をした行政庁（以下この<span>条{'提起': 1}</span>において「<span>処分{'台帳': 1}</span>庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる<span>事務{'物件': 1}</span>は、新<span>地方自治法{'物件': 1}</span>第二条第九項第一号に<span>規定{'物件': 1}</span>する<span>第一{'物件': 1}</span>号<span>法定受託事務{'物件': 1}</span>とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="163">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前にした<span>行為{'提起': 1}</span>に対する罰則の適用については、なお<span>従前{'提起': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="164">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>附則{'物件': 1}</span>に<span>規定{'経過': 1}</span>するもののほか、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に伴い<span>必要{'物件': 1}</span>な<span>経過{'物件': 1}</span><span>措置{'従前': 1}</span>（<span>罰則{'物件': 1}</span>に関する<span>経過{'措置': 1}</span><span>措置{'経過': 1}</span>を<span>含む{'命じよ': 1}</span>。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新地方自治法第二条第九項第一号に規定する<span>第一{'物件': 1}</span>号<span>法定受託事務{'物件': 1}</span>については、できる限り<span>新た{'物件': 1}</span>に<span>設ける{'つき': 1}</span>ことのないようにするとともに、新地方自治法<span>別表{'事由': 1}</span>第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な<span>措置{'経過': 1}</span>を<span>講ずる{'命じよ': 1}</span>ものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年<span>一月六日{'物件': 1}</span>から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る<span>部分{'物件': 1}</span>に<span>限る{'つき': 1}</span>。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の<span>規定{'物件': 1}</span></Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月一二日法律第八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'起算': 1}</span>は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年六月二〇日法律第一〇〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成十六年<span>七月一日{'公布': 1}</span>から<span>施行{'起算': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="35">
+        <ArticleCaption>（首都圏の近郊整備地帯及び都市開発区域の整備に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">機構が附則第十二条第一項の規定により行う<span>首都圏の近郊整備地帯及び都市開発区域の整備に関する法律{'物件': 1}</span>第二条第六項の<span>造成{'物件': 1}</span>敷地等及び同条第七項の造成<span>工場{'概要': 1}</span><span>敷地{'概要': 1}</span>の<span>処分{'物件': 1}</span>及び<span>管理{'物件': 1}</span>については、前条の規定による改正前の<span>首都圏の近郊整備地帯及び都市開発区域の整備に関する法律{'物件': 1}</span>（第三十五条の三第一項を除く。）の規定は、この法律の施行後も、なおその効力を有する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第十八条の二第四項及び第二十九条第二項中「、都市基盤整備公団又は地域振興整備公団」とあるのは「又は独立行政法人都市再生機構」と、同法第二十八条第四項中「都市基盤整備公団又は地域振興整備公団」とあるのは「独立行政法人都市再生機構」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に都市公団が<span>造成{'法律': 1}</span>した首都圏の近郊整備地帯及び都市開発区域の整備に関する法律第二条第七項の造成工場敷地について同法第二十六条第二項の規定により<span>市町村{'物件': 1}</span>が<span>処理{'負担': 1}</span>することとされている<span>事務{'金額': 1}</span>については、前条の規定による改正前の<span>首都圏の近郊整備地帯及び都市開発区域の整備に関する法律{'提起': 1}</span>第三十五条の三第一項の規定は、この法律の施行後も、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、新不動産登記法の<span>施行{'法律': 1}</span>の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年七月二九日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して<span>六月{'物件': 1}</span>を超えない範囲内において政令で定める日（以下「施行日」という。）から<span>施行{'物件': 1}</span>する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>次項{'経過': 1}</span>及び附則第二十七条の<span>規定{'物件': 1}</span>は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="27">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この附則に<span>規定{'経過': 1}</span>するもののほか、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に関して必要な<span>経過{'物件': 1}</span>措置は、<span>政令{'物件': 1}</span>で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月二二日法律第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成二十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から<span>施行{'前': 1}</span>する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>行政庁{'経過': 1}</span>の処分その他の<span>行為{'物件': 1}</span>又は<span>不作為{'物件': 1}</span>についての<span>不服申立て{'提起': 1}</span>であってこの法律の施行<span>前{'経過': 1}</span>にされた行政庁の処分その他の<span>行為{'物件': 1}</span>又はこの<span>法律{'物件': 1}</span>の<span>施行{'存': 1}</span><span>前{'経過': 1}</span>にされた申請に係る行政庁の不作為に係るものについては、この<span>附則{'物件': 1}</span>に特別の<span>定め{'使用': 1}</span>がある場合を<span>除き{'示す': 1}</span>、なお従前の<span>例{'提起': 1}</span>による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（訴訟に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>法律{'物件': 1}</span>による<span>改正{'経過': 1}</span>前の<span>法律{'物件': 1}</span>の<span>規定{'経過': 1}</span>により<span>不服申立て{'物件': 1}</span>に対する<span>行政庁{'物件': 1}</span>の<span>裁決{'物件': 1}</span>、<span>決定{'物件': 1}</span>その他の<span>行為{'物件': 1}</span>を<span>経{'つき': 1}</span>た後でなければ<span>訴え{'概要': 1}</span>を<span>提起{'物件': 1}</span><span>でき{'示す': 1}</span>ないこととされる<span>事項{'経過': 1}</span>であって、当該<span>不服申立て{'物件': 1}</span>を<span>提起{'物件': 1}</span><span>しない{'提起': 1}</span>でこの法律の<span>施行{'物件': 1}</span><span>前{'経過': 1}</span>にこれを<span>提起{'使用': 1}</span>すべき<span>期間{'物件': 1}</span>を<span>経過{'物件': 1}</span>したもの（当該<span>不服申立て{'物件': 1}</span>が<span>他{'物件': 1}</span>の<span>不服申立て{'負担': 1}</span>に対する<span>行政庁{'物件': 1}</span>の<span>裁決{'物件': 1}</span>、<span>決定{'提起': 1}</span>その他の<span>行為{'物件': 1}</span>を<span>経{'でき': 1}</span>た後でなければ<span>提起{'使用': 1}</span><span>でき{'示す': 1}</span>ないとされる<span>場合{'物件': 1}</span>に<span>あっ{'でき': 1}</span>ては、<span>当該{'物件': 1}</span>他の<span>不服申立て{'提起': 1}</span>を提起<span>しない{'物件': 1}</span>でこの法律の<span>施行{'物件': 1}</span>前にこれを<span>提起{'使用': 1}</span>すべき<span>期間{'物件': 1}</span>を<span>経過{'物件': 1}</span>したものを<span>含む{'でき': 1}</span>。）の<span>訴え{'概要': 1}</span>の提起については、なお<span>従前{'提起': 1}</span>の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の<span>規定{'物件': 1}</span>による<span>改正{'物件': 1}</span>前の法律の規定（前条の<span>規定{'起算': 1}</span>によりなお従前の<span>例{'経過': 1}</span>によることとされる<span>場合{'物件': 1}</span>を含む。）により<span>異議申立て{'物件': 1}</span>が<span>提起{'物件': 1}</span>された<span>処分{'意匠': 1}</span>その他の行為であって、この<span>法律{'物件': 1}</span>の規定による改正後の法律の規定により<span>審査請求{'物件': 1}</span>に対する<span>裁決{'物件': 1}</span>を<span>経{'でき': 1}</span>た後でなければ<span>取消し{'物件': 1}</span>の<span>訴え{'物件': 1}</span>を<span>提起{'物件': 1}</span>することが<span>でき{'示す': 1}</span>ないこととされるものの<span>取消し{'経過': 1}</span>の<span>訴え{'提起': 1}</span>の提起については、なお<span>従前{'経過': 1}</span>の<span>例{'台帳': 1}</span>に<span>よる{'でき': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>不服申立て{'物件': 1}</span>に対する<span>行政庁{'使用': 1}</span>の<span>裁決{'物件': 1}</span>、<span>決定{'物件': 1}</span>その他の<span>行為{'物件': 1}</span>の<span>取消し{'提起': 1}</span>の<span>訴え{'提起': 1}</span>であって、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span><span>前{'経過': 1}</span>に提起されたものについては、なお従前の<span>例{'物件': 1}</span>に<span>よる{'でき': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の<span>施行{'物件': 1}</span><span>前{'経過': 1}</span>にした<span>行為{'使用': 1}</span>並びに<span>附則{'物件': 1}</span>第五条及び前<span>二条{'物件': 1}</span>の規定によりなお従前の<span>例{'物件': 1}</span>によることとされる<span>場合{'物件': 1}</span>におけるこの法律の施行後にした<span>行為{'経過': 1}</span>に対する<span>罰則{'提起': 1}</span>の<span>適用{'提起': 1}</span>については、なお従前の例に<span>よる{'でき': 1}</span>。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><span>附則{'物件': 1}</span>第五条から<span>前条{'物件': 1}</span>までに定めるもののほか、この<span>法律{'物件': 1}</span>の<span>施行{'物件': 1}</span>に関し<span>必要{'経過': 1}</span>な経過<span>措置{'経過': 1}</span>（<span>罰則{'物件': 1}</span>に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

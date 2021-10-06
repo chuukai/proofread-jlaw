@@ -1,0 +1,2761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="76" Year="14">
+  <LawNum>平成十四年内閣府令第七十六号</LawNum>
+  <LawBody>
+    <LawTitle>金融商品取引清算機関等に関する内閣府令</LawTitle>
+    <EnactStatement>証券取引法（昭和二十三年法律第二十五号）第二条第二十五項第二号、第百五十六条の三第二項第七号、第三項、第百五十六条の六第二項及び第三項、第百五十六条の七第二項第七号、第百五十六条の十一、第百五十六条の十二、第百五十六条の十三、第百五十六条の十八、第百五十六条の十九並びに第百八十八条の規定に基づき、並びに同法を実施するため、証券取引清算機関等に関する内閣府令を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　金融商品取引清算機関</ChapterTitle>
+        <ArticleRange>（第四条―第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　外国金融商品取引清算機関</ChapterTitle>
+        <ArticleRange>（第二十九条―第三十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　金融商品取引清算機関と他の金融商品取引清算機関等との連携</ChapterTitle>
+        <ArticleRange>（第三十八条―第四十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第四十七条―第五十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この府令において「有価証券」、「金融商品取引業者」、「金融商品取引所」、「市場デリバティブ<span>取引{'規定': 1}</span>」、「有価証券等清算取次ぎ」、「金融商品債務引受業」、「金融商品取引清算機関」、「外国金融商品取引清算機関」、「証券金融会社」又は「商品市場開設金融商品取引所」とは、それぞれ金融商品取引法（昭和二十三年法律第二十五号。以下「法」という。）第二条に規定する有価証券、<span>金融商品取引業者{'関連': 1}</span>、金融商品取引所、市場デリバティブ取引、有価証券等清算取次ぎ、金融商品債務引受業、金融商品取引清算機関、外国金融商品取引清算機関、証券金融会社又は商品市場<span>開設{'取引': 1}</span>金融商品取引所をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>商品{'有価証券': 3}</span>関連市場デリバティブ<span>取引{'金融商品取引法': 2}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第二条第八項第一号に規定する<span>商品{'有価証券': 2}</span>関連<span>市場デリバティブ{'デリバティブ': 1}</span>取引をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">商品</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第二条第二十四項第三号の三に規定する商品をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">対象取引</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第<span>二条{'財務諸表等規則': 1}</span>第二十八項に規定する対象取引をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">役員</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第二十一条第一項第一号に規定する役員をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品債務引受業等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の三第一項第六号に<span>規定{'上場': 1}</span>する金融商品<span>債務{'株式': 1}</span>引受業等をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><span>対象{'株主': 1}</span>議決権</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の五の三第一項に規定する対象議決権をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">清算参加者</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の七第二項第三号に規定する清算参加者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">清算<span>預託{'項': 1}</span>金</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の十一に規定する清算預託金をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">連携清算機関等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十六第一項に規定する連携清算機関等をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">連携金融商品債務引受業務</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十六第一項に規定する連携金融商品債務引受業務をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">認可金融商品取引<span>清算機関{'協会': 1, '法': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十六第三項に規定する認可金融商品取引<span>清算機関{'協会': 3, '契約': 1}</span>をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">連携契約書</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第一号に規定する連携契約書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（訳文の添付）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法（第五章の三及び第百八十八条（金融商品取引清算機関若しくはその清算参加者又は外国金融商品取引清算機関若しくはその清算参加者に係るものに限る。）に限る。次条において同じ。）又はこの府令の規定により内閣総理大臣又は<span>金融庁長官{'都道府県知事': 1}</span>に提出する書類で、特別の<span>事情{'書類': 1}</span>により<span>日本語{'場合': 1}</span>をもって記載することができないものがあるときは、その訳文を付さなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該書類が<span>株主総会{'定款': 1}</span>又は取締役会（これらに準ずる機関を含む。）の議事録であって、かつ、<span>英語{'手続': 1}</span>で記載されたものであるときは、その概要の訳文を付すことをもって足りるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（外国通貨又は暗号資産の換算）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法又はこの府令の<span>規定{'施行': 1}</span>により内閣総理大臣又は<span>金融庁長官{'都道府県知事': 1}</span>に提出する書類中、外国通貨又は暗号資産（資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産をいう。）をもって金額又は<span>数量{'当該': 1}</span>を表示するものがあるときは、当該金額又は数量を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　金融商品取引清算機関</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（免許申請書の経由）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の三第一項の規定により免許申請書を提出しようとする者は、当該免許申請書を金融庁長官を経由して提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（免許申請書の添付書類）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の三第二項第八号に規定する内閣府令で定める<span>書類{'場合': 1}</span>は、次に掲げる書類とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>免許{'当該': 1, '登録': 1}</span>申請者の総<span>株主の議決権{'労働金庫': 1}</span>（株主総会において決議をすることができる事項の<span>全部{'株式': 1}</span>につき議決権を行使することができない<span>株式{'株主': 1}</span>についての議決権を除き、会社法（平成十七年法律第八十六号）第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。<span>次号{'ロ': 1, '項': 1}</span>及び第四十八条第二項<span>第五{'次号': 1}</span>号において同じ。）の百分の十以上の数の議決権を保有している<span>株主{'役員': 1}</span>の氏名又は商号若しくは名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">親法人（免許申請者の総株主の議決権の過半数を保有している法人その他の団体をいう。）及び子法人（<span>免許{'法人': 1}</span>申請者が総株主等の議決権（法第二十九条の四第二項に規定する総株主等の議決権をいう。以下同じ。）の過半数を保有している法人その他の団体をいう。）の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役及び監査役（監査等委員会設置会社にあっては取締役、<span>指名委員会等設置会社{'場合': 1}</span>にあっては取締役及び執行役。以下この号及び次号並びに第二十四条第二項第二号ロにおいて同じ。）の履歴書及び住民票の抄本（本籍の記載のあるものに限る。）又はこれに代わる<span>書面{'業務': 1}</span>並びに<span>取締役{'転換': 1}</span>及び監査役が法第八十二条第二項第三号イからヘまで又は第百五十六条の十四第一項第一号のいずれにも該当<span>しない{'場合': 1}</span>者であることを当該<span>取締役{'役員': 1}</span>及び<span>監査役{'執行役': 1}</span>が誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>取締役{'書面': 1}</span>及び監査役の旧氏（住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十三に規定する旧氏をいう。以下同じ。）及び名を当該取締役及び監査役の氏名に併せて法第百五十六条の三第一項の<span>免許{'規定': 1}</span>申請書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が当該取締役及び監査役の旧氏及び名を証するものでないときは、<span>当該{'書面': 1}</span>旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会計参与設置会社にあっては、会計参与の履歴書（会計参与が法人であるときは、当該会計参与の沿革を記載した書面）及び住民票の<span>抄本{'書類': 1}</span>（本籍の記載のあるものに限り、<span>会計参与{'役員': 1}</span>が法人であるときは、当該会計参与の登記事項証明書）<span>又は{'及び': 1}</span>これに代わる書面並びに<span>会計参与{'役員': 1}</span>が法第八十二条第二項第三号<span>イ{'規定': 1}</span>からヘまで又は第百五十六条の十四第一項第一号のいずれにも該当<span>しない{'場合': 1}</span>者であることを当該<span>会計参与{'役員': 2}</span>が誓約する<span>書面{'監査役': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会計参与の旧<span>氏{'履歴書': 1}</span>及び名を当該<span>会計参与{'役員': 1}</span>の氏名に併せて法第百五十六条の三第一項の<span>免許{'登録': 1}</span>申請書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が当該<span>会計参与{'申請': 1, '役員': 2, '代表': 1}</span>の旧氏及び<span>名{'当該': 1}</span>を証するものでないときは、当該旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>取締役{'役員': 1}</span>、会計参与、監査役又は執行役のうちに法第百五十六条の十四第一項第一号に該当する者の<span>ある{'掲げる': 2}</span>会社に該当しない旨を誓約する<span>書面{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>取締役{'会計参与': 1}</span>（指名委員会等設置会社にあっては、執行役）の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品<span>債務{'株式': 1}</span>引受業に関する<span>知識{'種類': 1}</span>及び経験を有する従業員の確保の状況並びに当該従業員の配置の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品債務引受業において使用する電子情報処理組織の概要、設置場所、容量及び保守の方法並びに当該電子情報処理組織に異常が発生した場合の対処方法を記載した<span>書類{'書面': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他法第百五十六条の四第一項の規定による審査の参考となるべき事項を記載した<span>書面{'書類': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（免許申請書に添付すべき電磁的記録）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の三第三項に規定する内閣府令で定める電磁的記録は、産業標準化法（昭和二十四年法律第百八十五号）に基づく<span>日本産業規格{'規定': 1}</span>（以下「日本産業規格」という。）Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジに該当する構造の磁気ディスクとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の電磁的記録への記録は、次に掲げる方式に従ってしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">トラックフォーマットについては、日本産業規格Ｘ六二二五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ボリューム及びファイル構成については、日本産業規格Ｘ〇六〇五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の電磁的記録には、日本産業規格Ｘ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>免許{'申請': 1}</span>申請者の<span>商号{'申請': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申請年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（取得又は保有の態様その他の事情を勘案して取得又は保有する議決権から除く議決権）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の三第一項に規定する内閣府令で定めるものは、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">信託業（信託業法（平成十六年法律第百五十四号）第二条第一項に規定する信託業をいう。）を営む者が<span>信託{'業務': 1}</span>財産として取得し、又は所有する金融商品取引清算機関（金融商品取引清算機関が金融商品取引所である場合を除く。第十八条、第十九条第一項及び第二十五条を除き、以下この章において同じ。）の株式に係る議決権（当該信託業を営む者が行使することができる<span>権限{'価額': 1}</span>又は行使について指図を行うことができる権限を有し、又は有することとなるものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>法人{'設立': 1}</span>の代表権を有する者又は法人の代理権を有する<span>支配人{'場合': 1}</span>が当該代表権又は代理権に基づき、議決権を行使することができる権限若しくは議決権の行使について指図を行うことができる権限又は<span>投資{'一部': 1}</span>を行うのに<span>必要{'業務': 1}</span>な権限を有し、又は有することとなる場合における当該法人が取得し、又は所有する金融商品取引清算機関の株式に係る議決権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引清算機関の役員又は従業員が当該金融商品取引清算機関の他の役員又は従業員と共同して当該金融商品取引清算機関の株式の取得（一定の計画に従い、個別の投資判断に基づかず、継続的に行われ、各<span>役員{'場合': 1}</span>又は従業員の一回当たりの拠出金額が百万円に満たないものに限る。）をした場合（当該<span>金融商品取引{'会社': 1}</span><span>清算機関{'準用': 4, '契約': 1}</span>が会社法第百五十六条第一項（同法第百六十五条第三項の規定により読み替えて<span>適用{'準用': 1}</span>する場合を含む。）の規定に基づき取得した株式以外の株式を取得したときは、金融商品取引業者に委託して行った場合に限る。）において当該取得をした金融商品取引<span>清算機関{'当該': 1}</span>の株式を信託された者が取得し、又は<span>所有{'理由': 1}</span>する当該金融商品取引<span>清算機関{'当該': 1}</span>の株式に係る<span>議決権{'取得': 1}</span>（当該信託された者が行使することができる権限又は行使について指図を行うことができる権限を有し、又は有することとなるものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>相続人{'会社': 1}</span>が<span>相続財産{'条件': 1}</span>として取得し、又は所有する金融商品取引清算機関の株式（当該相続人（共同相続の場合を除く。）が単純承認（単純承認をしたものとみなされる場合を含む。）若しくは限定承認をした日までのもの又は当該相続財産の共同相続人が遺産分割を了していないものに限る。）に係る議決権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引清算機関が自己の株式の消却を行うために取得し、又は所有する当該<span>金融商品取引{'会社': 1}</span>清算機関の株式に係る議決権</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（対象議決権保有届出書の提出等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の三第一項の規定により対象議決権保有届出書を提出する者は、別紙様式により<span>作成{'子会社': 1}</span>した対象議決権保有届出書を金融庁長官に<span>提出{'準用': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の三第一項に規定する内閣府令で定める<span>事項{'様式': 1}</span>は、別紙様式に定める事項とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（財務及び営業の方針の決定に対して重要な影響を与えることが推測される事実）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'記載': 1}</span>第百五十六条の五の五第一項に規定する<span>内閣府令{'政令': 2}</span>で定める事実は、次に掲げる事実とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">役員若しくは使用人である者又はこれらであった者であって金融商品取引清算機関の財務及び営業又は事業の方針の決定に関して影響を与えることができるものが、当該<span>金融商品取引{'会社': 1}</span>清算機関の<span>取締役{'行為': 1}</span>若しくは執行役又はこれらに準ずる役職に就任していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引清算機関に対して重要な融資を行っていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>金融商品取引{'当該': 1, '業務': 1}</span><span>清算機関{'規定': 1, '内閣府令': 1}</span>に対して重要な技術を<span>提供{'当該': 1}</span>していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引清算機関との間に重要な営業上又は事業上の取引があること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他<span>金融商品取引{'子会社': 1, '当該': 1}</span>清算機関の財務及び営業又は事業の方針の決定に対して重要な影響を与えることができることが推測される事実が存在すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（主要株主に係る認可の申請）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'規定': 1}</span>第百五十六条の五の五第一項の<span>認可{'規定': 1, '登録': 1}</span>を受けようとする者は、次に掲げる事項を記載した<span>認可申請{'申請書': 1, '承認申請': 2}</span>書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">商号若しくは<span>名称{'事務所': 1}</span>又は<span>氏名{'住所': 2}</span>及び<span>本店{'住所': 1, '営業所': 2}</span>若しくは主たる事務所の所在地又は住所若しくは居所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法人であるときは、<span>代表者{'場合': 1}</span>の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の認可申請書には、次の各号に掲げる者の区分に応じ、当該各号に定める書類を<span>添付{'当該': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引<span>清算機関{'規定': 1}</span>の総株主の議決権の保有<span>基準{'保有': 1}</span>割合（法第百五十六条の五の五第一項に規定する保有<span>基準{'株券': 1, '議決権': 1}</span>割合をいう。以下この<span>項{'条': 1}</span>において同じ。）以上の<span>数{'子会社': 1, '規定': 1}</span>の対象議決権を取得し、又は保有しようとする<span>法人{'前項': 1, '場合': 1}</span></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>当該{'子会社': 1, '規定': 1}</span>対象議決権を取得し、又は保有しようとする<span>理由{'場合': 1}</span>を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該法人に関する次に掲げる<span>書類{'法人': 1, '事項': 2}</span>（当該法人が外国の法人であることその他の理由により当該書類の<span>一部{'提出': 1}</span>がない場合にあっては、当該書類に相当する書類）</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Delete="false" Hide="false" Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">定款</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>登記事項証明書{'法人': 2}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">役員の履歴書（役員が法人であるときは、当該役員の沿革を記載した書面）及び住民票の<span>抄本{'書類': 1}</span>（本籍の記載のあるものに限る。）又はこれに代わる書面（役員の旧氏及び名を当該役員の氏名に併せて<span>前項{'法': 1}</span>の<span>認可申請{'申請': 1}</span>書に記載した場合において、当該抄本又は書面が<span>当該{'交付': 1}</span>役員の旧氏及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 2}</span>旧氏及び名を証する書面を含み、役員が法人であるときは、当該役員の登記事項証明書又はこれに代わる書面）並びに役員が法第八十二条第二項第三号イから<span>ヘ{'チ': 1}</span>までのいずれにも該当しない者であることを当該役員が誓約する書面</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Delete="false" Hide="false" Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence WritingMode="vertical"><span>精神{'株主': 1, '金融': 1}</span>の機能の障害により株主の<span>権利{'議決権': 1}</span>を適切に行使するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Delete="false" Hide="false" Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence WritingMode="vertical">法第八十二条第二項第三号イからヘまでのいずれかに該当する者</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">当該法人の総株主等の議決権の百分の五を超える議決権を<span>保有{'事項': 1}</span>している者の氏名、住所又は居所、国籍及び職業（当該者が法人その他の団体であるときは、その<span>商号{'場合': 2, '名称': 1}</span>又は名称、<span>本店{'営業所': 6}</span>又は主たる事務所の所在の場所及びその行っている事業の内容）並びにその保有する議決権の数を記載した<span>書面{'書類': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="5">
+                  <Subitem2Title>（５）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>認可{'記載': 1, '当該': 1}</span>の申請が株主総会又は取締役会（これらに準ずる機関を含む。（５）において同じ。）の決議を要するものである場合にあっては、株主総会又は<span>取締役会{'株主総会': 1}</span>の<span>議事録{'決議': 1}</span>その他必要な手続があったことを証する書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="6">
+                  <Subitem2Title>（６）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">業務の内容を記載した<span>書面{'書類': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="7">
+                  <Subitem2Title>（７）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">最終の貸借対照表、損益計算書及び株主資本等変動計算書その他当該<span>法人{'金庫': 1}</span>の最近における<span>業務{'記載': 1}</span>、財産及び<span>収支{'損益': 4}</span>の状況を知ることができる<span>書類{'書面': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="8">
+                  <Subitem2Title>（８）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">当該金融商品取引<span>清算機関{'協会': 1}</span>の対象議決権の<span>保有{'当該': 1}</span>に係る体制を記載した<span>書類{'議決権': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="9">
+                  <Subitem2Title>（９）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">その保有する当該金融商品取引<span>清算機関{'協会': 1}</span>の対象議決権の数及び保有<span>割合{'議決権': 1}</span>並びに<span>認可{'議決権': 1, '当該': 1}</span>後に取得し、又は保有しようとする当該金融商品取引<span>清算機関{'契約': 1}</span>の対象議決権の数及び保有割合を<span>記載{'保有': 1}</span>した書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="10">
+                  <Subitem2Title>（１０）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">認可後に当該金融商品取引<span>清算機関{'契約': 1}</span>との<span>間{'住所': 1}</span>に有することを予定する人事、資金、技術及び取引等における関係並びに<span>当該{'計算': 1}</span>関係に係る方針（当該金融商品取引清算機関の業務の健全かつ適切な運営を確保するための体制を含む。）を記載した<span>書類{'法': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="11">
+                  <Subitem2Title>（１１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">その他法第百五十六条の五の六第一項の<span>規定{'提出': 1}</span>による審査の参考となるべき事項を記載した<span>書面{'書類': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引清算機関の総株主の議決権の保有基準<span>割合{'議決権': 1}</span>以上の数の対象議決権を取得し、又は保有しようとする者（<span>前{'場合': 1}</span>号に掲げる者を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる書類</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該対象<span>議決{'有価証券': 1}</span>権を取得し、又は保有しようとする<span>理由{'場合': 1}</span>を記載した<span>書面{'場合': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該者に関する次に掲げる書類</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Delete="false" Hide="false" Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>住民票{'添付': 1}</span>の抄本（本籍の記載のあるものに限る。）又はこれに代わる書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">旧氏及び<span>名{'規定': 1}</span>を、氏名に併せて前項の<span>認可申請{'規定': 1, '届出': 1, '申請': 1}</span>書に記載した場合において、⑴に掲げる<span>書類{'事項': 1}</span>が当該旧氏及び名を証するものでないときは、<span>当該{'書面': 3}</span>旧氏及び名を証する書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>前{'第五': 1}</span>号ロ（３）（ⅰ）又は（ⅱ）のいずれにも該当しないことを誓約する書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">職業を記載した書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="5">
+                  <Subitem2Title>（５）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">前号ロ（８）から（１１）までに掲げる書類</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">金融商品取引清算機関の総株主の議決権の保有基準<span>割合{'議決権': 1}</span>以上の数の対象<span>議決{'議決権': 1}</span>権を取得し、又は<span>保有{'当該': 1}</span>しようとする<span>会社{'場合': 1}</span>その他の法人の設立をしようとする者</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該会社その他の法人の設立をしようとする理由を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該会社その他の法人に関する次に掲げる書類（当該<span>会社{'法人': 1, '他': 1}</span>その他の<span>法人{'子会社': 1}</span>が外国の法人であることその他の<span>理由{'連名': 1}</span>により当該書類の<span>一部{'提出': 1}</span>がない場合にあっては、当該書類に相当する書類）</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Delete="false" Hide="false" Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">株主となる者の氏名、住所又は居所、国籍及び職業（当該者が法人その他の団体であるときは、その<span>商号{'場合': 2, '名称': 1}</span>又は名称、<span>本店{'営業所': 6}</span>又は主たる事務所の所在の場所及びその行っている事業の内容）並びにその保有する議決権の数を記載した<span>書面{'場合': 1, '書類': 1}</span></Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">設立が創立総会（これに準ずる機関を含む。（２）において同じ。）の決議を要するものである場合にあっては、創立総会の議事録（株式移転、合併又は分割により設立される場合にあっては、株主総会の<span>議事録{'決議': 1}</span>）その他必要な手続があったことを証する書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>本店{'営業所': 1}</span>又は主たる事務所の所在の場所を記載した書面</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">資本金の<span>額{'当該': 1}</span>その他の設立後における財産の状況を知ることができる書類</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="5">
+                  <Subitem2Title>（５）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">第一号ロ（１）、（３）、（６）<span>及び{'次に': 2}</span>（８）から（１１）までに掲げる書類</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（主要株主に係る認可の予備審査）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の五第一項の認可を受けようとする者は、前条第一項の<span>認可申請{'規定': 1}</span>書及び同<span>条{'次': 2}</span>第二項各号に掲げる者の区分に応じ当<span>該各{'当該': 4}</span>号に<span>定める{'掲げる': 1}</span>書類に準じた<span>書類{'添付': 1}</span>を<span>金融庁長官{'行政庁': 1}</span>に提出して予備審査を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（主要株主に係る認可の適用除外）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の五第二項に規定する内閣府令で定める場合は、次に掲げる<span>場合{'額': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>保有{'特例': 1}</span>する<span>対象{'株券': 1}</span><span>議決{'議決権': 2}</span>権の数に<span>増加{'保有': 1}</span>がない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">担保権の行使又は<span>代物弁済{'当該': 1}</span>の受領により対象議決権を取得し、又は保有する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引業者（<span>法{'二条': 1}</span>第二十八条第一項に規定する第一種金融商品取引業を行う者に限る。）が業務として対象<span>議決{'議決権': 1}</span>権を取得し、又は保有する<span>場合{'議決権': 1}</span>（法第二条第八項第一号に掲げる行為により取得し、又は保有する場合を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>証券金融会社{'商工組合中央金庫': 1}</span>が法第百五十六条の二十四第一項に規定する業務として対象議決権を取得し、又は保有する<span>場合{'法': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（特定保有者の届出に関する事項）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の五の五第三項に規定する内閣府令で定める事項は、次に掲げる事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>特定{'議決権': 1}</span>保有者（法第百五十六条の五の五第三項に規定する特定<span>保有{'譲渡': 1}</span>者をいう。次号及び次条において同じ。）に<span>なっ{'掲げる': 1}</span>た日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定保有者に該当することとなった原因</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その保有する<span>対象{'議決権': 1}</span><span>議決{'会社': 1}</span>権の数</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="14">
+          <ArticleCaption>（特定保有者による主要株主に係る認可の申請）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第十条（第二項第三号を除く。）の規定は、<span>特定{'対象': 2}</span>保有者が法第百五十六条の五の五第四項<span>ただし書{'規定': 7}</span>の<span>認可{'規定': 2}</span>を<span>受けよ{'受け': 1}</span>うとする場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="15">
+          <ArticleCaption>（他の業務の承認の申請）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の六第二項<span>ただし書{'規定': 3}</span>の<span>承認{'規定': 1}</span>を<span>受けよ{'受け': 1}</span>うとする金融商品取引清算機関は、次に掲げる事項を記載した<span>承認申請{'書面': 1}</span>書を<span>金融庁長官{'関東財務局': 1, '内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認を受けようとする業務の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の開始予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の承認申請書には、次に掲げる<span>書類{'事項': 1}</span>を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'兼業': 1}</span>業務の内容及び方法を<span>記載{'当該': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'兼業': 1}</span>業務を所掌する組織及び<span>人員配置{'当該': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の運営に関する社内規則</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の開始後三年間における収支の見込みを記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="16">
+          <ArticleCaption>（承認を受けた業務の廃止の届出）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の六第三項の規定により届出を行う<span>金融商品取引{'商工組合中央金庫': 1}</span>清算機関は、次に掲げる事項を記載した届出書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>廃止{'名称': 1}</span>した業務の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務を<span>廃止{'受け': 1}</span>した年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務を<span>廃止{'規程': 1}</span>した理由</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="17">
+          <ArticleCaption>（業務方法書の記載事項）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の七第二項第八号に規定する内閣府令で定める事項は、次に掲げる事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品債務<span>引受{'金融庁長官': 1}</span>業（法第百五十六条の六第一項の<span>業務{'規定': 2}</span>を行う場合にあっては、<span>金融商品{'当該': 1}</span>債務引受業等）に附帯する業務を行う場合にあっては、その<span>旨{'当該': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品債務<span>引受{'業務': 1}</span>業に関連する業務又は商品取引債務引受業等（商品先物取引法（昭和二十五年<span>法律{'二条': 1}</span>第二百三十九号）第百七十条第二項に規定する商品取引債務引受業等をいう。以下同じ。）及びこれに附帯する<span>業務{'規定': 1}</span>を行う場合にあっては、その<span>旨{'当該': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">有価証券等<span>清算{'売買': 1}</span>取次ぎ（法第二条第二十七項<span>第一{'規定': 1}</span>号に係るものに<span>限る{'掲げる': 1}</span>。）を<span>行う{'掲げる': 1}</span>清算参加者と顧客の間の<span>基本{'金融商品取引': 1}</span>契約においては、顧客が清算<span>参加{'労働金庫': 1}</span>者を代理して対象取引を成立させようとするときは、当該顧客が有価証券等清算取次ぎの申込みをし、<span>かつ{'及び': 1}</span>、当該清算参加者が当該有価証券等<span>清算{'登録': 1}</span>取次ぎの受託をしたこととする旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">市場デリバティブ取引（商品関連<span>市場デリバティブ{'金融': 1, 'デリバティブ': 1}</span>取引を除く。）について金融商品債務引受業を行う場合にあっては、<span>取引{'当該': 1}</span>証拠金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算預託金を定める<span>場合{'事項': 1}</span>にあっては、次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">次条の<span>規定{'当該': 1}</span>により清算預託金として定める有価証券に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">清算預託金の管理方法に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">商品関連市場デリバティブ取引について金融商品債務引受業を行う場合にあっては、次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>取引{'当該': 2}</span>証拠金に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">商品関連<span>市場デリバティブ{'取引': 1}</span>取引に係る商品の受渡しに関する事項（受渡しの決済のために預託される金銭、<span>有価証券{'信託': 1}</span>その他の財産に関する事項を含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（清算預託金）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十一に規定する内閣府令で定めるものは、金銭及び金融商品取引<span>清算機関{'規定': 1}</span>が業務方法書において定める<span>有価証券{'顧客': 1}</span>であって、当該金融商品取引清算機関が、業務方法書の定めるところにより、<span>清算{'顧客': 1}</span>預託金として他の財産と分別して管理するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleCaption>（定款又は業務方法書の変更の認可の申請）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の<span>認可{'規定': 1}</span>を受けようとする金融商品取引清算機関は、次に掲げる事項を記載した<span>認可申請{'書面': 1}</span>書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容及び<span>理由{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の認可申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、業務方法書の変更の<span>認可申請{'場合': 2}</span>書にあっては、第二号に掲げる書類を<span>提出{'記載': 1}</span>することを要しない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">定款又は<span>業務{'電磁': 1}</span>方法書の新旧対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会（法第百五十六条の十九第一項の規定に基づく承認を受けた会員金融商品取引所（法第八十七条の六第一項に規定する会員金融商品取引所をいう。以下同じ。）にあっては、<span>総会{'株主総会': 2}</span>）の議事録その他必要な手続があったことを証する<span>書面{'書類': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となる<span>書類{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（定款又は業務方法書の変更の認可の基準）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融庁長官は、法第百五十六条の十二の規定に基づく<span>認可{'承認': 1}</span>の<span>申請{'申立て': 1, '場合': 1}</span>があったときは、その<span>申請{'当該': 1}</span>が<span>法令{'条件': 1}</span>に適合し、かつ、業務を適正かつ確実に<span>運営{'遂行': 1}</span>するために十分かどうかを審査しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（公衆縦覧の事項等）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の二に規定する内閣府令で定める<span>事項{'取引': 1}</span>は、当該金融商品取引<span>清算機関{'契約': 1}</span>の発行済株式の総数及び総株主の議決権の数とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の二の規定により公衆の縦覧に<span>供する{'いう': 1}</span>場合において、株式の転換（当該株式がその発行<span>会社{'株式': 1}</span>に取得され、引換えに他の種類の株式が交付されることをいう。）又は新株予約権の行使によって発行済株式の<span>総数{'発行者': 1}</span>又は総株主の議決権の数に変更があった場合における発行済株式の総数又は総株主の議決権の数は、前月末日現在のものによることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の二の規定により公衆の縦覧に供する<span>場合{'当該': 1}</span>において、<span>金融商品取引{'当該': 1}</span>清算機関の発行済株式の総数に変更があったときは、その登記が<span>行わ{'ある': 1}</span>れるまでの間は、登記されている発行済株式の総数をもって、第一項の発行済株式の総数とみなすことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融商品取引<span>清算機関{'内閣府令': 4}</span>は、第一項に定める事項を記載した書面を本店に備え置き、その<span>営業時間{'公衆': 1}</span>中これを公衆の縦覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（資本金の額の減少の認可の申請）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の三第一項の<span>認可{'規定': 3}</span>を<span>受けよ{'受け': 1}</span>うとする金融商品取引清算機関は、次に掲げる事項を記載した認可申請書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減少する前の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">減少する資本金の<span>額{'優先': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の減少の<span>内容{'額': 1, '優先': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の<span>額{'金額': 1}</span>の減少が効力を生ずる日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'定め': 1}</span>の<span>認可申請{'額': 1, '規定': 1}</span>書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>資本金{'理由': 1}</span>の額を減少する理由を記載した<span>書面{'優先': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の<span>減少{'計算': 1}</span>の方法を記載した<span>書面{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会又は<span>取締役会{'株主総会': 1}</span>の議事録その他必要な<span>手続{'場合': 1}</span>があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">最終の貸借対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会社法第四百四十九条第二項の規定による公告及び催告（同<span>条{'同法': 1}</span>第三項の規定により公告を官報のほか時事に関する事項を掲載する日刊新聞紙又は電子公告（同法第二条第三十四号に規定する電子公告をいう。）によってした<span>場合{'通知': 1, '公告': 1}</span>にあっては、これらの方法による公告）をしたこと並びに異議を述べた<span>債権者{'異議': 1}</span>があるときは、当該債権者に対し弁済し若しくは相当の担保を提供し<span>若しくは{'又は': 1}</span>当該債権者に弁済を受けさせることを目的として相当の<span>財産{'金額': 1}</span>を信託したこと又は<span>資本{'当該': 2}</span>金の額の減少をしても当該債権者を害するおそれがないことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>株券発行会社{'転換': 1}</span>が株式の<span>併合{'全部': 1}</span>をする場合にあっては、会社法第二百十九条第一項本文の規定による公告をしたことを証する書面又は当該<span>株式{'優先出資': 1}</span>の全部について株券を発行していないことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項を記載した<span>書面{'書類': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleCaption>（資本金の額の増加の届出）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十二の三第二項の<span>規定{'交付': 1, '金融庁長官': 1}</span>により届出を行う<span>金融商品取引{'商工組合中央金庫': 1}</span>清算機関は、次に掲げる事項を記載した届出書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">増加する前の資本金の額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>増加{'減少': 3}</span>する資本金の<span>額{'金額': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の<span>増加{'減少': 2}</span>の<span>内容{'優先': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の<span>増加{'減少': 1}</span>が効力を<span>生ずる{'生じ': 1}</span>日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の<span>届出{'規定': 1}</span>書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の<span>増加{'記載': 1}</span>の方法を記載した<span>書面{'事項': 1, '書類': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>取締役会{'株主総会': 4}</span>の議事録その他<span>必要{'書面': 1}</span>な<span>手続{'場合': 1}</span>があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">資本金の額の増加後に想定される貸借対照表</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleCaption>（営業所等の変更の届出）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十三の規定により届出を行う金融商品取引清算機関は、次に掲げる事項を記載した<span>届出{'書面': 1, '認可申請': 1}</span>書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の届出書には、次の各号に掲げる<span>変更{'場合': 2}</span>の区分に応じ、当該各号に定める書類を<span>添付{'規定': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の三第一項第三号に掲げる<span>事項{'書類': 2}</span>の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">同条第二項第三号に掲げる<span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の三第一項第四号に掲げる事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 1}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第百五十六条の三第二項第三号に掲げる<span>書類{'事項': 4}</span>並びに第五条第三号及び第八号に掲げる書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">取締役及び監査役の旧氏及び名を当該取締役及び監査役の氏名に併せて前項の<span>届出{'申請': 1}</span>書に記載した<span>場合{'事項': 1}</span>において、<span>イ{'当該': 2}</span>の住民票の<span>抄本{'書面': 1}</span>又はこれに代わる書面が当該取締役及び監査役の旧氏及び名を証するものでないときは、<span>当該{'書面': 1}</span>旧氏及び名を証する<span>書面{'書類': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の三第一項<span>第五{'ニ': 1}</span>号に掲げる事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第百五十六条の三第二項第三号に掲げる<span>書類{'事項': 3}</span>及び第五条第五号に掲げる<span>書類{'該当': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">会計参与の旧氏及び名を当該<span>会計参与{'役員': 1}</span>の氏名に併せて前項の<span>届出{'認可申請': 1}</span>書に記載した<span>場合{'事項': 1}</span>において、<span>イ{'当該': 2}</span>の住民票の<span>抄本{'書面': 1}</span>又はこれに代わる書面が当該<span>会計参与{'申請': 1, '役員': 2, '代表': 1}</span>の旧氏及び<span>名{'当該': 1}</span>を証するものでないときは、当該旧氏及び名を証する<span>書面{'書類': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24_2">
+          <ArticleCaption>（心身の故障のため職務を適正に執行することができない者）</ArticleCaption>
+          <ArticleTitle>第二十四条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十四第一項第一号に規定する<span>内閣府令{'政令': 1}</span>で定める者は、精神の機能の障害のため職務を適正に執行するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleCaption>（金融商品債務引受業の廃止又は解散の決議に係る認可の申請）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十八の<span>認可{'規定': 3, '指定': 1, '承認': 1}</span>を<span>受けよ{'受け': 2}</span>うとする金融商品取引清算機関は、認可申請書に次に掲げる書類を添付して金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>金融商品{'理由': 2}</span>債務引受業の廃止又は解散の理由を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>株主総会{'交付': 1, '合併': 1, '規定': 1}</span>（会員<span>金融商品取引所{'場合': 1}</span>にあっては、<span>総会{'株主総会': 1}</span>）の議事録（会社法第三百十九条第一項の規定により株主総会の決議があったものとみなされる場合にあっては、当該場合に<span>該当{'当該': 1}</span>することを証する書面）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>最終{'最近': 1, '当該': 1}</span>事業年度に係る貸借対照表（<span>関連{'準用': 1}</span>する注記を含む。）及び<span>損益計算書{'株主資本等変動計算書': 1}</span>（関連する注記を含む。）並びに当該決議時における資産及び負債の内容を<span>明らか{'記載': 2}</span>にした書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>金融商品{'金銭': 1}</span>債務引受業の結了の方法を記載した<span>書面{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項を記載した<span>書面{'書類': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（金融商品取引所による金融商品債務引受業等の承認の申請）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十九第一項の<span>承認{'認可': 1}</span>を受けようとする<span>金融商品取引所{'場合': 1, '承認申請': 1}</span>は、次に掲げる事項を記載した<span>承認申請{'申請書': 1}</span>書を金融庁長官を<span>経由{'提出': 2}</span>して内閣総理大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認を<span>受けよ{'受け': 1}</span>うとする業務の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の開始予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の承認申請書には、次に掲げる<span>書類{'事項': 1}</span>を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">業務<span>方法{'場合': 1}</span>書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務を所掌する組織及び<span>人員配置{'当該': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'兼業': 2}</span>業務の開始後三年間における<span>収支{'届出': 1}</span>の見込みを記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（商品市場開設金融商品取引所による商品取引債務引受業等の承認の申請）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十九第二項の承認を受けようとする商品市場<span>開設{'取引': 1}</span>金融商品取引所は、次に掲げる事項を記載した<span>承認申請{'申請書': 1}</span>書を<span>金融庁長官{'関東財務局': 1, '内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認を受けようとする業務の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の開始予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の承認申請書には、次に掲げる<span>書類{'事項': 1}</span>を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'兼業': 1}</span>業務の内容及び方法を<span>記載{'当該': 1}</span>した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>当該{'兼業': 1}</span>業務を所掌する組織及び<span>人員配置{'当該': 1}</span>を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の運営に関する社内規則</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務の開始後三年間における収支の見込みを記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（承認を受けた商品取引債務引受業等の廃止の届出）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の十九第三項の規定により届出を行う<span>商品市場{'商工組合中央金庫': 1}</span>開設金融商品取引所は、次に掲げる事項を記載した<span>届出{'申請書': 1, '書面': 1}</span>書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>廃止{'名称': 1}</span>した業務の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務を<span>廃止{'受け': 1}</span>した年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該業務を<span>廃止{'規程': 1}</span>した理由</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　外国金融商品取引清算機関</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（免許申請書の経由）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の三第一項の規定により免許申請書を提出しようとする者は、当該免許申請書を金融庁長官を経由して提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleCaption>（免許申請書の添付書類）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の三第二項第七号に規定する内閣府令で定める<span>書類{'場合': 1}</span>は、次に掲げる書類とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>免許{'理由': 1}</span>申請者の総株主等の議決権の百分の十以上の数の議決権を保有している者の氏名又は<span>商号{'名称': 3}</span><span>若しくは{'又は': 1}</span>名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">親法人（免許申請者の総株主等の議決権の過半数を保有している法人その他の団体をいう。）及び子法人（<span>免許{'法人': 1}</span>申請者が総株主等の議決権の過半数を保有している<span>法人{'会社': 1}</span>その他の団体をいう。）の概要を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>役員{'当該': 1}</span>の履歴書（役員が法人であるときは、当該役員の沿革を記載した書面）及び国内に事務所がある場合にあっては、当該事務所に駐在する役員の住民票の抄本（本籍の記載のあるものに限る。）又はこれに代わる書面並びに役員が次のいずれにも該当<span>しない{'場合': 1}</span>者であることを当該役員が誓約する書面</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>精神{'金融': 1}</span>の機能の障害のため職務を適正に執行するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第八十二条第二項第三号イからヘまでのいずれかに該当する者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国内の事務所に<span>駐在{'施設': 1}</span>する役員の旧氏及び名を当該役員の氏名に併せて法第百五十六条の二十の三第一項の<span>免許{'規定': 1, '指定': 4, '登録': 2}</span>申請書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が当該<span>役員{'申請': 1, '代表': 1, '会計参与': 1}</span>の旧<span>氏{'氏名': 1}</span>及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 2}</span>旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>国内{'役員': 1, '法人': 1}</span>における代表者の履歴書及び住民票の抄本（本籍の記載のあるものに限る。）又はこれに代わる書面並びに国内における代表者が第三号イ<span>又は{'及び': 2}</span>ロのいずれにも該当<span>しない{'場合': 1}</span>者であることを当該<span>国内{'役員': 1}</span>における<span>代表者{'従事': 1}</span>が<span>誓約{'記載': 1}</span>する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国内における代表者の旧氏及び名を当該<span>代表{'役員': 3}</span>者の氏名に併せて法第百五十六条の二十の三第一項の<span>免許{'規定': 1, '指定': 2, '登録': 1}</span><span>申請{'記載': 1}</span>書に記載した場合において、前号の住民票の抄本又はこれに代わる書面が当該<span>代表{'申請': 1, '役員': 2, '会計参与': 1}</span>者の旧氏及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 1}</span>旧氏及び名を証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">役員<span>又は{'及び': 2}</span>国内における代表者のうちに第三号<span>イ{'次': 1}</span>に該当する者のある者に該当しない旨を誓約する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">業務を執行する<span>役員{'社員': 1}</span>の担当業務を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品<span>債務{'株式': 1}</span>引受業に関する<span>知識{'種類': 1}</span>及び経験を有する従業員の確保の状況並びに当該従業員の配置の状況を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事務の機構及び分掌を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品債務引受業において使用する電子情報処理組織の概要、設置場所、容量及び保守の方法並びに当該電子情報処理組織に異常が発生した場合の対処方法を記載した<span>書類{'書面': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法人の登記事項証明書（これに準ずるものを含む。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">外国の<span>法令{'保険会社': 1}</span>に準拠し、<span>当該{'場合': 1}</span>外国において<span>金融商品{'相互会社': 1}</span>債務引受業と同種類の業務を開始してから<span>金融商品取引法施行令{'法': 1}</span>（昭和四十年<span>政令{'規定': 1}</span>第三百二十一号。以下「令」という。）第十九条の四の四第一項に定める期間を<span>経過{'法': 1}</span>していること、又は同条第二項に定める<span>場合{'要件': 2, '次': 1}</span>に該当することを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>免許{'登録': 1}</span>申請者が所在する国における金融商品債務引受業と同種類の業務に関する法制を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他法第百五十六条の二十の四第一項の規定による審査の参考となるべき事項を記載した<span>書面{'書類': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（免許申請書に添付すべき電磁的記録）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の三第三項に規定する内閣府令で定める電磁的記録は、日本産業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジに該当する構造の磁気ディスクとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の電磁的記録への記録は、次に掲げる方式に従ってしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">トラックフォーマットについては、日本産業規格Ｘ六二二五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ボリューム及びファイル構成については、日本産業規格Ｘ〇六〇五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の電磁的記録には、日本産業規格Ｘ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">免許<span>申請{'商号': 1}</span>者の商号又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申請年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（分割又は事業の譲渡）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">令第十九条の四の四第二項第二号に規定する内閣府令で定める場合は、分割により承継される業務自体で金融商品債務引受業と同種類の業務を行うことができると認められる場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第十九条の四の四第二項第三号に規定する内閣府令で定める<span>場合{'額': 1}</span>は、譲渡される業務自体で金融商品債務引受業と同種類の業務を行うことができると認められる場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleCaption>（業務方法書の記載事項）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の六第二項第六号に規定する<span>内閣府令{'政令': 1}</span>で定める事項は、次に掲げる事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">有価証券等清算取次ぎ（法第二条第二十七項<span>第一{'規定': 1}</span>号に係るものに<span>限る{'掲げる': 1}</span>。）を<span>行う{'掲げる': 1}</span>清算参加者と顧客の間の<span>基本{'金融商品取引': 1}</span>契約においては、顧客が清算<span>参加{'労働金庫': 1}</span>者を代理して対象取引を成立させようとするときは、当該顧客が有価証券等清算取次ぎの申込みをし、<span>かつ{'及び': 1}</span>、当該清算参加者が当該有価証券等清算取次ぎの受託をしたこととする旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者が外国金融商品取引清算機関に対し債務の履行を担保するために預託する金銭その他の財産を定める場合にあっては、当該財産及びその管理<span>方法{'当該': 1}</span>に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleCaption>（定款又は業務方法書の変更の認可の申請）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十の認可を受けようとする外国金融商品取引清算機関は、次に掲げる事項を記載した<span>認可申請{'書面': 1}</span>書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容及び<span>理由{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の認可申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、業務方法書の変更の<span>認可申請{'場合': 2}</span>書にあっては、第二号に掲げる書類を<span>提出{'記載': 1}</span>することを要しない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">定款（金融商品債務引受業に係る部分に限る。）又は業務方法書の新旧対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会に準ずる機関の議事録その他必要な手続があったことを証する<span>書面{'書類': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となる<span>書類{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleCaption>（定款又は業務方法書の変更の認可の基準）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融庁長官は、法第百五十六条の二十の十の規定に基づく<span>認可{'承認': 1}</span>の<span>申請{'申立て': 1, '場合': 1}</span>があったときは、その<span>申請{'当該': 1}</span>が<span>法令{'条件': 1}</span>に適合し、かつ、金融商品<span>債務{'規定': 1}</span>引受業を適正かつ確実に運営するために十分かどうかを審査しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="36">
+          <ArticleCaption>（資本金の額等の変更の届出）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十一の規定により届出を行う外国金融商品取引清算機関は、次に掲げる事項を記載した<span>届出{'書面': 1, '認可申請': 1}</span>書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の届出書には、次の各号に掲げる<span>変更{'場合': 2}</span>の区分に応じ、当該各号に定める書類を<span>添付{'規定': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の三第一項第二号から第四号までに掲げる<span>事項{'書類': 3}</span>の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第三十条第十二号に掲げる<span>書類{'事項': 6}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の三第一項第五号に掲げる<span>事項{'書類': 3}</span>の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">第三十条第三号、第八号<span>及び{'次に': 2}</span>第十二号に掲げる書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">国内の<span>事務所{'代表者': 1}</span>に駐在する役員の旧氏及び名を当該役員の氏名に併せて<span>前項{'法': 1}</span>の<span>届出{'申請': 1}</span>書に記載した<span>場合{'事項': 1}</span>において、<span>イ{'当該': 2}</span>の住民票の<span>抄本{'書面': 1}</span>又はこれに代わる書面が当該<span>役員{'申請': 1, '代表': 1, '会計参与': 1}</span>の旧<span>氏{'氏名': 1}</span>及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 2}</span>旧氏及び名を証する書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の三第一項第六号に掲げる事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に<span>掲げる{'あっ': 1}</span><span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">第三十条<span>第五{'種類': 1}</span>号<span>及び{'又は': 1}</span>第十二号に掲げる書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">国内における代表者の旧氏及び名を当該<span>代表{'役員': 1}</span>者の氏名に併せて<span>前項{'法': 1}</span>の届出書に記載した<span>場合{'事項': 1}</span>において、<span>イ{'当該': 2}</span>の住民票の<span>抄本{'書面': 1}</span>又はこれに代わる書面が当該<span>代表{'申請': 1, '役員': 2, '会計参与': 1}</span>者の旧氏及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 1}</span>旧氏及び名を証する書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の三第一項第七号に掲げる事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第三十条第十号に掲げる書類</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="37">
+          <ArticleCaption>（金融商品債務引受業の廃止の認可の申請）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十五の認可を受けようとする外国金融商品取引清算機関は、認可申請書に次に掲げる書類を添付して金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>金融商品{'理由': 2}</span>債務引受業の廃止の理由を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">株主総会又は取締役会に準ずる機関の議事録その他必要な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">最終事業年度に係る<span>貸借対照表{'末日': 1}</span>（<span>関連{'準用': 1}</span>する注記を含む。）及び<span>損益計算書{'株主資本等変動計算書': 1}</span>（関連する注記を含む。）並びに金融商品債務引受業に係る資産<span>及び{'又は': 1}</span>負債の内容を<span>明らか{'記載': 1}</span>にした書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>金融商品{'金銭': 1}</span>債務引受業の結了の方法を記載した<span>書面{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となるべき事項を記載した<span>書面{'書類': 3}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　金融商品取引清算機関と他の金融商品取引清算機関等との連携</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="38">
+          <ArticleCaption>（連携金融商品債務引受業務となる行為）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十六第一項に規定する内閣府令で定める行為は、次に掲げる行為とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第百五十六条の六十二第一号に掲げる<span>取引{'事項': 1}</span>以外の対象<span>取引{'金融機関': 1}</span>に係る<span>清算{'債権': 1}</span>参加者の債務及び当該対象取引に係る清算参加者の相手方の債務を<span>自ら{'履行': 1}</span>が負担し、その<span>負担{'場合': 1}</span>した当該清算<span>参加{'相互会社': 1}</span>者の債務は第三者に負担させる行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第百五十六条の六十二第一号に掲げる取引以外の<span>対象{'当該': 1}</span><span>取引{'金融機関': 1}</span>に係る清算参加者の債務及び当該対象取引に係る清算<span>参加{'締結': 1, '取次ぎ': 1}</span>者の<span>相手方{'当該': 1}</span>の債務を<span>第三者{'履行': 1}</span>に負担させ、その負担させた当該清算<span>参加{'投資法人': 1}</span>者の<span>相手方{'債務': 1}</span>の債務は自らが負担する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第百五十六条の六十二第一号に掲げる取引以外の対象取引に係る清算<span>参加{'決済': 1}</span>者の債務を<span>自ら{'履行': 1}</span>が負担し、その負担した当該清算参加者の債務を第三者に負担させ、かつ、当該対象<span>取引{'有価証券': 1}</span>に係る清算参加者の<span>相手方{'当該': 1}</span>の債務を<span>第三者{'履行': 1}</span>に負担させ、その負担させた当該清算<span>参加{'投資法人': 1}</span>者の<span>相手方{'債務': 1}</span>の債務を自らが負担する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前三号に掲げるものの<span>ほか{'行為': 1}</span>、法第百五十六条の六十二第一号に掲げる取引以外の<span>対象{'当該': 1}</span>取引に係る債権債務の清算のため、清算参加者と清算<span>参加{'執行': 1}</span>者の相手方との間で<span>生じ{'除き': 1}</span>た当該対象取引に係る清算参加者の債務を第三者に<span>負担{'場合': 1}</span>させ、当該対象取引に係る清算参加者の<span>相手方{'当該': 2}</span>の債務は自らが負担する<span>行為{'法': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="39">
+          <ArticleCaption>（認可申請書の経由）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十七第一項の規定により認可申請書を提出しようとする金融商品取引清算機関は、当該認可申請書を金融庁長官を経由して提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="40">
+          <ArticleCaption>（認可申請書の添付書類）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第二号に規定する<span>内閣府令{'政令': 1}</span>で定めるものは、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算<span>参加者{'開始': 1}</span>及びその相手方の要件に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">連携金融商品債務引受業務として行う引受け、更改その他の方法による債務の負担及びその履行に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者及びその相手方の債務の履行の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第三号<span>ハ{'法': 1}</span>に規定する<span>内閣府令{'政令': 1}</span>で定めるものは、次に掲げるもの（連携清算機関等の業務方法書（これに準ずるものを含み、連携金融商品債務引受業務に係るものに限る。第四十八条第八項第一号において同じ。）に記載されているものを除く。）とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者の相手方の要件に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>連携{'金融商品取引': 1}</span>清算機関等の業務（連携金融商品債務引受業務に係るものに限る。）として行う引受け、更改その他の方法による債務の負担及びその履行に関する<span>事項{'債務': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者の相手方の債務の<span>履行{'保証': 1}</span>の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者の相手方が連携清算機関等に対し債務の履行を担保するために預託する金銭その他の財産を定める場合にあっては、当該財産及びその管理<span>方法{'当該': 1}</span>に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>連携{'金融商品取引': 1}</span>清算機関等の業務（連携金融商品債務引受業務に係るものに限る。）を管理する責任者の氏名及び役職名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>連携{'金融商品取引': 1}</span>清算機関等の業務（連携金融商品債務引受業務に係るものに限る。）を行う部署の名称及び組織の体制</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第五号に規定する内閣府令で定める書類は、次に掲げる書類とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">連携清算機関等において連携金融商品債務引受<span>業務{'種類': 1}</span>に係る業務を行うことを<span>決議{'場合': 1}</span>した株主総会又は取締役会（これらに準ずる機関を含む。）の議事録その他<span>必要{'当該': 1}</span>な手続があったことを証する書面</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">連携清算機関等が金融商品取引清算機関又は外国金融商品取引清算機関以外の者であるときは、次に掲げる<span>書類{'商工組合中央金庫': 1}</span></Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の総株主等の議決権の百分の十以上の数の議決権を保有している者の氏名又は<span>商号{'名称': 3}</span><span>若しくは{'又は': 1}</span>名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">親法人（連携清算機関等の総株主等の議決権の過半数を保有している法人その他の団体をいう。）及び子法人（<span>連携{'法人': 1}</span>清算機関等が総株主等の議決権の過半数を保有している法人その他の団体をいう。）の概要を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の役員の履歴書（連携清算機関等の役員が法人であるときは、当該役員の沿革を記載した書面）及び国内に連携清算機関等の事務所がある場合にあっては、当該事務所に駐在する役員の住民票の抄本（本籍の記載のあるものに限る。）又はこれに代わる書面並びに連携清算機関等の役員が次のいずれにも該当しない者であることを当該役員が誓約する書面</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Delete="false" Hide="false" Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical"><span>精神{'金融': 1}</span>の機能の障害のため職務を適正に執行するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">法第八十二条第二項第三号イからヘまでのいずれかに該当する者</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">国内の連携清算機関等の事務所に駐在する役員の旧氏及び名を当該役員の氏名に併せて<span>法{'前項': 1}</span>第百五十六条の二十の十七第一項の<span>認可申請{'書類': 1}</span>書に記載した<span>場合{'第一': 1}</span>において、<span>ハ{'前': 1}</span>の<span>住民票{'代表者': 1}</span>の抄本又はこれに代わる書面が当該<span>役員{'申請': 1, '代表': 1, '会計参与': 1}</span>の旧<span>氏{'氏名': 1}</span>及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 2}</span>旧氏及び名を証する<span>書面{'商工組合中央金庫': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等がその役員のうちに<span>ハ{'次': 1}</span>（１）に該当する者のある者に該当しない旨を<span>誓約{'記載': 1}</span>する<span>書面{'商工組合中央金庫': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の業務を執行する役員の担当業務を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="7">
+                <Subitem1Title>ト</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の連携金融商品債務引受業務に関する知識及び経験を有する<span>従業員{'使用人': 1}</span>の確保の状況並びに当該従業員の配置の状況を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="8">
+                <Subitem1Title>チ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の事務の機構及び分掌を記載した書面</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="9">
+                <Subitem1Title>リ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等がその業務（連携<span>金融商品{'相互会社': 1}</span>債務引受業務に係るものに限る。）において使用する電子情報処理組織の概要、設置場所、容量及び保守の方法並びに当該電子情報処理組織に異常が発生した場合の対処方法を記載した書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="10">
+                <Subitem1Title>ヌ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携清算機関等の登記事項証明書（これに準ずるものを含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="11">
+                <Subitem1Title>ル</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">連携<span>清算機関{'相当': 1}</span>等が外国の法令に準拠し、当該外国において金融商品債務引受業と同種類の業務を開始してから令第十九条の四の五第一項に定める期間を経過していること、又は同条第二項に定める<span>場合{'要件': 2}</span>に該当することを証する<span>書面{'商工組合中央金庫': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="12">
+                <Subitem1Title>ヲ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical"><span>連携{'金融庁長官': 1, '外国': 1}</span>清算機関等が所在する国における金融商品債務引受業と同種類の業務に関する法制を記載した書類</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他法第百五十六条の二十の十八第一項の規定による審査の参考となるべき事項を記載した<span>書面{'書類': 2}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="41">
+          <ArticleCaption>（認可申請書に添付すべき電磁的記録）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の十七第三項に規定する内閣府令で定める電磁的記録は、日本産業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジに該当する構造の磁気ディスクとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の電磁的記録への記録は、次に掲げる方式に従ってしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">トラックフォーマットについては、日本産業規格Ｘ六二二五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ボリューム及びファイル構成については、日本産業規格Ｘ〇六〇五に規定する方式</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の電磁的記録には、日本産業規格Ｘ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>認可申請{'申請': 1}</span>者の商号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">申請年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="42">
+          <ArticleCaption>（分割又は事業の譲渡）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">令第十九条の四の五第二項第二号に規定する内閣府令で定める場合は、分割により承継される業務自体で金融商品債務引受業と同種類の業務を行うことができると認められる場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>令{'法': 1}</span>第十九条の四の五第二項第三号に規定する内閣府令で定める<span>場合{'額': 1}</span>は、譲渡される業務自体で金融商品債務引受業と同種類の業務を行うことができると認められる場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="43">
+          <ArticleCaption>（変更の認可の申請）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法{'当該': 1}</span>第百五十六条の二十の二十一第一項の<span>認可{'規定': 3}</span>を受けようとする認可金融商品取引<span>清算機関{'協会': 2}</span>は、次に掲げる事項を記載した<span>認可申請{'書面': 1}</span>書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容及び<span>理由{'当該': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の認可申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第一号<span>又は{'及び': 1}</span>第二号に掲げる<span>書類{'事項': 4}</span>に<span>記載{'定め': 1}</span>した事項を変更しようとする場合にあっては、当該書類の新旧対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となる<span>書類{'事項': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="44">
+          <ArticleCaption>（変更の認可の基準）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融庁長官は、<span>法{'前項': 1}</span>第百五十六条の二十の二十一第一項の規定に基づく<span>認可{'承認': 1}</span>の<span>申請{'申立て': 1, '場合': 1}</span>があったときは、その<span>申請{'当該': 1}</span>が<span>法令{'条件': 1}</span>に適合し、かつ、連携金融商品債務引受<span>業務{'種類': 1}</span>及び連携清算機関等の業務（連携金融商品債務引受業務に係るものに限る。）を適正かつ確実に運営するために十分かどうかを審査しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="45">
+          <ArticleCaption>（変更の届出）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の二十一第二項の規定により届出を行う<span>認可{'外国': 1}</span>金融商品取引<span>清算機関{'協会': 2}</span>は、次に掲げる事項を記載した<span>届出{'書面': 1, '認可申請': 1}</span>書を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">変更年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の届出書には、次の各号に掲げる<span>変更{'場合': 2}</span>の区分に応じ、当該各号に定める書類を添付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十七第一項第二号又は第三号イからハまでに掲げる事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">第四十条第三項第二号ヌに掲げる<span>書類{'事項': 4}</span></Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十七第一項第三号ニに掲げる<span>事項{'書類': 3}</span>の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">次に掲げる<span>書類{'事項': 2}</span></Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">第四十条第三項第二号ハ、ヘ及びヌに掲げる<span>書類{'会社': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">国内の連携清算機関等の事務所に駐在する役員の旧氏及び名を当該役員の氏名に併せて<span>前項{'法': 1}</span>の<span>届出{'申請': 1}</span>書に記載した<span>場合{'事項': 1}</span>において、<span>イ{'当該': 2}</span>の住民票の<span>抄本{'書面': 1}</span>又はこれに代わる書面が当該<span>役員{'申請': 1, '代表': 1, '会計参与': 1}</span>の旧<span>氏{'氏名': 1}</span>及び<span>名{'当該': 1}</span>を証するものでないときは、<span>当該{'書面': 2}</span>旧氏及び名を証する<span>書面{'書類': 1}</span></Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第百五十六条の二十の十七第二項第三号<span>ロ{'イ': 1}</span><span>又は{'及び': 1}</span><span>ハ{'ロ': 3}</span>に掲げる<span>書類{'事項': 3}</span>に<span>記載{'定め': 1}</span>した事項の変更</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該書類の<span>新旧{'提出': 1, '変更': 1}</span>対照表及び変更後の当該書類</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="46">
+          <ArticleCaption>（廃止の届出）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百五十六条の二十の二十一第三項の規定により届出を行う認可金融商品取引<span>清算機関{'協会': 2}</span>は、次に掲げる事項を記載した届出書を<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>連携{'特定': 1}</span>金融商品債務引受業務の廃止の<span>年月日{'場合': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">連携金融商品債務引受業務の<span>廃止{'規程': 1}</span>の<span>理由{'場合': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="47">
+          <ArticleCaption>（業務方法書に基づく規則の届出）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融商品取引清算機関又は外国金融商品取引清算機関は、業務<span>方法{'委託': 1}</span>書に基づき規則を定め、又は廃止若しくは<span>変更{'登録': 1}</span>したときは、遅滞なく、その旨を<span>金融庁長官{'当該': 1}</span>に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="48">
+          <ArticleCaption>（金融商品取引清算機関の業務に関する提出書類）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融商品取引<span>清算機関{'協会': 1, '内閣府令': 1, '契約': 1}</span>は、<span>法{'前項': 1}</span>第百八十八条の規定に基づき、会社法第四百三十五条第二項に規定する計算書類及び事業報告を、毎事業年度<span>終了{'経過': 1}</span>後三月以内に、<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法': 1}</span>の規定により提出する書類には、次に掲げる書類を<span>添付{'準用': 1}</span>するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">会社法第四百三十五条第二項の<span>附属{'規定': 3}</span>明細書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算預託金その他の清算参加者が金融商品取引清算機関に対し債務の履行を担保するために預託する金銭その他の財産の明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取引証拠金明細表（市場デリバティブ取引について金融商品債務引受業を行う金融商品取引清算機関に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他諸勘定明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">金融商品取引<span>清算機関{'契約': 1}</span>の総株主の議決権の百分の十以上の数の議決権を保有している株主の氏名又は商号若しくは名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>金融商品取引所{'準用': 1}</span>が法第百五十六条の十九第一項の規定により内閣総理大臣の<span>承認{'認可': 2}</span>を受けて金融商品取引清算機関として業務を行う場合に<span>あっ{'限る': 1}</span>ては、当該金融商品取引所は、第一項の期間内に、前二項に掲げる書類又はこれに相当する書類（前項第二号に掲げる<span>書類{'場合': 1}</span>を除く。）を提出したときは、前二項の規定にかかわらず、当該各項に掲げる書類（前項第二号に<span>掲げる{'定める': 1}</span>書類を除く。）を提出することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融商品取引清算機関は、次の各号に掲げる事実（<span>次項{'発生': 1}</span>において「事故」という。）が発生した場合には、法第百八十八条の規定により、直ちに、その旨を金融庁長官に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">取締役、会計参与（会計参与が法人であるときは、職務を行うべき社員を含む。）、<span>監査役{'項': 1}</span>、執行役又は使用人がその<span>業務{'職務': 2}</span>を執行するに際し、法令又は業務方法書（認可金融商品取引清算機関にあっては、<span>連携{'当該': 2}</span>契約書を含む。）に違反する行為をしたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">電子情報処理組織の故障その他偶発的な<span>事情{'当該': 1}</span>による金融商品債務引受業の全部又は一部の停止</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">金融商品取引<span>清算機関{'協会': 1, '業務': 1}</span>は、前項の規定により報告した事故の詳細が判明した場合には、法第百八十八条の規定により、<span>遅滞{'届出': 1}</span>なく、次に掲げる事項を記載した<span>書類{'報告書': 1}</span>を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の詳細</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の改善策</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>認可{'外国': 1}</span>金融商品取引<span>清算機関{'協会': 2}</span>は、法第百八十八条の規定に基づき、認可に係る連携清算機関等（金融商品取引清算機関又は外国金融商品取引清算機関以外の者に限る。以下この条において同じ。）の貸借対照表、<span>損益計算書{'場合': 1}</span>その他当該連携清算機関等の業務、財産及び収支の状況を知ることができる<span>書類{'書面': 1}</span>を、<span>当該{'商工組合中央金庫': 1}</span><span>連携{'金融商品取引': 1}</span>清算機関等の毎事業年度<span>終了{'経過': 1}</span>後三月以内に、金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法': 1}</span>の規定により提出する書類には、次に掲げる書類を添付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算<span>参加{'執行': 1}</span>者の相手方が認可に係る連携清算機関等に対し債務の履行を担保するために<span>預託{'供': 1}</span>する金銭その他の財産の明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">認可に係る連携清算機関等の総株主等の議決権の百分の十以上の数の議決権を保有している者の氏名又は<span>商号{'名称': 3}</span><span>若しくは{'又は': 1}</span>名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>認可{'外国': 1}</span><span>金融商品取引{'申請': 1}</span>清算機関は、<span>次{'前': 1}</span>の各号に掲げる事実（次項において「事故」という。）が発生したことを知った場合には、<span>法{'前項': 1}</span>第百八十八条の規定により、直ちに、その旨を金融庁長官に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">認可に係る連携清算機関等の役員又は使用人がその業務（連携金融商品債務引受業務に係るものに限る。）を執行するに際し、法令又は当該<span>連携{'外国': 1}</span>清算機関等の業務方法書若しくは連携契約書に違反する行為をしたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">認可に係る連携清算機関等の電子情報処理組織の故障その他偶発的な事情による当該連携清算機関等の業務（連携金融商品債務引受業務に係るものに限る。）の全部又は一部の停止</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">認可<span>金融商品取引{'受け': 1}</span><span>清算機関{'協会': 2}</span>は、<span>前項{'法': 1}</span>の規定により報告した事故の詳細が判明した場合には、法第百八十八条の規定により、<span>遅滞{'届出': 1}</span>なく、次に掲げる事項を記載した<span>書類{'報告書': 1}</span>を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の詳細</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の改善策</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="49">
+          <ArticleCaption>（外国金融商品取引清算機関の業務に関する提出書類）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国金融商品取引清算機関は、法第百八十八条の規定に基づき、貸借対照表、損益計算書その他当該外国金融商品取引清算機関の業務、財産及び<span>収支{'損益': 1}</span>の状況を知ることができる書類を、毎事業年度<span>終了{'経過': 2}</span>後<span>三月{'事業年度': 1}</span>以内に、<span>金融庁長官{'内閣総理大臣': 1}</span>に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'法': 1}</span>の規定により提出する書類には、次に掲げる書類を添付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">清算参加者が外国金融商品取引清算機関に対し債務の履行を担保するために預託する金銭その他の財産の明細表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">外国金融商品取引清算機関の総株主等の議決権の百分の十以上の数の議決権を保有している者の氏名又は<span>商号{'名称': 3}</span><span>若しくは{'又は': 1}</span>名称、住所又は所在地及びその保有する議決権の数を記載した書面</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>外国{'認可': 1}</span>金融商品取引清算機関は、次の各号に掲げる事実（<span>次項{'発生': 1}</span>において「事故」という。）が発生した場合には、法第百八十八条の規定により、直ちに、その旨を金融庁長官に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">役員、国内における<span>代表者{'役員': 1}</span><span>又は{'若しくは': 1}</span>使用人がその金融商品債務引受業に係る業務を執行するに際し、<span>法令{'委任': 1}</span>又は業務<span>方法{'法令': 1}</span>書に<span>違反{'電子': 1}</span>する行為をしたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>電子{'業務': 1}</span>情報処理組織の故障その他偶発的な<span>事情{'当該': 1}</span>による金融商品債務引受業の全部又は一部の停止</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">外国金融商品取引清算機関は、<span>前項{'法': 1}</span>の規定により報告した事故の詳細が判明した場合には、法第百八十八条の規定により、<span>遅滞{'届出': 1}</span>なく、次に掲げる事項を記載した<span>書類{'報告書': 1}</span>を金融庁長官に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の詳細</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事故の改善策</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="50">
+          <ArticleCaption>（標準処理期間）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣又は<span>金融庁長官{'都道府県知事': 1}</span>は、法第百五十六条の六第二項<span>ただし書{'規定': 1}</span>の<span>承認{'規定': 1, 'ただし書': 1}</span>又は法第百五十六条の十二、第百五十六条の十二の三第一項、第百五十六条の十八、第百五十六条の二十の十、第百五十六条の二十の十五若しくは第百五十六条の二十の二十一第一項の<span>認可{'規定': 1}</span>に関する申請がその事務所に到達してから一月以内に、法第百五十六条の二若しくは第百五十六条の二十の二の<span>免許{'規定': 1}</span>、法第百五十六条の五の五第一項<span>若しくは{'又は': 1}</span>第四項ただし書若しくは第百五十六条の二十の十六第一項の認可又は法第百五十六条の十九第一項若しくは第二項の<span>承認{'登録': 1, '規定': 1}</span>に関する<span>申請{'受け': 1}</span>がその事務所に到達してから二月以内に、それぞれ<span>当該{'登録': 1}</span>申請に対する処分をするよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項に規定する期間には、次に掲げる期間を含まないものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該申請を補正するために要する期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該申請をした者が当該申請の内容を変更するために要する期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該申請をした者が当該申請に係る審査に必要と認められる<span>資料{'書類': 1}</span>を追加するために要する期間</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成十五年<span>一月六日{'公布': 3}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年三月二八日内閣府令第一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、商法等の一部を改正する法律の施行の日（平成十五年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一月三〇日内閣府令第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成十六年<span>四月一日{'六月一日': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二〇日内閣府令第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、会社法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（証券取引清算機関等に関する内閣府令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前に終了した事業年度に係る第二十二条の規定による改正後の<span>証券取引{'前': 1}</span>清算機関等に関する内閣府令第十四条の<span>書類{'規定': 2}</span>については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年八月七日内閣府令第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、平成十九年九月三十日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年一一月一九日内閣府令第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、平成二十三年<span>一月一日{'公布': 1, '六月一日': 1, '四月一日': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年一二月二七日内閣府令第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この府令は、金融商品取引法等の一部を改正する法律（<span>次{'法律': 3}</span>条において「改正法」という。）の施行の日（平成二十三年<span>四月一日{'七月一日': 1}</span>）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同<span>条{'改正': 1}</span>の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'法律': 3}</span>の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年七月一一日内閣府令第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 1}</span>は、金融商品取引法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成二十四年十一月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年二月二六日内閣府令第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 3, '命令': 1}</span>は、<span>金融商品取引法{'保険業法': 1}</span>等の一部を改正する法律（以下「改正法」という。）の施行の日（平成二十六年三月十一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年四月二八日内閣府令第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 1}</span>は、<span>会社法{'金融商品取引法': 3, '民法': 1}</span>の一部を改正する法律の施行の日（平成二十七年<span>五月一日{'三月一日': 1}</span>）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月一日内閣府令第九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'政令': 1, '命令': 1}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月七日内閣府令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二四日内閣府令第一四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、<span>不正競争防止法{'不動産特定共同事業法': 1}</span>等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月二一日内閣府令第四一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この<span>府令{'命令': 1}</span>は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日（令和元年十二月十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 1}</span>は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年<span>五月一日{'四月一日': 1, '六月一日': 1}</span>）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この<span>府令{'政令': 2}</span>の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの<span>府令{'法律': 4}</span>の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二三日内閣府令第七五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この<span>府令{'法律': 2, '命令': 1}</span>は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical"><QuoteStruct><Sentence WritingMode="horizontal">４．保険募集にかかる苦情の発生件数（直近３ヵ年度）４．保険募集にかかる苦情の発生件数（直近３ヵ年度）</Sentence>
+</QuoteStruct>」の次の記載上の注意に係る部分に限る。）<QuoteStruct>
+<Sentence WritingMode="horizontal"></Sentence></QuoteStruct></Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">三年四月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical"><QuoteStruct><Sentence WritingMode="horizontal">４　氏を改めた者においては、旧氏及び名を、「氏名」欄に<span>括弧{'記載': 1}</span>書で併せて記載することができる。</Sentence></QuoteStruct><QuoteStruct><Sentence WritingMode="horizontal">２　氏を改めた者においては、旧氏及び名を、「外務員氏名」欄に括弧書で併せて記載することができる。」に</Sentence></QuoteStruct>係る部分に限る。）</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">令和三年七月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H14F10001000076_2102261002_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="37" Year="25">
+  <LawNum>昭和二十五年大蔵省令第三十七号</LawNum>
+  <LawBody>
+    <LawTitle>資産再評価法施行規則</LawTitle>
+    <EnactStatement>資産再評価法の規定に基き、資産再評価法施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（非事業用資産を事業用に供した場合の償却額の計算）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>資産再評価法（昭和二十五年法律第百十号。以下「法」という。）第二十七条の規定により減価償却資産の再<span>評価{'償却': 2}</span>額の限度額から控除する<span>減価{'限度': 1}</span>の<span>価額{'規定': 1}</span>は、当該資産について基準日（法<span>第三条{'第一': 1}</span>に規定する基準日をいう。以下同じ。）現在において再評価を行つたものとして法第十七条から第十九条までの規定（法第十七条第一項但書の規定を除く。）を適用した場合における当該<span>資産{'時価': 1}</span>の再評価額の<span>限度{'換え': 1}</span>額を当該資産の取得価額とみなし、且つ、当該資産を基準日において取得したものとみなして、<span>所得税法施行令{'規定': 1}</span>（昭和四十年政令第九十六号）第八十五条の規定に準じて計算した<span>減価{'取得': 1}</span>の<span>価額{'額': 1}</span>の<span>累積{'価額': 1}</span>額に相当する金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（個人の資産の償却額及び減価の価額の計算）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十二条第三項本文に規定する償却額又は<span>減価{'取得': 1}</span>の価額は、同<span>項{'時価': 1, '法': 1}</span>本文に規定する<span>資産{'適用': 1}</span>（以下本項において「再<span>評価{'規定': 1}</span>資産」という。）が事業の<span>用{'専従': 1}</span>に供している資産であるときは、<span>第一{'減価償却資産': 1}</span>号に掲げる金額から第二号に掲げる金額を控除して<span>計算{'金額': 3, '残額': 1}</span>した金額とし、再<span>評価{'当該': 2}</span>資産が事業の用に供していない資産であるときは、第三号に掲げる金額から第四号に掲げる金額を控除して<span>計算{'金額': 3, '残額': 1}</span>した金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>再<span>評価{'当該': 2}</span>資産（事業の用に供しているものに限る。）の再<span>評価{'譲渡': 1}</span>額を当該資産の取得価額とみなし、且つ、当該資産を基準日において取得したものとみなして、所得税法施行令第百二十条第一項、第百二十<span>一条{'政令': 1}</span>第二項及び第百二十二条第一項に規定する方法のうち当該資産について<span>選定{'償却': 1}</span>された方法又は同令第百二十五条の規定により当該資産についてよるべきものとして定められた方法により計算した<span>償却{'金額': 1}</span>額の<span>累積{'額': 1}</span>額に相当する金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>前{'当該': 1}</span>号の資産について基準日現在において再評価が行われなかつたものとした場合において、<span>所得税法施行令{'法人税法': 1}</span>第百二十条第一項、第百二十一条第二項及び第百二十二条第一項に規定する方法のうち当該資産について<span>選定{'償却': 1}</span>された方法又は同令第百二十五条の規定により当該資産についてよるべきものとして定められた方法により計算した<span>償却{'当該': 1}</span>額の<span>累積{'額': 1}</span>額に相当する<span>金額{'時価': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">再<span>評価{'当該': 1}</span>資産（事業の用に供していないものに限る。）の再<span>評価{'譲渡': 1}</span>額を当該資産の取得価額とみなし、且つ、当該資産を基準日において取得したものとみなして、当該資産について<span>所得税法施行令{'同法': 1, '法': 1}</span>第八十五条の規定に準じて計算した<span>減価{'取得': 2}</span>の価額の累積額に相当する金額。</Sentence>
+              <Sentence Function="proviso" Num="2">但し、基準日以後当該資産について譲渡、贈与又は<span>遺贈{'取得': 1}</span>があつた日までの<span>間{'場合': 1}</span>において当該資産を事業の用に供したことが<span>ある{'なっ': 1}</span>場合においては、当該<span>事業{'居住': 2}</span>の用に供していた期間について<span>第一{'法': 1}</span>号の規定に準じて計算した<span>償却{'場合': 1, '金額': 1}</span>額の<span>累積{'額': 1}</span>額と<span>当該{'額': 1}</span>期間以外の期間について<span>本文{'法': 1}</span>の規定に準じて計算した<span>減価{'場合': 1, '取得': 1}</span>の<span>価額{'額': 1}</span>の累積額との合計額とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">前号の資産について<span>基準{'価額': 1}</span>日現在において再<span>評価{'取得': 1}</span>が行われなかつたものとした場合において、当該資産について所得税法施行令第八十五条の規定に準じて計算した<span>減価{'取得': 2}</span>の価額の累積額に相当する金額。</Sentence>
+              <Sentence Function="proviso" Num="2">但し、基準日以後当該資産について譲渡、贈与又は<span>遺贈{'取得': 1}</span>があつた日までの<span>間{'場合': 1}</span>において当該資産を事業の用に供したことが<span>ある{'なっ': 1}</span>場合においては、当該<span>事業{'居住': 2}</span>の用に供した期間について第二号の規定に準じて計算した<span>償却{'期間': 1, '定め': 1}</span>額の<span>累積{'額': 1}</span>額と<span>当該{'額': 1}</span>期間以外の期間について<span>本文{'法': 1}</span>の規定に準じて計算した<span>減価{'取得': 2, '場合': 1}</span>の<span>価額{'額': 1}</span>の累積額との<span>合計{'法律': 1}</span>額とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第四十二条第四項第一号の規定により控除すべき<span>償却{'金額': 2}</span>額は、同項に規定する<span>家屋{'適用': 2}</span>について前項第一号の規定により計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第四十二条第四項第二号の規定により控除すべき<span>償却{'金額': 2}</span>額は、同項に規定する<span>家屋{'所得税法': 1}</span>の同号に規定する再評価額又は旧再評価額を<span>当該{'方法': 1}</span>家屋の取得価額とみなし、且つ、当該家屋を同号に規定する再評価日又は旧再評価日において<span>取得{'所得': 1}</span>したものとみなして、所得税法施行令第百二十条第一項の規定により当該家屋について選定された方法又は同<span>令{'ハ': 1, '法': 1}</span>第八十五条の規定により当該家屋についてよるべきものとして定められた方法により計算した償却額の<span>累積{'額': 2, '限度': 1}</span>額に相当する金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（法人の申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十五条第一項の規定による申告書には、左に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価を行つた法人の名称及び<span>代表者{'納税': 4, '住所': 1}</span>の氏名、納税地及びその納税地と<span>本店{'申告': 1}</span>又は主たる事務所の所在地とが異なるときは、その<span>本店{'納税': 1, '場合': 2}</span>又は主たる事務所の所在地<span>並びに{'及び': 5}</span>法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。以下同じ。）（法の<span>施行{'規定': 1}</span>地に本店又は主たる事務所を<span>有{'所在地': 2}</span>しない法人で<span>法{'事業': 1, '法律': 1, '政令': 1}</span>の<span>施行{'規定': 2}</span>地に資産又は事業を有するものについては、<span>法{'法律': 1, '事業': 1}</span>の<span>施行{'規定': 4}</span>地における主たる資産又は事業の所在地及びその資産又は<span>事業{'負債': 1}</span>の管理又は経営の責任者の氏名を含む。以下同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>国税通則法（昭和三十七年法律第六十六号）第百十七条第一項の規定により納税管理人を定めたときは、その<span>名称{'氏名': 2}</span><span>又は{'及び': 2}</span><span>氏名{'名称': 2}</span>及び住所（<span>法{'政令': 1, '法律': 1}</span>の<span>施行{'一条': 1}</span>地に住所がないときは居所とする。以下同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価日における資本金（<span>出資金{'額': 1}</span>を含む。）の額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価を行つた法人の事業の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価日及び再評価日を含む<span>事業年度{'計算': 1}</span>の期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価を行つた資産を、有形減価償却資産、無形減価償却資産、鉱業の用に供する減価償却資産、その他の事業用資産（法第二十条第一項に規定するその他の<span>事業用{'譲渡': 1}</span>資産をいう。）並びに土地及び土地の上に存する<span>権利{'価額': 1}</span>ごとに区分して合計した<span>場合{'当該': 1}</span>における<span>それぞれ{'当該': 1}</span>の再評価額、再評価差額、再評価税額、再評価額の<span>限度{'方法': 1, '換え': 1}</span>額及び再<span>評価{'次項': 1}</span>日の<span>直前{'換え': 1}</span>における帳簿価額<span>並び{'償却': 1}</span>にこれらの額の<span>合計{'当該': 1, '規定': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>減価償却資産の再評価税について、法第五十<span>一条{'第一': 1}</span>第一項の<span>規定{'外国法人': 1}</span>により納付すべき各事業年度分の予定<span>納付{'納税': 1}</span>税額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第九十七条の規定による総会その他これに準ずるものの承認の日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（明細書の記載事項等）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十五条第二項（法第四十六条第四項において準用する場合を含む。）の<span>明細書{'規定': 2, '時価': 1}</span>は、再評価を<span>行つ{'換え': 1}</span>た資産を昭和二十八年一月一日において有していたものと同日後に<span>取得{'政令': 1}</span>したものとに<span>区分{'価額': 1}</span>し、かつ、その<span>区分{'当該': 2}</span>した<span>資産{'区分': 1}</span>を更に前条第六号に掲げる資産の種類によつて区分して<span>作成{'それぞれ': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定による<span>区分{'帳簿': 1}</span>に従つて作成した明細書には、次に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>前条{'申告': 1, '法': 1}</span>第一号に規定する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の<span>種類{'譲渡': 2}</span>及び細目並びに<span>耐用年数{'当該': 2}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の属する<span>事業{'資産': 1}</span>の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の<span>所在地{'譲渡': 1}</span>（その資産が、船舶、車両等で二以上の市町村（都の特別区の存する区域にあつては特別区とし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市にあつてはその市の区又は総合区とする。以下この号において同じ。）にわたつて使用されるとき又は鉄道、発電施設等で二以上の<span>市町村{'検査': 1}</span>にわたつて所在するときは、その使用され又は所在する市町村名を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>法{'条': 1, '項': 1}</span>第四十五条第二項に<span>規定{'時価': 1}</span>する再評価額の<span>限度{'対象': 1}</span>額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の取得の時期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の取得価額及び再<span>評価{'当該': 1}</span>日の直前における帳簿価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>鉱業{'事業': 1}</span>の用に供する資産については、その資産の取得の時期から再評価日の前日までの<span>普通{'資産': 1}</span><span>償却{'減価償却資産': 1}</span>範囲額の累計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産について再評価日前に減価償却又は帳簿価額の減額をした場合におけるその償却額及び減少額の<span>合計{'部分': 1}</span>金額のうち法人税法（昭和四十年<span>法律{'二条': 1}</span>第三十四号）の規定による所得の金額の<span>計算{'規定': 1}</span>上<span>損金{'益金': 1}</span>の額に算入されなかつた金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>再<span>評価{'還付': 1}</span>額の限度額の計算の基礎と<span>なつ{'なる': 1}</span>た法別表第一から<span>別表{'規定': 3}</span>第七までに定められた<span>倍数{'欄': 1}</span>（第十七条第一項<span>ただし書{'二条': 1}</span>の規定により再評価を行つた<span>資産{'場合': 3}</span>については、当該<span>資産{'時価': 1}</span>の再<span>評価{'償却': 1}</span>額の<span>限度{'方法': 2}</span>額の<span>計算{'処分': 1}</span>に関する<span>詳細{'規定': 1, '金額': 1}</span>）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十七条第四項の規定により再<span>評価{'控除': 2, '償却': 1}</span>額の<span>限度{'方法': 1, '適用': 1}</span>額の計算について控除すべき金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第百条の<span>規定{'合計': 1}</span>により仮勘定として<span>貸借対照表{'資産': 1}</span>の負債の部に計上した金額があるときは、その金額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第四十七条第二項において準用する<span>場合{'金額': 1, '規定': 1}</span>における法第四十五条第二項の明細書には、次に掲げる事項を<span>記載{'当該': 1}</span>しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価が行われたものとみなされた資産の種類及び<span>細目{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の<span>所在地{'譲渡': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の取得の時期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>資産の財産税評価額又は取得価額及び譲渡価額又は贈与若しくは遺贈があつた時における価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価額の計算の基礎となつた法別表第一、別表第六又は<span>別表{'規定': 1}</span>第七に定められた倍数</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>第二条に規定する償却額又は<span>減価{'取得': 1}</span>の価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十二条第四項に規定する家屋については、同<span>項{'法': 1}</span>第二号に規定する再評価額又は旧再評価額及び再評価日又は旧再評価日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5:6">
+        <ArticleTitle>第五条及び第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（個人の減価償却資産についての申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十六条第一項の規定による申告書には、左に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価を行つた個人の氏名<span>及び{'又は': 2}</span><span>住所{'章': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>国税通則法第百十七条第一項の規定により<span>納税{'基準': 1}</span>管理人を<span>定め{'行う': 1}</span>たときは、<span>納税{'場合': 1}</span>管理人の<span>氏名{'届出': 1}</span>又は名称及び<span>住所{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>再<span>評価{'次項': 1}</span>を行つた個人の事業の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>再<span>評価{'資産': 1}</span>日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価を行つた資産を、有形減価償却資産、無形減価償却資産及び鉱業の用に供する減価償却資産ごとに区分して合計した場合における<span>それぞれ{'当該': 2}</span>の再評価額、再評価差額、再評価税額、再評価額の限度額（法第十七条第一項但書に規定する資産について再評価を行つた場合において、当該資産の再評価額が同項本文の規定により計算した<span>限度{'金額': 1}</span>額以下であるときは、当該資産については、当該限度額）及び財産税評価額又は取得価額並びにこれらの額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（個人の減価償却資産以外の資産についての申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十七条第一項の規定による申告書には、<span>左{'法': 1, 'イ': 1}</span>に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価が行われたものとみなされた資産を基準日において有していた者の氏名及び住所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>遺贈に因り再評価が行われたものとみなされた場合においては、当該資産を<span>基準{'居住': 1}</span>日において有していた者の相続人の氏名<span>及び{'又は': 1}</span>住所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>贈与又は遺贈に因り再評価が行われたものとみなされた場合においては、その受贈者又は受遺者の氏名及び住所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産について譲渡、贈与又は遺贈があつた日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（修正申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十八条第一項又は第三項の規定による修正申告書には、左に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該修正申告書を提出する者の<span>名称{'氏名': 3}</span><span>又は{'及び': 1}</span><span>氏名{'名称': 2}</span>、<span>住所{'納税': 1}</span><span>及び{'又は': 2}</span>法人番号</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十五条から第四十七条までの規定により提出した申告書を<span>修正{'提出': 1}</span>する理由及び<span>当該{'中間': 1}</span>申告書を提出した日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（修正申告書に添附する明細書の記載事項）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第四十八条第四項の<span>規定{'当該': 1}</span>による明細書には、<span>左{'次': 1}</span>に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十八条第一項の規定による修正申告書に係る資産については、<span>修正{'更正': 1}</span><span>前{'更正': 1}</span>及び修正後の第四条第二項各号に掲げる事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第四十八条第三項の<span>規定{'記載': 1}</span>による修正申告書に係る<span>資産{'提出': 4}</span>については、<span>修正{'譲渡': 1}</span>前及び修正後の第四条第三項各号に掲げる事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11_2">
+        <ArticleCaption>（繰上納付の届出）</ArticleCaption>
+        <ArticleTitle>第十一条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第六十条の規定により再評価税額の繰上納付をしようとする法人又は個人は、繰上納付をしようとする日までに、左の各号に掲げる<span>事項{'書類': 1}</span>を、<span>納税{'記載': 1}</span>地の所轄税務署長に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>繰上納付しようとする税額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>繰上納付しようとする税額の法第五十一条から第五十三条まで又は第五十五条第二項に規定する納期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>税額の一部を繰上納付しようとする場合においては、当該繰上納付の日後法第五十一条から第五十三条まで又は第五十五条第二項の規定により納付すべき税額及びその納期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>繰上納付しようとする税額に係る資産の第三条第六号に掲げる区分</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（再評価積立金を取り崩した場合等の再評価税の免除申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十四条第二項の規定による申告書には、<span>左{'項': 1, '提出': 1}</span>に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該申告書を提出する<span>法人{'期限': 1}</span>の名称及び<span>代表者{'納税': 2, '住所': 1}</span>の氏名、納税地及びその納税地と<span>本店{'申告': 1}</span>又は主たる事務所の所在地とが異なるときは、その<span>本店{'納税': 1, '場合': 2}</span>又は主たる事務所の所在地<span>並びに{'及び': 3}</span>法人番号</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第百四条の規定により再評価<span>積立{'換え': 1, '方法': 1}</span>金を取り崩した金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第八十四条第一項に<span>規定{'当該': 1}</span>する資産の<span>譲渡{'取得': 4}</span>価額若しくは当該<span>資産{'金銭': 1}</span>を<span>贈与{'取得': 1}</span>した時における価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'取得': 1}</span>資産の再<span>評価額{'価額': 1}</span>（当該<span>資産{'時価': 1}</span>について再評価を二回行つたときは、二回目の再評価額）並びに再評価日（当該資産について再評価を二回<span>行つ{'換え': 1}</span>たときは、二回目の再<span>評価{'直前': 1}</span>日）以後の償却額及び償却範囲額の累計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第百四条第一項に規定する当該資産を譲渡し、又は贈与した時における帳簿価額又は帳簿価額の減額をする<span>前{'場合': 1}</span>における当該資産の帳簿価額及び同項に規定する再評価日の<span>直前{'換え': 1}</span>における当該資産の帳簿価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該資産を譲渡した日若しくは贈与した日又は<span>当該{'譲渡': 1}</span>資産の帳簿価額の減額をした日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence><span>前項{'項': 1}</span>の規定は、法第八十六条第二項の規定による申告書の記載事項について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（資力喪失の場合の再評価税の免除申請書の記載事項）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十七条第二項の規定による申請書には、左に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該申請書を提出する者の<span>名称{'住所': 1, '氏名': 5}</span><span>又は{'及び': 3}</span><span>氏名{'名称': 1}</span>、住所<span>及び{'又は': 2}</span>法人番号</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>資力喪失の事情</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>滅失した資産の再評価額（当該資産について再評価を二回行つたときは、二回目の再評価額）及び滅失した時における帳簿価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>滅失{'金銭': 1}</span>した資産について受領した<span>保険金{'管理': 1}</span>がある場合においては、その受領した保険金の額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（所得税法の規定による控除不足がある場合の再評価税の免除申告書の記載事項）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第八十八条第二項の規定による申告書には、<span>左{'前項': 1}</span>に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence><span>当該{'中間': 1}</span>申告書を提出する者の<span>氏名{'期限': 1}</span>及び<span>住所{'当該': 1}</span></Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>再評価が<span>行わ{'換え': 1}</span>れたものとみなされた<span>資産{'規定': 1}</span>の再評価額、再評価<span>差額{'方法': 1}</span>及び再評価<span>税額{'換え': 1, '方法': 1}</span>並びにその<span>譲渡{'取得': 1}</span>価額又は贈与若しくは遺贈のあつた時における価額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>免除される再評価税額<span>算出{'計算': 2}</span>の<span>基礎{'控除': 1}</span>となるその者のその<span>年{'事業年度': 1}</span>分の総所得金額及び<span>当該{'相当': 1, '所得': 1}</span>金額から所得税法（昭和四十年法律第三十三号）第七十二条から第八十条までの規定により<span>控除{'計算': 2}</span>される金額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（再評価を行つた資産の再評価額等）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法人又は個人がその再評価を行つた資産の再<span>評価額{'年月日': 1}</span>が当該資産についての取得価額を<span>こえる{'超える': 1}</span><span>場合{'合計': 1, '金額': 1}</span>においては、当該再評価額を<span>取得{'換え': 1}</span>価額とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法人又は個人が再評価を行つた資産について再評価日現在においてその再評価額を会計帳簿又は財産目録に付する場合においては、前項の規定により取得価額とみなされる再評価額を付するほか、会計帳簿又は財産目録への記載又は記録の方法については、一般に公正妥当と認められる企業会計の慣行に従うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（償却額の累計額の割合）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第百二十一条第二項に規定する割合は、坑道については百分の百とし、個人の有する牛馬については減価償却資産の耐用年数等に関する省令（昭和四十年大蔵省令第十五号）別表第十一「細目」欄に掲げるところに従い同表において定める割合を百分の百から控除した割合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、<span>公布{'当該': 1}</span>の日から施行し、昭和二十五年<span>一月一日{'省令': 1}</span>から<span>適用{'施行': 5}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年四月一〇日大蔵省令第三三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'法律': 1}</span>は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年一〇月一〇日大蔵省令第八五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>改正後の<span>資産再評価法施行規則{'附則': 1}</span>第一条及び第二条の規定は、所得税法施行規則の<span>一部{'規定': 1}</span>を改正する<span>政令{'法律': 1}</span>（昭和二十六年政令第百七十一号）施行の日から<span>適用{'施行': 5, '政令': 1}</span>する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二七年七月三一日大蔵省令第九〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'法律': 1}</span>は、昭和二十七年<span>八月一日{'公布': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二八年八月七日大蔵省令第六二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、<span>公布{'四月一日': 1}</span>の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三二年三月三一日大蔵省令第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'法律': 1}</span>は、昭和三十二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年四月二日大蔵省令第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'改正': 1}</span>は、国税通則法の施行等に伴う関係<span>法令{'法律': 1}</span>の整備等に関する法律（以下「整備法」という。）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この<span>省令{'政令': 1, '表': 1}</span>による<span>改正{'施行': 1}</span><span>前{'規定': 1}</span>の各省令に定める書式による用紙は、当分の間、所要の調整をして使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四〇年三月三一日大蔵省令第一四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、昭和四十年<span>四月一日{'一月一日': 1, '法律': 1}</span>から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四五年四月一日大蔵省令第一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、昭和四十五年五月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月二六日内閣府・財務省令第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この<span>命令{'省令': 6, '法律': 1}</span>は、<span>会社法{'省令': 2, '法律': 1}</span>の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年七月九日財務省令第五〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）附則第一条第四号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>改正後の<span>資産再評価法施行規則{'附則': 1, '国税通則法': 1, '法人税法施行規則': 1, '規定': 2}</span>（以下「新規則」という。）第三条第一号、第九条第一号及び第十二条第一項第一号の規定は、この<span>省令{'法律': 2, '政令': 1}</span>の施行の日（以下「施行日」という。）以後に開始する事業年度の資産再評価法第四十五条第一項若しくは第八十四条第二項の規定による申告書又は<span>同法{'条': 1}</span>第四十八条第一項の規定による<span>修正申告{'申告': 1}</span>書について<span>適用{'申告': 1}</span>し、施行日前に<span>開始{'課税': 1}</span>した事業年度の<span>同法{'規則': 1, '法': 1}</span>第四十五条第一項若しくは第八十四条第二項の規定による申告書又は<span>同法{'条': 1}</span>第四十八条第一項の規定による<span>修正申告{'調書': 1}</span>書については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>新<span>規則{'新令': 3}</span>第十三条第一号の規定は、施行日以後に提出する<span>資産再評価法{'新令': 1}</span>第八十七条第二項の申請書について適用し、施行日前に提出した同項の<span>申請書{'規定': 2, '申告': 1}</span>については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月三一日財務省令第二三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成二十八年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

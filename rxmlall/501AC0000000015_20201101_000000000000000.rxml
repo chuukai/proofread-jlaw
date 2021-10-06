@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="Act" Num="015" Year="01">
+  <LawNum>令和元年法律第十五号</LawNum>
+  <LawBody>
+    <LawTitle>表題部所有者不明土地の登記及び管理の適正化に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　表題部所有者不明土地の表題部所有者の登記</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　登記官による所有者等の探索</SectionTitle>
+          <ArticleRange>（第三条―第八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　所有者等探索委員による調査</SectionTitle>
+          <ArticleRange>（第九条―第十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　所有者等の特定及び表題部所有者の登記</SectionTitle>
+          <ArticleRange>（第十四条―第十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　雑則</SectionTitle>
+          <ArticleRange>（第十七条・第十八条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　所有者等特定不能土地の管理</ChapterTitle>
+        <ArticleRange>（第十九条―第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　特定社団等帰属土地の管理</ChapterTitle>
+        <ArticleRange>（第三十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第三十一条―第三十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十四条・第三十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、表題部所有者不明土地の<span>登記{'手続': 1}</span>及び<span>管理{'規定': 1}</span>の<span>適正化{'規定': 1}</span>を<span>図る{'ある': 1}</span>ため、<span>登記{'規定': 1}</span>官による<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等の<span>探索{'手続': 1}</span>及び<span>当該{'規定': 1}</span><span>探索{'規定': 1}</span>の<span>結果{'規定': 1}</span>に<span>基づく{'ある': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'規定': 1}</span>の<span>登記{'手続': 1}</span>並びに<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>及び<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>管理{'手続': 1}</span>に関する<span>措置{'規定': 1}</span>を<span>講ずる{'ある': 1}</span>ことにより、<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>に係る<span>権利関係{'手続': 1}</span>の<span>明確化{'手続': 1}</span>及びその<span>適正{'規定': 1}</span>な<span>利用{'規定': 1}</span>を<span>促進{'手続': 1}</span>し、<span>もっ{'ある': 1}</span>て<span>国民経済{'規定': 1}</span>の<span>健全{'手続': 1}</span>な<span>発展{'規定': 1}</span>及び<span>国民{'規定': 1}</span><span>生活{'規定': 1}</span>の<span>向上{'規定': 1}</span>に<span>寄与{'規定': 1}</span>することを<span>目的{'手続': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>において「<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'規定': 1}</span><span>土地{'規定': 1}</span>」とは、<span>所有権{'手続': 1}</span>（その<span>共有{'登記名義人': 1, '手続': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。<span>次項{'規定': 1}</span>において同じ。）の<span>登記{'規定': 1}</span>がない<span>一筆{'規定': 1}</span>の<span>土地{'規定': 1}</span>のうち、<span>表題{'手続': 1}</span>部に<span>所有者{'手続': 1}</span>の<span>氏名{'届出': 1}</span>又は<span>名称{'手続': 1}</span>及び<span>住所{'規定': 1}</span>の<span>全部{'規定': 1}</span>又は<span>一部{'規定': 1}</span>が<span>登記{'規定': 1}</span>されていないもの（<span>国{'規定': 1}</span>、<span>地方公共団体{'規定': 1}</span>その他<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>者が<span>所有{'手続': 1}</span>していることが<span>登記記録{'手続': 1}</span>上<span>明らか{'規定': 1}</span>であるものを<span>除く{'ある': 1}</span>。）を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'表題': 1, '規定': 1}</span>において「<span>所有者{'規定': 1}</span>等」とは、<span>所有権{'規定': 1}</span>が<span>帰属{'規定': 1}</span>し、又は<span>帰属{'規定': 1}</span>していた<span>自然人{'手続': 1}</span>又は<span>法人{'規定': 1}</span>（<span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>又は<span>財団{'規定': 1}</span>（以下「<span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等」と<span>いう{'ある': 1}</span>。）を<span>含む{'ある': 1}</span>。）を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>において「<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>」とは、第十<span>五条{'手続': 1}</span>第一項第四号<span>イ{'手続': 1}</span>に<span>定める{'ある': 1}</span><span>登記{'規定': 1}</span>が<span>ある{'でき': 1}</span><span>表題{'当該': 1, '規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>（<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>について<span>当該{'規定': 1}</span><span>登記{'手続': 1}</span>がされている<span>場合{'変更': 1, '手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'規定': 1}</span><span>持分{'規定': 1}</span>）を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>において「<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>」とは、第十<span>五条{'手続': 1}</span>第一項第四号<span>ロ{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>登記{'手続': 1}</span>が<span>ある{'でき': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>（<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>について<span>当該{'規定': 1}</span><span>登記{'手続': 1}</span>がされている<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'規定': 1}</span><span>持分{'規定': 1}</span>）であって、<span>現に{'相当': 1}</span><span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等に<span>属する{'ある': 1}</span>ものを<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>において「<span>登記記録{'規定': 1}</span>」、「<span>表題{'規定': 1}</span>部」又は「<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span>」とは、<span>それぞれ{'手続': 1}</span><span>不動産登記法{'手続': 1}</span>（平成十六年<span>法律{'規定': 1}</span>第百二十三号）第<span>二条{'規定': 1}</span><span>第五{'規定': 1}</span>号、第七号又は第十号に<span>規定{'手続': 1}</span>する<span>登記記録{'表題': 1, '規定': 1}</span>、<span>表題{'規定': 1}</span>部又は<span>表題{'規定': 1}</span>部<span>所有者{'登記事項': 1, '手続': 1}</span>を<span>いう{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　表題部所有者不明土地の表題部所有者の登記</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　登記官による所有者等の探索</SectionTitle>
+          <Article Delete="false" Hide="false" Num="3">
+            <ArticleCaption>（所有者等の探索の開始）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>（第十五条第一項第四号に<span>定める{'ある': 1}</span><span>登記{'手続': 1}</span>が<span>ある{'でき': 1}</span>ものを<span>除く{'ある': 1}</span>。以下この<span>章{'規定': 1}</span>において同じ。）について、<span>当該{'規定': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>利用{'手続': 1}</span>の<span>現況{'手続': 1}</span>、<span>当該{'手続': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>周辺{'手続': 1}</span>の<span>地域{'手続': 1}</span>の<span>自然的{'手続': 1}</span><span>社会的{'手続': 1}</span>諸<span>条件{'手続': 1}</span><span>及び{'ただし': 1}</span><span>当該{'規定': 1}</span><span>地域{'手続': 1}</span>における<span>他{'規定': 1}</span>の<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>分布{'手続': 1}</span><span>状況{'手続': 1}</span>その他の<span>事情{'規定': 1}</span>を<span>考慮{'規定': 1}</span>して、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>登記{'手続': 1}</span>の<span>適正化{'規定': 1}</span>を<span>図る{'ある': 1}</span><span>必要{'規定': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>職権{'規定': 1}</span>で、その<span>所有者{'手続': 1}</span>等の<span>探索{'手続': 1}</span>を<span>行う{'ある': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>前項{'手続': 1}</span>の<span>探索{'規定': 1}</span>を<span>行お{'ある': 1}</span>うとするときは、<span>あらかじめ{'相当': 1}</span>、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、その旨その他<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（意見又は資料の提出）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>前条{'手続': 1}</span>第二項の<span>規定{'手続': 1}</span>による<span>公告{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たときは、<span>利害関係{'規定': 1}</span>人は、<span>登記{'規定': 1}</span>官に対し、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等について、<span>意見{'手続': 1}</span>又は<span>資料{'手続': 1}</span>を<span>提出{'規定': 1}</span>することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>登記{'規定': 1}</span>官が<span>意見{'規定': 1}</span>又は<span>資料{'規定': 1}</span>を<span>提出{'規定': 1}</span>すべき<span>相当{'手続': 1}</span>の<span>期間{'規定': 1}</span>を<span>定め{'ある': 1}</span>、かつ、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところによりその旨を<span>公告{'手続': 1}</span>したときは、その<span>期間内{'規定': 1}</span>にこれを<span>提出{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（登記官による調査）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>第三条{'規定': 1}</span>第一項の<span>探索{'規定': 1}</span>のため、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>又はその<span>周辺{'規定': 1}</span>の<span>地域{'手続': 1}</span>に<span>所在{'規定': 1}</span>する<span>土地{'規定': 1}</span>の<span>実地{'手続': 1}</span><span>調査{'規定': 1}</span>をすること、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>、<span>占有者{'手続': 1}</span>その他の<span>関係者{'手続': 1}</span>からその<span>知っ{'ある': 1}</span>ている<span>事実{'規定': 1}</span>を<span>聴取{'規定': 1}</span>し又は<span>資料{'規定': 1}</span>の<span>提出{'規定': 1}</span>を<span>求める{'ある': 1}</span>ことその他<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等の<span>探索{'手続': 1}</span>のために<span>必要{'手続': 1}</span>な<span>調査{'手続': 1}</span>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（立入調査）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法務局{'規定': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'規定': 1}</span>は、<span>登記{'規定': 1}</span>官が<span>前条{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'規定': 1}</span><span>土地{'届出': 1}</span>又はその<span>周辺{'規定': 1}</span>の<span>地域{'手続': 1}</span>に<span>所在{'規定': 1}</span>する<span>土地{'規定': 1}</span>の<span>実地{'手続': 1}</span><span>調査{'届出': 1}</span>をする<span>場合{'規定': 1}</span>において、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、その<span>必要{'規定': 1}</span>の<span>限度{'規定': 1}</span>において、<span>登記{'規定': 1}</span>官に、<span>他人{'規定': 1}</span>の<span>土地{'規定': 1}</span>に<span>立ち入ら{'ある': 1}</span>せることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法務局{'届出': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'規定': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>登記{'規定': 1}</span>官を<span>他人{'規定': 1}</span>の<span>土地{'規定': 1}</span>に<span>立ち入ら{'ある': 1}</span>せようとするときは、<span>あらかじめ{'相当': 1}</span>、その旨並びにその<span>日時{'手続': 1}</span>及び<span>場所{'規定': 1}</span>を<span>当該{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>占有者{'手続': 1}</span>に<span>通知{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>により<span>宅地{'手続': 1}</span>又は<span>垣{'規定': 1}</span>、<span>柵{'さく': 1, '規定': 1}</span>等で<span>囲ま{'ある': 1}</span>れた<span>他人{'回復': 1}</span>の<span>占有{'規定': 1}</span>する<span>土地{'手続': 1}</span>に<span>立ち入ろ{'ある': 1}</span>うとする<span>登記{'規定': 1}</span>官は、その<span>立入り{'ある': 1}</span>の際、<span>あらかじめ{'相当': 1}</span>、その旨を<span>当該{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>占有者{'手続': 1}</span>に<span>告げ{'ある': 1}</span>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>日出{'手続': 1}</span><span>前{'手続': 1}</span>及び<span>日没{'規定': 1}</span>後においては、<span>土地{'手続': 1}</span>の<span>占有者{'手続': 1}</span>の<span>承諾{'手続': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'手続': 1}</span>を<span>除き{'ある': 1}</span>、<span>前項{'手続': 1}</span>に<span>規定{'手続': 1}</span>する<span>土地{'規定': 1}</span>に<span>立ち入っ{'ある': 1}</span>てはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>土地{'規定': 1}</span>の<span>占有者{'手続': 1}</span>は、<span>正当{'規定': 1}</span>な<span>理由{'手続': 1}</span>がない限り、第一項の<span>規定{'手続': 1}</span>による<span>立入り{'ある': 1}</span>を<span>拒み{'ある': 1}</span>、又は<span>妨げ{'ある': 1}</span>てはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>による<span>立入り{'ある': 1}</span>をする<span>場合{'規定': 1}</span>には、<span>登記{'規定': 1}</span>官は、その<span>身分{'規定': 1}</span>を<span>示す{'ある': 1}</span><span>証明{'規定': 1}</span>書を<span>携帯{'規定': 1}</span>し、<span>関係者{'届出': 1}</span>の<span>請求{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たときは、これを<span>提示{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>国{'手続': 1}</span>は、第一項の<span>規定{'手続': 1}</span>による<span>立入り{'ある': 1}</span>によって<span>損失{'規定': 1}</span>を<span>受け{'ある': 1}</span>た者が<span>ある{'取り消さ': 1}</span>ときは、その<span>損失{'規定': 1}</span>を<span>受け{'ある': 1}</span>た者に対して、<span>通常{'規定': 1}</span><span>生ず{'ある': 1}</span>べき<span>損失{'規定': 1}</span>を<span>補償{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（調査の嘱託）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>関係者{'手続': 1}</span>が<span>遠隔{'規定': 1}</span>の<span>地{'手続': 1}</span>に<span>居住{'規定': 1}</span>しているとき、その他<span>相当{'規定': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>他{'規定': 1}</span>の<span>登記所{'規定': 1}</span>の<span>登記{'規定': 1}</span>官に第五条の<span>調査{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（情報の提供の求め）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>第三条{'規定': 1}</span>第一項の<span>探索{'規定': 2}</span>のために<span>必要{'規定': 1}</span>な<span>限度{'手続': 1}</span>で、<span>関係{'手続': 1}</span><span>地方公共団体{'規定': 1}</span>の<span>長{'規定': 1}</span>その他の者に対し、<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等に関する<span>情報{'手続': 1}</span>の<span>提供{'手続': 1}</span>を<span>求める{'ある': 1}</span>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　所有者等探索委員による調査</SectionTitle>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（所有者等探索委員）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法務局{'規定': 1}</span>及び<span>地方法務局{'規定': 1}</span>に、<span>第三条{'規定': 1}</span>第一項の<span>探索{'規定': 1}</span>のために<span>必要{'規定': 1}</span>な<span>調査{'規定': 1}</span>をさせ、<span>登記{'規定': 1}</span>官に<span>意見{'手続': 1}</span>を<span>提出{'届出': 1}</span>させるため、<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'回復': 1}</span><span>若干{'手続': 1}</span>人を<span>置く{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'手続': 1}</span>等<span>探索{'手続': 1}</span><span>委員{'回復': 1}</span>は、<span>前項{'手続': 1}</span>の<span>職務{'規定': 1}</span>を<span>行う{'ある': 1}</span>のに<span>必要{'手続': 1}</span>な<span>知識{'手続': 1}</span>及び<span>経験{'規定': 1}</span>を<span>有する{'ある': 1}</span>者のうちから、<span>法務局{'手続': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'手続': 1}</span>が<span>任命{'手続': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'手続': 1}</span>の<span>任期{'手続': 1}</span>は、二年とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'手続': 1}</span>等<span>探索{'手続': 1}</span><span>委員{'手続': 1}</span>は、<span>再任{'手続': 1}</span>されることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'規定': 1}</span>は、<span>非常勤{'手続': 1}</span>とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（所有者等探索委員の解任）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法務局{'手続': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'規定': 1}</span>は、<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'規定': 1}</span>が<span>次{'手続': 1}</span>の各号のいずれかに<span>該当{'規定': 1}</span>するときは、その<span>所有者{'規定': 1}</span>等<span>探索{'手続': 1}</span><span>委員{'規定': 1}</span>を<span>解任{'手続': 1}</span>することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>心身{'手続': 1}</span>の<span>故障{'手続': 1}</span>のため<span>職務{'規定': 1}</span>の<span>執行{'規定': 1}</span>に<span>堪え{'でき': 1, 'ある': 1}</span>ないと<span>認め{'ある': 1}</span>られるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>職務{'手続': 1}</span>上の<span>義務{'規定': 1}</span><span>違反{'手続': 1}</span>その他<span>所有者{'手続': 1}</span>等<span>探索{'監督': 1, '手続': 1}</span><span>委員{'回復': 1}</span><span>たる{'手続': 1}</span>に<span>適{'手続': 1}</span>しない<span>非行{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認め{'ある': 1}</span>られるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（所有者等探索委員による調査等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'手続': 1}</span>官は、<span>第三条{'規定': 1}</span>第一項の<span>探索{'規定': 1}</span>を<span>行う{'ある': 1}</span><span>場合{'規定': 1}</span>において、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>所有者{'規定': 1}</span>等<span>探索{'手続': 1}</span><span>委員{'規定': 1}</span>に<span>必要{'手続': 1}</span>な<span>調査{'手続': 1}</span>をさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>調査{'規定': 1}</span>を<span>行う{'ある': 1}</span>べき<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'規定': 1}</span>は、<span>法務局{'手続': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'規定': 1}</span>が<span>指定{'申報': 1, '規定': 1}</span>する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>法務局{'規定': 1}</span>又は<span>地方法務局{'規定': 1}</span>の<span>長{'規定': 1}</span>は、その<span>職員{'規定': 2}</span>に、第一項の<span>調査{'規定': 1}</span>を<span>補助{'規定': 1}</span>させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（所有者等探索委員による調査への準用）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条及び第六条の<span>規定{'手続': 1}</span>は、<span>所有者{'規定': 1}</span>等<span>探索{'監督': 1, '規定': 1}</span><span>委員{'規定': 1}</span>による<span>前条{'手続': 1}</span>第一項の<span>調査{'規定': 1}</span>について<span>準用{'規定': 1}</span>する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、第<span>六条{'規定': 1}</span>第一項中「<span>登記{'規定': 1}</span>官に」と<span>ある{'取り消さ': 1}</span>のは「<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'届出': 1}</span>又は第十<span>一条{'規定': 1}</span>第三項の<span>職員{'規定': 1}</span>（以下この<span>条{'手続': 1}</span>において「<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'規定': 1}</span>等」と<span>いう{'ある': 1}</span>。）に」と、同<span>条{'手続': 1}</span>第二項、第三項及び第六項中「<span>登記{'規定': 1}</span>官」と<span>ある{'取り消さ': 1}</span>のは「<span>所有者{'規定': 1}</span>等<span>探索{'規定': 1}</span><span>委員{'手続': 1}</span>等」と<span>読み替える{'ある': 1}</span>ものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（所有者等探索委員の意見の提出）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'規定': 1}</span>等<span>探索{'手続': 1}</span><span>委員{'手続': 1}</span>は、第十<span>一条{'手続': 1}</span>第一項の<span>調査{'規定': 1}</span>を<span>終了{'規定': 1}</span>したときは、<span>遅滞{'規定': 1}</span><span>なく{'著しい': 1}</span>、<span>登記{'規定': 1}</span>官に対し、その<span>意見{'規定': 1}</span>を<span>提出{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　所有者等の特定及び表題部所有者の登記</SectionTitle>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（所有者等の特定）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>登記{'手続': 1}</span>官は、前二節の<span>規定{'手続': 1}</span>による<span>探索{'手続': 1}</span>（<span>次節{'規定': 1}</span>において「<span>所有者{'規定': 1}</span>等の<span>探索{'手続': 1}</span>」と<span>いう{'ある': 1}</span>。）により<span>得{'ある': 1}</span>られた<span>情報{'手続': 1}</span>の<span>内容{'規定': 1}</span>その他の<span>事情{'規定': 1}</span>を<span>総合{'規定': 1}</span>的に<span>考慮{'規定': 1}</span>して、<span>当該{'規定': 1}</span><span>探索{'規定': 1}</span>に係る<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が<span>第一{'手続': 1}</span>号から第三号までのいずれに<span>該当{'規定': 1}</span>するかの<span>判断{'規定': 1}</span>（<span>第一{'規定': 1}</span>号又は第三号に<span>あっ{'ある': 1}</span>ては、<span>表題{'規定': 1}</span>部<span>所有{'所有権': 1, '規定': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'規定': 1}</span>すべき者（<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等のうち、<span>表題{'手続': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'規定': 1}</span>することが<span>適当{'手続': 1}</span>である者を<span>いう{'ある': 1}</span>。以下同じ。）の<span>氏名{'手続': 1}</span>又は<span>名称{'規定': 1}</span>及び<span>住所{'規定': 1}</span>の<span>特定{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）をするとともに、第四号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span>には、その<span>事由{'規定': 1}</span>が同号<span>イ{'規定': 1}</span><span>又は{'及び': 1}</span><span>ロ{'規定': 1}</span>のいずれに<span>該当{'仲裁': 1, '規定': 1}</span>するかの<span>判断{'規定': 1}</span>をするものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>当該{'規定': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が数人の<span>共有{'手続': 1}</span>に<span>属し{'ある': 1}</span>、かつ、その<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>の<span>特定{'手続': 1}</span>をすることができるときは、<span>当該{'手続': 1}</span><span>共有{'規定': 1}</span><span>持分{'手続': 1}</span>についても<span>特定{'手続': 1}</span>をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'規定': 1}</span>の<span>表題{'手続': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者が<span>ある{'でき': 1}</span>とき（<span>当該{'手続': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が数人の<span>共有{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>全て{'規定': 1}</span>の<span>共有{'規定': 1}</span><span>持分{'規定': 1}</span>について<span>表題{'規定': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'定め': 1, '手続': 1}</span>すべき者が<span>ある{'でき': 1}</span>とき。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>表題{'不動産': 1, '手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>表題{'手続': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者がないとき（<span>当該{'規定': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が数人の<span>共有{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、<span>全て{'規定': 1}</span>の<span>共有{'規定': 1}</span><span>持分{'規定': 1}</span>について<span>表題{'規定': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者がないとき。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><span>当該{'手続': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が数人の<span>共有{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>場合{'手続': 1}</span>において、<span>表題{'規定': 1}</span>部<span>所有{'規定': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者がない<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>が<span>ある{'含む': 1}</span>とき（<span>前{'手続': 1}</span>号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span>を<span>除く{'ある': 1}</span>。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号のいずれかに<span>該当{'規定': 1}</span>する<span>場合{'規定': 1}</span>において、その<span>事由{'規定': 1}</span>が<span>次{'規定': 1}</span>のいずれかに<span>該当{'規定': 1}</span>するとき。</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>（<span>当該{'手続': 1}</span><span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が数人の<span>共有{'手続': 1}</span>に<span>属する{'ある': 1}</span><span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'規定': 1}</span><span>持分{'手続': 1}</span>。<span>ロ{'規定': 1}</span>において同じ。）の<span>所有者{'規定': 1}</span>等を<span>特定{'手続': 1}</span>することが<span>でき{'ある': 1}</span>なかったこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>表題{'物件': 1, '手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所有者{'手続': 1}</span>等を<span>特定{'手続': 1}</span>することが<span>でき{'ある': 1}</span>た<span>場合{'規定': 1}</span>であって、<span>当該{'規定': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>が<span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>等に<span>属する{'ある': 1}</span>とき又は<span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等に<span>属し{'ある': 1}</span>ていたとき（<span>当該{'手続': 1}</span><span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>等以外の<span>所有者{'規定': 1}</span>等に<span>属する{'ある': 1}</span>ときを<span>除く{'ある': 1}</span>。）において、<span>表題{'規定': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'規定': 1}</span>すべき者を<span>特定{'手続': 1}</span>することが<span>でき{'ある': 1}</span>ないこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>前項{'規定': 1}</span>の<span>判断{'規定': 2}</span>（同<span>項{'筆界': 1, '規定': 1}</span>の<span>特定{'規定': 1}</span>を<span>含む{'ある': 1}</span>。以下この<span>章{'規定': 1}</span>において「<span>所有者{'規定': 1}</span>等の<span>特定{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）をしたときは、その<span>理由{'規定': 1}</span>その他<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>記載{'手続': 1}</span>し、又は<span>記録{'規定': 1}</span>した<span>書面{'手続': 1}</span>又は<span>電磁的記録{'規定': 1}</span>（<span>電子{'規定': 1}</span>的<span>方式{'規定': 1}</span>、<span>磁気{'規定': 1}</span>的<span>方式{'規定': 1}</span>その<span>他人{'規定': 1}</span>の<span>知覚{'規定': 1}</span>によっては<span>認識{'規定': 1}</span>することが<span>でき{'ある': 1}</span>ない<span>方式{'規定': 1}</span>で<span>作ら{'ある': 1}</span>れる<span>記録{'規定': 1}</span>を<span>いう{'ある': 1}</span>。）を<span>作成{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（表題部所有者の登記）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>所有者{'筆界': 1, '規定': 1}</span>等の<span>特定{'手続': 1}</span>をしたときは、<span>当該{'規定': 1}</span><span>所有者{'筆界': 1, '規定': 1}</span>等の<span>特定{'手続': 1}</span>に係る<span>表題{'手続': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>に<span>つき{'ある': 1}</span>、<span>職権{'手続': 1}</span>で、<span>遅滞{'手続': 1}</span><span>なく{'やすい': 1}</span>、<span>表題{'手続': 1}</span>部<span>所有者{'規定': 1}</span>の<span>登記{'規定': 1}</span>を<span>抹消{'申請': 1, '手続': 1}</span>しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、<span>登記{'準用': 1, '手続': 1}</span>官は、<span>不動産登記法{'前項': 1, '手続': 1}</span>第二十七条第三号の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>当該{'規定': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>表題{'手続': 1}</span>部に、<span>次{'手続': 1}</span>の各号に<span>掲げる{'ある': 1}</span><span>所有者{'規定': 1}</span>等の<span>特定{'規定': 1}</span>の<span>区分{'手続': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span>各号に<span>定める{'ある': 1}</span><span>事項{'規定': 1}</span>を<span>登記{'手続': 1}</span>するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span><span>第一{'規定': 1}</span>項第一号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>表題{'手続': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者の<span>氏名{'手続': 1}</span>又は<span>名称{'手続': 1}</span>及び<span>住所{'規定': 1}</span>（同<span>項{'規定': 1}</span><span>後段{'規定': 3}</span>の<span>特定{'規定': 2}</span>をした<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'当該': 1, '規定': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項第二号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">その旨（同<span>項{'規定': 1}</span><span>後段{'規定': 1}</span>の<span>特定{'規定': 2}</span>をした<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'当該': 1, '規定': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前条{'規定': 1}</span>第一項第三号に<span>掲げる{'ある': 2}</span><span>場合{'規定': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical"><span>当該{'規定': 1}</span><span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>表題{'手続': 1}</span>部<span>所有{'手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'手続': 1}</span>すべき者が<span>ある{'取り消さ': 1}</span><span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>についてはその者の<span>氏名{'手続': 1}</span>又は<span>名称{'手続': 1}</span>及び<span>住所{'規定': 1}</span>（同<span>項{'規定': 1}</span><span>後段{'規定': 3}</span>の<span>特定{'規定': 2}</span>をした<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'当該': 1, '規定': 1}</span><span>持分{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）、<span>表題{'規定': 1}</span>部<span>所有{'対価': 1, '手続': 1}</span>者<span>として{'とともに': 1}</span><span>登記{'敷地': 1, '権利': 1, '手続': 1}</span>すべき者がない<span>共有{'規定': 1}</span><span>持分{'規定': 1}</span>についてはその旨（同<span>項{'規定': 1}</span><span>後段{'規定': 1}</span>の<span>特定{'規定': 1, '手続': 1}</span>をした<span>場合{'手続': 1}</span>に<span>あっ{'ある': 1}</span>ては、その<span>共有{'当該': 1, '規定': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項第四号に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span></Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">次の<span>イ{'手続': 1}</span>又は<span>ロ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span>同号の<span>事由{'場合': 1, '規定': 1}</span>の<span>区分{'規定': 1}</span>に<span>応じ{'ある': 1}</span>、<span>当該{'手続': 1}</span><span>イ{'手続': 1}</span>又は<span>ロ{'手続': 1}</span>に<span>定める{'掲げる': 1, 'ある': 1}</span><span>事項{'事実': 2, '手続': 1}</span></Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項第四号<span>イ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>場合{'事項': 1, '規定': 1}</span></Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">その<span>旨{'手続': 1}</span></Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項第四号<span>ロ{'規定': 1}</span>に<span>掲げる{'ある': 1}</span><span>場合{'規定': 1}</span></Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">その<span>旨{'規定': 1}</span></Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>登記{'規定': 1}</span>を<span>しよう{'申請': 1, '規定': 1}</span>とするときは、<span>あらかじめ{'相当': 1}</span>、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、その旨その他<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>を<span>公告{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（登記後の公告）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>前条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>による<span>登記{'規定': 1}</span>をしたときは、<span>遅滞{'規定': 1}</span><span>なく{'やすい': 1}</span>、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、その旨その他<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>を<span>公告{'規定': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　雑則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（所有者等の探索の中止）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><span>登記{'規定': 1}</span>官は、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>に関する<span>権利関係{'手続': 1}</span>について<span>訴訟{'手続': 1}</span>が<span>係属{'手続': 1}</span>しているとき、その他<span>相当{'規定': 1}</span>でないと<span>認める{'ある': 1}</span>ときは、前三節の<span>規定{'手続': 1}</span>に<span>かかわら{'ある': 1}</span>ず、<span>表題{'規定': 1}</span>部<span>所有者{'規定': 1}</span><span>不明{'規定': 1}</span><span>土地{'手続': 1}</span>に係る<span>所有者{'手続': 1}</span>等の<span>探索{'手続': 1}</span>、<span>所有者{'手続': 1}</span>等の<span>特定{'手続': 1}</span>及び<span>登記{'規定': 1}</span>に係る<span>手続{'規定': 1}</span>を<span>中止{'手続': 1}</span>することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この<span>場合{'手続': 1}</span>においては、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>ところにより、その旨その他<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（法務省令への委任）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この<span>章{'手続': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'手続': 1}</span><span>土地{'手続': 1}</span>に係る<span>所有者{'手続': 1}</span>等の<span>探索{'手続': 1}</span>、<span>所有者{'手続': 1}</span>等の<span>特定{'手続': 1}</span>及び<span>登記{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>は、<span>法務省令{'手続': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　所有者等特定不能土地の管理</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="19">
+          <ArticleCaption>（特定不能土地等管理命令）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'手続': 1}</span>は、<span>所有者{'筆界': 1, '手続': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'場合': 1, '手続': 1}</span>について、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により、その<span>申立て{'手続': 1}</span>に係る<span>所有者{'実施': 1, '筆界': 1, '規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>を<span>対象{'手続': 1}</span><span>として{'とともに': 1}</span>、<span>特定{'規定': 1}</span><span>不能{'対象': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>（<span>次{'手続': 1}</span>条第一項に<span>規定{'該当': 1, '手続': 1}</span>する<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理者{'手続': 1}</span>を<span>いう{'ある': 1}</span>。第五項において同じ。）による<span>管理{'規定': 1}</span>を<span>命ずる{'ある': 1}</span><span>処分{'規定': 1}</span>（以下「<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'規定': 1}</span>の<span>申立て{'規定': 1}</span>を<span>却下{'手続': 1}</span>する<span>裁判{'規定': 1}</span>には、<span>理由{'手続': 1}</span>を<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>を<span>変更{'規定': 1}</span>し、又は<span>取り消す{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '社債': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>及び<span>前項{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>決定{'裁判所': 1, '規定': 1}</span>に対しては、<span>利害関係{'即時抗告': 1, '手続': 1}</span>人に<span>限り{'ある': 1}</span>、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>発令{'規定': 1}</span>された後に<span>当該{'手続': 1}</span><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>取り消さ{'ある': 1}</span>れた<span>場合{'規定': 1}</span>において、<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>管理{'手続': 1}</span>、<span>処分{'規定': 1}</span>その他の<span>事由{'規定': 1}</span>により<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'財産': 1, '手続': 1}</span>等<span>管理者{'手続': 1}</span>が<span>得{'ある': 1}</span>た<span>財産{'規定': 1}</span>について、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときも、することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="20">
+          <ArticleCaption>（特定不能土地等管理者の選任等）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'保全': 1, '財産': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>をする<span>場合{'規定': 1}</span>には、<span>当該{'規定': 1}</span><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>において、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>を<span>選任{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>特定{'規定': 1}</span><span>不能{'事項': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>の<span>選任{'規定': 1}</span>の<span>裁判{'規定': 1}</span>に対しては、<span>不服{'手続': 1}</span>を<span>申し立てる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>あっ{'ある': 1}</span>た<span>場合{'規定': 1}</span>には、<span>裁判所書記官{'規定': 1}</span>は、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span>なく、<span>特定{'当該': 1, '手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>について、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>登記{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>を<span>取り消す{'ある': 1}</span><span>裁判{'規定': 1}</span>が<span>あっ{'ある': 1}</span>たときは、<span>裁判所書記官{'規定': 1}</span>は、<span>職権{'規定': 1}</span>で、<span>遅滞{'規定': 1}</span><span>なく{'やむを得ない': 1}</span>、<span>特定{'当該': 1, '手続': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>登記{'規定': 1}</span>の<span>抹消{'規定': 1}</span>を<span>嘱託{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21">
+          <ArticleCaption>（特定不能土地等管理者の権限）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>特定{'手続': 1}</span><span>不能{'事項': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>が<span>選任{'建物': 1, '規定': 1}</span>された<span>場合{'規定': 1}</span>には、<span>特定{'規定': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>及びその<span>管理{'規定': 1}</span>、<span>処分{'規定': 1}</span>その他の<span>事由{'規定': 1}</span>により<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'財産': 1, '手続': 1}</span>等<span>管理者{'規定': 1}</span>が<span>得{'ある': 1}</span>た<span>財産{'規定': 1}</span>（以下「<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等」と<span>いう{'ある': 1}</span>。）の<span>管理{'規定': 1}</span>及び<span>処分{'規定': 1}</span>をする<span>権利{'規定': 1}</span>は、<span>特定{'規定': 1}</span><span>不能{'債権': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>に<span>専属{'規定': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>が<span>次に{'相当': 1}</span><span>掲げる{'ある': 1}</span><span>行為{'規定': 1}</span>の<span>範囲{'規定': 1}</span>を<span>超える{'ある': 1}</span><span>行為{'規定': 1}</span>をするには、<span>裁判所{'規定': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>保存{'当該': 1, '規定': 1}</span><span>行為{'規定': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><span>所有者{'規定': 1}</span>等<span>特定{'取得': 1, '手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>性質{'手続': 1}</span>を<span>変え{'ある': 1}</span>ない<span>範囲{'手続': 1}</span>内において、その<span>利用{'規定': 1}</span>又は<span>改良{'規定': 1}</span>を<span>目的{'規定': 1}</span>とする<span>行為{'手続': 1}</span></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>に<span>違反{'規定': 1}</span>して行った<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'規定': 1}</span>の<span>行為{'規定': 1}</span>は、<span>無効{'規定': 1}</span>とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、これを<span>もっ{'ある': 1}</span>て<span>善意の第三者{'手続': 1}</span>に<span>対抗{'手続': 1}</span>することが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、第二項の<span>許可{'手続': 1}</span>の<span>申立て{'手続': 1}</span>をする<span>場合{'手続': 1}</span>には、その<span>許可{'規定': 1}</span>を<span>求める{'ある': 1}</span><span>理由{'規定': 1}</span>を<span>疎明{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二項の<span>許可{'手続': 1}</span>の<span>申立て{'手続': 1}</span>を<span>却下{'手続': 1}</span>する<span>裁判{'手続': 1}</span>には、<span>理由{'申立': 1, '手続': 1}</span>を<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第二項の<span>規定{'裁判': 1, '手続': 1}</span>による<span>許可{'裁判': 1, '決定': 1, '規定': 1}</span>の<span>裁判{'規定': 1}</span>に対しては、<span>不服{'規定': 1}</span>を<span>申し立てる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="22">
+          <ArticleCaption>（所有者等特定不能土地等の管理）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>就職{'規定': 1}</span>の後<span>直ちに{'相当': 1}</span><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>管理{'手続': 1}</span>に<span>着手{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="23">
+          <ArticleCaption>（特定不能土地等管理命令が発せられた場合の所有者等特定不能土地等に関する訴えの取扱い）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'資産': 1, '手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>発せ{'ある': 1}</span>られた<span>場合{'規定': 1}</span>には、<span>所有者{'筆界': 1, '規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'責任': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等に関する<span>訴え{'手続': 1}</span>については、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>を<span>原告{'規定': 1}</span>又は<span>被告{'規定': 1}</span>とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'第三者': 1, '規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>発せ{'ある': 1}</span>られた<span>場合{'規定': 1}</span>には、<span>当該{'規定': 1}</span><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等に関する<span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>で<span>当該{'手続': 1}</span><span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'場合': 1, '手続': 1}</span>等の<span>所有者{'表題': 1, '手続': 1}</span>（<span>所有権{'敷地': 1, '手続': 1}</span>（その<span>共有{'届出': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）が<span>帰属{'規定': 1}</span>する<span>自然人{'手続': 1}</span>又は<span>法人{'規定': 1}</span>（<span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>等を<span>含む{'ある': 1}</span>。）を<span>いう{'ある': 1}</span>。以下この<span>章{'規定': 1}</span>において同じ。）を<span>当事者{'規定': 1}</span>とするものは、<span>中断{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>中断{'手続': 1}</span>した<span>訴訟{'規定': 1}</span><span>手続{'規定': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>においてこれを<span>受け継ぐ{'ある': 1}</span>ことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 2}</span>においては、<span>受継{'規定': 1}</span>の<span>申立て{'規定': 1}</span>は、<span>相手方{'手続': 1}</span>もすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>取り消さ{'ある': 1}</span>れたときは、<span>特定{'規定': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理者{'手続': 1}</span>を<span>当事者{'規定': 1}</span>とする<span>所有者{'手続': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>等に関する<span>訴訟{'手続': 1}</span><span>手続{'届出': 1}</span>は、<span>中断{'手続': 1}</span>する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>中断{'手続': 1}</span>した<span>訴訟{'規定': 1}</span><span>手続{'届出': 1}</span>を<span>受け継が{'受け継ぐ': 2, 'ある': 1}</span>なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>においては、<span>受継{'規定': 1}</span>の<span>申立て{'規定': 1}</span>は、<span>相手方{'手続': 1}</span>もすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="24">
+          <ArticleCaption>（特定不能土地等管理者の義務）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>のために、<span>善良{'手続': 1}</span>な<span>管理{'手続': 1}</span>者の<span>注意{'規定': 1}</span>を<span>もっ{'ある': 1}</span>て、第二十<span>一条{'規定': 1}</span>第一項の<span>権限{'規定': 1}</span>を<span>行使{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>のために、<span>誠実{'規定': 1}</span>かつ<span>公平{'手続': 1}</span>に第二十<span>一条{'規定': 1}</span>第一項の<span>権限{'規定': 1}</span>を<span>行使{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="25">
+          <ArticleCaption>（特定不能土地等管理者の辞任）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'債務者': 1, '規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'規定': 1}</span>は、<span>正当{'規定': 1}</span>な<span>事由{'理由': 1, '規定': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>裁判所{'手続': 1}</span>の<span>許可{'規定': 1}</span>を<span>得{'ある': 1}</span>て、<span>辞任{'手続': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>前項{'規定': 1}</span>の<span>許可{'規定': 1}</span>の<span>申立て{'手続': 1}</span>をする<span>場合{'規定': 1}</span>には、その<span>原因{'規定': 1}</span>と<span>なる{'ある': 1}</span><span>事実{'規定': 1}</span>を<span>疎明{'規定': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>許可{'手続': 1}</span>の<span>申立て{'手続': 1}</span>を<span>却下{'規定': 1, '手続': 1}</span>する<span>裁判{'手続': 1}</span>には、<span>理由{'申立': 1, '手続': 1}</span>を<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>による<span>辞任{'弁済': 1, '規定': 1}</span>の<span>許可{'規定': 1}</span>の<span>裁判{'規定': 1}</span>に対しては、<span>不服{'規定': 1}</span>を<span>申し立てる{'ある': 1}</span>ことが<span>でき{'ある': 1}</span>ない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（特定不能土地等管理者の解任）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>がその<span>任務{'規定': 2}</span>に<span>違反{'手続': 1}</span>して<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等に<span>著しい{'なく': 1}</span><span>損害{'規定': 1}</span>を<span>与え{'ある': 1}</span>たことその他<span>重要{'規定': 1}</span>な<span>事由{'手続': 1}</span>が<span>ある{'でき': 1}</span>ときは、<span>裁判所{'手続': 1}</span>は、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'規定': 1}</span>を<span>解任{'規定': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>により<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理者{'手続': 1}</span>を<span>解任{'建物': 1, '規定': 1}</span>する<span>場合{'規定': 1}</span>には、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>の<span>陳述{'規定': 1}</span>を<span>聴か{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>申立て{'手続': 1}</span>についての<span>裁判{'手続': 1}</span>には、<span>理由{'手続': 1}</span>を<span>付さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>による<span>解任{'決定': 1, '規定': 1}</span>の<span>裁判{'規定': 1}</span>に対しては、<span>利害関係{'手続': 1}</span>人に<span>限り{'ある': 1}</span>、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（特定不能土地等管理者の報酬等）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等から<span>裁判所{'手続': 1}</span>が<span>定める{'でき': 1}</span><span>額{'規定': 1}</span>の<span>費用{'規定': 1}</span>の<span>前払{'手続': 1}</span>及び<span>報酬{'規定': 1}</span>を<span>受ける{'ある': 1}</span>ことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>費用{'手続': 1}</span>又は<span>報酬{'規定': 1}</span>の<span>額{'裁判所': 1, '規定': 1}</span>を<span>定める{'ある': 1}</span><span>裁判{'手続': 1}</span>をする<span>場合{'手続': 1}</span>には、<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>の<span>陳述{'規定': 1}</span>を<span>聴か{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の<span>規定{'手続': 1}</span>による<span>費用{'手続': 1}</span>又は<span>報酬{'規定': 1}</span>の<span>額{'規定': 1}</span>を<span>定める{'ある': 1}</span><span>裁判{'手続': 1}</span>に対しては、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>に<span>限り{'ある': 1}</span>、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（供託等）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'信託': 1, '手続': 1}</span>等の<span>管理{'手続': 1}</span>、<span>処分{'規定': 1}</span>その他の<span>事由{'規定': 1}</span>により<span>金銭{'手続': 1}</span>が<span>生じ{'ある': 1}</span>たときは、その<span>所有{'規定': 1}</span>者のために、<span>当該{'手続': 1}</span><span>金銭{'手続': 1}</span>を<span>当該{'規定': 1}</span><span>所有者{'手続': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>の<span>所在地{'手続': 1}</span>の<span>供託{'規定': 1}</span>所に<span>供託{'筆界': 1, '規定': 1}</span>することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>前項{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>供託{'規定': 1}</span>をしたときは、<span>法務省令{'規定': 1}</span>で<span>定める{'ある': 1}</span>ところにより、その旨その他<span>法務省令{'手続': 1}</span>で<span>定める{'取り消さ': 1}</span><span>事項{'規定': 1}</span>を<span>公告{'手続': 1}</span>しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（特定不能土地等管理命令の取消し）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'規定': 1}</span>は、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'規定': 1}</span>が<span>管理{'規定': 1}</span>すべき<span>財産{'規定': 1}</span>が<span>なくなっ{'ある': 1}</span>たとき（<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'財産': 1, '手続': 1}</span>等<span>管理者{'手続': 1}</span>が<span>管理{'規定': 1}</span>すべき<span>財産{'規定': 1}</span>の<span>全部{'規定': 1}</span>が<span>前条{'手続': 1}</span>第一項の<span>規定{'手続': 1}</span>により<span>供託{'規定': 1}</span>されたときを<span>含む{'ある': 1}</span>。）、その他<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等の<span>管理{'手続': 1}</span>を<span>継続{'規定': 1}</span>することが<span>相当{'規定': 1}</span>でなく<span>なっ{'ある': 1}</span>たときは、<span>特定{'規定': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>若しくは<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により又は<span>職権{'規定': 1}</span>で、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>を<span>取り消さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>特定{'規定': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'規定': 1}</span><span>命令{'規定': 1}</span>の<span>対象{'規定': 1}</span>とされた<span>所有者{'規定': 1}</span>等<span>特定{'規定': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>が<span>当該{'建物': 1, '手続': 1}</span><span>所有者{'筆界': 1, '手続': 1}</span>等<span>特定{'取得': 1, '手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'持分': 1, '場合': 1, '手続': 1}</span>等の<span>所有権{'手続': 1}</span>（その<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）が<span>自己{'規定': 1}</span>に<span>帰属{'手続': 1}</span>することを<span>証明{'手続': 1}</span>したときは、<span>裁判所{'規定': 1}</span>は、<span>当該{'手続': 1}</span><span>所有{'規定': 1}</span>者の<span>申立て{'手続': 1}</span>により、<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'保全': 1, '手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>を<span>取り消さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>前項{'場合': 1, '手続': 1}</span>の<span>規定{'場合': 1, '手続': 1}</span>により<span>当該{'規定': 1}</span><span>特定{'規定': 1}</span><span>不能{'必要': 1, '規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>が<span>取り消さ{'ある': 1}</span>れたときは、<span>特定{'規定': 1}</span><span>不能{'適格消費者団体': 1, '規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理者{'手続': 1}</span>は、<span>当該{'規定': 1}</span><span>所有者{'規定': 1}</span>に対し、その<span>事務{'手続': 1}</span>の<span>経過{'規定': 1}</span>及び<span>結果{'規定': 1}</span>を<span>報告{'手続': 1}</span>し、<span>当該{'手続': 1}</span><span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等を<span>引き渡さ{'ある': 1}</span>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項又は第二項の<span>規定{'手続': 1}</span>による<span>決定{'規定': 1}</span>に対しては、<span>利害関係{'手続': 1}</span>人に<span>限り{'ある': 1}</span>、<span>即時抗告{'規定': 1}</span>をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　特定社団等帰属土地の管理</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>裁判所{'筆界': 1, '手続': 1}</span>は、<span>特定{'規定': 1}</span><span>社団{'規定': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>について、<span>当該{'手続': 1}</span><span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'手続': 1}</span>が<span>帰属{'手続': 1}</span>する<span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等の<span>代表者{'手続': 1}</span>又は<span>管理人{'規定': 1}</span>が<span>選任{'規定': 1}</span>されておらず、かつ、<span>当該{'手続': 1}</span><span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>等の<span>全て{'手続': 1}</span>の<span>構成員{'規定': 1}</span>を<span>特定{'手続': 1}</span>することが<span>でき{'ある': 1}</span>ず、又はその<span>所在{'規定': 1}</span>が<span>明らか{'手続': 1}</span>でない<span>場合{'規定': 1}</span>において、<span>必要{'手続': 1}</span>が<span>ある{'でき': 1}</span>と<span>認める{'ある': 1}</span>ときは、<span>利害関係{'規定': 1}</span>人の<span>申立て{'規定': 1}</span>により、その<span>申立て{'手続': 1}</span>に係る<span>特定{'規定': 1}</span><span>社団{'適格消費者団体': 1, '規定': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>を<span>対象{'手続': 1}</span><span>として{'とともに': 1}</span>、<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'手続': 1}</span>等<span>管理者{'手続': 1}</span>による<span>管理{'規定': 1}</span>を<span>命ずる{'ある': 1}</span><span>処分{'規定': 1}</span>（<span>次項{'規定': 1}</span>において「<span>特定{'規定': 1}</span><span>社団{'規定': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>」と<span>いう{'ある': 1}</span>。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><span>前章{'規定': 1}</span>（第十<span>九条{'手続': 1}</span>第一項を<span>除く{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>は、<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>等<span>管理{'手続': 1}</span><span>命令{'規定': 1}</span>について<span>準用{'手続': 1}</span>する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この<span>場合{'規定': 1}</span>において、同<span>条{'規定': 1}</span>第二項中「<span>前項{'規定': 1}</span>」と<span>ある{'取り消さ': 1}</span>のは「第三十条第一項」と、第二十<span>一条{'規定': 1}</span>第一項及び第二項第二号、第二十二条、第二十三条（第三項を<span>除く{'ある': 1}</span>。）、第二十四条、第二十六条第一項、第二十七条第一項、第二十八条第一項並びに<span>前条{'規定': 1}</span>第一項及び第三項中「<span>所有者{'規定': 2}</span>等<span>特定{'土地': 1, '手続': 1}</span><span>不能{'規定': 1}</span><span>土地{'手続': 1}</span>等」と<span>ある{'でき': 1}</span>のは「<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'規定': 1}</span>等」と、第二十三条第二項中「<span>自然人{'届出': 1}</span>又は<span>法人{'規定': 1}</span>（<span>法人{'手続': 1}</span>でない<span>社団{'手続': 1}</span>等を<span>含む{'ある': 1}</span>。）」と<span>ある{'でき': 1}</span>のは「<span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等」と、<span>前条{'規定': 1}</span>第二項中「<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>」と<span>ある{'でき': 1}</span>のは「<span>特定{'規定': 1}</span><span>社団{'手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'手続': 1}</span>等の<span>所有者{'手続': 1}</span>」と、「<span>所有者{'規定': 1}</span>等<span>特定{'手続': 1}</span><span>不能{'手続': 1}</span><span>土地{'持分': 1, '手続': 1}</span>等の<span>所有権{'手続': 1}</span>（その<span>共有{'手続': 1}</span><span>持分{'手続': 1}</span>を<span>含む{'ある': 1}</span>。）が<span>自己{'規定': 1}</span>に<span>帰属{'手続': 1}</span>すること」と<span>ある{'でき': 1}</span>のは「<span>特定{'規定': 1}</span><span>社団{'財産': 1, '手続': 1}</span>等<span>帰属{'規定': 1}</span><span>土地{'手続': 1}</span>等が<span>帰属{'手続': 1}</span>する<span>法人{'規定': 1}</span>でない<span>社団{'手続': 1}</span>等の<span>代表者{'規定': 1}</span>又は<span>管理人{'規定': 1}</span>が<span>選任{'規定': 1}</span>されたこと」と<span>読み替える{'ある': 1}</span>ものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（非訟事件の管轄）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>非訟事件{'規定': 1}</span>は、<span>表題{'規定': 1}</span>部<span>所有者{'手続': 1}</span><span>不明{'規定': 1}</span><span>土地{'手続': 1}</span>の<span>所在地{'手続': 1}</span>を<span>管轄{'規定': 1}</span>する<span>地方裁判所{'規定': 1}</span>の<span>管轄{'規定': 1}</span>に<span>属する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（非訟事件の手続の特例）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'手続': 1}</span>の<span>規定{'手続': 1}</span>による<span>非訟事件{'規定': 1}</span>については、<span>非訟事件手続法{'規定': 1}</span>（平成二十三年<span>法律{'規定': 1}</span>第五十一号）第四十条及び第五十七条第二項第二号の<span>規定{'手続': 1}</span>は、<span>適用{'規定': 1}</span>しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="33">
+          <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この<span>法律{'規定': 1}</span>に<span>定める{'ある': 1}</span>ものの<span>ほか{'規定': 1}</span>、この<span>法律{'規定': 1}</span>の<span>規定{'手続': 1}</span>による<span>非訟事件{'規定': 1}</span>の<span>手続{'規定': 1}</span>に関し<span>必要{'手続': 1}</span>な<span>事項{'手続': 1}</span>は、<span>最高裁判所規則{'手続': 1}</span>で<span>定める{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="34">
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第<span>六条{'条': 1, '手続': 1}</span>第五項（第十二条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>に<span>違反{'規定': 1}</span>して、第<span>六条{'通知': 1, '条': 1, '規定': 1}</span>第一項（第十二条において<span>準用{'規定': 1}</span>する<span>場合{'規定': 1}</span>を<span>含む{'ある': 1}</span>。）の<span>規定{'手続': 1}</span>による<span>立入り{'ある': 1}</span>を<span>拒み{'ある': 1}</span>、又は<span>妨げ{'ある': 1}</span>た者は、三十万円以下の<span>罰金{'規定': 1}</span>に<span>処する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="35">
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><span>法人{'手続': 1}</span>の<span>代表者{'手続': 1}</span>又は<span>法人{'規定': 1}</span>若しくは<span>人{'規定': 1}</span>の<span>代理人{'手続': 1}</span>、<span>使用人{'手続': 1}</span>その他の<span>従業者{'手続': 1}</span>が、その<span>法人{'手続': 1}</span>又は<span>人{'規定': 1}</span>の<span>業務{'手続': 1}</span>に関し、<span>前条{'二条': 1, '手続': 1}</span>の<span>違反行為{'規定': 1}</span>をしたときは、<span>行為{'規定': 1}</span>者を<span>罰する{'ある': 1}</span><span>ほか{'規定': 1}</span>、その<span>法人{'規定': 1}</span>又は<span>人{'規定': 1}</span>に対しても、同<span>条{'本条': 2, '手続': 1}</span>の<span>刑{'規定': 1}</span>を<span>科する{'ある': 1}</span>。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この<span>法律{'規定': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>六月{'一年': 3, '規定': 1}</span>を<span>超え{'ある': 1}</span>ない<span>範囲{'規定': 1}</span>内において<span>政令{'規定': 1}</span>で<span>定める{'ある': 1}</span>日から<span>施行{'手続': 1}</span>する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三章から第五章までの<span>規定{'法律': 1, '手続': 1}</span>は、<span>公布{'規定': 1}</span>の日から<span>起算{'規定': 1}</span>して<span>一年{'規定': 1}</span><span>六月{'規定': 1}</span>を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="" AmendmentNum="" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="160" Year="31">
+  <LawNum>平成三十一年政令第百六十号</LawNum>
+  <LawBody>
+    <LawTitle>旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律に基づき都道府県に交付する事務費に関する政令</LawTitle>
+    <EnactStatement>内閣は、旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律（平成三十一年法律第十四号）第二十四条の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律（以下「法」という。）第二十四条の規定により、毎年度、都道府県知事が法<span>又は{'及び': 1}</span><span>法{'規定': 1}</span>に基づく命令の規定によって行う事務の処理に必要な費用として、国が、都道府県に交付する交付金の額は、法第五条第一項の一時金の支給の請求の件数を基準として厚生労働大臣の定める<span>方式{'量': 1}</span>によって算定した費用の額とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（補助金等に係る予算の執行の適正化に関する法律施行令の一部改正）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">補助金等に係る予算の執行の適正化に関する法律施行令（昭和三十年政令第二百五十五号）の一部を次のように改正する。</Sentence>
+        </ParagraphSentence>
+        <AmendProvision>
+          <AmendProvisionSentence>
+            <Sentence WritingMode="vertical">第二条中「第四十九号から第百七十八号まで」を「第五十号から第百七十九号まで」に改め、第百七十八号を第百七十九号とし、第四十九号から第百七十七号までを一号ずつ繰り下げ、第四十八号の次に次の一号を加える。</Sentence>
+          </AmendProvisionSentence>
+          <NewProvision>
+            <Item Delete="false" Hide="false" Num="49">
+              <ItemTitle>四十九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律（平成三十一年法律第十四号）第二十九条の規定による交付金</Sentence>
+              </ItemSentence>
+            </Item>
+          </NewProvision>
+        </AmendProvision>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphCaption>（厚生労働省組織令の一部改正）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">厚生労働省組織令（平成十二年政令第二百五十二号）の一部を次のように改正する。</Sentence>
+        </ParagraphSentence>
+        <AmendProvision>
+          <AmendProvisionSentence>
+            <Sentence WritingMode="vertical">第十条中第十五号を第十六号とし、第十四号を第十五号とし、第十三号を第十四号とし、第十二号の次に次の一号を加える。</Sentence>
+          </AmendProvisionSentence>
+          <NewProvision>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律（平成三十一年法律第十四号）第三条に規定する一時金（第九十九条第十号において「旧優生保護法一時金」という。）に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </NewProvision>
+        </AmendProvision>
+        <AmendProvision>
+          <AmendProvisionSentence>
+            <Sentence WritingMode="vertical">第九十九条に次の一号を加える。</Sentence>
+          </AmendProvisionSentence>
+          <NewProvision>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">旧優生保護法一時金に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </NewProvision>
+        </AmendProvision>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
